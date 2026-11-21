@@ -284,11 +284,11 @@ function buildCatalog(dataset) {
 
   const withResources = courses.filter((course) => course.has_resources).length;
   const rawStats = dataset.traffic ?? {};
-  const stats = Object.fromEntries(['repo_views_yesterday', 'repo_views_14d', 'site_views_today', 'site_total_views'].map(key => {
+  const stats = Object.fromEntries(['repo_views_yesterday', 'repo_views_14d', 'site_views_yesterday', 'site_total_views'].map(key => {
     const value = rawStats[key];
     return [key, Number.isSafeInteger(value) && value >= 0 ? value : null];
   }));
-  for (const [key, field] of [['repo_views_yesterday', 'repo_views_date_utc'], ['site_views_today', 'site_views_date_utc']]) {
+  for (const [key, field] of [['repo_views_yesterday', 'repo_views_date_utc'], ['site_views_yesterday', 'site_views_date_utc']]) {
     stats[field] = /^\d{4}-\d{2}-\d{2}$/u.test(rawStats[field] ?? '') ? rawStats[field] : null;
     if (!stats[field]) stats[key] = null;
   }
@@ -689,10 +689,10 @@ function renderSourcesHtml(report) {
   const statLabels = {
     repo_views_yesterday: '仓库昨日浏览（UTC）',
     repo_views_14d: '仓库浏览（近 14 天）',
-    site_views_today: '网站浏览（今日，UTC）',
+    site_views_yesterday: '网站昨日浏览（UTC）',
     site_total_views: '网站累计浏览次数',
   };
-  const hasStats = Object.keys(statLabels).some(key => stats[key] != null) || stats.repo_views_date_utc || stats.collected_at;
+  const hasStats = Object.keys(statLabels).some(key => stats[key] != null) || stats.repo_views_date_utc || stats.site_views_date_utc || stats.collected_at;
 
   const parts = [];
   parts.push(`<!doctype html>
@@ -900,8 +900,8 @@ function renderSourcesHtml(report) {
           ${Object.entries(statLabels).map(([key, label]) => {
             const value = stats[key];
             const date = key === 'repo_views_yesterday' ? stats.repo_views_date_utc
-              : key === 'site_views_today' ? stats.site_views_date_utc : null;
-            const visible = value != null || (key === 'repo_views_yesterday' && date);
+              : key === 'site_views_yesterday' ? stats.site_views_date_utc : null;
+            const visible = value != null || date;
             return `<div class="stat-pill" data-stat-item="${key}"${visible ? '' : ' hidden'}>
             <dt>${label}${date ? ` · ${escapeHtml(date)}` : ''}</dt>
             <dd data-stat-value="${key}">${value?.toLocaleString('zh-CN') ?? (visible ? '暂无数据' : '')}</dd>

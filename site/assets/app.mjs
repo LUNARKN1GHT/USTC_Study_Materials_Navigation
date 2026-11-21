@@ -113,7 +113,7 @@ function showLoadError(message) {
 function renderSiteStats(stats) {
   const container = document.getElementById('site-stats');
   if (!container) return;
-  const keys = ['repo_views_yesterday', 'repo_views_14d', 'site_views_today', 'site_total_views', 'collected_at'];
+  const keys = ['repo_views_yesterday', 'repo_views_14d', 'site_views_yesterday', 'site_total_views', 'collected_at'];
   let visibleCount = 0;
 
   for (const key of keys) {
@@ -122,13 +122,13 @@ function renderSiteStats(stats) {
     if (!item || !valueNode) continue;
     const raw = stats?.[key];
     const date = key === 'repo_views_yesterday' ? stats?.repo_views_date_utc
-      : key === 'site_views_today' ? stats?.site_views_date_utc : null;
+      : key === 'site_views_yesterday' ? stats?.site_views_date_utc : null;
     const dateNode = item.querySelector('[data-stat-date]');
     if (dateNode) dateNode.textContent = date ? ` · ${date}` : '';
     if (key === 'collected_at' && raw) valueNode.dateTime = raw;
     const text = key === 'collected_at' ? stats?.collected_at_beijing
       : Number.isSafeInteger(raw) && raw >= 0 ? raw.toLocaleString('zh-CN')
-        : key === 'repo_views_yesterday' && date ? '暂无数据' : null;
+        : date ? '暂无数据' : null;
     valueNode.textContent = text ?? '';
     item.hidden = !text;
     if (text) visibleCount += 1;

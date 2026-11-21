@@ -195,9 +195,11 @@ GitHub 检查只读登记资料库的确定 `branch`；头未变跳过树，变�
 
 ## 访问统计
 
-两条发布工作流构建前运行 `scripts/collect-traffic.mjs`。仓库统计默认使用工作流的 `GITHUB_TOKEN`；若无权读取 Traffic，设置有限权限的 Actions secret `TRAFFIC_TOKEN`。设置 Actions variable `GOATCOUNTER_SITE`（仅子域名，后台允许公开计数）后，网页上报浏览，Actions 读取公开计数。除已标日期的仓库昨日指标外，无数据的指标不显示。
+两条发布工作流构建前运行 `scripts/collect-traffic.mjs`。仓库统计默认使用工作流的 `GITHUB_TOKEN`；若无权读取 Traffic，设置有限权限的 Actions secret `TRAFFIC_TOKEN`。设置 Actions variable `GOATCOUNTER_SITE`（仅子域名，后台允许公开计数）后，网页上报浏览，Actions 读取公开计数。
 
-仓库显示 GitHub 仓库昨日（UTC）及近 14 天；昨日缺行显示「暂无数据」，明确返回 0 才显示 0。网站显示 UTC 当日及累计：GoatCounter 公开 `TOTAL` 接口只接受日期，实测北京时间零点对应的 UTC 时刻查询返回 HTTP 400。两项分别标注统计日期。统计取数时间以北京时间显示本批请求的发起时间，不是访问、部署或上游数据更新时间。聚合值保存在被 Git 忽略的 `data/traffic.local.json`；Pages 调度不变，上游数字可能延迟或调整。上报只使用固定路径、标题，不发送搜索词、筛选条件或课号。
+仓库和网站的日浏览都按同一个完整 UTC 昨日显示，并标注日期。GitHub 未返回昨日行、GoatCounter 缺响应或区间计算无效时不补 0；明确有效的 0 才显示 0。另保留仓库近 14 天和网站累计。GoatCounter 公开 `TOTAL` 按日期查询，查询到次日零点包含该小时桶，需扣除。取数时间是这一批请求的发起时间，以北京时间显示，不是访问、部署或上游数据更新时间。页脚快照保存在被 Git 忽略的 `data/traffic.local.json`；公开上游数字可能缓存、延迟或修订。三类页面各次完整加载可上报，站内仅筛选、翻页或切模式不另计；固定路径、标题，不发送搜索词、筛选条件或课号。
+
+每日 `Archive repository traffic` 工作流将 GitHub Traffic 返回的已结束 UTC 日的日浏览数与当日独立访客数按日期写入独立分支 `traffic-history` 的 `traffic-history.json`；也可从默认分支手动运行。归档不触发 Pages 部署，不保存 URL、来源或用户信息。GitHub 只提供近 14 天，首次只能回填仍可读取的日期。失败不覆盖历史，成功重抓会更新仍在窗口内的修订值。每日独立访客数相加不等于跨日独立访客数。
 
 ## 处理读者推荐
 
