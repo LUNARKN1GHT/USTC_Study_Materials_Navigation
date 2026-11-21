@@ -6,7 +6,84 @@
   "tags": [
     "math"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "cfmath-notes-001683-keller",
+      "type": "study",
+      "title": "代数III：Bernhard Keller 部分（法语讲义）",
+      "authors": [
+        "CHEN Ruikai",
+        "LI Xiao"
+      ],
+      "notes": "中法班代数III 第二部分，原站提供 PDF 讲义和有限生成阿贝尔群的网页版章节。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://cfmath-notes.pages.dev/cours/algebre-iii/bernhard-keller/",
+        "note": "核对原站课程标题、署名、PDF 入口及有限生成阿贝尔群章节正文；已核验 PDF 直链完整字节。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-notes",
+          "page_url": "https://cfmath-notes.pages.dev/cours/algebre-iii/bernhard-keller/",
+          "download_page": null,
+          "download_url": "https://cfmath-notes.pages.dev/algebre-iii-bernhard-keller.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "CFMath Notes；讲义整理 CHEN Ruikai、LI Xiao。",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "32d8501680bbb43a9eb05c8fed7d43d567e98c217d6c12014712139a90f73c4a",
+            "bytes": 1627526,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-notes-001683-rosso",
+      "type": "study",
+      "title": "代数III：Marc Rosso 部分（法语讲义）",
+      "authors": [
+        "ZHANG Shengjun",
+        "PANG Yihao"
+      ],
+      "notes": "中法班代数III 第一部分，涉及群论、线性代数与张量代数。原站同时提供 PDF 讲义与部分网页版章节。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://cfmath-notes.pages.dev/cours/algebre-iii/marc-rosso/",
+        "note": "核对原站课程标题、署名、PDF 入口及有限阿贝尔群章节正文；已核验 PDF 直链完整字节。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-notes",
+          "page_url": "https://cfmath-notes.pages.dev/cours/algebre-iii/marc-rosso/",
+          "download_page": null,
+          "download_url": "https://cfmath-notes.pages.dev/algebre-iii-marc-rosso.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "CFMath Notes；讲义整理 ZHANG Shengjun、PANG Yihao。",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "c2f1700e58325fe880229d10e7d4552794aaef17755cda866a587333df2acbce",
+            "bytes": 2015827,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    }
+  ],
+  "sources": {
+    "cfmath-notes": "CFMath Notes（中法数学英才班学生笔记站）"
+  }
 }

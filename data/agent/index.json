@@ -134,7 +134,7 @@
     {
       "code": "001672",
       "name": "分析IV",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "001672EX",
@@ -149,7 +149,7 @@
     {
       "code": "001673",
       "name": "代数IV",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "001673EX",
@@ -224,7 +224,7 @@
     {
       "code": "001683",
       "name": "代数III",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "001683EX",

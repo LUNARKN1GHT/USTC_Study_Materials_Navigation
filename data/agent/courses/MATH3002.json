@@ -1071,6 +1071,42 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-MATH3002-d0b226a30fa5384d",
+      "type": "exams",
+      "title": "实分析 期中试卷(扫描版)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24273/#review-83894",
+        "note": "核验两页扫描件；首页 OCR 有课程标识及期中考试字样。年份、卷型及解答未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24273/#review-83894",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "e48d9699879e3aed6bea98c250b827525caeb990ec6357947da37e2e6ecfb9af",
+              "bytes": 273756,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-MATH3002-b2593aaf07532dd9",
       "type": "exams",
       "title": "实分析期末试卷(年份未核实)",

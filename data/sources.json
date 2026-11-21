@@ -1936,5 +1936,41 @@
     "kind": "website",
     "github": null,
     "notes": "版本整理者 Uphi. 的个人站；原参考解答作者不详。"
+  },
+  {
+    "id": "cfmath-notes",
+    "name": "CFMath Notes（中法数学英才班学生笔记站）",
+    "url": "https://cfmath-notes.pages.dev/",
+    "maintainer": "CFMath Notes 学生团队",
+    "kind": "website",
+    "github": null,
+    "notes": "学生维护的非官方站点，公开分享中法数学英才班法语讲义、课堂笔记和习题。仅链接原站。"
+  },
+  {
+    "id": "cfmath-nonnenmacher",
+    "name": "Stéphane Nonnenmacher 教学页",
+    "url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+    "maintainer": "Stéphane Nonnenmacher",
+    "kind": "website",
+    "github": null,
+    "notes": "中法数学英才班分析IV 授课教师课程页，公开提供讲义、课堂笔记、录像与示例试卷。仅链接原页。"
+  },
+  {
+    "id": "cfmath-kortchemski",
+    "name": "Igor Kortchemski 教学页",
+    "url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+    "maintainer": "Igor Kortchemski",
+    "kind": "website",
+    "github": null,
+    "notes": "中法数学英才班分析IV 授课教师课程页，公开提供教师讲义、历年试卷与解答、考前课程问题。仅链接原页。"
+  },
+  {
+    "id": "cfmath-izquierdo",
+    "name": "Diego Izquierdo 教学页",
+    "url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/teaching/",
+    "maintainer": "Diego Izquierdo",
+    "kind": "website",
+    "github": null,
+    "notes": "中法数学英才班代数IV（环与模）授课教师课程页，公开提供习题。仅链接原页。"
   }
 ]

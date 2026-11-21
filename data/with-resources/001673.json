@@ -5,5 +5,8 @@
   "tags": [
     "math"
   ],
-  "resource_ids": []
+  "resource_ids": [
+    "cfmath-001673-izquierdo-td",
+    "cfmath-notes-001673-izquierdo"
+  ]
 }

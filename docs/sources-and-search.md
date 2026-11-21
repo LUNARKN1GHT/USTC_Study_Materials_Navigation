@@ -4,13 +4,13 @@
 
 ## 概览
 
-- 课程：1184 门（已收录资料 402 门，暂未收录 782 门）。
-- 资料：2663 条（按资料类型与试题年份的覆盖见下一节）。
-- 来源：166 个登记来源，其中 156 个被正式资料引用。
-- 检索记录：6662 条，覆盖 1184 门课程。
+- 课程：1184 门（已收录资料 405 门，暂未收录 779 门）。
+- 资料：2682 条（按资料类型与试题年份的覆盖见下一节）。
+- 来源：170 个登记来源，其中 160 个被正式资料引用。
+- 检索记录：6685 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
-- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 2985 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
-- 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1243。
+- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 3044 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1302。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 
 ## 课程 × 资料类型 × 试题年份覆盖
@@ -145,6 +145,7 @@
 - **试题与解析**
   - 2025 年（类型不明、原题、解答情况不明）：数理方程(A)2025春真题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%28A%292025%E6%98%A5%E7%9C%9F%E9%A2%98.pdf（文件页）
   - 2025 年（类型不明、原题、含解答）：数理方程(A)2025春真题参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%28A%292025%E6%98%A5%E7%9C%9F%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
+  - 2021 年（期末、形式不明、解答情况不明）：数理方程A 2021 期末试卷 —— USTC 评课社区 https://icourse.club/course/2963/#review-49683
   - 2020 年（期末、形式不明、解答情况不明）：2020数理方程A期末试卷及答案 —— USTC 评课社区 https://icourse.club/course/2963/#review-49683
   - 2020 年（类型不明、原题、无解答）：数理方程A 2020 春(毕业班)考试试卷 —— USTC 评课社区 https://icourse.club/course/2963/#review-49683
   - 2001—2002 学年、2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2013—2014 学年、2014—2015 学年、2015—2016 学年、2016—2017 学年、2018—2019 学年、2019—2020 学年（期末、原题、含解答）：数理方程历年真题1 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%981.pdf（文件页）
@@ -238,6 +239,45 @@
   - 数学物理方程A讲稿 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2992/#review-93741
   - 数学物理方法 复习提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20211/#review-31786
   - 习题课 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14346/#review-90296
+
+### 001672 分析IV
+
+专业课 · 数学
+
+- **试题与解析**
+  - 2024 年（期中、原题、解答情况不明）：分析IV：2024 年小测示例卷（Stéphane Nonnenmacher） —— Stéphane Nonnenmacher 教学页 https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/Examen-partiel2024.pdf
+  - 2020—2021 学年（期末、原题、解答情况不明）：分析IV：2020-2021 期末试卷（Igor Kortchemski） —— Igor Kortchemski 教学页 https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2020-2021.pdf
+  - 2021—2022 学年（期末、原题、解答情况不明）：分析IV：2021-2022 期末试卷（Igor Kortchemski） —— Igor Kortchemski 教学页 https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2021-2022.pdf
+  - 2022—2023 学年（期末、原题、含解答）：分析IV：2022-2023 期末试卷（Igor Kortchemski） —— Igor Kortchemski 教学页 https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2022-2023.pdf
+  - 2023—2024 学年（期末、原题、含解答）：分析IV：2023-2024 期末试卷（Igor Kortchemski） —— Igor Kortchemski 教学页 https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2023-2024.pdf
+  - 2025—2026 学年（期末、原题、含解答）：分析IV：2025-2026 期末试卷（Igor Kortchemski） —— Igor Kortchemski 教学页 https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2025-2026.pdf
+- **学习资料**
+  - 2022—2023 学年：分析IV：2022-2023 考前课程问题（Igor Kortchemski） —— Igor Kortchemski 教学页；核验于 2026-11-21 https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2022-2023-cours.pdf
+  - 2023—2024 学年：分析IV：2023-2024 考前课程问题（Igor Kortchemski） —— Igor Kortchemski 教学页；核验于 2026-11-21 https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2023-2024-cours.pdf
+  - 2025—2026 学年：分析IV：2025-2026 考前课程问题（Igor Kortchemski） —— Igor Kortchemski 教学页；核验于 2026-11-21 https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2025-2026-cours.pdf
+  - 2025—2026 学年：分析IV：测度、积分与概率讲义（Stéphane Nonnenmacher） —— Stéphane Nonnenmacher 教学页；核验于 2026-11-21 https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/Cours_USTC_Integration+Probabilites_2024.pdf
+  - 2025—2026 学年：分析IV：概率论与常微分方程（法语笔记） —— CFMath Notes（中法数学英才班学生笔记站）；核验于 2026-11-21 https://cfmath-notes.pages.dev/cours/analyse-iv/igor-kortchemski/
+  - 2025—2026 学年：分析IV：集合论复习（Stéphane Nonnenmacher） —— Stéphane Nonnenmacher 教学页；核验于 2026-11-21 https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/Rappels_ensembles.pdf
+  - 2025—2026 学年：分析IV：教师讲义（Igor Kortchemski） —— Igor Kortchemski 教学页；核验于 2026-11-21 https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours1.pdf
+  - 2025—2026 学年：分析IV：课堂录像（Stéphane Nonnenmacher） —— Stéphane Nonnenmacher 教学页；核验于 2026-11-21 https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-video-03-03-2026.mp4
+  - 2025—2026 学年：分析IV：iPad 课堂笔记（Stéphane Nonnenmacher） —— Stéphane Nonnenmacher 教学页；核验于 2026-11-21 https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-ipad-05-03-2026.pdf
+
+### 001673 代数IV
+
+专业课 · 数学
+
+- **作业、习题与小测**
+  - 代数IV：环与模习题（Diego Izquierdo） —— Diego Izquierdo 教学页；核验于 2026-11-21 https://perso.pages.math.cnrs.fr/users/diego.izquierdo/media/USTC/USTC_TD1.pdf
+- **学习资料**
+  - 代数IV：模论章节（法语笔记） —— CFMath Notes（中法数学英才班学生笔记站）；核验于 2026-11-21 https://cfmath-notes.pages.dev/cours/algebre-iv/diego-izquierdo/
+
+### 001683 代数III
+
+专业课 · 数学
+
+- **学习资料**
+  - 代数III：Bernhard Keller 部分（法语讲义） —— CFMath Notes（中法数学英才班学生笔记站）；核验于 2026-11-21 https://cfmath-notes.pages.dev/algebre-iii-bernhard-keller.pdf
+  - 代数III：Marc Rosso 部分（法语讲义） —— CFMath Notes（中法数学英才班学生笔记站）；核验于 2026-11-21 https://cfmath-notes.pages.dev/algebre-iii-marc-rosso.pdf
 
 ### 001702 实分析(H)
 
@@ -1262,6 +1302,7 @@
   - 2025 年（期中、形式不明、解答情况不明）：大数据算法 2025 春期中（彭攀班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/AlgorithmForBigData2025Mid.pdf
   - 2022 年（期末、形式不明、解答情况不明）：大数据算法 2022 期末（彭攀班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/AlgorithmForBigData2022Final.pdf
   - 2022 年（期中、形式不明、解答情况不明）：大数据算法 2022 期中（彭攀班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/AlgorithmForBigData2022Mid.pdf
+  - 年份待确认（期末、形式不明、解答情况不明）：大数据算法 期末试卷(2 页,年份未核实) —— USTC 评课社区 https://icourse.club/course/18025/#review-92594
 - **作业、习题与小测**
   - 大数据算法 作业（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/%E4%BD%9C%E4%B8%9A3%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
@@ -1488,6 +1529,7 @@
   - 年份待确认（期末、形式不明、解答情况不明）：随机过程 期末试卷（RPFinal） —— USTC 评课社区 https://icourse.club/course/18997/#review-29295
   - 年份待确认（类型不明、形式不明、解答情况不明）：随机过程 往年真题 —— USTC 评课社区 https://icourse.club/course/6780/#review-91494
   - 2021—2022 学年（期末、原题、解答情况不明）：随机过程B 2021-2022学年秋季学期期末试卷 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2021-2022%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf
+  - 年份待确认（期末、形式不明、解答情况不明）：随机过程B 期末试卷(年份未核实) —— USTC 评课社区 https://icourse.club/course/6777/#review-87547
   - 年份待确认（类型不明、形式不明、解答情况不明）：随机过程B 试卷 —— USTC 评课社区 https://icourse.club/course/6780/#review-47393
   - 年份待确认（类型不明、形式不明、解答情况不明）：随机过程B：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/18997/#review-94940
 - **作业、习题与小测**
@@ -1521,6 +1563,7 @@
 
 - **试题与解析**
   - 年份待确认（期末、形式不明、解答情况不明）：回归分析 2025 期末最后一题 —— USTC 评课社区 https://icourse.club/course/1350/#review-100405
+  - 年份待确认（期末、形式不明、解答情况不明）：回归分析 期末试卷(压缩包) —— USTC 评课社区 https://icourse.club/course/1350/#review-21634
 - **作业、习题与小测**
   - 回归分析 2025 Lab1–4 讲义与作业 —— 中科大回归分析 2025 lab（IrvingYou）；核验于 2026-11-18 https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab1/lab1%20tutorial.pdf（文件页）
   - 回归分析 作业与习题材料(压缩包) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/1350/#review-63524
@@ -2254,11 +2297,16 @@
 专业课 · 电子
 
 - **试题与解析**
+  - 2024 年（期末、形式不明、解答情况不明）：电路基本理论 2024 夏期末试卷 —— USTC 评课社区 https://icourse.club/course/4984/#review-87153
   - 2017—2018 学年（类型不明、形式不明、解答情况不明）：电路基本理论 2017–2018 学年考试试卷 —— USTC 评课社区 https://icourse.club/course/14067/#review-52447
   - 年份待确认（类型不明、形式不明、解答情况不明）：电路基本理论 2017–2018 学年试卷答案 —— USTC 评课社区 https://icourse.club/course/14067/#review-52447
   - 年份待确认（期中期末混合、形式不明、解答情况不明）：电路基本理论 2018-2025 历年试卷合集 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA/2018-2025%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA%E5%8E%86%E5%B9%B4%E8%AF%95%E5%8D%B7.pdf（文件页）
   - 2018—2019 学年（类型不明、形式不明、解答情况不明）：电路基本理论 2018–2019 学年考试试卷 —— USTC 评课社区 https://icourse.club/course/4989/#review-71301
   - 2019—2020 学年（类型不明、形式不明、解答情况不明）：电路基本理论 2019–2020 学年考试试卷 —— USTC 评课社区 https://icourse.club/course/4989/#review-71301
+  - 2020—2021 学年（类型不明、形式不明、解答情况不明）：电路基本理论 2020–2021 学年考试试卷 —— USTC 评课社区 https://icourse.club/course/4989/#review-71301
+  - 2021—2022 学年（类型不明、形式不明、解答情况不明）：电路基本理论 2021–2022 学年考试试卷 —— USTC 评课社区 https://icourse.club/course/4989/#review-71301
+  - 2022—2023 学年（类型不明、形式不明、解答情况不明）：电路基本理论 2022–2023 学年考试试卷 —— USTC 评课社区 https://icourse.club/course/4989/#review-71301
+  - 2023—2024 学年（类型不明、形式不明、解答情况不明）：电路基本理论 2023–2024 学年考试试卷 —— USTC 评课社区 https://icourse.club/course/4987/#review-95863
   - 年份待确认（类型不明、原题、解答情况不明）：电路基本理论 往年试卷与答案合集(2015–2025,ZIP 22 个成员) —— USTC 评课社区 https://icourse.club/course/4987/#review-103704
   - 年份待确认（类型不明、形式不明、解答情况不明）：电路基本理论：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/4989/#review-18859
 - **作业、习题与小测**
@@ -2415,6 +2463,7 @@
 
 - **试题与解析**
   - 2020 年（类型不明、形式不明、解答情况不明）：电子系统设计2020试卷 —— USTC 评课社区 https://icourse.club/course/4842/#review-73233
+  - 年份待确认（期末、形式不明、解答情况不明）：电子系统设计期末试卷(年份未核实) —— USTC 评课社区 https://icourse.club/course/25899/#review-97710
 - **作业、习题与小测**
   - 电子系统设计 思考题2025(V1.0) —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25899/#review-97710
   - 电子系统设计思考题2025 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4846/#review-104673
@@ -3130,6 +3179,7 @@
 专业课 · 计算机 · 电子
 
 - **试题与解析**
+  - 2024 年（类型不明、形式不明、解答情况不明）：计算机原理与嵌入式系统 2024 试卷 —— USTC 评课社区 https://icourse.club/course/25202/#review-94948
   - 2020 年（期末、原题、解答情况不明）：计算机原理与嵌入式系统 2019—2020 学年第 2 学期考试试卷(A 卷,卷面名微机原理与嵌入式系统) —— USTC 评课社区 https://icourse.club/course/25202/#review-92780
   - 2020 年（期末、原题、解答情况不明）：计算机原理与嵌入式系统 2019—2020 学年第二学期期末试卷（A 卷，卷面旧名微机原理与嵌入式系统） —— EpiHio/USTC_Automation（自动化专业课程资料）、feixu 学习资料分享站（AList） https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/2020%E6%98%A5%E5%BE%AE%E5%B5%8C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf
   - 2023—2024 学年（期末、原题、解答情况不明）：计算机原理与嵌入式系统 2023—2024 学年第二学期期末试卷 —— EpiHio/USTC_Automation（自动化专业课程资料）、feixu 学习资料分享站（AList） https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/23%E8%AE%A1%E5%B5%8C%E6%9C%9F%E6%9C%AB.pdf
@@ -4495,6 +4545,7 @@
   - 2016 年（期中、原题、解答情况不明）：2016实分析期中考试2 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2016%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%952.pdf（文件页）
   - 2015 年（期末、原题、解答情况不明）：2015实分析期末考试 —— feixu 学习资料分享站（AList）、Weiyu-USTC/USTCmath-stat https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2015%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
   - 2015 年（期中、形式不明、解答情况不明）：2015实分析期中考试 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2015%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf（文件页）
+  - 年份待确认（期中、形式不明、解答情况不明）：实分析 期中试卷(扫描版) —— USTC 评课社区 https://icourse.club/course/24273/#review-83894
   - 年份待确认（期末、形式不明、解答情况不明）：实分析期末试卷(年份未核实) —— USTC 评课社区 https://icourse.club/course/12373/#review-103016
   - 年份待确认（期末、形式不明、解答情况不明）：实分析期末试题合集(多年份) —— USTC 评课社区 https://icourse.club/course/12373/#review-103016
 - **作业、习题与小测**
@@ -4698,6 +4749,7 @@
   - 2023 年（期中期末混合、形式不明、解答情况不明）：组合学：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/20622/#review-72061
   - 2020 年（期末、原题、解答情况不明）：组合学 2020 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020combfinal.pdf
   - 2016 年（期末、形式不明、解答情况不明）：组合学 2016 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2016combfinal.pdf
+  - 年份待确认（期中、形式不明、解答情况不明）：组合学期中考试试卷 —— USTC 评课社区 https://icourse.club/course/20622/#review-72646
 
 ### MATH3011 运筹学
 
@@ -4992,6 +5044,7 @@
 
 - **试题与解析**
   - 2025 年（期末、形式不明、解答情况不明）：热学 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25SpThermBFinal.pdf
+  - 2021 年（类型不明、形式不明、解答情况不明）：热学B 试卷(2021) —— USTC 评课社区 https://icourse.club/course/20196/#review-34378
   - 2019 年（期中、形式不明、解答情况不明）：2019力热春期中考试参考答案 —— USTC 评课社区 https://icourse.club/course/19599/#review-36830
   - 年份待确认（期末、形式不明、解答情况不明）：热学B 期末试卷及配套材料 —— USTC 评课社区 https://icourse.club/course/20195/#review-50046
   - 年份待确认（类型不明、形式不明、解答情况不明）：往年真题 —— USTC 评课社区 https://icourse.club/course/20194/#review-85779
@@ -5228,12 +5281,15 @@
 通修课 · 物理
 
 - **试题与解析**
+  - 2026 年（类型不明、形式不明、解答情况不明）：量子物理试卷(2026) —— USTC 评课社区 https://icourse.club/course/25424/#review-103115
   - 2025 年（期末、回忆版、无解答）：2025春量子物理期末试卷(回忆版) —— USTC 评课社区 https://icourse.club/course/25422/#review-93645
   - 2025 年（期末、形式不明、解答情况不明）：2025期末 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/2025%E6%9C%9F%E6%9C%AB.pdf（文件页）
   - 2025 年（期末、回忆版、无解答）：量子物理 2025 春期末试卷(回忆整理版) —— USTC 评课社区 https://icourse.club/course/25422/#review-93645
+  - 2025 年（类型不明、形式不明、解答情况不明）：量子物理试卷(2025) —— USTC 评课社区 https://icourse.club/course/25424/#review-103115
   - 2024 年（期末、形式不明、解答情况不明）：2024期末-1 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/2024%E6%9C%9F%E6%9C%AB-1.jpg（文件页）
   - 2024 年（期末、形式不明、解答情况不明）：2024期末-2 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/2024%E6%9C%9F%E6%9C%AB-2.jpg（文件页）
   - 2024 年（期末、形式不明、解答情况不明）：量子物理 2024 期末试卷 —— USTC 评课社区 https://icourse.club/course/25424/#review-103115
+  - 2023 年（类型不明、形式不明、解答情况不明）：量子物理试卷(2023) —— USTC 评课社区 https://icourse.club/course/25424/#review-103115
   - 年份待确认（期中期末混合、形式不明、解答情况不明）：量子物理：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/22658/#review-66056
   - 年份待确认（期中期末混合、形式不明、解答情况不明）：量子物理：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/21423/#review-83640
   - 年份待确认（类型不明、形式不明、解答情况不明）：量子物理往年试卷(2 页) —— USTC 评课社区 https://icourse.club/course/21420/#review-94405
@@ -6875,12 +6931,49 @@
 - 说明：版本整理者 Uphi. 的个人站；原参考解答作者不详。
 - 被正式资料引用：1 处
 
+### CFMath Notes（中法数学英才班学生笔记站）
+
+- 类型：网站
+- 地址：<https://cfmath-notes.pages.dev/>
+- 维护者：CFMath Notes 学生团队
+- 说明：学生维护的非官方站点，公开分享中法数学英才班法语讲义、课堂笔记和习题。仅链接原站。
+- 被正式资料引用：4 处
+
+### Stéphane Nonnenmacher 教学页
+
+- 类型：网站
+- 地址：<https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html>
+- 维护者：Stéphane Nonnenmacher
+- 说明：中法数学英才班分析IV 授课教师课程页，公开提供讲义、课堂笔记、录像与示例试卷。仅链接原页。
+- 被正式资料引用：14 处
+
+### Igor Kortchemski 教学页
+
+- 类型：网站
+- 地址：<https://igor-kortchemski.perso.math.cnrs.fr/USTC/>
+- 维护者：Igor Kortchemski
+- 说明：中法数学英才班分析IV 授课教师课程页，公开提供教师讲义、历年试卷与解答、考前课程问题。仅链接原页。
+- 被正式资料引用：27 处
+
+### Diego Izquierdo 教学页
+
+- 类型：网站
+- 地址：<https://perso.pages.math.cnrs.fr/users/diego.izquierdo/teaching/>
+- 维护者：Diego Izquierdo
+- 说明：中法数学英才班代数IV（环与模）授课教师课程页，公开提供习题。仅链接原页。
+- 被正式资料引用：8 处
+
 ## 检索记录
 
 记录的是实际打开或检查过的页面、目录与文件，不是机械拼接的查询 URL。受阻不等于没有资料。
 
 ### 通用来源检索
 
+- 2026-11-20 · 公开网页 · 候选未确认 · <https://cfmath-notes.pages.dev/cours/proba-dis/>
+  - 查询：Probabilités discrètes / 离散概率
+  - 检查范围：读 2024/2025 原站资料页并查现有课程索引、官方课程搜索。
+  - 说明：有法语概率入门讲义与习题，但未核到匹配课号。保留原始入口，不挂到普通概率论或离散数学。
+  - 来源 ID：cfmath-notes
 - 2026-11-19 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/exams/%E8%80%83%E5%89%8D%E8%A1%A5%E5%85%85%E9%A2%98.pdf>
   - 查询：旧库历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
@@ -8501,6 +8594,12 @@
   - 说明：匿名核对新增登录位置原帖锚点；整件 SHA-256 与字节数实测。同帖其他附件：视觉核验单页照片，卷头「2019—2020学年第二学期考试试卷 ■A卷」「数学物理方程(A)（001506）」，共 8 题及参考公式（无答案），与 ref_1169_p001.png（intake-login-001506-a2f3a242436ba26a）全部 8 道题干与分值完全一致，作为照片版挂靠。
   - 来源 ID：icourse-club
   - 课程代码：001506
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/2963/#review-49683>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：前两页 OCR 支持课程和试卷；原帖附件题名明确标注 2021-07-04 期末，与卷头学年相容。未逐页核验。
+  - 来源 ID：icourse-club
+  - 课程代码：001506
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2972/#review-22209>
   - 查询：评课原帖附件正文取样
   - 检查范围：复用匿名原帖定位证据；核对完整附件及 PDF 前两页可提取文本。
@@ -9524,6 +9623,108 @@
 
 ### 001672 分析IV
 
+- 2026-11-21 · 公开网页 · 已查看 · <https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2020-2021.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 2020-2021 试卷 PDF 200、application/pdf、完整字节与首页卷头。
+  - 说明：已核验 2020-2021 期末试卷直链，登记完整 SHA-256 与字节数。
+  - 来源 ID：cfmath-kortchemski
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 已查看 · <https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2021-2022.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 2021-2022 试卷 PDF 200、application/pdf、完整字节与首页卷头。
+  - 说明：已核验 2021-2022 期末试卷直链，登记完整 SHA-256 与字节数。
+  - 来源 ID：cfmath-kortchemski
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 已查看 · <https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2022-2023.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 2022-2023 试卷 PDF 200、application/pdf、完整字节与首页卷头，并核验解答 PDF。
+  - 说明：已核验 2022-2023 期末试卷直链与解答，登记完整 SHA-256 与字节数。
+  - 来源 ID：cfmath-kortchemski
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 已查看 · <https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2023-2024.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 2023-2024 试卷 PDF 200、application/pdf、完整字节与首页卷头，并核验解答 PDF。
+  - 说明：已核验 2023-2024 期末试卷直链与解答，登记完整 SHA-256 与字节数。
+  - 来源 ID：cfmath-kortchemski
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 已查看 · <https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2025-2026.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 2025-2026 试卷 PDF 200、application/pdf、完整字节与首页卷头，并核验解答 PDF。
+  - 说明：已核验 2025-2026 期末试卷直链与解答，登记完整 SHA-256 与字节数。
+  - 来源 ID：cfmath-kortchemski
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 已查看 · <https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours1.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 16 份讲义 PDF 均 200、application/pdf、完整字节。
+  - 说明：已核验 cours1–cours16 共 16 份讲义直链，登记完整 SHA-256 与字节数。
+  - 来源 ID：cfmath-kortchemski
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 已查看 · <https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2022-2023-cours.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 2022-2023 考前课程问题 PDF 200、application/pdf、完整字节与首页。
+  - 说明：已核验 2022-2023 考前课程问题直链，登记完整 SHA-256 与字节数；不当真题。
+  - 来源 ID：cfmath-kortchemski
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 已查看 · <https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2023-2024-cours.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 2023-2024 考前课程问题 PDF 200、application/pdf、完整字节与首页。
+  - 说明：已核验 2023-2024 考前课程问题直链，登记完整 SHA-256 与字节数；不当真题。
+  - 来源 ID：cfmath-kortchemski
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 已查看 · <https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2025-2026-cours.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 2025-2026 考前课程问题 PDF 200、application/pdf、完整字节与首页。
+  - 说明：已核验 2025-2026 考前课程问题直链，登记完整 SHA-256 与字节数；不当真题。
+  - 来源 ID：cfmath-kortchemski
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 已查看 · <https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/Examen-partiel2024.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验示例卷 PDF 200、application/pdf、完整字节与首页卷头。
+  - 说明：已核验 2024 年小测示例卷直链，登记完整 SHA-256 与字节数。
+  - 来源 ID：cfmath-nonnenmacher
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 受阻 · <https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-ipad-03-03-2026.pdf>
+  - 查询：匿名 GET 核验 03-03 iPad 笔记直链
+  - 检查范围：匿名 GET 该直链返回 HTTP 404、text/html 错误页，非 PDF。
+  - 说明：03-03 iPad 笔记直链 404 不可达，不造空条目，仅记受阻。
+  - 来源 ID：cfmath-nonnenmacher
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 已查看 · <https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-ipad-05-03-2026.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 5 次 iPad 笔记 PDF 均 200、application/pdf、完整字节与首页正文。
+  - 说明：已核验 5 次 iPad 笔记直链；03-03 直链 404，另记受阻。
+  - 来源 ID：cfmath-nonnenmacher
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 受阻 · <https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/Cours_USTC_Integration+Probabilites_2021.pdf>
+  - 查询：匿名 GET 核验 2021 旧版讲义直链
+  - 检查范围：匿名 GET 该直链返回 HTTP 404、text/html 错误页，非 PDF。
+  - 说明：2021 旧版讲义直链 404 不可达，不造空条目，仅记受阻。
+  - 来源 ID：cfmath-nonnenmacher
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 已查看 · <https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/Cours_USTC_Integration+Probabilites_2024.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 2024 版讲义 PDF 200、application/pdf、完整字节与首页正文。
+  - 说明：已核验 2024 版讲义直链；2021 旧版直链 404，另记受阻。
+  - 来源 ID：cfmath-nonnenmacher
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 已查看 · <https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/Rappels_ensembles.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验集合复习 PDF 200、application/pdf、完整字节与首页正文。
+  - 说明：已核验集合复习讲义直链可达，登记完整 SHA-256 与字节数。
+  - 来源 ID：cfmath-nonnenmacher
+  - 课程代码：001672
+- 2026-11-21 · 公开网页 · 已查看 · <https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-video-03-03-2026.mp4>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名范围请求核验 6 次录像均 206、video/mp4、accept-ranges=bytes。
+  - 说明：已核验 6 次录像类型与可达性，未整件下载、不设快照。
+  - 来源 ID：cfmath-nonnenmacher
+  - 课程代码：001672
+- 2026-11-20 · 公开网页 · 已查看 · <https://cfmath-notes.pages.dev/cours/analyse-iv/igor-kortchemski/>
+  - 查询：CFMath Analyse IV
+  - 检查范围：核对教师课程主页、学生笔记目录与独立性一课正文。
+  - 说明：仅登记原站已有的 Igor Kortchemski 部分笔记。
+  - 来源 ID：cfmath-notes
+  - 课程代码：001672
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 8 条候选，覆盖 2 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -9587,6 +9788,18 @@
 
 ### 001673 代数IV
 
+- 2026-11-21 · 公开网页 · 已查看 · <https://perso.pages.math.cnrs.fr/users/diego.izquierdo/media/USTC/USTC_TD1.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 8 份环与模习题 PDF 均 200、application/pdf、完整字节。
+  - 说明：已核验 USTC_TD1–TD8 共 8 份习题直链，登记完整 SHA-256 与字节数。
+  - 来源 ID：cfmath-izquierdo
+  - 课程代码：001673
+- 2026-11-20 · 公开网页 · 已查看 · <https://cfmath-notes.pages.dev/cours/algebre-iv/diego-izquierdo/>
+  - 查询：CFMath Algèbre IV
+  - 检查范围：核对课程页、模论章节目录与第 2.1 节正文。
+  - 说明：登记学生站已有的模论章节，不宣称覆盖整门课。
+  - 来源 ID：cfmath-notes
+  - 课程代码：001673
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20587/#review-105028>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -9878,6 +10091,24 @@
 
 ### 001683 代数III
 
+- 2026-11-21 · 公开网页 · 已查看 · <https://cfmath-notes.pages.dev/algebre-iii-bernhard-keller.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 PDF 直链 200、application/pdf、完整字节与首页正文。
+  - 说明：已核验 Keller 讲义 PDF 直链可达，登记完整 SHA-256 与字节数。
+  - 来源 ID：cfmath-notes
+  - 课程代码：001683
+- 2026-11-21 · 公开网页 · 已查看 · <https://cfmath-notes.pages.dev/algebre-iii-marc-rosso.pdf>
+  - 查询：匿名完整 GET 核验 PDF 直链与完整字节
+  - 检查范围：匿名完整 GET 核验 PDF 直链 200、application/pdf、完整字节与首页正文。
+  - 说明：已核验 Rosso 讲义 PDF 直链可达，登记完整 SHA-256 与字节数。
+  - 来源 ID：cfmath-notes
+  - 课程代码：001683
+- 2026-11-20 · 公开网页 · 已查看 · <https://cfmath-notes.pages.dev/#algebre-iii>
+  - 查询：CFMath Algèbre III
+  - 检查范围：核对两部分课程页、署名、PDF 入口与样例章节正文。
+  - 说明：按授课部分分别登记两条法语讲义。
+  - 来源 ID：cfmath-notes
+  - 课程代码：001683
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E4%BB%A3%E6%95%B0III%20USTC&type=repositories>
   - 查询：代数III USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -16197,6 +16428,12 @@
 
 ### 011186 大数据算法
 
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/18025/#review-92594>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：核验两页扫描件及本课程期末卷头；是否完整试卷、年份与解答未核实。
+  - 来源 ID：icourse-club
+  - 课程代码：011186
 - 2026-11-19 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Lecture1%20%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E5%B7%A5%E5%85%B7.pdf>
   - 查询：大数据算法 Lecture 1：基础数学和统计工具
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
@@ -17846,6 +18083,12 @@
   - 说明：匿名核对原帖锚点；整件 SHA-256 与字节数逐个实测（1 件）；匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。共49页PDF；第1页封面标明「随机过程习题解析（未完成版）」及日期2018-01-09，第2—3页包含第一章1.1—1.5题完整题干与解答。
   - 来源 ID：icourse-club
   - 课程代码：017144
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/6777/#review-87547>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：8 页 PDF，抽读前四页；前两页均有本课程和期末试卷标识。年份及解答未核实。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
 - 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/USTC-Resource/USTC-Course/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E6%96%B9%E5%85%86%E6%9C%AC_%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B_%E7%AD%94%E6%A1%88.pdf>
   - 查询：方兆本《随机过程》答案（55 页）
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
@@ -18086,6 +18329,12 @@
   - 查询：评课原帖附件正文取样
   - 检查范围：核对匿名定位、完整文件字节与正文取样。
   - 说明：ZIP 共 26 个条目，抽读 4 个 PDF 成员首页（4/26）：index 0（491,793 字节，24 页）第 1 页文本 186 字符含课程码 017146 与「作业」；index 1（483,088 字节，25 页）、index 2（383,253 字节，20 页）、index 3（438,073 字节，25 页）首页含课程码 017146、无类别词。年份与解答情况未核实。
+  - 来源 ID：icourse-club
+  - 课程代码：017146
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/1350/#review-21634>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：抽读 7z 包内 2/2 个 PDF 的首页；其中 1 个 PDF 首页明确标注本课程和期末试卷。摘要对应原帖 7z 整包，不是包内文件。
   - 来源 ID：icourse-club
   - 课程代码：017146
 - 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/IrvingYou/USTC-Regression-Analysis-lab2025/main/lab1/lab1%20tutorial.pdf>
@@ -22719,6 +22968,12 @@
 
 ### 210045 电路基本理论
 
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/4989/#review-71301>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：核验该份附件的完整字节与首页卷头；学年与原帖附件题名一致。抽读前四页内可提取文本，未逐页核验，卷别与解答未核实。
+  - 来源 ID：icourse-club
+  - 课程代码：210045
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/14067/#review-52447>
   - 查询：评课原帖附件正文取样
   - 检查范围：核对匿名定位、完整文件字节与正文取样。
@@ -22741,6 +22996,30 @@
   - 查询：评课原帖附件正文与课程归属复核
   - 检查范围：核验匿名原帖、完整文件字节及资料正文取样。
   - 说明：4 页；第 1 页 479 字符含课程码 210045 与 考试/试卷/姓名/学号，年份信号 2018/2019 与附件名「电路2018-2019.pdf」一致；第 3–4 页 197/208 字符；全文 4 页文字层与 OCR 已读，卷内未见 期中/期末 字样，卷别未知，是否有答案未核。
+  - 来源 ID：icourse-club
+  - 课程代码：210045
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/4989/#review-71301>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：核验该份附件的完整字节与首页卷头；学年与原帖附件题名一致。抽读前四页内可提取文本，未逐页核验，卷别与解答未核实。
+  - 来源 ID：icourse-club
+  - 课程代码：210045
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/4984/#review-87153>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：卷头前两页 OCR 支持课程和试卷；原帖附件题名标注 2024 夏季期末。未逐页核验。
+  - 来源 ID：icourse-club
+  - 课程代码：210045
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/4989/#review-71301>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：核验该份附件的完整字节与首页卷头；学年与原帖附件题名一致。抽读前四页内可提取文本，未逐页核验，卷别与解答未核实。
+  - 来源 ID：icourse-club
+  - 课程代码：210045
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/4987/#review-95863>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：核验该份附件的完整字节与首页卷头；学年与原帖附件题名一致。抽读前四页内可提取文本，未逐页核验，卷别与解答未核实。
   - 来源 ID：icourse-club
   - 课程代码：210045
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4984/#review-4604>
@@ -23401,6 +23680,12 @@
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
   - 说明：匿名核对新增登录位置原帖锚点；整件 SHA-256 与字节数实测。同帖其他附件：第1–3页（书页15–17）标题为「第2 章 现代电子系统设计方法」，含2.1系统级设计、计算机仿真及MATLAB/Simulink简介，正文出现「在本书中，系统主要指电子系统」「不是本课程的主要内容」等连续教材式章节论述，证实为电子系统设计课程配套教材/讲义章节而非幻灯片课件；虽未提供 同帖其他附件 原文供逐段对照，但元信息已核实两者SHA-256、字节数与页数均不同，本件属同帖「电子系统设计：学习资料（10 个附件）」占位条目之一，予以挂靠并补充快照。 同帖其他附件：第1–3页（书页45–47）标题为「第3 章 可编程逻辑器件的工作原理」，页码紧接 同帖其他附件 第2章末页（15+30-1=44），包含3.1概述（PLD/PAL/GAL/CPLD/FPGA发展及现场可编程性、图3-1至3-3与表3-1）及3.2.1 PROM工作原理，属同一教材/讲义章节连续正文而非幻灯片课件；虽未提供 同帖其他附件 原文对照，但已证实与 同帖其他附件 哈希、字节与页数不同，挂靠至同帖「电子系统设计：学习资料（10 个附件）」条目并补充快照（第2页提及2015年行业并购史实，非课程年份）。 同帖其他附件：第1–3页（书页239–241）标题为「第7 章 以FPGA 为核心的系统电路设计」，含7.1概述（智能系统概念、FPGA三阶段发展）与7.2 FPGA基本系统设计，正文延续教材/讲义章节叙事（「前面各章已经对FPGA 的工作原理和FPGA 片内系统设计进行了介绍」），与同帖 同帖其他附件、同帖其他附件 同属课程教材/讲义章节而非幻灯片课件；虽未提供 同帖其他附件（chap7.pdf）原文对照，但元信息已证实两者SHA-256、字节数与页数均不同，本件属同帖「电子系统设计：学习资料（10 个附件）」占位条目之一，予以挂靠并补充快照。
+  - 来源 ID：icourse-club
+  - 课程代码：210078
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/25899/#review-97710>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：已核验本条 1/1 个附件的完整字节；第 1 页卷头含课程标识与期末考试字样，抽样比对前三页题面与已收录试卷，未发现相同题面。未逐页核验，年份、卷型及答案未核实。
   - 来源 ID：icourse-club
   - 课程代码：210078
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4846/#review-104673>
@@ -28873,6 +29158,12 @@
 
 ### EE2003 计算机原理与嵌入式系统
 
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/25202/#review-94948>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：7 页扫描件，OCR 取样前两页；首页有课程标识、考试及试卷字样和 2024。卷别、卷型及解答未核实。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2003
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/25202/#review-92780>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -39484,6 +39775,12 @@
   - 说明：6 页，仅核前 4 页；卷头年份信号 2025、2026 并存，未定年；未确认是否含解答。
   - 来源 ID：icourse-club
   - 课程代码：MATH3002
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/24273/#review-83894>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：核验两页扫描件；首页 OCR 有课程标识及期中考试字样。年份、卷型及解答未核实。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3002
 - 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/Luciennnnnnn/ustc-functional-analysis-exercise-set/main/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE%E9%9B%86.pdf>
   - 查询：实变函数与泛函分析习题集 PDF（18 页）
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
@@ -40253,6 +40550,12 @@
 
 ### MATH3010 组合学
 
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/20622/#review-72646>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：已核验本条 1/1 个附件的完整字节及唯一一页可提取文本；卷头含课程标识及期中考试字样。年份、卷型及答案未核实。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3010
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/13477/#review-97510>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -45966,6 +46269,12 @@
 
 ### PHYS1002B 热学B
 
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/20196/#review-34378>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：核验附件完整字节与前四页，首页有课程与试卷标识和 2021；期中或期末、卷型及解答未核实。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002B
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/20194/#review-85779>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -47044,6 +47353,12 @@
   - 说明：2 页扫描；第 1 页 OCR 605 字符含 PHYS1010、考试、试卷、姓名、学号，第 2 页 OCR 512 字符；附件名 往年试卷；未见年份与卷别字样，exam_kind 记 unknown；有空白姓名/学号栏，按原卷记 original；是否有解答未核实。
   - 来源 ID：icourse-club
   - 课程代码：PHYS1010
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/25424/#review-103115>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：全 2 页文本层读取，两页均检出 PHYS1010、「试卷」与 2023；年份取自卷面字样。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1010
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/25422/#review-93645>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -47086,6 +47401,12 @@
   - 说明：33 页中取样第 1–4 页：第 1 页 278 字符含 PHYS1010 与「期末」，第 2 页 OCR 315 + 文本 327、第 3 页 386、第 4 页 714 字符；附件名 量子物理期末总结 -- 20240603 2.pdf（文件名含 2024-06-03）；未逐页核对。
   - 来源 ID：icourse-club
   - 课程代码：PHYS1010
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/25424/#review-103115>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：全 2 页文本层读取，两页均检出 PHYS1010、「试卷」与 2026；年份取自卷面字样，未核对具体学期与卷别。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1010
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/21420/#review-94405>
   - 查询：评课原帖附件正文取样
   - 检查范围：核验匿名原帖、附件完整字节和正文取样。
@@ -47114,6 +47435,12 @@
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
   - 说明：匿名核对新增登录位置原帖锚点；整件 SHA-256 与字节数实测。同帖其他附件：核验第 1 页图像与第 1-4 页文本，确认为个人 LaTeX 排版的“量子力学”课程笔记（297 页，含第 18 章第 1-7 章课后习题答案），与同帖 200 页条目不同，挂载至原帖对应学习资料条目 intake-login-PHYS1010-eb59a1ad7dc98e66。 同帖其他附件：第 1 页 PNG、第 2–3 页及目录确认：该 297 页 PDF 为校内本科生自主编写的 PHYS1010 自编学习教程（已脱敏署名水印），非商业出版教材。同帖 #review-94405 已有对应学习资料占位条目 intake-login-PHYS1010-eb59a1ad7dc98e66，作为 companion 挂接。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1010
+- 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/25424/#review-103115>
+  - 查询：评课原帖附件正文取样及课程归属复核
+  - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
+  - 说明：全 3 页文本层读取，三页均检出 PHYS1010、「试卷」与 2025；年份取自卷面字样。
   - 来源 ID：icourse-club
   - 课程代码：PHYS1010
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21423/#review-83640>
@@ -48654,6 +48981,7 @@
 
 ## 受阻、未核验候选与排除项
 
+- 通用来源 · 公开网页 · 候选未确认 · <https://cfmath-notes.pages.dev/cours/proba-dis/>：有法语概率入门讲义与习题，但未核到匹配课号。保留原始入口，不挂到普通概率论或离散数学。
 - 通用来源 · GitHub · 候选未确认 · <https://github.com/Physics-Lee/2023_Spring_System_Biology_USTC>：内容为系统生物学课程 lab 与项目（snakemake/DLC 数据）；本切片 224 门本科课中没有“系统生物学”，本科层级与课程代码均未确认，不挂课。
 - 通用来源 · GitHub · 空壳 · <https://github.com/Brilliant-Pig-CN/ustc-undergraduate-course-resources>：仅README骨架（主agent已核验）
 - 通用来源 · GitHub · 空壳 · <https://github.com/EnjieMao/BSP>：README/骨架，无课程学习资料（方案导入排除）
@@ -48826,6 +49154,8 @@
 - 课程 001665KS · GitHub · 受阻 · <https://github.com/search?q=%E5%88%86%E6%9E%90II%28%E5%8F%A3%E8%AF%95%29%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 001669 · GitHub · 受阻 · <https://github.com/search?q=%E7%BB%BC%E5%90%88%E6%B3%95%E8%AF%AD%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 001670f · GitHub · 受阻 · <https://github.com/search?q=%E5%88%86%E6%9E%90%E4%B8%8E%E4%BB%A3%E6%95%B0%E5%9F%BA%E7%A1%80%28%E6%B3%95%29%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 001672 · 公开网页 · 受阻 · <https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-ipad-03-03-2026.pdf>：03-03 iPad 笔记直链 404 不可达，不造空条目，仅记受阻。
+- 课程 001672 · 公开网页 · 受阻 · <https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/Cours_USTC_Integration+Probabilites_2021.pdf>：2021 旧版讲义直链 404 不可达，不造空条目，仅记受阻。
 - 课程 001672 · GitHub · 受阻 · <https://github.com/search?q=%E5%88%86%E6%9E%90IV%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 001672EX · GitHub · 受阻 · <https://github.com/search?q=%E5%88%86%E6%9E%90IV%28%E4%B9%A0%E9%A2%98%29%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 001672KS · GitHub · 受阻 · <https://github.com/search?q=%E5%88%86%E6%9E%90IV%28%E5%8F%A3%E8%AF%95%29%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
@@ -49925,8 +50255,8 @@
 ## 外链健康检查
 
 - 最近一次检查：2026-11-18T12:43:53.013Z
-- 统计范围：统计分母是站点引用的 2985 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
-- 结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1243。
+- 统计范围：统计分母是站点引用的 3044 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1302。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 - 判定口径：只有确认的 404/410 计为“无法找到”。需登录/认证说明服务器有响应但要求身份验证；目录列表页、软错误页、超时与预检拦截都不证明文件可下载或不存在。重定向中前一跳已收到响应、最终目标被预检拦截的条目归入预检中止，但仍计入“实际收到过 HTTP 响应”的条目。
 - 匿名检查只代表当次网络访问结果，不代表资料内容、课程归属、年份或授权已确认；失败不会自动删除资料或改变“是否收录”的分区。
