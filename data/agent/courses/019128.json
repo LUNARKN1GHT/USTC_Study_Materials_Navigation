@@ -123,6 +123,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-019128-63fafad1d73d4362",
+      "type": "study",
+      "title": "化工原理手写复习笔记(流体、传热、精馏等)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12567/#review-46687",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12567/#review-46687",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "4dc546f9f571d63456d1ece4ea2791bb8c6425b439668899999b2b6bff4c197d",
+              "bytes": 1502398,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

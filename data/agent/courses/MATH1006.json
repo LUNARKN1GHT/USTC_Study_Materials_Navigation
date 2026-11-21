@@ -9,6 +9,44 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-MATH1006-8dfbc33b7b8ef0f7",
+      "type": "exams",
+      "title": "2024秋数学分析(B1)期末考试试卷(A卷)含解答与点评",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/13486/#review-91217",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页渲染图及第2页文本显示为2024-2025学年第一学期《数学分析B1》期末考试试卷(A卷)，考试时间2025.01.15，第1–3页包含第一至四题及完整解答与红色点评；与2025秋参考答案（ref_pages 第1–3页）题面完全不同。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13486/#review-91217",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "cc14e89fd1131fcce6c172fe4e9d4a6ac5c4b8d1f2630538fafa690ba4213c2b",
+              "bytes": 350991,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-feixu-math1006-exams-379dc1",
       "type": "exams",
       "title": "2025数学分析B1期末考试参考答案",
@@ -132,6 +170,44 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-MATH1006-362743e75a71c0b8",
+      "type": "exams",
+      "title": "数学分析(B1):2025 秋期中考试参考答案",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/19512/#review-100047",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。共 3 页，《中国科学技术大学2025秋数学分析B1期中考试参考答案》，含第一至第七大题题干与解答。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19512/#review-100047",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "40823c3be08df24621166c34597a34629cd3e1f7651d39c7e14210210f20dfca",
+              "bytes": 333602,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-feixu-math1006-exams-e7883d",
       "type": "exams",
       "title": "2024数学分析B1期末考试参考答案",
@@ -243,6 +319,44 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-MATH1006-1ffd18bef435c2aa",
+      "type": "exams",
+      "title": "2022秋数学分析(B1)期末考试简答",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/13486/#review-69910",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4/5。全5页渲染图均为“2022数分B1 考试简答”，涵盖七大题及完整解答/证明与红色点评，考查Riemann和、不定/定积分、积分方程、积分中值定理与可积性，题面与2022–2023学年第一学期MATH1006期末考试（2023年2月）一致。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13486/#review-69910",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "d8d3e43a75e63a1c69333008e5ab6ef60f62a79885c9682069c875ad6a050e4e",
+              "bytes": 283560,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-math1006-exams-ef8c66",
@@ -420,6 +534,44 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-MATH1006-93563cffb00f72e9",
+      "type": "exams",
+      "title": "2021 年秋季学期数学分析(B1) 期中考试试卷与解答",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/13486/#review-69910",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。6页PDF第1-3页图像：含2021年11月20日数学分析(B1)期中考试试卷卷头、空白密封线及一至六题试题与解答。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13486/#review-69910",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "c1df4bf28a7af3bd2f97001a00c8f8be8664d92d46df41986619a0cc5f4b6185",
+              "bytes": 304692,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-feixu-math1006-exams-2d6c5f",
       "type": "exams",
       "title": "2021秋数学分析(B1)期末参考答案",
@@ -480,6 +632,46 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-MATH1006-555f05ea0e148f7c",
+      "type": "exams",
+      "title": "数学分析(B1) 2021秋 期中考试解析与评分细则",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [
+          "2021-2022"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/21918/#review-57454",
+        "note": "8 页，仅核第 1—4 页；正文连续四页含 2021，附件名写『21秋』，故 years=[2021] 并记学年 2021-2022；文件本身即解析与评分细则，has_solutions=true，未逐页核验完整性。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21918/#review-57454",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "7a4ac17994d3db0f3c9163c2889b1c0bbf62867e3eed6a4d2f86e761cdd3b826",
+              "bytes": 170961,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-math1006-exams-132f26",
@@ -573,6 +765,44 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-MATH1006-3cfbb00a72175d46",
+      "type": "exams",
+      "title": "2018–2019 学年第一学期数学分析(B1) 期末考试试卷解析与评分细则(2019)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/21918/#review-57454",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。6页PDF第1-3页图像：2019年1月11日数学分析(B1)期末考试卷头、空白密封线及一至四大题题目、解答与评分点。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21918/#review-57454",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "afaf246770c182da3557e92a57d456bb63d21fc593f2377d8222cd3ec80020e3",
+              "bytes": 329885,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-math1006-exams-3a562b",
@@ -701,6 +931,44 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-MATH1006-a06f28fd20948c2b",
+      "type": "exams",
+      "title": "2017 秋季学期中国科大数学分析(B1) 期中考试试卷解析及评分细则",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/13486/#review-69910",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。3页完整PDF图像：第1页含2017年秋季学期数学分析(B1)期中考试试卷解析及评分细则卷头，第1-3页覆盖第1-7题题目、解答与评分细则。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13486/#review-69910",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "c713ea0dcd5a645757a0820dea1cdef67505055e78364bc417a0b6aba346c126",
+              "bytes": 340719,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-feixu-math1006-exams-252768",
       "type": "exams",
       "title": "2017秋数学分析(B1)期末考试解析与评分细则",
@@ -807,6 +1075,114 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-MATH1006-dead624049d208ba",
+      "type": "exams",
+      "title": "2023–2024 学年数学分析(B1) 期末考试参考答案",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19516/#review-77292",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。4页PDF第1-3页图像：标题为「2023 ~ 2024 学年数分B1期末考试参考答案」，含第一至六大题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19516/#review-77292",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "943fc04f85708703dbffc7f213b73195b723017d037eba4cf05193c387ac39c2",
+              "bytes": 303969,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1006-525082412697afbc",
+      "type": "exams",
+      "title": "数学分析(B) 历年考试真题(2022 版)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/19516/#review-77292",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。81页PDF前4页：说明无参考答案，目录分列 B1（39套）与 B2（30套）真题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19516/#review-77292",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5cd9a1acbbe0d475e919a89fa380a015e6e7cb17baf820bafd1be0e6a428ef12",
+              "bytes": 568280,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1006-931bd9c9c343c60c",
+      "type": "exams",
+      "title": "数学分析(B) 历年考试真题(2023 版)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19517/#review-90507",
+        "note": "87 页合集，仅核第 1—4 页；第 2—4 页为目录，列 2004—2022 多个年份，未逐份核验故 years 留空；附件名的 2023 是汇编版本号，不是考试年份；目录出现『参考答案』但未确认每份试卷都有解答，has_solutions 留空。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19517/#review-90507",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "02573c2bba71b153b8045115e548c5fa62a82f0dafc547992e06d171c85179d9",
+              "bytes": 609795,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-MATH1006-08be0d34e965c757",
       "type": "exams",
       "title": "数学分析(B) 历年考试真题汇编（2025 I 版）",
@@ -887,6 +1263,300 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-MATH1006-f1f505ccbcb601d7",
+      "type": "exams",
+      "title": "数学分析(B1) 2018秋 期末试卷和答案",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2018-2019"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/13486/#review-69910",
+        "note": "7 页，仅核第 1—4 页及附件名；附件名明确『2018秋』，只记学年 2018-2019，页面上的 2018/2019 为学年两端信号，不写成公历年；附件名表明含答案，未逐页核验答案完整性。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13486/#review-69910",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "769a62446e93a7c28bf764f4b6f35fe6d6883cafc8622dbdd396a1fcd6ee42b5",
+              "bytes": 421237,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1006-8f126a4666ffff3d",
+      "type": "exams",
+      "title": "数学分析(B1) 2019秋 期末试卷和答案",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2019-2020"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/13486/#review-69910",
+        "note": "7 页，仅核第 1—4 页及附件名；附件名明确『2019秋』，页面文本另见 2020，未确认是考试日期还是学年，故 years 留空、只记学年 2019-2020；附件名表明含答案，未逐页核验完整性。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13486/#review-69910",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b4dc496972fb95cdaa233cc58391aed611439ffd9c4e139254d2dad37dee7796",
+              "bytes": 306045,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1006-ae60b12a5cca19ef",
+      "type": "exams",
+      "title": "数学分析(B1) 2019秋 期中试卷和答案",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2019-2020"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/13486/#review-69910",
+        "note": "9 页文本层，仅核第 1—2 页及附件名；附件名明确『2019秋』，故只记学年 2019-2020，不把学年起始年写成公历考试年；附件名与第 2 页均表明含答案，has_solutions=true，未逐页核验答案完整性。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13486/#review-69910",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "1970bcfbd7a7a7026e4e2769df3725397a3b72e4547a0f32943628f3c3ac0efb",
+              "bytes": 254421,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1006-26fed7f86f4727ed",
+      "type": "exams",
+      "title": "数学分析(B1) 考试试卷(扫描件,年份未核实)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13486/#review-69910",
+        "note": "10 页扫描件，OCR 第 1 页 279 字符命中『考试/试卷/姓名/学号』，未出现期中/期末，卷别留 unknown；课程由所在 MATH1006 原帖与同帖已核考试卷确认；年份 2014/2015 疑似学年，未写入。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13486/#review-69910",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "0830dc3485073b106501de0ac5fc98367a7ea1724708f771ef84cf3c01ab672a",
+              "bytes": 2548826,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1006-5744cda7ad4b7993",
+      "type": "exams",
+      "title": "数学分析(B1) 历年测试与真题手写解答汇编",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/13486/#review-69910",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。31 页数学分析(B1)历年测试手写解答汇编，抽读第 1–3 页为 2011–2013 学年测试详解，无个人隐私信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13486/#review-69910",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "9867b95271e43905325bf70c3ba9f9093f9143ded9978afde029d307f39360a3",
+              "bytes": 15444970,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1006-2cffb1469d065387",
+      "type": "exams",
+      "title": "数学分析(B1) 期末试卷(扫描件,年份未核实)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/2840/#review-29420",
+        "note": "4 页扫描件，文本层 0 字符；OCR 第 1 页 288 字符命中『期末/考试/试卷』，第 2 页 78 字符含『姓名』，属期末卷卷头；课程由所在 MATH1006 原帖确认；年份并列 2020/2021 未采信。同帖既有条目 intake-login-MATH1006-e09ae6680e2858bb 题名『期中』与本件卷头『期末』是一处差异，但该条目经 scope 链接独立绑定到另一行记录（docx、305,120 字节），与本件不是同一文件，故不构成冲突。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2840/#review-29420",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5f00731802a462aff376789e45f35d62335ba36509a42510b9cc1696b486b8f3",
+              "bytes": 332761,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1006-4f47b07393c666b3",
+      "type": "exams",
+      "title": "数学分析(B1) 期中期末试卷扫描合集(ZIP,27 个成员)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12452/#review-81327",
+        "note": "该帖唯一附件是 27 个成员的 ZIP；抽检 4 个成员（#0/#1/#2/#3），OCR 卷头分别命中期中/期末/考试/试卷/姓名/学号，均为考试卷扫描；4 个成员与同课程另一帖 review-69910 的 4 个附件逐字节相同；其余 23 个成员未读，不据以声称全包都是试卷。卷头年份 2011–2014 疑似学年区间，未写入 years。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12452/#review-81327",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6bfaeb2d797c76dab7a120b874d2c99602126a9ab00b4aad48fc3b9d76c62bd5",
+              "bytes": 76078157,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1006-bf9b5e13c13dcd35",
+      "type": "exams",
+      "title": "数学分析(B1) 期中试卷(扫描件,年份未核实)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13486/#review-69910",
+        "note": "8 页扫描件，OCR 第 1 页 154 字符命中『期中/考试/试卷』；未见姓名/学号栏，卷型留 unknown；课程由所在 MATH1006 原帖与其同批附件（同帖其他考试卷扫描件）确认；年份 2015/2016 疑似学年，未写入。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13486/#review-69910",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "eeb79cd71615baf721e3a1484e5486a7c2da3454d1a3b842cd692797fa9866f4",
+              "bytes": 1702931,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-MATH1006-42ac83391e2fcc64",
       "type": "exams",
       "title": "数学分析(B1) 往年真题",
@@ -914,6 +1584,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-MATH1006-2fc103312edce790",
+      "type": "exams",
+      "title": "数学分析(B1):2023-2024 学年期中考试试题",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/21918/#review-80973",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。共 2 页，标题为《2023-2024 MA B1 Mid》，含第 1-7 大题共 100 分期中试题，无解答。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21918/#review-80973",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "1da9fbaf8c14a6642e969ed0ba68df8029415538c8e7276a1dbf71491e6e3537",
+              "bytes": 224757,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-math1006-exams-1da05d",
@@ -1258,6 +1964,114 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-MATH1006-e42fc69e11ba7fe6",
+      "type": "study",
+      "title": "数学分析(B1) 期末复习课件(积分学、微分方程与无穷级数)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19512/#review-105840",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。第 1 页标注“数学分析 B1 期末复习”，第 2 页为“数学分析B1期末复习”（中国科学技术大学数学科学学院 Beamer 课件），第 3 页目录涵盖单变量函数积分学（不定积分、定积分及应用、广义积分）、微分方程（一阶及二阶线性）与无穷级数（数项、函数项、幂级数与 Taylor 展开），第 4 页起进入不定积分复习。全 138 页，未见年份标识。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19512/#review-105840",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "e759466108d2da7f6238fa86a12f530f1af61f59388fb93f7634029bd6544e19",
+              "bytes": 31732236,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1006-5e5d5b7410c569bc",
+      "type": "study",
+      "title": "数学分析(B1) 期中复习课件(极限与函数性质)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19512/#review-105840",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。第 1 页标注“数学分析 B1 期中复习”（含匿名化教师/整理人标注），第 2 页为“数学分析B1期中复习”（中国科学技术大学数学科学学院 Beamer 课件），第 3 页列出极限（数列与函数极限）与函数性质（连续性、可微性/中值定理/Taylor 定理、极值与凹凸性），第 4 页讲解极限存在判别法。全 80 页，未见年份标识。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19512/#review-105840",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "4419fbb93f9275c65b430383b5899127bcf70fbdfd0fd7143736e5999a12bffe",
+              "bytes": 17860885,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1006-de134f9c115fe6cc",
+      "type": "study",
+      "title": "数学分析(B1) 手写课程笔记(161页扫描版)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25960/#review-97386",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。161 页中文手写数学分析(B1)课堂笔记扫描版，页面日期栏空白，无商业教材扫描或个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25960/#review-97386",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "26402a75c779fd8acd620b23626d915dccd0b4dd193dc001bcb91bc65d35b142",
+              "bytes": 88462022,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-MATH1006-fdfb1ffd393d5a1a",
       "type": "study",
       "title": "数学分析(B1) 学习指导v1.0",
@@ -1287,6 +2101,44 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-MATH1006-8108950c8e8aad20",
+      "type": "study",
+      "title": "数学分析(B1):数学分析学习指导(2026年1月)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25960/#review-98406",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。共 164 页；第 1 页封面为《数学分析学习指导》（2026年1月12日），第 2 页前言及第 3-4 页第一章至第七章与附录 A 目录。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25960/#review-98406",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "686d966f84cee1028b9746268c5c439c3cb11343ecb1675c65ea6f7029a2c666",
+              "bytes": 1693489,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-MATH1006-1cab4b237eefe8a9",
       "type": "study",
       "title": "数学分析(B1)：学习资料（2 个附件）",
@@ -1310,10 +2162,17 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "3efd4c0a4d6ebc498c2f6de5f7ea01595ad53238765c84acd923f3a24d05d8ae",
+              "bytes": 9730456,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-MATH1006-e69dedbdef4d3a4a",
@@ -1459,12 +2318,48 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-MATH1006-87b072504b4120ca",
+      "type": "study",
+      "title": "数学分析讲义第一册解答",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19512/#review-90952",
+        "note": "190 页，仅核第 1—4 页；第 2 页含课程码 MATH1006 与讲义/习题类词，第 3—4 页为目录；附件名明确是『数学分析讲义第一册解答』，与同课讲义配套，但未逐题核对解答与讲义题目是否一一对应；页面年份 2023/2024 并列，未写入 years。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19512/#review-90952",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "12f9cc6cdc776a06da8db84ab9e83b5176e733eea3f856442ea3b2fbd812e14c",
+              "bytes": 777205,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "ustc-math-exam": "USTC 数学课程往年试卷",
-    "icourse-club": "USTC 评课社区",
     "gh-passiflora-sago-site": "Passiflora-sago 课程主页与讲义发布"
   }
 }

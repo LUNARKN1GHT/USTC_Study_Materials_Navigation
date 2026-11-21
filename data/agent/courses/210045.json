@@ -9,6 +9,44 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-210045-1d10b7801b6fe0a3",
+      "type": "exams",
+      "title": "电路基本理论 2017–2018 学年考试试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2017-2018"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14067/#review-52447",
+        "note": "2 页扫描；第 1 页 OCR 492 字符含课程码 210045 与 考试、姓名/学号，第 2 页 OCR 276 字符；正文无年份信号，学年取自原帖附件标题「电路2017-2018.pdf」；同帖成员 75「电路2017-2018答案.pdf」已登记为 intake-login-210045-d56f6785a2d9f2e5，本件是答案之外的试卷本体"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14067/#review-52447",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "e4ba7c3dbbfdda651f5cf2e7f04bce241b104d9870afa9e3b19ffcbad89df609",
+              "bytes": 322137,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-210045-d56f6785a2d9f2e5",
       "type": "exams",
       "title": "电路基本理论 2017–2018 学年试卷答案",
@@ -67,6 +105,118 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-210045-68da0e011add4af7",
+      "type": "exams",
+      "title": "电路基本理论 2018–2019 学年考试试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2018-2019"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4989/#review-71301",
+        "note": "4 页；第 1 页 479 字符含课程码 210045 与 考试/试卷/姓名/学号，年份信号 2018/2019 与附件名「电路2018-2019.pdf」一致；第 3–4 页 197/208 字符；全文 4 页文字层与 OCR 已读，卷内未见 期中/期末 字样，卷别未知，是否有答案未核。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4989/#review-71301",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "171dd8ca08b6b5bf2c088d0f6e0e31d243f5bf01ef503641d52879dc7b702c36",
+              "bytes": 205891,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-210045-49441cc3954092d6",
+      "type": "exams",
+      "title": "电路基本理论 2019–2020 学年考试试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2019-2020"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4989/#review-71301",
+        "note": "4 页；第 1 页 455 字符含课程码 210045 与 考试/试卷/姓名/学号，年份信号 2019/2020 与附件名「电路2019-2020.pdf」一致；第 3–4 页 233/196 字符；全文 4 页文字层与 OCR 已读，卷内未见 期中/期末 字样，卷别未知，是否有答案未核。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4989/#review-71301",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "9d09c0068c22840153e9f49d49a1a8a74a747c97692fc1c7b29aecdaa0bda0d4",
+              "bytes": 177665,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-210045-545911540571307c",
+      "type": "exams",
+      "title": "电路基本理论 往年试卷与答案合集(2015–2025,ZIP 22 个成员)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4987/#review-103704",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。核阅ZIP清单22个成员（11个真实PDF）及4/11真实PDF各自第1-2页，均为210045《电路基本理论》空白考试原卷。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4987/#review-103704",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "40e0e7bd62f048a625e39975f5183e1930de1bb89ca5f7a6d4c618c5e3b0b2cd",
+              "bytes": 2308118,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-210045-77659f046c63d960",

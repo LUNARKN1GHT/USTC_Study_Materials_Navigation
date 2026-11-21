@@ -7,7 +7,46 @@
     "math",
     "mechanics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-ME2012-eabb513767748ffb",
+      "type": "study",
+      "title": "工程计算方法 手写复习笔记与公式提纲(8 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24302/#review-95165",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24302/#review-95165",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b8465ac80015840764adbd3030204ee3968b3b8d6b963bee3a4c77f56caa5bf9",
+              "bytes": 9547848,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

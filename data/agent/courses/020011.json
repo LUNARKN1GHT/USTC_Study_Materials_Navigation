@@ -7,7 +7,46 @@
     "chemistry",
     "materials"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-020011-e91c82f9da6fe596",
+      "type": "study",
+      "title": "高分子化学课程复习笔记(第1–9章)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/26614/#review-103479",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 member_1:1-2/member_2:1-2/member_3:1-2/zip_listing.txt。9 份分章手写课程复习笔记（第 1–9 章），抽样第 7–9 章内容准确完整，无商业出版信息或个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/26614/#review-103479",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "55aa4dda63c45aea183b22c9a09ac8d59ffd67da4404283402b1158c8c8bab79",
+              "bytes": 61848068,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

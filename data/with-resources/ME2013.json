@@ -6,5 +6,7 @@
     "thermal",
     "physics"
   ],
-  "resource_ids": []
+  "resource_ids": [
+    "intake-login-ME2013-156fd0dc5160bfcd"
+  ]
 }

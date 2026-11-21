@@ -128,6 +128,44 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-019175-d9ac812d6d12d31a",
+      "type": "study",
+      "title": "分析化学I NaHA 酸碱度符号计算分析讲义(2022)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/912/#review-37939",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/912/#review-37939",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "996ac8282b41e100bd433be5d5deb6dc6f095d9b1acbb2f63e0b93e34cf57cf0",
+              "bytes": 2934695,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

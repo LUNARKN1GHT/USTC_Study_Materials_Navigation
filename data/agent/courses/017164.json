@@ -38,6 +38,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-017164-a1718c7c2cc8f09a",
+      "type": "exams",
+      "title": "时间序列分析A 历年试卷与答案合集(8份PDF)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/12993/#review-21632",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 member_1:p1-2/member_2:p1-2/member_3:p1-2。8 份时间序列分析历年期中/期末/补考试卷与解答 PDF 合集，无商业教材扫描页，已脱敏。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12993/#review-21632",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "35e59dc6957b4550f257d84f91a92d16cf5e0a762ddbb8c69f56ea474a576b7a",
+              "bytes": 7137717,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-017164-1b5c78707bf104cf",
       "type": "study",
       "title": "时间序列分析 讲义（李东风，北京大学）",

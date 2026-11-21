@@ -9,6 +9,42 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-008062-51b7829dc1c1378a",
+      "type": "study",
+      "title": "植物生理学 课程课件(46 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/3835/#review-48551",
+        "note": "46 页中取样第 1–2 页：第 1 页文本层与 OCR 均 1,191 字符含课程码 008062（两路字符数相同，疑为同一文本层与 OCR 结果），第 2 页 524 字符含「Lecture」；学期、课次主题与是否覆盖全学期均未核实，全文未逐页核验。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/3835/#review-48551",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "aab93c27fb04ec9cbbe05e896ece96ffd920ab4422e84829b212823c7c0f0a25",
+              "bytes": 5181661,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "chembio-008062-notes",
       "type": "study",
       "title": "植物生理学复习资料",

@@ -164,6 +164,42 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-CS4012-099856b3f61a131d",
+      "type": "exams",
+      "title": "运筹学基础 考试回忆卷(8 题,年份未核实)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/13533/#review-23943",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13533/#review-23943",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ee8809cfb66a85947f7624c311945b876c224fef85c58c075892e248e97f7ba9",
+              "bytes": 33726,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "computing-homework-gh-ustc-course-plus-cs4012",
       "type": "homework",
       "title": "运筹学基础 作业与实验（ustc_course_plus）",
@@ -242,6 +278,7 @@
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources",
+    "icourse-club": "USTC 评课社区",
     "gh-kobe972": "Kobe972/ustc_course_plus",
     "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）"
   }

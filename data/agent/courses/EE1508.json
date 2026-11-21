@@ -10,6 +10,478 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-EE1508-1c3111d96cce57b3",
+      "type": "study",
+      "title": "电子设计实践基础 电子系统与电路板(第2讲)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14423/#review-94935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为“电子设计实践基础 电子系统与电路板”封面，第2页回顾上一讲电子系统与元器件内容，第3页列出本讲电子系统设计与电路板加工制作大纲。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14423/#review-94935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "7ed9d44cd158a17c522180c447e5621becf217b1df264f4f478b4b7eb5927eb8",
+              "bytes": 4791329,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE1508-5d95aafa65fc0c36",
+      "type": "study",
+      "title": "电子设计实践基础 电子系统与电子元器件(第1讲)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14423/#review-94935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为“电子设计实践基础 电子系统与电子元器件”封面，第2–3页带USTC校徽，展示电子系统软硬件构成与软件概念。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14423/#review-94935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "4bdf98a1b1348993b4741fda688350c16aae2068aec2ef205d11418803e58b05",
+              "bytes": 4014267,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE1508-0b573808cab68341",
+      "type": "study",
+      "title": "电子设计实践基础 嘉立创EDA实验电路板设计:原理图与PCB绘制",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14423/#review-94935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1–3页为带USTC校徽的PPT课件，封面为“电子设计实践基础 嘉立创EDA 实验电路板设计：原理图与PCB绘制”，第2页列教学内容与要求，第3页进入软件设置与运行。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14423/#review-94935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "7be46129171a3d46cd9c0098672239c6a8d839a8adf1d512ffaa4ec4c7fcf175",
+              "bytes": 10012320,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE1508-775c48213223dc21",
+      "type": "study",
+      "title": "电子设计实践基础 课程介绍(2025春,第0讲)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14423/#review-94935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为“电子设计实践基础 2025春”封面，第2页说明公选课课时、学分与成绩评定（明确“不考试”），第3页为课程简介（原理图、PCB与焊接加工）。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14423/#review-94935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "796f16b70b1b08713997342f8d9b36106f98a4cc9cd99c3c9f201d78b61afa9e",
+              "bytes": 1346511,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE1508-59d599269b627ac4",
+      "type": "study",
+      "title": "电子设计实践基础 实验一:元器件焊接基础(2025 课件)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14423/#review-94935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第 1 页封面「电子设计实践基础 实验 2025」；第 2 页「元器件焊接基础 实验一」；第 3 页列出 PCB 焊接基础、贴片/插针元件焊接及实验电路板焊接等主要内容并带学校徽标。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14423/#review-94935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "36383fa51a87254bf40d68bab950574cb268e08902269f4c81dd803abf2d9f9e",
+              "bytes": 5323483,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE1508-e6a077e166d17dfd",
+      "type": "study",
+      "title": "电子设计实践基础 温湿度传感器、超声波传感器、MCU ADC与光敏电阻等(第7讲)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14423/#review-94935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为“电子设计实践基础 温湿度传感器、超声波传感器、MCU ADC与光敏电阻等”封面，第2页带USTC校徽回顾TWI与LCD1602编程，第3页为本讲传感器与ADC提纲。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14423/#review-94935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b3150753736928655eb85ee108c5831045ba8c251fa141057508d86d30d409d4",
+              "bytes": 2036500,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE1508-b596ba16a3b0d911",
+      "type": "study",
+      "title": "电子设计实践基础 MCU的TWI接口(I2C)与液晶屏(LCD1602)及其编程(第6讲)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14423/#review-94935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为“电子设计实践基础 MCU的TWI接口（I2C）与液晶屏（LCD1602）及其编程”封面，第2页带USTC校徽回顾中断与数码管/键盘，第3页列出TWI与LCD1602编程提纲。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14423/#review-94935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b74975c51c2fe8e9e4d33e3d8aa7e1c23974695fc5112146edd0e2beddc66676",
+              "bytes": 1788151,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE1508-132466241b03c892",
+      "type": "study",
+      "title": "电子设计实践基础 MCU定时器/计数器与PWM、直流电机、步进电机及其编程(第8讲)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14423/#review-94935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为“电子设计实践基础 MCU定时器/计数器与PWM、直流电机、步进电机及其编程”封面，第2页带USTC校徽回顾传感器与ADC，第3页列出ATmega8A定时器、PWM与电机提纲。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14423/#review-94935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ff90c0cffc731676c1edd6beac68ab625a84f26a7b1122559a407b05edeb97d4",
+              "bytes": 2952937,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE1508-22383dffc69034e8",
+      "type": "study",
+      "title": "电子设计实践基础 MCU及其C语言编程(第3讲)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14423/#review-94935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为“电子设计实践基础 MCU及其C语言编程”封面，第2页带USTC校徽回顾电子设计与PCB流程，第3页列出ATmega8A结构与C语言编程教学提纲。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14423/#review-94935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "e279359b9d8c416332106a42e58ba77fed963f3d68858df40dcc5bd08688246a",
+              "bytes": 1765950,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE1508-e8c80868dfa06e43",
+      "type": "study",
+      "title": "电子设计实践基础 MCU加密位、熔丝位、USART接口等(第9讲)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14423/#review-94935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为“电子设计实践基础 MCU加密位、熔丝位、USART接口等”封面，第2页带USTC校徽回顾定时器与电机控制，第3页列出加密位、熔丝位与USART串口提纲。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14423/#review-94935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "c741c1306a28f346e77552886138dcc8949455847dfa516f4e0738b8f8365644",
+              "bytes": 2452005,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE1508-8c491f5599f4cbfe",
+      "type": "study",
+      "title": "电子设计实践基础 MCU简单任务调度、中断与小键盘、LCD命令与汉字、蜂鸣器发声等(第10讲)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14423/#review-94935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为“电子设计实践基础 MCU简单任务调度、中断与小键盘、LCD命令与汉字、蜂鸣器发声等”封面，第2页带USTC校徽回顾加密位与USART，第3页列出任务调度、中断键盘、LCD汉字与蜂鸣器提纲。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14423/#review-94935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b42b16784ef055b0b2de9646488c9a0296bbdcd1c3101a81eab8eaa0598856ef",
+              "bytes": 2007168,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE1508-f50550c5784f2a15",
+      "type": "study",
+      "title": "电子设计实践基础 MCU与RGB LED和触摸开关之C语言编程(第4讲)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14423/#review-94935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为“电子设计实践基础 MCU与RGB LED和触摸开关之C语言编程”封面，第2页带USTC校徽回顾ATmega8A基础，第3页为本讲IO控制、位运算与外设编程提纲。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14423/#review-94935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "66af48c464a6c92631d3a508894eea7dcd9326f5db4cfb37c6a037b898cc46ff",
+              "bytes": 2262605,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE1508-c56d2b20bfb5a87c",
+      "type": "study",
+      "title": "电子设计实践基础 MCU中断、数码管、按键阵列及其编程(第5讲)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14423/#review-94935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为“电子设计实践基础 MCU中断、数码管、按键阵列及其编程”封面，第2页带USTC校徽回顾IO寄存器与LED编程，第3页为本讲中断、数码管与矩阵键盘编程提纲。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14423/#review-94935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a9ba789676045d60e84c5f768d0fe8d983b9afa5caaa2a8e9bb32aab355e3011",
+              "bytes": 2269965,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "eng-lectures-ee1508-5a943126",
       "type": "study",
       "title": "电子设计实践基础课程讲义（0-10讲）",
@@ -73,6 +545,7 @@
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）"
   }
 }

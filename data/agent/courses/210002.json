@@ -43,6 +43,150 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-210002-6fa7b8485818463a",
+      "type": "study",
+      "title": "操作系统 考前复习小抄(A4 两页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22008/#review-75073",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22008/#review-75073",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "9e315bb85f6a6310566eba9fd24f1ac3f61a5a175ce2667f9c1a2d0638556ede",
+              "bytes": 3344599,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-210002-ec8709fe97a56112",
+      "type": "study",
+      "title": "操作系统 知识点与例题复习小抄(2 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22008/#review-75460",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22008/#review-75460",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "cb1349828499262cda35814740ddb7b3e9841a04a290e5b66a18015679a55a10",
+              "bytes": 700225,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-210002-5f60e2f8b4ab1ce3",
+      "type": "study",
+      "title": "操作系统小抄(2 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/2668/#review-91241",
+        "note": "2 页 PDF；第 1 页 5,327 字符含 210002 与「目录」，第 2 页 1,245 字符含「作业」；附件名 操作系统小抄.pdf 表明为复习小抄；年份与是否含答案未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2668/#review-91241",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "e8e6654d1ac4ebc0c660fb76ca4be21b641d38234d94d364df52dabb91cdf614",
+              "bytes": 4128322,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-210002-4b8803684da46ebf",
+      "type": "study",
+      "title": "操作系统小抄(OS 小抄 5,2 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22008/#review-57964",
+        "note": "全 2 页文本层读取：第 1 页 7,606、第 2 页 7,930 字符，两页均含 210002 与「作业」；附件名 OS小抄5.pdf 表明为复习小抄；未见年份；若后续确认正文实为作业题目集合，应按 homework 复核。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22008/#review-57964",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ff0f9d5743dc6378685b4c161b31c8de43a48c457e58e98074f319828e944231",
+              "bytes": 388919,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

@@ -103,6 +103,44 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-PHYS1001B-40f4b6bd79d3d705",
+      "type": "exams",
+      "title": "力学B 期末试卷材料(2024,压缩包)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20179/#review-84332",
+        "note": "核验该原帖另一个名为「2024 题目」的 ZIP，不是旁边「往年真题」的入口。抽读包内两个成员的首页，其中一个首页含课程标识与期末试卷字样；2024 来自原帖附件标题，未核实是否含解答。摘要对应整包。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20179/#review-84332",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "c66e7a7098dba216dc5a22adc527258a65cfbf50399c6449b5dc11d804939674",
+              "bytes": 729697,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-feixu-phys1001b-exams-03327c",
       "type": "exams",
       "title": "2022力学B答案",

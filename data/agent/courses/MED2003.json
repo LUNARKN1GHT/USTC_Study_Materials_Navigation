@@ -37,6 +37,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-MED2003-44bcd7e8fcc9e2fa",
+      "type": "study",
+      "title": "生理学名词解释与大纲整理(含真题文档)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14252/#review-50558",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 按理由所述成员/正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14252/#review-50558",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "814c0495d87d4f0f5739ec2c5c348c304c736da7d5561e9abf1f2a1da150ec93",
+              "bytes": 10005707,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

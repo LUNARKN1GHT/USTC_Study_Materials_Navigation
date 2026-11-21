@@ -10,6 +10,78 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-003024-f141448510155dec",
+      "type": "study",
+      "title": "统计力学:课程学习笔记(第 11-21 章)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25086/#review-99050",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。第 1 页为《II 统计力学》分部扉页与第 11-21 章目录；第 3 页为第 11 章正文首节与 Theorem 11.1；第 2、4 页空白。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25086/#review-99050",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "8b86a1976b2ffeed6d17b9eae43f0862ff47564594adbc2dab3ec0868a0ca35f",
+              "bytes": 4846457,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-003024-4ff873e3da75c51b",
+      "type": "study",
+      "title": "统计力学笔记(部分13:线性响应与涨落耗散定理)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5645/#review-52243",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。统计力学线性响应理论与涨落耗散定理（FDT）手写笔记，无个人隐私、年份及出版信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5645/#review-52243",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5e41617236548db6f08c187abe60a4170076b527bd777ee5b1f0d72f16b4e246",
+              "bytes": 18305261,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-003024-c4e7830417de658e",
       "type": "study",
       "title": "统计力学课程讲义（徐老师部分）",
@@ -42,9 +114,46 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-003024-43359b04acaa1f99",
+      "type": "study",
+      "title": "统计力学期末整理 3",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5645/#review-48397",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。双栏统计力学系综理论与热力学关系复习笔记，无个人隐私或出版版权信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5645/#review-48397",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b36725a48a233fb3a5027f178575926efefd62a8c1fcc8d6622dfee3af51ace1",
+              "bytes": 12636887,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "ustc-home-suyupilemao": "USTC 个人主页（suyupilemao）"
   }
 }

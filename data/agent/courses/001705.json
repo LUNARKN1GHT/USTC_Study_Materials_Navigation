@@ -85,6 +85,44 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-001705-36bdf5486958c827",
+      "type": "exams",
+      "title": "微分几何(H) 2023年秋季学期期末考试试卷(2024年1月)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/21906/#review-82611",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21906/#review-82611",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "fe1fa1e751f7339ef0a31ebe29e00db39e99ba0a6e31663eb23463dcae3b0b8d",
+              "bytes": 258429,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-uexam-math3009-2021-final-7d82a5",
       "type": "exams",
       "title": "微分几何 2021 期末",
@@ -304,6 +342,44 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-001705-4bbc8a427515553f",
+      "type": "study",
+      "title": "微分几何(H) 课程手写笔记(2024 秋,73 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21906/#review-90342",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21906/#review-90342",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "03ec59b6295c1169e0c613ac11a7c847ccb75672de129ae4f6d2774b54df6855",
+              "bytes": 44416656,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-001705-d83b1fd07d85af63",
       "type": "study",
       "title": "微分几何(H) 课程主页（刘世平，2025 秋讲义与习题索引）",
@@ -331,6 +407,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-001705-bc3edc415f676c96",
+      "type": "study",
+      "title": "微分几何(H) 手写课程笔记(76 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21906/#review-89147",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21906/#review-89147",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6fee5aa404cde7f6908b549dad3a03002294b2507061f1adf6c5c0a4f11b1988",
+              "bytes": 30160668,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

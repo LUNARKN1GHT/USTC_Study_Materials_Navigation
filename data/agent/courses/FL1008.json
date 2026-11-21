@@ -6,7 +6,82 @@
   "tags": [
     "languages"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-FL1008-59fcd825fe72cd57",
+      "type": "study",
+      "title": "英语交流进阶II 期末口语题目与备考指南(1 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21302/#review-50078",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21302/#review-50078",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "628aa9c49c10a5a03efee6a7a0622d7b23e029c1e80c6935cd290c64df73b839",
+              "bytes": 23537,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-FL1008-1a02902474cfd8dd",
+      "type": "study",
+      "title": "英语交流进阶II Book 2 Unit 5 课堂课件",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20082/#review-35132",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4/5/6/7/8。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20082/#review-35132",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "eaa5cdee7fb7f8e2f88765026ec16ff7af60347d23d639d1011ba858127c5a82",
+              "bytes": 9486180,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

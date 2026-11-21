@@ -7,7 +7,46 @@
     "physics",
     "electronics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-023317-5286e5bda74f2a10",
+      "type": "homework",
+      "title": "《电磁场理论基础》课程自编课后习题解答(电子科学与技术系)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18370/#review-29594",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。第 1-4 页（共 45 页）为《电磁场理论》第 1 章矢量分析选做与自编习题完整推导解答，未见年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18370/#review-29594",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "2afcf811c26871991cc265186272ae9d0ffdfad3ee46108a5065388bd38b05f0",
+              "bytes": 7254750,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

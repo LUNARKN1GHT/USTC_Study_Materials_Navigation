@@ -188,9 +188,46 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-022171-08e6b21db4ee0136",
+      "type": "study",
+      "title": "恒星物理基础 手写课程笔记(29 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13087/#review-46272",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13087/#review-46272",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "240b8dada1989d9ef08ed8c1d620354a4bcd8c782f3e392576f71ffe4dfd3c7a",
+              "bytes": 77523413,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
-    "ustc-phy-exam": "USTC 物理课程往年试卷"
+    "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "icourse-club": "USTC 评课社区"
   }
 }

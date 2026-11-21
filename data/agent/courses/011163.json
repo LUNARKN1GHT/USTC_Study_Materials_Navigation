@@ -73,6 +73,47 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-011163-0116c1b3f624def7",
+      "type": "exams",
+      "title": "编译原理和技术 2022–2025 秋期末试卷回忆版合集",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/25468/#review-99469",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25468/#review-99469",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b23e653d35f54c71566bf542b7ffe6c2a73b0c94bb165c24d0314b51ffba8297",
+              "bytes": 169442,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "computing-exam-feixu-011163-2018",
       "type": "exams",
       "title": "编译原理和技术 2018 期中试题与参考答案",

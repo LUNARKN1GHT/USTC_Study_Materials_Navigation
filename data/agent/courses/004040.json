@@ -631,6 +631,226 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-004040-3f25002381151454",
+      "type": "study",
+      "title": "计算物理B 2022秋课程讲义(16份PDF课件合集)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21886/#review-58116",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 member_1:p1-2/member_2:p1-2/member_3:p1-2。压缩包共 16 份 2022 秋课程 PDF 课件，样本首页均清晰显示「2022年秋季学期《计算物理B》」（已脱敏教师信息），无商业教材扫描页。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21886/#review-58116",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "1331afbbd964867057a202012dd8804a214e4f62f423d8cb2a5ac09e366c9e9d",
+              "bytes": 37186796,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-004040-b1e231a6d525b269",
+      "type": "study",
+      "title": "计算物理B 复习笔记与公式汇总(含 LaTeX 源码及笔记图集)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24593/#review-100748",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 260115_comphy_note/demo.pdf:p1-2/archive_listing.txt/note1.pdf:p1-2/note2.pdf:p1-2。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24593/#review-100748",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "558685c54a7a4566a4ca86ab79e230e7e6cb7ca91d3faf4ebd751003f6e36901",
+              "bytes": 28845862,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-004040-90ec092646ed9a3c",
+      "type": "study",
+      "title": "计算物理B 复习提纲(Version 0.2,含 PDF 与 OneNote 包)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21886/#review-98628",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 计算物理复习Version 0.2.pdf#p1/计算物理复习Version 0.2.pdf#p2。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21886/#review-98628",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6f79672a818cb9f0e37cc669f0fedc5002f2ff2c823a7dff5e9260cf8a3fe54a",
+              "bytes": 9559571,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-004040-81b3d3b220d5fd4f",
+      "type": "study",
+      "title": "计算物理B 课程复习笔记(7 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21886/#review-78868",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21886/#review-78868",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "1033669e7e49da32d483f7563fecc84d548e707e8407c182331b1459afb72bd1",
+              "bytes": 606959,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-004040-793850f930a0c554",
+      "type": "study",
+      "title": "计算物理B 课程讲义(10份PDF课件合集)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21886/#review-58116",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 member_1:p1-2/member_2:p1-2/member_3:p1-2。压缩包共 10 份 PDF 课件，样本首页标明「计算物理B」（已脱敏教师信息），确认为课程原版授课课件，无商业教材扫描页或年份标注。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21886/#review-58116",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "40e0fde790a43c04bcab36c006e79f1037a78b38bff2575017a8561b3296ca89",
+              "bytes": 50272578,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-004040-802564cf7a7610b4",
+      "type": "study",
+      "title": "计算物理B 重点整理与课件摘录(DOCX)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21886/#review-57308",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 doc_text(1-28行)/media:image1.png/media:image10.png/media:image11.png。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21886/#review-57308",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "bd29458cd086967260928c764889ea25460c594e2f279fe76c1b2d9be72df654",
+              "bytes": 29368408,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-004040-abc77d832d2f917c",
       "type": "study",
       "title": "计算物理B：学习资料（2 个附件）",

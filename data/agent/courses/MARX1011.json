@@ -38,6 +38,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-MARX1011-5e7dc8c10d77175b",
+      "type": "exams",
+      "title": "马克思主义基本原理 试题回忆版(辨析题与论述题)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/6867/#review-38919",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6867/#review-38919",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a1b0f57596924a05bb40bbb0e9ea5b5bfd6324ac2cba06db216e5512c4c7fe56",
+              "bytes": 79671,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "hum-MARX1011-homework-duxiaoyang",
       "type": "homework",
       "title": "2023年新版马原复习题库答案",
@@ -65,6 +101,42 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-MARX1011-fb6f514aff4ccf52",
+      "type": "homework",
+      "title": "马克思主义基本原理 分章辨析与简答题库(含解答)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6863/#review-75527",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6863/#review-75527",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ed5cddf4d67144f5510202781d80f977434e50599498a0cf18843b0ab48d1291",
+              "bytes": 2534025,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "hum-MARX1011-homework-feixu",
@@ -284,10 +356,62 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "01d84f397c13d7730ed151dc92d106d1a3b4398ccb06e4942a4b303341c683af",
+              "bytes": 3922906,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "0bab50c07571d5ae832fb5c49e044a6c9199eae66fbb646cd6b123466e54589c",
+              "bytes": 4029058,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "378a2c68a11c3f1287c8e355eb3e3b36c5ae1aee9932965c494fdaf35cfa488b",
+              "bytes": 3192000,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "3a85642dae4ff44fff7850bb8cabf816202b393cc56007b28285a2d04d8c1684",
+              "bytes": 4007279,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "6851233257e325e36742a3748a7d102a46aa0e1a0a06507a24a0f6cdf32ad6c4",
+              "bytes": 3624506,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "6973163199dfdf57bf911410f2ab34daad51600e4d6a20c3b43df1ad2d52ab1b",
+              "bytes": 1956792,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "7747c1688d2c1f6ea090fd6fd317f3f70bf45adce10628913f63fa919ab2c50c",
+              "bytes": 1994502,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "81b5ace05aa4457457059fff7bcddb078deeabf21b6df0ac61c93e988a50d43d",
+              "bytes": 5832845,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "84ec07d71b7d4bf7b5d9eccea53bd7b7afdcf43ac2ad182725f726ba73cfcf9e",
+              "bytes": 2769358,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "ab6fbf01a5205a8ed88376fcdfe719c83c1c88742afbddfabc22a0893de0e6a0",
+              "bytes": 3918066,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-MARX1011-f4bfbc1000fb2aa9",
@@ -375,6 +499,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-MARX1011-8a8b219e681ba7cd",
+      "type": "study",
+      "title": "马克思主义基本原理(第一—七章)关键词与教材页码索引",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6863/#review-75527",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6863/#review-75527",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a6e50a2aa00ead67c5d83c21069aaa1498cd41bbe9da262dc34a7b36bd178076",
+              "bytes": 133765,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "hum-MARX1011-notes-ustcresource",
@@ -552,6 +712,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-MARX1011-8cf10fa4ed9e5426",
+      "type": "study",
+      "title": "哲学专题课件:威廉·奥卡姆与唯名论",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6868/#review-4611",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 按理由所述成员/正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6868/#review-4611",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "f256dbeedf7d8088eaeccd32497deb717c45c5b8fe02032d0bbdc7c5bd9b83e2",
+              "bytes": 1790464,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

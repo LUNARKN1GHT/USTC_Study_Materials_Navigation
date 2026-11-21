@@ -40,6 +40,80 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-EE3005-3ff71ebe7105c702",
+      "type": "projects",
+      "title": "现代通信原理 基于软件无线电平台的 ASK 数字调制通信系统设计实验报告与答辩材料",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4495/#review-90474",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 pptx:1-2/report/main.pdf:1-2/report/main.tex:1-70/zip_listing。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4495/#review-90474",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "89d8f66d40efe55d034b60e44b7d5ee22b47500982eab17761640498147bd940",
+              "bytes": 28738862,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE3005-61e90579abd70bea",
+      "type": "projects",
+      "title": "现代通信原理 ASK 通信系统 MATLAB 实验代码",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4495/#review-90474",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 matlabcode/ASK_AddCRC.m/matlabcode/ASK_AddSync.m/matlabcode/ASK_BitAllocation.m/zip_listing.txt。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4495/#review-90474",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "8f122acaf34f4713ab2c8c1a6d6b07683d44615eb0280f2ddd87f4ccc7807b11",
+              "bytes": 4486747,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "eng-projects-ee3005-566b5595",
       "type": "projects",
       "title": "现代通信原理实验指导与实验材料",
@@ -104,6 +178,7 @@
   ],
   "sources": {
     "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "icourse-club": "USTC 评课社区",
     "eng-github-mrphilo-eeis": "Mr-Philo/USTC_EEIS_Courses（6系本科资料）"
   }
 }

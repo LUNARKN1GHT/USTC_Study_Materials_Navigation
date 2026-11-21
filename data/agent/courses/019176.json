@@ -9,6 +9,42 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-019176-18d0f6a0db6f260b",
+      "type": "study",
+      "title": "分析化学II 复习提纲(仪器分析与光谱法)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/914/#review-89279",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。共 30 页；第 1–4 页为排版复习提纲与思维导图，包含仪器分析概论、光分析法分类、AES 与 AAS 原理及干扰消除等内容。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/914/#review-89279",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "8996e8f95ec2d306400669a3c9ee6e352eef2870100efa966cb8395e20ad47ac",
+              "bytes": 3542127,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "chembio-019176-notes",
       "type": "study",
       "title": "分析化学II 提纲与仪器分析（光谱法）讲义",
@@ -43,9 +79,43 @@
           "license_note": "评课社区用户上传的点评附件，需登录下载；页面未声明再分发许可，仅导航原页面。",
           "attribution": "USTC 评课社区用户上传（课程页 914，文件“分析化学II提纲.pdf、仪器分析提纲.pdf”）",
           "page_kind": null
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20682/#review-79811",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "0f402b71efb1f159ddff136eaf32be5c590ff00bbc7bca90b4ab5ce4c97af444",
+              "bytes": 889986,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/914/#review-38880",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "09f8f20c2d2a8b7697fa9b970cf644b30080085ce3f4c16ee4894fce47ade22f",
+              "bytes": 493328,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

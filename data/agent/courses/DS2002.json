@@ -9,6 +9,46 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-DS2002-b5a6d3decca2df0f",
+      "type": "exams",
+      "title": "数据库系统概论(数据库系统及应用)往年真题合集(ZIP)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2019,
+          2020,
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/21283/#review-92690",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 2018-2019第二学期数据库系统及应用期末试卷+答案.pdf:1-2/2019-2020第二学期数据库系统及应用期末试卷.pdf:1-2/2023-2024第二学期数据库系统及应用期末试卷.pdf:1-2/zip_listing。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21283/#review-92690",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "fc35800bf9a1049b2e2044fa0ccba611321de9ba047c6e675981df43e868a7f9",
+              "bytes": 1125221,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-DS2002-51e37bc6a6c3360a",
       "type": "projects",
       "title": "数据库系统概论 实验一 SQL练习",

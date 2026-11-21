@@ -117,9 +117,26 @@
           "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
           "attribution": "share.feixu.site 投稿者",
           "page_kind": "file"
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25828/#review-103950",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6ee45715ab324d6d48922e7a5d5c13b4c4a726b2e430fd82666d42f43277d62e",
+              "bytes": 322677,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "computing-exam-feixu-cs1003-2021-a",
@@ -355,9 +372,26 @@
           "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
           "attribution": "share.feixu.site 投稿者",
           "page_kind": "file"
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25828/#review-103950",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ce4737bdb9729284fd43940ef4ed759a432a993cd9868adcdd50b0a9f1798ada",
+              "bytes": 350569,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "computing-exam-guch-cs1003-programdesign2020-pdf",
@@ -644,6 +678,42 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-CS1003-406fb3e94bee693f",
+      "type": "homework",
+      "title": "计算机程序设计 指针专题练习与参考答案(规范版,15 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25828/#review-103950",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25828/#review-103950",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "8887f777092e02c6888157f2667e223328e90bb9fa9499dbc891182c32e5b5d8",
+              "bytes": 365701,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "computing-homework-feixu-cs1003",
       "type": "homework",
       "title": "计算机程序设计 指针专题练习与答案",
@@ -866,7 +936,7 @@
   "sources": {
     "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
-    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
-    "icourse-club": "USTC 评课社区"
+    "icourse-club": "USTC 评课社区",
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）"
   }
 }

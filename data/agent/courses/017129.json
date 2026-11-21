@@ -9,6 +9,42 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-017129-c0e8bb43d54b68bf",
+      "type": "exams",
+      "title": "实用随机过程:2019 级统计学专业期中考试试题",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/2093/#review-93966",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。共 1 页，标题为《2019 级统计学专业〈实用随机过程〉期中考试试题》（无解答），包含 6 道大题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2093/#review-93966",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "613ed37fd42dafd593c005b0fb432f8b8438dd3acb4817160f375d6fc2c6bb13",
+              "bytes": 340311,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-017129-171b5baf79695de3",
       "type": "exams",
       "title": "实用随机过程：试题与解析（16 个附件）",
@@ -32,10 +68,67 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "02ae21f5f28fbb11d76ec9be721892d4d09e5354d5316142995e17f6ca9c195d",
+              "bytes": 81953,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "0b59517bf5b4b6dbd33a7a51c435e623975b2bc76a097c44172b842f12b8c7b4",
+              "bytes": 365709,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "1e6bf2dcf668332848a5212a265f5c1328c3e3c3f9989c6510a74a700f2eb377",
+              "bytes": 2250084,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "788cdbd5519d81fa2853312383e8307064c8564c105f2977a5dda7d5a60ec23e",
+              "bytes": 1004068,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "8132a009fdc042376306fc66a2a80089ef42f50a9a1ec635c88f2ef0dbbadc2d",
+              "bytes": 927250,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "9a396515c48b4948fe0b89b10fa27a2b90f01b62ee32120ff98f30e3d17c00da",
+              "bytes": 1077033,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "9f6ebf8737f2c5d431813d6903ec72a7732da302ab8de76f414452c1c285e158",
+              "bytes": 1471042,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "d1b46cc34fb3271b41f1a01aaa6fc0c2c0ee59bbd190f7986ba0dc795d98a33f",
+              "bytes": 1435056,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "f420c1a92fdbad34207ededf94ce9d85a0cf252e875a8e2a342bff5769a8d5c4",
+              "bytes": 553741,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "f8bac49822f972a8ef7cbaa14c71add0c4a75dced9aa1970b96990ec92965a4d",
+              "bytes": 3525031,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "fd6334b033f289199e766a130def8aff0a3d8c06bcd1b10e0d847494eaf7dd92",
+              "bytes": 148744,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-017129-568ae4fbba996bb2",

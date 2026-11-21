@@ -39,6 +39,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-STAT3002-29aea05c20f4f68c",
+      "type": "study",
+      "title": "实用统计软件 R 语言复习笔记(大抄)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25449/#review-93164",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 按理由所述成员/正文。DOCX 全文共 6 部分（数据类型、数据结构、数据存取与 dplyr、基本绘图、ggplot2、控制流），无明确开课年份标识。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25449/#review-93164",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "133411be64bbc5b42b9851e120fc872f2096e635c75909ea9f11189e25869422",
+              "bytes": 69926,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-STAT3002-f46dc059693d4c56",
       "type": "study",
       "title": "实用统计软件课件压缩包",

@@ -276,6 +276,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-MARX1012-2db6b1296f1a8012",
+      "type": "study",
+      "title": "思想道德与法治 专题学习思考与拓展阅读课件(前 4/47 页已核)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20925/#review-86242",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。47 页课件型 PDF 前 4 页：专题一/二标题页、学习思考题（含课名）及拓展阅读书目。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20925/#review-86242",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "f166dd33923168f0ecc10ad353c181d2c6f690a8fc1d3237661f79404dcd933b",
+              "bytes": 5491200,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-MARX1012-6951d9ba2c100536",
       "type": "study",
       "title": "思想道德与法治：学习资料（2 个附件）",

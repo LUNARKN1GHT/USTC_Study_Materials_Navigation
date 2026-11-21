@@ -1071,6 +1071,78 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-MATH3002-b2593aaf07532dd9",
+      "type": "exams",
+      "title": "实分析期末试卷(年份未核实)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12373/#review-103016",
+        "note": "6 页，仅核前 4 页；卷头年份信号 2025、2026 并存，未定年；未确认是否含解答。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12373/#review-103016",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ea5457c13fdf486154076217baa765f31278a9de9ead51563ab675ce4be35859",
+              "bytes": 123796,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH3002-1a6f145d26b39201",
+      "type": "exams",
+      "title": "实分析期末试题合集(多年份)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12373/#review-103016",
+        "note": "41 页合集，仅核第 1—4 页；第 1 页目录列出 2018—2025 年份信号，未逐份核验故 years 留空；未确认是否含解答。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12373/#review-103016",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "929fca0674768f441774dfce1e453acc1e625e5f62867e94cea69b37e8f5a53d",
+              "bytes": 328252,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-gh-math3002-exam-ny-ebb67c",
       "type": "homework",
       "title": "实变函数习题答案（2007–2008 学年第二学期）",
@@ -1315,8 +1387,8 @@
     "ustc-math-exam": "USTC 数学课程往年试卷",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-weiyu-mathstat": "Weiyu-USTC/USTCmath-stat",
-    "gh-lucien-fa": "Luciennnnnnn/ustc-functional-analysis-exercise-set",
     "icourse-club": "USTC 评课社区",
+    "gh-lucien-fa": "Luciennnnnnn/ustc-functional-analysis-exercise-set",
     "cardigan0214-ra-2026": "实分析 2026 春课程主页（刘聪文）"
   }
 }

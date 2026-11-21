@@ -76,9 +76,26 @@
             "bytes": 64899,
             "checked_at": "2026-11-19"
           }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13477/#review-97510",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "4ee513d59a39320a8bcefad7ace687addd4a9f3728b5b8679fe1c555c6fae004",
+              "bytes": 62823,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-uexam-math3010-2024-final-15d1b2",

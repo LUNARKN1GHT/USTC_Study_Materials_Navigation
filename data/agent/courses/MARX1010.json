@@ -10,6 +10,230 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-MARX1010-fc69257d77a39969",
+      "type": "homework",
+      "title": "中国近现代史纲要 复习题库专题:报刊",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21340/#review-102955",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。全3页为《中国近现代史纲要》“报刊”专题单选/多选题库及总结，含第二至六章题干与正确答案；第3页“期中”实为“抗战时期中共在国统区刊物”跨词误命中，非期中试卷。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21340/#review-102955",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5df36eae2ab65f4d7fcb0d955a14ea89da7dbcdf8a9f5197e5d6d8c5f65fd7ce",
+              "bytes": 263524,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MARX1010-6d7a262300b2c575",
+      "type": "homework",
+      "title": "中国近现代史纲要 复习题库专题:人名",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21340/#review-102955",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1–3页为按章节与题型整理的《中国近现代史纲要》“人名”专题题库表格，包含第二、三、六章单项选择题题干、正确答案及涉及历史人物。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21340/#review-102955",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "8dcd5909a632bfb8f09956ae963db19c6a208805adf63761a01f8731e61d745a",
+              "bytes": 875831,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MARX1010-b654b97ba2ddfa62",
+      "type": "homework",
+      "title": "中国近现代史纲要 机考复习专题题库:马克思主义著作",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21340/#review-102955",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。全 2 页专题筛选题库 PDF，共 6 道关于马克思主义著作及中国早期传播的单项选择题及全部正确答案；2026 年来自原帖已核实语境。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21340/#review-102955",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "fa5d9ffbf535587aa387fdb17b9e36409f486e57e7697394cf4106d9cd29679a",
+              "bytes": 136507,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MARX1010-2e30f34ee92d9b55",
+      "type": "homework",
+      "title": "中国近现代史纲要 机考复习专题题库:毛泽东著作",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21340/#review-102955",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。4 页题库整理 PDF，第 1–3 页含第五、六章相关单选、多选与关联题表格、题库截图及全部正确答案与高频著作总结；2026 年来自原帖已核实语境。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21340/#review-102955",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "4f58786701bd336d5b597c8c27e878d726be75c2fcb98f889f131482aa2a7183",
+              "bytes": 336875,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MARX1010-99bab33cfaf91a1d",
+      "type": "homework",
+      "title": "中国近现代史纲要 机考复习专题题库:年份题",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21340/#review-102955",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。全 1 页 Markdown 表格导出 PDF，收录第一至五章选项含年份的 8 道单项选择题及正确答案；非商业出版物；2026 年来自原帖已核实语境。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21340/#review-102955",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "96a3c9f74397d34fc0f61aed753aeb9c7bffcc5b18bd1ff65ddc6339279ca3be",
+              "bytes": 188091,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MARX1010-a48b2ea4b9613b7f",
+      "type": "homework",
+      "title": "中国近现代史纲要 机考复习专题题库:维新与革命论战",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21340/#review-102955",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。全 3 页刷题截图合集 PDF，含第二、三章维新与革命论战主题 6 道多选题（标示来源章节、难度及正误作答勾选答案）；2026 年来自原帖已核实语境。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21340/#review-102955",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "95ce4805fd829f152cf892d709b4e0c11ac449e7cc4fcbaee57cd3beb2743034",
+              "bytes": 341110,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-MARX1010-fb6da48a8bcecaad",
       "type": "homework",
       "title": "中国近现代史纲要 易混题目",

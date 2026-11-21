@@ -80,9 +80,46 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-MATH4001-684e0eea57a6a70f",
+      "type": "study",
+      "title": "回归分析 课程课件与参考教材合集(数院回归分析.zip)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1347/#review-63532",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。压缩包共 9 个成员：02 MatrixAlgebraAndRandomVectors.pdf（42 页）、回归分析课件2021春.rar 及 7 本参考书 PDF。已核对 02 MatrixAlgebraAndRandomVectors.pdf 第 1–2 页。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1347/#review-63532",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b4fedee83f4aeaa3368c5a543ab17ca423668e2a9c4f5a32aebf36e0be909fb7",
+              "bytes": 80603476,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
-    "ustc-math-exam": "USTC 数学课程往年试卷"
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "icourse-club": "USTC 评课社区"
   }
 }

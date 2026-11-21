@@ -1105,6 +1105,42 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-STAT2002-3ba0cb4642d06dcc",
+      "type": "homework",
+      "title": "概率论与数理统计 习题参考答案(203 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/27256/#review-105992",
+        "note": "203 页中取样前两段：第 1 段 91 字符含课程码 STAT2002、「参考答案」与「2026」字样，第 2 段 588 字符含「参考答案」「习题」「讲义」；按习题与参考答案汇编登记，不当作考试卷，不据此新增年份；解答覆盖范围、是否为某版教材配套、全文是否完整均未逐页核验。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/27256/#review-105992",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "60657b9ed68aa6fcc06b2f8ad39399433249fc36b3a5d190085ac46f591a957a",
+              "bytes": 2905630,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-STAT2002-30d79883e24f6203",
       "type": "homework",
       "title": "概率论与数理统计：作业与习题（2 个附件）",
@@ -1342,6 +1378,42 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-STAT2002-d47aedec092717c9",
+      "type": "study",
+      "title": "概率论与数理统计 常用分布模型汇总表(2 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/3847/#review-78579",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/3847/#review-78579",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "675907240da754b70b84c5f92694a598838856ec61d6dd5de9bda716a2cfc7e6",
+              "bytes": 1061937,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-gh-stat2002-lectures-c920cd",

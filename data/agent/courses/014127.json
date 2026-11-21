@@ -39,6 +39,42 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-014127-98889ec9a9d71b1e",
+      "type": "homework",
+      "title": "材料物性 习题解答(74页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18987/#review-39826",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。74页自制排版《材料物性》课程习题解答（不含商业出版标识或个人隐私，正文未标注年份）。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18987/#review-39826",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "cd4efeff045f171c0608699d0d9114c2f199da48e20d33e2a7719c1cf6a8cc39",
+              "bytes": 11323660,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "chembio-014127-lectures",
       "type": "study",
       "title": "材料物性 课件包",
@@ -66,6 +102,44 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-014127-1a2756c158cbca95",
+      "type": "study",
+      "title": "材料物性(无机材料物理性能)课件包(2021秋)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18987/#review-39826",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 member_1:1-2/member_2:1-2/member_3:1-2/zip_listing.txt。70.9 MB 课件压缩包含 6 份课程讲义/PPT（2021年秋），已对首页教师联系信息严格脱敏。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18987/#review-39826",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ff58d8852d1236d458e5941a6be9463bcb008e9700732506afa250a5de82e3d1",
+              "bytes": 70883991,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

@@ -6,7 +6,48 @@
   "tags": [
     "physics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-PHYS3001-c58b1609cc8481af",
+      "type": "study",
+      "title": "激光原理与技术 课程笔记与习题整理(Laser.pdf)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21025/#review-39139",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。42 页 PDF 第 1–4 页，第 1 页抬头日期 2020 年 11 月 4 日，含 F-P 腔、高斯光束、速率方程及半经典激光理论笔记。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21025/#review-39139",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "05d49973d4b8bdd8488956bdcef0f3f5dfeebbb849878496bd993f5596a4638e",
+              "bytes": 2003660,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

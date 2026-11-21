@@ -233,6 +233,44 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-MATH3004-c01cba9d35e92cb8",
+      "type": "exams",
+      "title": "泛函分析 2024 期末试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24812/#review-88389",
+        "note": "1 页全文 436 字符取样；年份取卷头文本 2024，不推断学年与答案；与既有两册 2024 期末是否同卷未做正文比对，若后续比对为同卷再并入。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24812/#review-88389",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a081d5b871457ddc907e78184ace228b2225fbb014236e91f26f43cfbbf74e4a",
+              "bytes": 43246,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-uexam-math3004-2024-midterm-a7ff9a",
       "type": "exams",
       "title": "泛函分析 2024 期中",
@@ -955,10 +993,85 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-MATH3004-e4b35959601dac30",
+      "type": "study",
+      "title": "泛函分析 讲义(2025,98 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4006/#review-100268",
+        "note": "98 页中取样前 2 段，全文未逐页核验；年份取正文信号 2025，不推断学年。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4006/#review-100268",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "709dae95e025d243609a7cc1c7589e6f1f3ef767c72b9e1707c45c7e70592a14",
+              "bytes": 642341,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH3004-314a644b4377f024",
+      "type": "study",
+      "title": "泛函分析 讲义(85 页,年份未核实)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4006/#review-90059",
+        "note": "85 页中取样前 2 段，全文未逐页核验；两段年份信号（2025、2024）不一致，不据此定年；类别词以讲义为主，含期中/考试字样，未据此判为试卷。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4006/#review-90059",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "34c0649898a71274f70c0a86429c2ee84b9dc6dd5555471514d9d9595010241d",
+              "bytes": 2828301,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
     "ustc-math-exam": "USTC 数学课程往年试卷",
+    "icourse-club": "USTC 评课社区",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-lucien-fa": "Luciennnnnnn/ustc-functional-analysis-exercise-set",
     "gh-syvshc-fa": "syvshc/2019Fall_FA",

@@ -7,7 +7,86 @@
     "cs",
     "math"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-001125-3e347fad8b231fc6",
+      "type": "exams",
+      "title": "数值代数 2022 秋期末考卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13476/#review-54841",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。共 3 页；第 1–2 页含“数值代数 2022 秋期末考卷（2022 年 12 月 9 日）”卷头及题目 1–7 与题目难易注记。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13476/#review-54841",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "8d3cef3dec0bd6bd7ecd7e80070d2aceea97f6de49fc58ea1fdb4d56f2ad0547",
+              "bytes": 82216,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-001125-fafbcd56a624cb7d",
+      "type": "exams",
+      "title": "数值代数 2023 秋期末考试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2023-2024"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13476/#review-73906",
+        "note": "3 页中取样第 1–2 页：第 1 页文本 485 字符含课程码 001125、「期末」「考试」与 2023，同页另命中「作业」；第 2 页有可提取正文取样（OCR 558／文本 664 字符）；原帖点评词 2023秋、附件标签 数值代数2023期末考试.pdf；按学年记 2023-2024，卷型与是否有解答未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13476/#review-73906",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "242b112dd1fc305218d4c395b56523981ecb1ce62380c55045b5d783df78a17c",
+              "bytes": 389200,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

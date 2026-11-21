@@ -1108,6 +1108,82 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-022148-68595c06f58fe71f",
+      "type": "study",
+      "title": "《量子力学A》课程讲义(2024 秋)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24628/#review-87657",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。907页PDF前4页：第1页标注《量子力学》绪言、中国科学技术大学物理学院及日期2024年9月1日，第2-4页为课件目录与教学说明。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24628/#review-87657",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "411eea20411331f3092446195d37f25072b5c6c989cafff15848981d5a94afff",
+              "bytes": 9791730,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022148-8a81178b3034ea4f",
+      "type": "study",
+      "title": "《量子力学A》课程讲义(2025 春)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24102/#review-92596",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。450页PDF前4页：第1页为《量子力学》讲义封面及「量子力学A 2025春」标识，第2-4页为导言及第1-7章分节与习题目录。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24102/#review-92596",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "91f7ae8983acac2b4894aba5a752484e410f899f8395adec45b602de3f359e03",
+              "bytes": 4086210,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-022148-4c932fdc452663ff",
       "type": "study",
       "title": "量子力学笔记",
@@ -1174,6 +1250,118 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-022148-0078e23a5cf761b6",
+      "type": "study",
+      "title": "量子力学A 笛卡尔坐标系下的 Landau 能级补充推导",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12793/#review-77683",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第 1 页标题《笛卡尔坐标系下的Landau 能级》，日期 2024 年 2 月 14 日，引用 quantum09 课件哈密顿量；第 2–3 页引用 quantum08 课件第 27–30 页引入算符化简交叉项并推导能级。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12793/#review-77683",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a88dce6e66c1b153e76f61598a05fc8da339cb37944dccb9da97908073e32248",
+              "bytes": 84555,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022148-e366a5aae0ffc32a",
+      "type": "study",
+      "title": "量子力学A 期末公式整理",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6639/#review-48415",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。共 7 页无文本层扫描件，第 1–2 页图像显示为密集双栏排版的量子力学公式表，包含谐振子、概率流、球坐标拉普拉斯算符、氢原子波函数、规范变换、朗道能级及角动量对易与升降算符等内容，无试卷卷头与题号。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6639/#review-48415",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "4d0fcd211b062347a9f8c95834b2f8aa13c33a49f3e1d79ddd6437cfc9cb00a7",
+              "bytes": 7143639,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022148-c09ce63d19be4315",
+      "type": "study",
+      "title": "量子力学A 原子的自发跃迁补充推导",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12793/#review-77683",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第 1 页标题《原子的自发跃迁》，日期 2024 年 1 月 27 日，引用 quantum11 课件第 17/33/46 页公式推导 Einstein 自发发射跃迁速率。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12793/#review-77683",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "4d217dc6ecb2f0b97534b178bd14df9ccf92d7562c006293df95910ee2179872",
+              "bytes": 96782,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-022148-41b7a6af75ce20d3",

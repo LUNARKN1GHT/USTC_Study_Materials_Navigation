@@ -190,6 +190,44 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-PHYS1002A-bfa8a9fd2bc2f9cd",
+      "type": "exams",
+      "title": "热学(A) 2021 期中试题",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20187/#review-36580",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20187/#review-36580",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b7babbf44ff97abc62a1ebcd9269f10b0c4607e4c033b6865d6ada7bdd754688",
+              "bytes": 407002,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-PHYS1002A-c25b1b5f1c72e170",
       "type": "exams",
       "title": "2017年热学公共题部分",

@@ -9,6 +9,82 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-017063-66aab95685b14de0",
+      "type": "exams",
+      "title": "数理统计 2025 期末试卷(9 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25111/#review-92610",
+        "note": "9 页中取样第 1–4 页：第 1 页含 017063 与「期末」；年份取自附件名 25数理统计期末.pdf。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25111/#review-92610",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "f847719649a024d4dba2dd30a7e9e5a67aff31be2d098d17e0ea6db9b65edd80",
+              "bytes": 126440,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-017063-dea57665b7f43470",
+      "type": "exams",
+      "title": "数理统计 2025 期中试卷(11 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25111/#review-92610",
+        "note": "11 页中取样第 1–4 页：第 1–2 页含 017063 与「期中」；年份取自附件名 25数理统计期中.pdf。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25111/#review-92610",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "79ee099ab747eda1186fa9a17bcde7e85b01fb2cb9a94ef4e67f10abf770c7e9",
+              "bytes": 181217,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-017063-67a671556ab78897",
       "type": "exams",
       "title": "期中考试试卷分析（2024.4.19） (1) (1)",
@@ -40,6 +116,272 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-017063-95d99522e7ec5a3f",
+      "type": "exams",
+      "title": "数理统计 2024 春期中考试试卷(2024-04-19 原卷)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/24080/#review-83800",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24080/#review-83800",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "bef94af140a112207f8aa326b4dfbf360dd096e3ba42d5aa19504f19af684735",
+              "bytes": 883974,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-017063-867527d74002485a",
+      "type": "exams",
+      "title": "数理统计 2024 年春季学期期末考试参考答案(含原题)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/25111/#review-92610",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。8页高清排版 PDF，为 2024 年春（2024-06-28）数理统计期末参考答案及原题，无个人隐私或出版信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25111/#review-92610",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "8ff6e298455e34df31754ef47fe24249eede67d5b379e19c985b4578e2262ae3",
+              "bytes": 1877370,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-017063-46016a07833db6e5",
+      "type": "exams",
+      "title": "数理统计 2024 期末试卷(8 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25111/#review-92610",
+        "note": "8 页中取样第 1–4 页：第 1 页含 017063 与「期末」；年份取自附件名 24数理统计期末.pdf。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25111/#review-92610",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "002c3d5a679657f13191538950b8160008f999fa4f3fc1289c93728dedcc0803",
+              "bytes": 130098,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-017063-ff74e6d3b1f75cae",
+      "type": "exams",
+      "title": "数理统计 2024 期中试卷(9 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25111/#review-92610",
+        "note": "9 页中取样第 1–4 页：第 1 页含 017063 与「期中」；年份取自附件名 24数理统计期中.pdf。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25111/#review-92610",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "8207e9a29b415412caadc67754c4198ab86def94d6a4acc2e4fcf53346aaf92d",
+              "bytes": 119461,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-017063-fedd2eef1cc26ca8",
+      "type": "exams",
+      "title": "数理统计 2023 期末残卷(6 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25111/#review-92610",
+        "note": "6 页中取样第 1–4 页：第 1 页含 017063 与「期末」；附件名标注「残卷」，卷面不完整；年份取自附件名。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25111/#review-92610",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "8bf827953b1cd0c80e8f8393e5a9739c9c2879baad4865078a04712cc76fd718",
+              "bytes": 105034,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-017063-a7309d078b8e6158",
+      "type": "exams",
+      "title": "数理统计 2023 期中残卷(2 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25111/#review-92610",
+        "note": "全 2 页读取：第 1 页含 017063 与「期中」；附件名标注「残卷」，卷面不完整；年份取自附件名。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25111/#review-92610",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "61909fe1a7f12e8ab44a4416bdc1a8275b8b2a9c7c9c08ddc6380c0692f8844a",
+              "bytes": 59740,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-017063-20bdd9440ed00db2",
+      "type": "exams",
+      "title": "数理统计 2021 期中试卷(8 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25111/#review-92610",
+        "note": "8 页中取样第 1–4 页：第 1 页含 017063 与「期中」，其余为题目正文；年份取自附件名 21数理统计期中.pdf；卷内无年份字样。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25111/#review-92610",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "48eb2f992efa218f29e2008a77a165a977bf223d93cf8e37daf50478d68a1261",
+              "bytes": 102550,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-017063-d89258c8614cc794",
       "type": "exams",
       "title": "25期末参考答案及评分要点",
@@ -67,6 +409,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-017063-bece7b381edf7491",
+      "type": "exams",
+      "title": "数理统计期中期末试卷汇编(52 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25111/#review-92610",
+        "note": "52 页中取样第 1–8 页：第 2 页含期末/期中/考试/复习，第 3 页为试卷目录，第 4 页含期中试卷；未逐页读完，页码与题号范围未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25111/#review-92610",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "1bdd69e42ae3f44f4b9f76c628815136f149fd9f3d9dbde7ddfb1f23ce205482",
+              "bytes": 376434,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "hum-017063-lectures-mooc",
@@ -98,6 +476,88 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-017063-7b4d33a33bb000ad",
+      "type": "study",
+      "title": "数理统计复习资料(156 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/3010/#review-84185",
+        "note": "156 页中取样第 1–4 页：第 1 页含 017063，第 2 页「复习」，第 3–4 页目录；未逐页读完；与本帖另一附件为同一文件（整文件同 SHA），只在此处登记。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/3010/#review-84185",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "8cf8f1a0100ab9d61eace3f3f1b803bb5ebdb737ce0064d2dadd6135633ec1d4",
+              "bytes": 1933858,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-017063-8703c55f8f58c11d",
+      "type": "study",
+      "title": "数理统计渐近推断证明笔记(MLE 相合性与渐近正态、Wald 检验与似然比检验)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24080/#review-103499",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。2 页完整核读：推导 MLE 弱相合性与渐近正态性条件、泰勒余项收敛与 Slutsky 引理收尾，无个人隐私信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24080/#review-103499",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "023c5e1956042a80ad5324c293d19d6a6a403ff7ba941d2231ec6d820773bde8",
+              "bytes": 125495,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "456f0c2b67d7e2e08d8b1e7cde1b19b09b6eb69eebe7de1b59cf6710a2f25c40",
+              "bytes": 80280,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "fc4e87de56d81c7c1b7320dc8fc53ea5025669e8d45ce8bbbfc2197934400ab0",
+              "bytes": 238878,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

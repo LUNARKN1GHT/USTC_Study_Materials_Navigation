@@ -137,6 +137,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-210060-e5135a9461874fa9",
+      "type": "study",
+      "title": "计算机网络复习笔记(第 1–8 章)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6263/#review-42603",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。第 1-4 页与 chapters.txt 显示共 77 页，含名词解释（p.1）及第 1-8 章完整知识梳理（概述、网络体系结构与参考模型、物理层、数据链路层及局域网、网络层、传输层、应用层、网络安全）；封面写明“计算机网络”，与 210060 课名及教学体系吻合，未见年份标识。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6263/#review-42603",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6bfd9258ad457f09012c9f606c32912e243203d4aa004d354724f97ec6724182",
+              "bytes": 6466192,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-210060-e3cbee8a675320b0",
       "type": "study",
       "title": "计算机网络复习资料",

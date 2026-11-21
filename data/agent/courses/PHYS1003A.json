@@ -112,9 +112,26 @@
             "bytes": 194055,
             "checked_at": "2026-11-19"
           }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21012/#review-90459",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a404f0884d2da42db8d4675c0c31a22b62f421c20cffe7952f52a09513ed299f",
+              "bytes": 1991918,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-uexam-phys1003a-2022-final-e98121",
@@ -319,6 +336,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-PHYS1003A-ab4ace1b6e011d5b",
+      "type": "homework",
+      "title": "光学A 习题与练习题截图汇编",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21009/#review-48394",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/20/21/3/4/5/6/7/8。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21009/#review-48394",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "abc8592bfb0bc56bb24571b3074a6a21c47f812ce6d2b740cf3baec2b12b2ebe",
+              "bytes": 8636885,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-PHYS1003A-98082eedf8ddd22d",
@@ -526,8 +579,8 @@
   ],
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
-    "feixu-alist": "feixu 学习资料分享站（AList）",
     "icourse-club": "USTC 评课社区",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
     "home-ustc-shiyaowei-optics": "光学A 助教习题课讲义（home.ustc.edu.cn）"
   }
 }

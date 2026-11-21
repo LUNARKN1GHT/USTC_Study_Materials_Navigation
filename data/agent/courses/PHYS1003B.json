@@ -154,6 +154,80 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-PHYS1003B-b9fcb79512f230bf",
+      "type": "study",
+      "title": "光学B 光学复习指导(2020 秋,75 页,含习题解答与模拟卷)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21394/#review-88226",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21394/#review-88226",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "cc002028d23cedd20826e9facdfcd441930af082bb6255bbf24bc320b7e41b8e",
+              "bytes": 3822649,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-PHYS1003B-8a4c51a71ee8d082",
+      "type": "study",
+      "title": "光学B 知识点总结与习题笔记(两页纸)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21395/#review-102569",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21395/#review-102569",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "2f361166d78d872091e9b8c2441fe07d4926c31585d886cfe4a4ab0718b32a73",
+              "bytes": 7136252,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-PHYS1003B-c844e8d2863b0328",
       "type": "study",
       "title": "光学B：学习资料（2 个附件）",

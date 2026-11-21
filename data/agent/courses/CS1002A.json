@@ -331,10 +331,22 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a94ac3a80b679c77a321c706a8ce8ec041a9f8cd845161fb382d4ba6adcec287",
+              "bytes": 288762,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "b2a58cd4325f6f92464e6140752c1e69c3c4c9401c76d722503a18cff2abf8f4",
+              "bytes": 1123401,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-CS1002A-7043ef58b7fdb5fc",

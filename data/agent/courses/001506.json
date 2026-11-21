@@ -97,9 +97,64 @@
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
           "page_kind": "page"
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2966/#review-22431",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "3e317b1cc2a7db06d925de44e6f503b5e221179fb30da302b00da1ba5d06e4bf",
+              "bytes": 665815,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-001506-229d258c5916d793",
+      "type": "exams",
+      "title": "数理方程A 2020 春(毕业班)考试试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/2963/#review-49683",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2963/#review-49683",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "28ec734bcaa534d75380f8e59cf94115a3eb9797bf5a2fa55a0c6aef2d2ed7d7",
+              "bytes": 240147,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-001506-exams-1d9667",
@@ -242,10 +297,22 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6004226ca69c318ae3fb9e6ff140cd4d771229fa2acca8521fbbcc1f3e19d6d8",
+              "bytes": 380024,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "6b39f44fd30a2090e77186bb95c2f7cfeb2c4b64ac8a586c663a7ee79868ab47",
+              "bytes": 100967602,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-001506-exams-5d1f83",
@@ -314,6 +381,116 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-001506-1636139b42da4c36",
+      "type": "study",
+      "title": "数理方程A 2022 春课程讲义稿(225 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/2963/#review-52593",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2963/#review-52593",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a2f8131add4eadfaf2fdd136be11a872c9edb79e2a6c7f814d40ba9d966d688d",
+              "bytes": 1940807,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-001506-7625141cedc76e85",
+      "type": "study",
+      "title": "数理方程A 复习提纲(11 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/2980/#review-85922",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2980/#review-85922",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b5da298235b874b4bd8eec5efd34952aec1ccef1f68ffdcc12ea3510adea5aa1",
+              "bytes": 1966477,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-001506-3b5ed0973d0bed02",
+      "type": "study",
+      "title": "数理方程A 核心公式与定理整理(11 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12375/#review-48417",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12375/#review-48417",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "403ba0ddb20e2549bb5786cf19e32545f0ae6af6815d3a25cfcaf136eecc6599",
+              "bytes": 30924838,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-001506-study-7df146",

@@ -80,6 +80,120 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-001548-5171ed4835cc77e7",
+      "type": "exams",
+      "title": "复变函数B 2019 期末试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18949/#review-40696",
+        "note": "核验该附件完整字节并取样前两页；首页正文有课程标识、期末试卷字样及 2019 年份信号。卷型及解答未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18949/#review-40696",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "81f49b7ec58e6603d7f436f5bfc4458f5d1180a71624e2143138cdfb10623814",
+              "bytes": 154388,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-001548-93bf7573e08d6a43",
+      "type": "exams",
+      "title": "复变函数B 2017 期末试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18949/#review-40696",
+        "note": "核验该附件完整字节并取样前两页；首页正文有课程标识、期末试卷字样及 2017 年份信号。卷型及解答未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18949/#review-40696",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6ab2546c7eb54f6306cc0b3eb6efd28cddcf6c8e76b48481200898fa48514fba",
+              "bytes": 162495,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-001548-c74aa2cb54f4d6ad",
+      "type": "exams",
+      "title": "复变函数B 2016 期末试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18949/#review-40696",
+        "note": "核验该附件完整字节并取样前两页；首页正文有课程标识、期末试卷字样及 2016 年份信号。卷型及解答未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18949/#review-40696",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "764c7ad26ae8054bfe0b64feb205fe5f5e4e2cfd472202dfb0710bb5d7bb4b5c",
+              "bytes": 153209,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-feixu-001548-exams-da9f37",
       "type": "exams",
       "title": "2009-2010学年第一学期复变函数(B)期末试卷及答案",
@@ -527,6 +641,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-001548-c9f999ddf2df7595",
+      "type": "homework",
+      "title": "《复变函数》部分课后习题手写参考答案(含第 3 章复积分习题)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21917/#review-87356",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。全 48 页中第 1-4 页均为手写习题解答扫描件（页眉标明 2016 年 12 月整理、仅供学习交流），第 1-4 页依次给出习题 3.1 至 3.12 的围道积分、柯西积分定理与留数计算解答；2016 年 12 月为整理日期而非开课年份，years 留空。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21917/#review-87356",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "fc4285d145cc41d18ae35a3627444b9a85a429fec35b3f1a0f1f7252aace0fa5",
+              "bytes": 18293415,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-001548-3bb4a0e7bcdd7364",
       "type": "homework",
       "title": "复变函数B 习题解答（第 1—7 章）",
@@ -554,6 +704,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-001548-d9019c5520e35fa5",
+      "type": "homework",
+      "title": "复变函数B:《复变函数》教材习题全解(第 1-8 章)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21917/#review-87356",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。共 61 页，《复变函数》教材习题全解（第 1-8 章），第 2-3 页含第 1 章前 7 题解答。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21917/#review-87356",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "da0952b91db6cbd56ffd03b871d0ea7adc967165a118f516e2b55d1a4b31a6b9",
+              "bytes": 468275,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-001548-fb9f9a1cf7defd9a",

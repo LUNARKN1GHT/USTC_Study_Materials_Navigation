@@ -256,9 +256,26 @@
             "bytes": 1200887,
             "checked_at": "2026-11-19"
           }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20158/#review-67795",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "9ea3220c9fc150be05ae83133f3ca5931277b089731f4055b0ee17a71b6bd57d",
+              "bytes": 1205785,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-uexam-math1007-2023-midterm-b46408",
@@ -338,9 +355,26 @@
             "bytes": 304141,
             "checked_at": "2026-11-19"
           }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20158/#review-67795",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5398855438b4e7a21838569a1869ee51625bfd84193469ae5209c5d23cb3a8fa",
+              "bytes": 346913,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-math1007-exams-4fb584",
@@ -384,9 +418,43 @@
             "bytes": 588555,
             "checked_at": "2026-11-19"
           }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21345/#review-85766",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "65649877d8e8f16c4a8dad7153a21ac1c310cedcfec309578572361516e99d8b",
+              "bytes": 421762,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20158/#review-67795",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "982dd3e916d7ca321181c82ce2eb74efc678c20e537dbf40dbe9591513e521e6",
+              "bytes": 719689,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-math1007-exams-29cff3",
@@ -476,9 +544,26 @@
             "bytes": 349325,
             "checked_at": "2026-11-19"
           }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21345/#review-85766",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "64a7a5d90434a8a9384c9ace5c2c489e88f1cdd017ba0a5e3697d663010a32fb",
+              "bytes": 4503021,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-math1007-exams-f60b1b",
@@ -753,6 +838,78 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-MATH1006-525082412697afbc",
+      "type": "exams",
+      "title": "数学分析(B) 历年考试真题(2022 版)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/19516/#review-77292",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。81页PDF前4页：说明无参考答案，目录分列 B1（39套）与 B2（30套）真题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19516/#review-77292",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5cd9a1acbbe0d475e919a89fa380a015e6e7cb17baf820bafd1be0e6a428ef12",
+              "bytes": 568280,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1007-ed8816aba954f653",
+      "type": "exams",
+      "title": "数学分析(B)历年考试真题(2025 I 版,含B2部分)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/25661/#review-95007",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25661/#review-95007",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "0f44a203608ca462e0ff142dd6d20480f07116dd6179586221c3c39bad67a894",
+              "bytes": 534161,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-feixu-math1006-exams-b933f7",
       "type": "exams",
       "title": "数学分析(B)历年真题",
@@ -797,6 +954,42 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-MATH1007-ae02c9f47f9b7547",
+      "type": "exams",
+      "title": "数学分析(B2) 历年考试真题汇编",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/2854/#review-21739",
+        "note": "47 页合集；第 1 页 437 字符含课程码 MATH1007 与 期中/考试/试卷/参考答案/习题/复习（年份信号 2017/2018），第 2–4 页 482/514/780/586 字符（年份信号 2011–2013）；仅核前 4 页（共 47 页），各年卷别、是否含答案未逐页核验；目录所列年份不等于本件年份，years 留空；附件标题写「数分B」，正文只出现 B2 课程码，是否同时含 B1 试卷未核。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2854/#review-21739",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "100f99f636f063e5123f1debec6287ef4b89172155fe3e6ad91fbd3c4bba90d3",
+              "bytes": 1735513,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-MATH1007-646f1e1f6510fc0f",
       "type": "exams",
       "title": "数学分析(B2) 期中答案",
@@ -824,6 +1017,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-MATH1007-c62dc82e8d4eedca",
+      "type": "exams",
+      "title": "数学分析(B2) 期中期末试卷合集",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13222/#review-86578",
+        "note": "95 页合集；第 1 页 489 字符含 MATH1007 与 期中/考试/试卷/参考答案/习题/复习（年份信号 2017/2018），第 2 页 837 字符含 期末/期中/考试/试卷/目录（年份信号 2007/2008/2016–2018/2020–2022）；仅核前 2 页（共 95 页）；目录年份不等于本件年份，标题中的 2024 视为汇编标记，years 留空；同帖另有 期末总结、期中总结 两个已登记附件，非本件。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13222/#review-86578",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "996577f49ef34af6b888bc6fc2b9d5d9207320fa3263cc990308399c3c3fe153",
+              "bytes": 532766,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-math1007-exams-345998",
@@ -878,10 +1107,55 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "3ae80d4bcc16e42c148eb0b04f7cfa8ff46d90b3ca7503492f9d454dda5da976",
+              "bytes": 1178670,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1007-2a7e8f3a89ba3bd8",
+      "type": "homework",
+      "title": "数学分析(B2) 2020 春第8–9章测验",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/2854/#review-21739",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。2 页完整原卷：2020年3月23日数学分析B2第8–9章阶段测验共七大题，无解答，无个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2854/#review-21739",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "9a7b3a42b9e97e4f136f30d05a66da7c8bfa8f58960375a5b90a47876770c2a1",
+              "bytes": 190881,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-MATH1007-6a412e81b21fdcdf",
@@ -1027,6 +1301,44 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-MATH1007-3857275c091b25cd",
+      "type": "study",
+      "title": "数学分析(B2) 习题课讲义(2026,52 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/2848/#review-104511",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2848/#review-104511",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "90302d5bae3b89dc362bfcb3a710b2690eb6d620300952e33e72bb40b4707163",
+              "bytes": 1830933,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-MATH1007-0bf856cc1902b4c5",
@@ -1176,7 +1488,7 @@
   ],
   "sources": {
     "ustc-math-exam": "USTC 数学课程往年试卷",
-    "feixu-alist": "feixu 学习资料分享站（AList）",
-    "icourse-club": "USTC 评课社区"
+    "icourse-club": "USTC 评课社区",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
   }
 }

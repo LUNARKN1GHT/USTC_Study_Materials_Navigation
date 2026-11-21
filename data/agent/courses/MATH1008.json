@@ -9,6 +9,44 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-MATH1008-94b01eff8543f0e8",
+      "type": "exams",
+      "title": "数学分析(B3) 2025 A 卷评分标准与解答(第 7—10 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/14210/#review-87955",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14210/#review-87955",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "cd3b7bd675ce5c39e263d95039be301c2e107d657d4a29a7ff94c785d7af676b",
+              "bytes": 173139,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-uexam-math1008-2024-final-b96212",
       "type": "exams",
       "title": "数学分析B3 2024 期末",
@@ -522,6 +560,7 @@
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "ustc-math-exam": "USTC 数学课程往年试卷",
     "feixu-alist": "feixu 学习资料分享站（AList）"
   }

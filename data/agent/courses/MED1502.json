@@ -33,9 +33,26 @@
           "license_note": "评课社区用户上传的点评附件，需登录下载；页面未声明再分发许可，仅导航原页面。",
           "attribution": "USTC 评课社区用户上传（课程页 21356，文件“人体1-6.docx、6-12.docx、老师上课说要重点掌握的东西.docx、系解考纲f.docx、重点.docx”）",
           "page_kind": null
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21356/#review-93829",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "3e3bd060b8245612bb7555b8f4167cfbe9f25214327da64ad6c1a676a719ee3f",
+              "bytes": 13951542,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

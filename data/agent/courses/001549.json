@@ -210,6 +210,78 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-001549-5297ab0a1a517183",
+      "type": "exams",
+      "title": "数理方程B 2022–2023 学年手写试题解答",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/2995/#review-92842",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第 1 页标注“2022-2023”，为纸质手写扫描件，完整给出第一、二大题共 5 个小题解答，无个人姓名或学号。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2995/#review-92842",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "00e3aa42aaf071051f3a1b99f68ad8917134d60db12ee4282325f7480b1659bd",
+              "bytes": 2658039,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-001549-ef6c7486e214149b",
+      "type": "exams",
+      "title": "数理方程B 2023–2024 学年手写试题解答",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/2995/#review-92842",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第 1 页标注“2023-2024”，为纸质手写扫描件，完整给出第一至三大题共 6 个小题解答，无个人姓名或学号。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2995/#review-92842",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "9d5bf96bf5dcda1b75439b86152611a99f9cb8d2dffaabfd3f9acbc8f1087f83",
+              "bytes": 2706703,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-001549-5a91c8f2d3dbd705",
       "type": "exams",
       "title": "数理方程B 答案（2013-2020）",
@@ -271,6 +343,114 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-001549-fb5dc994d4997e41",
+      "type": "exams",
+      "title": "数理方程B 手写试题解答(达朗贝尔公式与冲量法、分离变量)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/12389/#review-92852",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第 1–3 页为纯手写答题过程（d'Alembert 公式与冲量法求特解、分离变量法求余弦级数解），无年份或个人隐私信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12389/#review-92852",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "adb73ac8bf0e8d2de64358ca1b856b5581f0e5d6fe7106bfb19041b68b32a033",
+              "bytes": 4356737,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-001549-0989da78eba467f1",
+      "type": "exams",
+      "title": "数理方程B 手写试题解答(球谐勒让德与柱坐标贝塞尔边值问题)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/12389/#review-92852",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第 1–3 页为手写大题一至三完整解答，覆盖达朗贝尔公式、球坐标勒让德级数解与柱坐标贝塞尔级数解，无年份或个人隐私信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12389/#review-92852",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6976763a8eb02be2e4cd79484a58eb12bfb3e67ac88fa201ad66e6b33d9d8ea5",
+              "bytes": 2919393,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-001549-4ad18c301ad7df19",
+      "type": "exams",
+      "title": "数理方程B 手写试题解答(热传导、波动方程与贝塞尔展开等)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/12389/#review-92852",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第 1–3 页为连续手写解答（含波动方程达朗贝尔公式、分离变量与傅里叶-贝塞尔展开系数计算），无印刷卷头、年份或个人隐私信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12389/#review-92852",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "0eac1a3af437a0d1ead24a9317a20e62d8f7771cf562c810c32ffd859caad12a",
+              "bytes": 3955268,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-001549-exams-be295b",

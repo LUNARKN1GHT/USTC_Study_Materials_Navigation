@@ -544,6 +544,44 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-023181-a97c43d5fd1f4e3e",
+      "type": "study",
+      "title": "线性电子线路 课程课件(2025 秋,第 1–7、9 章及复习重点)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14405/#review-99480",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 ch06.pdf:p1-2/ch07-2.pdf:p1-2/ch09.pdf:p1-2/zip_listing.txt。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14405/#review-99480",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6284be961e269063d19a2e9a6ad9496d75d16308597db7dbc17871d7282cc727",
+              "bytes": 14148885,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "eng-notes-023181-938ef070",
       "type": "study",
       "title": "线性电子线路复习笔记",

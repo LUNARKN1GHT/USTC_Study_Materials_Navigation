@@ -468,6 +468,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-PHYS1001A-e5f09d2eea86fb94",
+      "type": "study",
+      "title": "力学A 复习大抄(手写公式与例题整理,2 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19588/#review-90767",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。全 2 页（4 栏手写），整理极坐标、非惯性系、刚体、流体、振动与波及狭义相对论公式与例题，无年份标识。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19588/#review-90767",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ec6a6ea9e0d5d2567ff6202f4b36f2eeedc5905333d72dbc51631e94a9bcc47e",
+              "bytes": 3023559,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-PHYS1001A-d14eee1e8f760320",
       "type": "study",
       "title": "力学A：学习资料（4 个附件）",

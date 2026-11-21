@@ -41,6 +41,44 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-MATH2001-f0404c5c5a05382f",
+      "type": "exams",
+      "title": "计算方法 2023 春季学期试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/21350/#review-76125",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。3页 2023 春季学期计算方法试卷共 9 题（无正式校名卷头，无解答），无个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21350/#review-76125",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "629570c847f32b7188554b64365bb7a27928914f91769d1d43b7580e914f1299",
+              "bytes": 90245,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-MATH2001-ede81b4f2d85c90d",
       "type": "exams",
       "title": "计算方法 2023春期末",
@@ -194,6 +232,44 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-MATH2001-67ce831112bd29ca",
+      "type": "exams",
+      "title": "计算方法 2017 期末试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21350/#review-76125",
+        "note": "6 页中取样第 1–2 页，全文未逐页核验；年份取卷头文本 2017，不推断学年与答案。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21350/#review-76125",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "17be8f8eaf0aab817884ff8cfb2d175b0a62bc5df1626cc8cc40dda5be633cf4",
+              "bytes": 74515,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-gh-math2001-exam-2017-828627",
@@ -1904,6 +1980,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-MATH2001-ea6cc3ec154008bd",
+      "type": "exams",
+      "title": "计算方法(B) 2014-2015 学年第一学期考试试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21350/#review-76125",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。2014-2015 学年第一学期《计算方法(B)》官方原卷前 3 页试题（含填空与计算大题），无个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21350/#review-76125",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "0a7bc84daed862ae32bb0914edaf93581f3c7951e95b616d3e50108698576ea6",
+              "bytes": 298616,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-MATH2001-119e7d79f2049c92",
       "type": "homework",
       "title": "计算方法：作业与习题（3 个附件）",
@@ -2101,6 +2213,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-MATH2001-63f694a532fbda98",
+      "type": "study",
+      "title": "计算方法 习题课幻灯片(249 张)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21350/#review-76125",
+        "note": "249 个幻灯片成员中仅取样第 1、2 段，全文未逐页核验；正文无年份信号，不推断年份与答案。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21350/#review-76125",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "e1c3aa0ea3b81101d6b36686ace069dc6dd5fe20e4795f78691f7e6242ceaae3",
+              "bytes": 4323583,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-MATH2001-72a4e7928ced7170",

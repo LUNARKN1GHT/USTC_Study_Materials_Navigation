@@ -90,10 +90,17 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ea1155e4b5d85525eb7b66d96b7f519c3ea09af5604bde320fdcea331a9e07f7",
+              "bytes": 152495,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

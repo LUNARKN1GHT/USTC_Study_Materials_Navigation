@@ -129,6 +129,134 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-019161-5d41a93d08ea6140",
+      "type": "study",
+      "title": "化学原理A 课程手写笔记(31 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19010/#review-106578",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19010/#review-106578",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "9dc8579550db8d54e7df8bba37d643a7661e5f7b4f15923aa14dad88a235656f",
+              "bytes": 80117627,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-019161-253fa0006062b0e6",
+      "type": "study",
+      "title": "化学原理A 课程手写笔记(绪论与第一章,10 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20677/#review-44390",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20677/#review-44390",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a746218276d5644a3865eb501a1ef4a0b4c041a30f4d3d0c53ebfad706e15bc1",
+              "bytes": 22256619,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-019161-822983cfc47e22fa",
+      "type": "study",
+      "title": "化学原理A 期中习题课资料(5 个附件)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1073/#review-52731",
+        "note": "原帖系列共 6 个 PDF；核验其中 5/6 个附件的完整字节及前两段可提取文本，正文含课程标识与习题类别。另 1 个附件与已收录公开文件完整字节一致，不另挂；不推断各附件年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1073/#review-52731",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "150ad11a1f7da2165eb1f4e993d73e6dc2761a4e78ca821a340f10bf7c1903f9",
+              "bytes": 380997,
+              "checked_at": "2026-11-19"
+            },
+            {
+              "sha256": "4fc055cdf10dee21ed2514487fbfd2def8fe052bf6fa9f9b533265ec240e940c",
+              "bytes": 2999961,
+              "checked_at": "2026-11-19"
+            },
+            {
+              "sha256": "94cc9c5c3af6dcbc3029de8502f1eabd831b7d5fd22db9d5dde8978da67f76f3",
+              "bytes": 4321802,
+              "checked_at": "2026-11-19"
+            },
+            {
+              "sha256": "aa71c53b43ba77ddb79b323cba1cc181a3aee66bf69611f58929bc4cab7930ef",
+              "bytes": 4902357,
+              "checked_at": "2026-11-19"
+            },
+            {
+              "sha256": "aade7c606ad907c465a68fe334ef433308ee9781f3af96867f726cdf9dfd0c69",
+              "bytes": 5086981,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-019161-79e95eab533ce59f",
       "type": "study",
       "title": "化学原理A：学习资料（20 个附件）",

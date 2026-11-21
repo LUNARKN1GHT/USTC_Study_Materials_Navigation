@@ -46,6 +46,47 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-022063-c9e8378ff5847ef3",
+      "type": "study",
+      "title": "热力学与统计物理B 复习笔记(Markdown源码合集,第1–3、6–9章)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4127/#review-56915",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 member_1..3.md/zip_listing.txt。28.7KB 轻量笔记压缩包，内含第1–3、6–9章共7份 Markdown 笔记及配图，无商业信息或个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4127/#review-56915",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "1898c3792f788ae17d504ca849d95ac85fd633092a5909eaeb7a02731fef32ab",
+              "bytes": 28658,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "7b845cab40fac07e08fcb5852a7e40ece8e841b2c3c4c2b18018b2e065b743fa",
+              "bytes": 529196,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-022063-97195e6f8cd5f7fe",
       "type": "study",
       "title": "自编讲义",

@@ -74,9 +74,46 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-CS4001-47040be1046f0121",
+      "type": "study",
+      "title": "数字图像处理与分析 课程思维导图(第1–10章)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20047/#review-46127",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 zip_listing.txt/数字图像处理与分析-第九章-目标表达概述.png。压缩包包含第 1–10 章课程思维导图 PNG，抽样清晰确认属于 CS4001 课程总结资料，无个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20047/#review-46127",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5e7f608499877c10caea74bd26e9aa69448fb7f67caf4cc9ae2a23db5a65e28b",
+              "bytes": 18760656,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
-    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）"
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "icourse-club": "USTC 评课社区"
   }
 }

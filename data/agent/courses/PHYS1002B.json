@@ -77,6 +77,47 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-PHYS1002B-c516464f52814cb2",
+      "type": "exams",
+      "title": "热学B 期末试卷及配套材料",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20195/#review-50046",
+        "note": "核验原帖 2/2 个附件。两页题卷核对第 1–8 题编号；八页配套件抽查第 1、2、3、8 页，含对应题文及多处解答标记。两件摘要不同，按一套试卷展示；年份和解答的完整性未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20195/#review-50046",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "61cf0d10262165ce3e9705960adb14540b889a8ce8bf31aadffecc5a3635ad99",
+              "bytes": 1289483,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "96e12eae82b00e3a23b52cc3999f47624d77442ba3b74f281271b0068b93e17a",
+              "bytes": 2292614,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-PHYS1002B-02b0e8a7aad8379e",
       "type": "exams",
       "title": "往年真题",
@@ -104,6 +145,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-PHYS1002B-adc0d877586238cf",
+      "type": "homework",
+      "title": "《热学(第二版)》教材习题解答(v1.0)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20194/#review-85779",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为《热学(第二版)》习题解答说明页，含2018版与2024版排版说明及v1.0更新日志；第2–3页为第1章教材课后习题1.1至1.4题目与完整求解过程。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20194/#review-85779",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "44b1064b8e329405f862323d1af1b42eba9759545046279135b9b25d022dee69",
+              "bytes": 1742538,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-PHYS1002B-f6e9606e29683055",
@@ -140,6 +217,78 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-PHYS1002B-80edb2c2e9aec4d1",
+      "type": "study",
+      "title": "热学B 考前手写复习大抄(两页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20194/#review-85779",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。第1页手写整理温度、分布函数、最概然/平均/方均根速率、自由度与能量均分原理、热传导与扩散、范德瓦尔斯气体、平均自由程与卡诺循环等；第2页手写整理物理常数、热一、焓与迈耶公式、热二表述与卡诺定理、各类过程及多方过程、热力学基本方程、熵增及压强统计解释。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20194/#review-85779",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "bbf2f3845e3b3ab642121a2ace1931058f1800d3226daa2dd8321e15aafcbfe7",
+              "bytes": 1844280,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-PHYS1002B-bcfd60a80d3381e1",
+      "type": "study",
+      "title": "热学B A4 复习纸(第 1–4 章知识点汇总)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19598/#review-33910",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。第1页排版整理第一章（热力学基础知识与温度）、第二章（热力学第一定律，含循环功与热机效率示例）及第三章开头；第2页续整理第三章（热力学第二定律与熵、TS图）与第四章（麦克斯韦－波尔兹曼分布律、泻流、能量均分定理），页尾带中科大整理落款。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19598/#review-33910",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "df38e648ac93a6fd39a55533a8ad40b7c77371e99bbdee27a60645c74ffebc8a",
+              "bytes": 800441,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
