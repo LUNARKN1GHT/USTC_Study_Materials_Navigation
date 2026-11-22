@@ -1615,6 +1615,37 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "gh-ddndles-qbank-stat2002",
+      "type": "study",
+      "title": "概率论与数理统计 结构化题库与知识点树（431 题 + 1 图，JSONL / SQLite）",
+      "authors": [
+        "DDNdles"
+      ],
+      "notes": "结构化题库目录 courses/STAT2002/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.svg），收录 431 道 Markdown+LaTeX 题目与分步解析，覆盖 2002–2026 学年共 36 套期中/期末真题（official 327 / community 0 / ai 104，3 题因缺表或设问不严隔离），第一套（2002–2003 期末）第一题附五开关桥式电路矢量 SVG 配图（1.6 KB）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/STAT2002/meta.json",
+        "note": "已核对仓库 courses/STAT2002/meta.json、taxonomy.json、questions.jsonl 与 assets/*（431 题，48 个知识点节点，1 题含 1 张 SVG 配图）；按官方课号 STAT2002 建目录，3 道缺表或设问不严题标为 quarantined=true，仓库不含原扫描 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ddndles-ustc-question-bank",
+          "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/STAT2002",
+          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
+          "attribution": "GitHub @DDNdles/USTC-Question-Bank（整理与结构化；上游来源见仓库 NOTICE.md）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-22"
+    },
+    {
       "id": "intake-STAT2002-c9056b6d8b7e4db9",
       "type": "study",
       "title": "概率论与数理统计 课程主页（张伟平）",
@@ -2038,6 +2069,7 @@
     "gh-wloner0809": "Wloner0809/ustc-course-resource",
     "gh-kobe972": "Kobe972/ustc_course_plus",
     "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）",
     "staff-ustc-zwp-probstat": "张伟平 概率论与数理统计课程页"
   }
 }

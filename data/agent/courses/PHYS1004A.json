@@ -562,6 +562,37 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "gh-ddndles-qbank-phys1004a",
+      "type": "study",
+      "title": "电磁学A 结构化题库、配图与知识点树（121 题 + 59 图，JSONL / SQLite）",
+      "authors": [
+        "DDNdles"
+      ],
+      "notes": "结构化题库目录 courses/PHYS1004A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 121 道 Markdown+LaTeX 题目与分步解析，覆盖 2017–2026 年期中/期末公共题、秦敢期中样题、各班回忆版及磁场习题课例题（official 43 / community 0 / ai 78，7 题低置信隔离），附 59 张灰度 WebP 与矢量化 SVG 配图（共 212.2 KB）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1004A/meta.json",
+        "note": "已核对仓库 courses/PHYS1004A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（121 题，47 个知识点节点，58 题含 59 张 WebP/SVG 配图）；按官方课号 PHYS1004A 建目录，7 道回忆版/模型歧义题标为 quarantined=true，仓库不含原扫描 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ddndles-ustc-question-bank",
+          "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1004A",
+          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
+          "attribution": "GitHub @DDNdles/USTC-Question-Bank（整理与结构化；上游来源见仓库 NOTICE.md）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-22"
+    },
+    {
       "id": "intake-login-PHYS1004A-5611ac117f865c5c",
       "type": "study",
       "title": "电磁学A 课程笔记",
@@ -681,6 +712,7 @@
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
     "feixu-alist": "feixu 学习资料分享站（AList）",
-    "icourse-club": "USTC 评课社区"
+    "icourse-club": "USTC 评课社区",
+    "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）"
   }
 }

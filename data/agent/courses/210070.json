@@ -678,6 +678,37 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "gh-ddndles-qbank-210070",
+      "type": "study",
+      "title": "数据结构及其算法 结构化题库、配图与知识点树（347 题 + 17 图，JSONL / SQLite）",
+      "authors": [
+        "DDNdles"
+      ],
+      "notes": "结构化题库目录 courses/210070/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 347 道 Markdown+LaTeX 题目（含 C 代码围栏），覆盖 2008–2024 年期末真题、《数据结构》试卷A、三次习题课讲义及六次课程作业（official 71 / community 145 / ai 131），附 17 张灰度 WebP 与矢量化 SVG 配图（共 102.1 KB）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/210070/meta.json",
+        "note": "已核对仓库 courses/210070/meta.json、taxonomy.json、questions.jsonl 与 assets/*（347 题，46 个知识点节点，17 题含 WebP/SVG 配图）；按官方课号 210070 建目录，仓库不含原扫描 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ddndles-ustc-question-bank",
+          "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210070",
+          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
+          "attribution": "GitHub @DDNdles/USTC-Question-Bank（整理与结构化；上游来源见仓库 NOTICE.md）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-22"
+    },
+    {
       "id": "intake-login-210070-37ce8a5530d2bce7",
       "type": "study",
       "title": "数据结构及其算法复习整理（对照考试范围）",
@@ -837,6 +868,7 @@
     "icourse-club": "USTC 评课社区",
     "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
     "ustcguide-gitbook": "USTC 课程资料簿（GitBook）",
+    "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）",
     "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
     "gh-mhy98-dsacodes": "2019 秋顾为兵《数据结构及其算法》实验题解与优秀代码",
     "gh-invictus-z-knight-tour": "DSA LAB5 马踏棋盘实验"

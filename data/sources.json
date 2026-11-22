@@ -1972,5 +1972,18 @@
     "kind": "website",
     "github": null,
     "notes": "中法数学英才班代数IV（环与模）授课教师课程页，公开提供习题。仅链接原页。"
+  },
+  {
+    "id": "gh-ddndles-ustc-question-bank",
+    "name": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）",
+    "url": "https://github.com/DDNdles/USTC-Question-Bank",
+    "maintainer": "DDNdles",
+    "kind": "repository",
+    "github": {
+      "owner": "DDNdles",
+      "repo": "USTC-Question-Bank",
+      "branch": "main"
+    },
+    "notes": "按中科大官方课号组织的结构化题库仓库（UTF-8 JSONL、知识点树 taxonomy.json、零依赖 Python 加载库与 SQLite FTS5 构建器），覆盖复变函数B（001548，571 题）、数学分析(B1)（MATH1006，445 题）、数学分析(B2)（MATH1007，569 题）、线性代数(B1)（MATH1009，885 题）、计算机程序设计（CS1003，1,533 题）、力学A（PHYS1001A，253 题 + 91 图）、热学A（PHYS1002A，352 题 + 48 图）、电磁学A（PHYS1004A，121 题 + 59 图）、数据结构及其算法（210070，347 题 + 17 图）、概率论与数理统计（STAT2002，431 题 + 1 图）、光学A（PHYS1003A，228 题 + 17 图）与数字逻辑电路（210050，92 题 + 72 图），合计 5,827 题。仓库代码、Schema 与元数据采用 MIT；NOTICE.md 明确第三方真题、教材习题及引用解答版权归原作者与出版社所有、不适用 MIT，仅供学习研究。"
   }
 ]

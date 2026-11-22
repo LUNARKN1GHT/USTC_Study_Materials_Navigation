@@ -700,6 +700,37 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "gh-ddndles-qbank-210050",
+      "type": "study",
+      "title": "数字逻辑电路 结构化题库与知识点树（92 题 + 72 图，JSONL / SQLite）",
+      "authors": [
+        "DDNdles"
+      ],
+      "notes": "结构化题库目录 courses/210050/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.{webp,svg}），收录 92 道 Markdown+LaTeX 题目与分步解析，覆盖 2015–2023 学年 7 套期末真题与 2020 秋 06 班模拟卷（official 29 / community 23 / ai 40），58 道带图题附按题精裁灰度 WebP 与去手写空白矢量 SVG 共 72 张（合计 526.8 KB）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/210050/meta.json",
+        "note": "已核对仓库 courses/210050/meta.json、taxonomy.json、questions.jsonl 与 assets/*（92 题，51 个知识点节点，58 题含 72 张 WebP/SVG 配图）；按官方课号 210050 建目录，2019–2020 与 2020–2021 助教手写答案标注为 origin=community，仓库不含原扫描 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ddndles-ustc-question-bank",
+          "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210050",
+          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
+          "attribution": "GitHub @DDNdles/USTC-Question-Bank（整理与结构化；上游来源见仓库 NOTICE.md）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-22"
+    },
+    {
       "id": "computing-lectures-gh-ly382965-210050-2fa-digital-logic-circuits",
       "type": "study",
       "title": "数字逻辑电路 资料（USTC_learning_materials）",
@@ -885,6 +916,7 @@
     "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）",
     "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
     "gh-xuzhen0913-digital-circuit": "数字逻辑电路课程资料整理"
   }
