@@ -24,7 +24,7 @@
 
 没有前端框架或第三方运行依赖。浏览器读 `dist/data/catalog.json`，不直接读原始数据，也不在搜索时请求第三方站点。所有页面用相对路径，改版后仍须支持部署到子路径。GitHub Actions 配置在 `.github/workflows/`，有配置不代表已上线。
 
-给 Agent 的使用方式是 README 的简短提示词，以及 `data/agent/index.json` 和 `data/agent/courses/` 下的逐课 JSON；后者也随 `dist/` 发布。保留既有路径和字段含义；`exercise_source`、`locations[].role`、`locations[].attachment_snapshots` 为可选字段。不另做 CLI、Skill 或 MCP。页脚统计口径与刷新频率见[访问统计](development.md#访问统计)。
+Agent 从 [查找中科大课程资料 Skill](../skills/ustc-course-materials/SKILL.md)、`data/agent/index.json` 和 `data/agent/courses/` 下的逐课 JSON 开始；索引和逐课文件随 `dist/` 发布。保留既有路径和字段含义；`exercise_source`、`locations[].role`、`locations[].attachment_snapshots` 为可选字段。页脚统计口径与刷新频率见[访问统计](development.md#访问统计)。
 
 ### 改版时保留什么
 

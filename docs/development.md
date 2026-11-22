@@ -3,6 +3,7 @@
 运行环境：Node.js >= 24、ESM，无第三方运行依赖。站点为原生 HTML/CSS/JS，构建产物是纯静态文件。
 
 协作流程（分支、PR、审核、合并与清理）见 [协作流程](workflow.md)。
+跨轮次、未排期的事项见 [长期待办](backlog.md)。
 
 ## 目录结构
 
@@ -140,7 +141,7 @@ npm run monitor -- --publish
 
 文件名为 `encodeURIComponent(code) + '.json'`；例如 `229001.json`、`PHYS1008B%2B.json`。通过 HTTP 读取时，对这个文件名再做一次 URL 路径编码，例如 `PHYS1008B%252B.json`。单课 JSON 中 `locations[].page_url` 是原始出处；`download_url` 只在确实登记时才有值，不能由页面地址推造。`has_resources: false` 表示暂未收录。
 
-交互和判定规则见 README 的提示词。不需要安装 Skill、CLI 或 MCP；不要把全站浏览器目录 `catalog.json` 当成默认查询入口。
+交互规则见 [查找中科大课程资料 Skill](../skills/ustc-course-materials/SKILL.md)。也可直接读取上述 JSON；不要把全站浏览器目录 `catalog.json` 当成默认查询入口。
 
 ## 搜索与 URL 参数
 
