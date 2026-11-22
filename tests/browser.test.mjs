@@ -294,7 +294,7 @@ function sendText(response, status, text) {
 }
 
 /** 只读服务 site/，并用内存中的合成 catalog 与 sources.html 覆盖对应路由。 */
-async function startSiteServer(catalog) {
+async function startSiteServer(catalog, { failCatalog = false } = {}) {
   const catalogBody = JSON.stringify(catalog);
   const sourcesBody = createFixtureSourcesHtml(catalog);
   const server = createServer(async (request, response) => {
@@ -311,6 +311,7 @@ async function startSiteServer(catalog) {
       return;
     }
     if (pathname === '/data/catalog.json') {
+      if (failCatalog) return sendText(response, 503, 'catalog unavailable');
       const headers = {
         'content-type': 'application/json; charset=utf-8',
         'content-length': Buffer.byteLength(catalogBody),
@@ -782,9 +783,9 @@ test(
   },
 );
 
-async function openBrowserEnv(t) {
+async function openBrowserEnv(t, options) {
   const catalog = createFixtureCatalog();
-  const { server, origin } = await startSiteServer(catalog);
+  const { server, origin } = await startSiteServer(catalog, options);
   const userDataDir = await mkdtemp(path.join(os.tmpdir(), 'ustc-nav-browser-'));
   const browser = launchBrowser(BROWSER_PATH, userDataDir);
   const port = await waitForDevToolsPort(path.join(userDataDir, 'DevToolsActivePort'), browser);
@@ -1133,3 +1134,13 @@ test(
     }
   },
 );
+
+test('首页目录加载失败时显示恢复提示', {
+  skip: !BROWSER_PATH,
+  timeout: 90000,
+}, async (t) => {
+  const { origin, cdp } = await openBrowserEnv(t, { failCatalog: true });
+  await cdp.send('Page.navigate', { url: `${origin}/` });
+  await cdp.waitFor(`document.querySelector('#load-error')?.textContent.includes('请刷新页面')`);
+  assert.equal(await cdp.evaluate(`document.querySelector('#load-error').checkVisibility()`), true);
+});

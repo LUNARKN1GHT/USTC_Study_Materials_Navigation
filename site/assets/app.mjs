@@ -1111,6 +1111,7 @@ async function main() {
 
 main().catch((error) => {
   console.error(error);
+  if (document.body.dataset.hero === 'centered') document.body.dataset.hero = 'expanded';
   showLoadError(
     '无法加载课程目录（data/catalog.json）。请刷新页面；若问题仍然存在，说明构建产物不完整，可先查看来源与检索记录。',
   );
