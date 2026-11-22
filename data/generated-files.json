@@ -2372,6 +2372,7 @@
     "dist/.nojekyll",
     "dist/assets/app.mjs",
     "dist/assets/health-evidence.mjs",
+    "dist/assets/logo.png",
     "dist/assets/mode.mjs",
     "dist/assets/search.mjs",
     "dist/assets/style.css",
