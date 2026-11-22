@@ -10,6 +10,42 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-HS1611-096e0bee5b07ef0f",
+      "type": "exams",
+      "title": "当我们谈论科学时 期末考试试卷(年份未核实)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22564/#review-91406",
+        "note": "7 页 PDF，取样第 1–4 页：第 1 页文本 900 字符检出课程码 HS1611，第 2 页 862 字符含「期末」「考试」，第 3 页 1,124、第 4 页 1,159 字符；年份字样 2018、2019（另有 1969 疑 OCR 噪声）并存，未定年；未逐页核对，未检出答案。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22564/#review-91406",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "3d4747e41a96a459bb7b4ece3b405d56df4ebe39df1889ecbbf85c27522175d3",
+              "bytes": 566281,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-HS1611-16d67c9769e95a41",
       "type": "study",
       "title": "当我们谈论科学时：学习资料（2 个附件）",

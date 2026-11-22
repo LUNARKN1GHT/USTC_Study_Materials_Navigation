@@ -6,7 +6,950 @@
   "tags": [
     "math"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "cfmath-001672-nonnenmacher-2024-partial",
+      "type": "exams",
+      "title": "分析IV：2024 年小测示例卷（Stéphane Nonnenmacher）",
+      "authors": [
+        "Stéphane Nonnenmacher"
+      ],
+      "notes": "中法班分析IV 2024 年实考小测，教师页公开供示例；非 2026 年真题。",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+        "note": "匿名完整 GET 核验示例卷首页卷头；2024 年实考供示例，不说是 2026 年真题。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/Examen-partiel2024.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "49ab01882b8b41e35fee5f7115aeeb52e7cd8d5a015373ebd0c131757512d258",
+            "bytes": 205583,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-001672-kortchemski-exam-2020-2021",
+      "type": "exams",
+      "title": "分析IV：2020-2021 期末试卷（Igor Kortchemski）",
+      "authors": [
+        "Igor Kortchemski"
+      ],
+      "notes": "中法班分析IV 2020-2021 学年期末试卷，教师页公开。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2020-2021"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+        "note": "匿名完整 GET 核验 2020-2021 试卷 PDF 首页卷头。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2020-2021.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "2ece74f8b4d94c0edd55c57370ad8bbd345a1f90a4e2e41267a247959960a38e",
+            "bytes": 229374,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-001672-kortchemski-exam-2021-2022",
+      "type": "exams",
+      "title": "分析IV：2021-2022 期末试卷（Igor Kortchemski）",
+      "authors": [
+        "Igor Kortchemski"
+      ],
+      "notes": "中法班分析IV 2021-2022 学年期末试卷，教师页公开。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2021-2022"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+        "note": "匿名完整 GET 核验 2021-2022 试卷 PDF 首页卷头。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2021-2022.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "fcb48e1b9bdc6efa2b2711e83f3bd3ea3057bf65f70b2c52f74729feb9024715",
+            "bytes": 208545,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-001672-kortchemski-exam-2022-2023",
+      "type": "exams",
+      "title": "分析IV：2022-2023 期末试卷（Igor Kortchemski）",
+      "authors": [
+        "Igor Kortchemski"
+      ],
+      "notes": "中法班分析IV 2022-2023 学年期末试卷，教师页公开并附解答。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2022-2023"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+        "note": "匿名完整 GET 核验 2022-2023 试卷与解答 PDF 首页卷头。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2022-2023.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "9ddb3d106043e37ffb148706b2f1417e773d4598e1313fc1616d981ab2300d82",
+            "bytes": 115460,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2022-2023-corrige.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "61a612c4e55c194696b6fdf002f0d48868540ec647a13136aabf4e3137c7f143",
+            "bytes": 241974,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-001672-kortchemski-exam-2023-2024",
+      "type": "exams",
+      "title": "分析IV：2023-2024 期末试卷（Igor Kortchemski）",
+      "authors": [
+        "Igor Kortchemski"
+      ],
+      "notes": "中法班分析IV 2023-2024 学年期末试卷，教师页公开并附解答。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2023-2024"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+        "note": "匿名完整 GET 核验 2023-2024 试卷与解答 PDF 首页卷头。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2023-2024.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "4a9da70f8ee35435b10f7e9c94ac090443932b9a0390244ca9bd97cc3be3119b",
+            "bytes": 119705,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2023-2024-corrige.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "7ca20bed1392afdb9cd61b5418b9852fd57161ddbf3eb4c89b3136310f725d12",
+            "bytes": 161644,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-001672-kortchemski-exam-2025-2026",
+      "type": "exams",
+      "title": "分析IV：2025-2026 期末试卷（Igor Kortchemski）",
+      "authors": [
+        "Igor Kortchemski"
+      ],
+      "notes": "中法班分析IV 2025-2026 学年期末试卷，教师页公开并附解答。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2025-2026"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+        "note": "匿名完整 GET 核验 2025-2026 试卷与解答 PDF 首页卷头。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2025-2026.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "dad24867ea2400b67545797fe1b197bdcdab2836675e34fdfef936f8e2613087",
+            "bytes": 126831,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2025-2026-corrige.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "5f1a5364efb0e362fa51899f5128f01761ce43691b81c21d129795390c2bd8ab",
+            "bytes": 181799,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-001672-kortchemski-review-2022-2023",
+      "type": "study",
+      "title": "分析IV：2022-2023 考前课程问题（Igor Kortchemski）",
+      "authors": [
+        "Igor Kortchemski"
+      ],
+      "notes": "中法班分析IV 2022-2023 学年考前公布的课程问题，教师页公开；不当真题。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2022-2023"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+        "note": "匿名完整 GET 核验考前课程问题 PDF 首页；为考前公布的问题，不当真题。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2022-2023-cours.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "50eab77e74a00c7fb8cc0b82229258111d91252c88d15196c418ae89a17bd4d6",
+            "bytes": 66394,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-001672-kortchemski-review-2023-2024",
+      "type": "study",
+      "title": "分析IV：2023-2024 考前课程问题（Igor Kortchemski）",
+      "authors": [
+        "Igor Kortchemski"
+      ],
+      "notes": "中法班分析IV 2023-2024 学年考前公布的课程问题，教师页公开；不当真题。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2023-2024"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+        "note": "匿名完整 GET 核验考前课程问题 PDF 首页；为考前公布的问题，不当真题。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2023-2024-cours.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "35e42747f5cda50354bb7443c5a9e6790f314b7bcb64aeb8b57c68bffa62cbdc",
+            "bytes": 66730,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-001672-kortchemski-review-2025-2026",
+      "type": "study",
+      "title": "分析IV：2025-2026 考前课程问题（Igor Kortchemski）",
+      "authors": [
+        "Igor Kortchemski"
+      ],
+      "notes": "中法班分析IV 2025-2026 学年考前公布的课程问题，教师页公开；不当真题。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2025-2026"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+        "note": "匿名完整 GET 核验考前课程问题 PDF 首页；为考前公布的问题，不当真题。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/USTC-AnalyseIV-examen-2025-2026-cours.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "aa7c9e8aac090ec9c3da723767e00195d40f02c6b0cc1188c23d376f67e00e3d",
+            "bytes": 66648,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-001672-nonnenmacher-notes",
+      "type": "study",
+      "title": "分析IV：测度、积分与概率讲义（Stéphane Nonnenmacher）",
+      "authors": [
+        "Stéphane Nonnenmacher"
+      ],
+      "notes": "中法班分析IV 测度、积分与概率讲义，教师页列为采用版（2024 PDF）。原页另列 2021 旧版，但该直链返回 404，未收录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2025-2026"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+        "note": "匿名完整 GET 核验 2024 版 PDF 首页与代表页；2021 旧版直链 404，记受阻不造空条目。讲义版本年不混同课程学年。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/Cours_USTC_Integration+Probabilites_2024.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "cf17abc40107ce321b19687448dfea1c5089291691242bdfe5048f18c1d019f6",
+            "bytes": 1424373,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-notes-001672-kortchemski",
+      "type": "study",
+      "title": "分析IV：概率论与常微分方程（法语笔记）",
+      "authors": [],
+      "notes": "Igor Kortchemski 授课部分；收录的是学生笔记站的部分课次，不是整门分析IV。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2025-2026"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+        "note": "教师课程主页明确标明中科大中法班 Analysis IV 2025–2026；原站列出 6 个课次，抽读独立性一课正文。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-notes",
+          "page_url": "https://cfmath-notes.pages.dev/cours/analyse-iv/igor-kortchemski/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原站公开提供；仅链接，不转载。",
+          "attribution": "CFMath Notes；授课 Igor Kortchemski。",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-001672-nonnenmacher-sets",
+      "type": "study",
+      "title": "分析IV：集合论复习（Stéphane Nonnenmacher）",
+      "authors": [
+        "Stéphane Nonnenmacher"
+      ],
+      "notes": "中法班分析IV 集合论复习讲义，教师页公开提供。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2025-2026"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+        "note": "匿名完整 GET 核验集合复习 PDF 首页正文。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/Rappels_ensembles.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "f341e64750a89f8266234b3f21a651ce3716fc0b49c2eb7937b882e43b907fdb",
+            "bytes": 210630,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-001672-kortchemski-notes",
+      "type": "study",
+      "title": "分析IV：教师讲义（Igor Kortchemski）",
+      "authors": [
+        "Igor Kortchemski"
+      ],
+      "notes": "中法班分析IV 教师讲义，教师页公开 cours1–cours16 共 16 份 PDF，按序合一条。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2025-2026"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+        "note": "匿名完整 GET 核验 16 份讲义 PDF 均可达且为 application/pdf；教师页标明 2025–2026 学年。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours1.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "692bd56a778cbbee19dc892e57931a18687522e308f72dea3284ac3841ca1526",
+            "bytes": 14897627,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours2.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "316805b8e3517d2f378b91dc89dab8f2365c4d09c1f820060cacdc48318ed9ba",
+            "bytes": 15924558,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours3.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "d210ee5fe122108e9c899ccaeeaabede6ac0878d3fdc34853446d74e8317448f",
+            "bytes": 15638851,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours4.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "a562a865944d0a69377f6321e41c1d06829bcec1f9289dc580f2fdc4a1d76158",
+            "bytes": 18671886,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours5.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "c8ed87f83d2280292a4db866c6b9655dd5eaeca117c8a459afc725deee27a3e6",
+            "bytes": 20010051,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours6.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "de00b3a3ca4b7d273b5f85420e6004d61d3135097f5da1606a164eb52e2dfe8a",
+            "bytes": 7236805,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours7.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "52f5c5eff41692afc9d1552262552d7d8f5f15752c5844b0b4f830b5f70f8939",
+            "bytes": 18363010,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours8.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "9e96314002ad6751fa881de5bf9240a1c9212afb7240a1d9d212bc9eb0772ec8",
+            "bytes": 16115643,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours9.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "88109a34d40bbf729479064245a553c97d56649d3a7b758edcc83592760d64cb",
+            "bytes": 15318607,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours10.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "cd16ec649dd3ff084327ef78d024a73b2841080c3b0466513e28c2e7dad72702",
+            "bytes": 20119709,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours11.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "f8ec67e487c12ce80dddd4e2ca022f064986e4b6fe14e8219db2b51ee83971bc",
+            "bytes": 25996217,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours12.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "db0cd87a03290e038328e7c0b2ed1cab9a19007e751a5feec00951c8eff2cacc",
+            "bytes": 19149837,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours13.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "5697b2ab98306b2412a85cbd642754d375e09d1fa9e0f2c1c889bd0f26d702a6",
+            "bytes": 16997904,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours14.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "775ac66cee5a780f1bb8050ea867cad59c4da9e1136677eead679a46c1c9186f",
+            "bytes": 16773977,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours15.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "12ea552897a794c42edf8a8da18749154d39f22c277f2f750f5375004d95a794",
+            "bytes": 20195626,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-kortchemski",
+          "page_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/",
+          "download_page": null,
+          "download_url": "https://igor-kortchemski.perso.math.cnrs.fr/USTC/docs/cours16.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Igor Kortchemski",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "5d3aa881975eb6c1b17e1c1ce625bf4a66c992fb39ea115ff3c4d7e3c4c580bf",
+            "bytes": 16228974,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-001672-nonnenmacher-video",
+      "type": "study",
+      "title": "分析IV：课堂录像（Stéphane Nonnenmacher）",
+      "authors": [
+        "Stéphane Nonnenmacher"
+      ],
+      "notes": "中法班分析IV 配套课堂录像，教师页公开 6 次录像；仅核匿名 206 与 video/mp4 类型，未整件下载。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2025-2026"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+        "note": "匿名范围请求核验 6 次录像均 206、video/mp4、accept-ranges=bytes；不整件下载、不设快照。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-video-03-03-2026.mp4",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-video-05-03-2026.mp4",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-video-21-04-2026.mp4",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-video-23-04-2026.mp4",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-video-28-04-2026.mp4",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-video-30-04-2026.mp4",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-001672-nonnenmacher-ipad",
+      "type": "study",
+      "title": "分析IV：iPad 课堂笔记（Stéphane Nonnenmacher）",
+      "authors": [
+        "Stéphane Nonnenmacher"
+      ],
+      "notes": "中法班分析IV 课堂笔记，教师页原列 6 次 iPad 笔记；03-03 那次直链 404 未收录，实收 5 次。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2025-2026"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+        "note": "匿名完整 GET 核验 5 次 iPad 笔记 PDF 首页与代表页；03-03 直链 404，记受阻。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-ipad-05-03-2026.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "fdd06cd8d5b0ed47445232852c438611ff6d55ec82c97d1817b5cf40a183be9b",
+            "bytes": 5570246,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-ipad-21-04-2026.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "87c1c195f3b4c11414c959f7db237255e27d060858ffc48e546a3e888f3eb961",
+            "bytes": 5007563,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-ipad-23-04-2026.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "8280620caa6511a2ba7958da908fdf44e29813be4ebd4cd5aba5a5824741a3bc",
+            "bytes": 5453325,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-ipad-28-04-2026.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "1c4d49d92510d49d6989fec67c3beb11f8c22edcc0a6cb512b973f87ea4a2054",
+            "bytes": 5256872,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-nonnenmacher",
+          "page_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC_2026.html",
+          "download_page": null,
+          "download_url": "https://www.imo.universite-paris-saclay.fr/~stephane.nonnenmacher/enseign/USTC-ipad-30-04-2026.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Stéphane Nonnenmacher",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "c69d617c08e26827d834de41093eb965847f3e1ccbc93cf6e0ed74d27404a872",
+            "bytes": 5678410,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    }
+  ],
+  "sources": {
+    "cfmath-nonnenmacher": "Stéphane Nonnenmacher 教学页",
+    "cfmath-kortchemski": "Igor Kortchemski 教学页",
+    "cfmath-notes": "CFMath Notes（中法数学英才班学生笔记站）"
+  }
 }

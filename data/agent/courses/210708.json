@@ -10,6 +10,80 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-210708-ee02c3bb33998d21",
+      "type": "exams",
+      "title": "2021 春《数字图像处理B》期末考试回忆版试题",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/13729/#review-34134",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13729/#review-34134",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "e3b6055badf968d89b107e2f2848ee43d235c8e2fdabba9dce9d412811e84583",
+              "bytes": 106333,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-210708-944bd6a981b9d7a4",
+      "type": "exams",
+      "title": "数字图像处理B 期末试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13729/#review-97899",
+        "note": "仅首页 470 字符与第 2 页 175 字符取样，未逐题核验；正文未读出年份与学期，附件名 DIP-B_25Fall.pdf 不作年份依据；未见答案。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13729/#review-97899",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "18a099f6520cc55a96dcf5f27119c71fbed19dfe417be829aed52c21cb183efb",
+              "bytes": 1294430,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-210708-5a317b684d06910c",
       "type": "projects",
       "title": "数字图像处理B（2024 秋）实验代码 lab1–lab7",
@@ -40,6 +114,7 @@
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "gh-zhuyh1139-dip": "Zhuyh1139/ustc-2024-fall-dip（2024秋数字图像处理B实验）"
   }
 }

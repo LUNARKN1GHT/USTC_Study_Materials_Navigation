@@ -181,6 +181,78 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-PHYS1004C-95d99ef9d6434c2d",
+      "type": "exams",
+      "title": "电磁学 历年期末试卷及部分解答合集(8 份 PDF)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21899/#review-54108",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 zip_listing。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21899/#review-54108",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "fe69b90d473b4379094eb5b31c242c0c50610de0b0fc852f5beed8ff4d776671",
+              "bytes": 4308331,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-PHYS1004C-175edccc683b2cd8",
+      "type": "exams",
+      "title": "电磁学C 期末试卷(21 页,年份未核实)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/23768/#review-75011",
+        "note": "21 页中取样第 1 页与随后一段：第 1 页 490 字符含课程码 PHYS1004C 与「期末」「试卷」，第二段 359 字符无课程码与类别词；年份、卷别细节、是否含解答均未核实，全文未逐页核验。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/23768/#review-75011",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b965f5da41c7f565c2b562eca7259ab283bc19a20fed800d33db1daebfb70f84",
+              "bytes": 558462,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-PHYS1004C-745b2bc447b82fcf",
       "type": "exams",
       "title": "电磁学C 期末试题（回忆版）",
@@ -237,6 +309,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-PHYS1004C-2ef4992b4c317ada",
+      "type": "homework",
+      "title": "电磁学C 习题答案",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/23768/#review-75011",
+        "note": "取样第 1–4 页（共 133 页）；第 1 页文本层含「习题」，附件名为「习题答案」；未逐页核验，年份与适用学期未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/23768/#review-75011",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "78b697fb38c4ba9510177fa3b08e9c828d007bca955d72d6edd802ea8221d358",
+              "bytes": 1792939,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-PHYS1004C-8cd1aaefde169810",
@@ -324,6 +432,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-PHYS1004C-6d23817780a08758",
+      "type": "study",
+      "title": "电磁学C 期中考试知识总结",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/23768/#review-75011",
+        "note": "取样第 1–4 页（共 12 页）；「期中」「考试」出自总结标题语境，按知识总结归 study；年份未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/23768/#review-75011",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6474a37a47ee4493ada393a3f6155f117a5685a06f17995d3f16b7dc0e3d0a92",
+              "bytes": 360122,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-phys1004c-lectures-7a9076",

@@ -37,9 +37,46 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-EE1506-d3e69872b34ac366",
+      "type": "projects",
+      "title": "单片机应用 综合设计大作业:音乐播放器(含源码与设计文档)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14006/#review-52950",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 archive_listing.txt/单片机应用/综合设计/综合设计.md。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14006/#review-52950",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "3dea105d00e1e57d2cf03a18bc0fbce101266dda2db056fc4772cb5ee0ea80f6",
+              "bytes": 354526,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
-    "ustc-git-sharp-basic51": "Sharp/basic51（USTC GitLab）"
+    "ustc-git-sharp-basic51": "Sharp/basic51（USTC GitLab）",
+    "icourse-club": "USTC 评课社区"
   }
 }

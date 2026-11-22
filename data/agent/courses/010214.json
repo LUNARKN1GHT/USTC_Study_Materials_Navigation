@@ -782,6 +782,42 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-010214-4c7a9dae5771512b",
+      "type": "study",
+      "title": "计算机控制:半开卷复习小抄(第 1-8 章知识点汇总)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6157/#review-69171",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。共 2 页高密度多栏复习小抄，覆盖《计算机控制》采样重构、Z 变换、数学模型、稳定判据、数字控制器设计及 MPC 等公式结论。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6157/#review-69171",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "4c15f3fb6e1a974462e9e30e60f855490d68ab930d7dca5dc24ae7b8b553b346",
+              "bytes": 315801,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "eng-open_book-010214-1fad3ed1",
       "type": "study",
       "title": "计算机控制大抄",
@@ -877,6 +913,7 @@
   ],
   "sources": {
     "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
-    "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）"
+    "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）",
+    "icourse-club": "USTC 评课社区"
   }
 }

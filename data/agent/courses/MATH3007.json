@@ -1273,6 +1273,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-MATH3007-2ba1aca375457037",
+      "type": "study",
+      "title": "概率论课程讲义(64 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/3839/#review-74329",
+        "note": "64 页；取样第 1–4 页文本层，第 1、4 页含「Lecture」，第 4 页含 MATH3007；未见考试/作业/试卷类标签；未逐页核对；附件名 document1.pdf。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/3839/#review-74329",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "d5a911afc277c24e7382ec6e4145ebb7a5a00a7d410c0e6f3ed88d9366c2f90a",
+              "bytes": 905456,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-MATH3007-c0558828cc2c27a2",
       "type": "study",
       "title": "概率论习题课讲义",

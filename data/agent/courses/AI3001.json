@@ -38,6 +38,49 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-AI3001-ea504c6e87802538",
+      "type": "study",
+      "title": "机器学习 课件/讲义（2 份）",
+      "authors": [],
+      "notes": "第1页首页标明课程「EE3001 机器学习 2025年秋季学期」「第三讲：偏差-方差分解」及日期2025年10月9日，第1节引入平方误差估计；第2–3页推导回归平方损失泛函与变分法最优解（条件期望）。；第1页首页标明「EE3001 机器学习 2025年秋季学期」「第四讲：凸集」及日期2025年10月9日，第1节引入岭回归、Lasso与凸优化背景；第2–3页系统定义仿射集、仿射组合、相对内部、凸组合、凸包与凸集交集/仿射变换性质。",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/26224/#review-97235",
+        "note": "同一匿名原帖 2 个附件，整件 SHA-256 与字节数逐个实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/26224/#review-97235",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "9a3eb599cd511aa54e4a11613799638872d3adfb40f4b57bd907a1b142831baa",
+              "bytes": 687755,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "b682a70da792461bcbc45b3d4a302c09054d00ff0ba7e02474e8eef676e6db9b",
+              "bytes": 746181,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-AI3001-3ec94ae273936f26",
       "type": "study",
       "title": "机器学习A 第二讲：线性回归课件",

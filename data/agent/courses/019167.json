@@ -6,7 +6,160 @@
   "tags": [
     "chemistry"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-019167-09f824ee05d3f080",
+      "type": "exams",
+      "title": "合成化学 2016 秋期末考试试卷(回忆整理版)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/1299/#review-27653",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。2 页 PDF，抬头为「中国科学技术大学 2016—2017 学年度第一学期期末考试试卷」，涵盖无机化学、有机化学与高分子化学共三部分试题，未附解答，无个人隐私信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1299/#review-27653",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "41723ad11569c543cf4d7f988372d13aea6dc4c1a29de787788b0ffa3ef8f1ed",
+              "bytes": 156587,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-019167-4dd3d05628875b07",
+      "type": "study",
+      "title": "合成化学 高分子部分课件(2018秋)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1299/#review-27653",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。读取 zip_listing.txt 与前 3 个 .ppt 成员的 doc_strings.txt，确认为聚合物结构与性质、分子量及其分布测定、逐步聚合与缩聚工程课件（2018年秋），无个人隐私信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1299/#review-27653",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "28b13935c088fd79f47dbbf76d74b60f40450ef91ab507b920ca56899130d340",
+              "bytes": 11926934,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-019167-96df6755320ba997",
+      "type": "study",
+      "title": "合成化学 无机化学部分课程课件(5 份 PDF)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1299/#review-27653",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 member_1:p1-p2/member_2:p1-p2/member_3:p1-p2/zip_listing.txt。55,678,913 字节 ZIP 内含 5 份 PDF，抽样前 3 份 PDF 的第 1—2 页均带有中国科学技术大学校徽版式，分别讲授「第二章 传统固相合成」「合成化学的未来与展望」「微波辅助合成」，确认属 019167《合成化学》无机部分授课课件，无个人隐私信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1299/#review-27653",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ec2e70976d9eb3abe452a627e455d3fd01957ddc559888e2d3e861484380e181",
+              "bytes": 55678913,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-019167-2f65424100fa0cb2",
+      "type": "study",
+      "title": "合成化学 有机部分课件(2018秋)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1299/#review-27653",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。读取 zip_listing.txt 与前 3 个 .ppt 成员的 doc_strings.txt，确认为《合成化学》有机反应机理、逆合成分析策略与不对称氧化课件（2018年秋），无个人隐私信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1299/#review-27653",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "d38f6f231bc49df744ac672a81e441b1b652b0c8a1ad963a78c8cb605f349277",
+              "bytes": 5406018,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

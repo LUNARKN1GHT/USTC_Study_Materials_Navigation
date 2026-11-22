@@ -113,7 +113,7 @@ function showLoadError(message) {
 function renderSiteStats(stats) {
   const container = document.getElementById('site-stats');
   if (!container) return;
-  const keys = ['repo_views_yesterday', 'repo_views_14d', 'site_views_today', 'site_total_views', 'collected_at'];
+  const keys = ['repo_views_yesterday', 'repo_views_14d', 'site_views_yesterday', 'site_total_views', 'collected_at'];
   let visibleCount = 0;
 
   for (const key of keys) {
@@ -122,13 +122,13 @@ function renderSiteStats(stats) {
     if (!item || !valueNode) continue;
     const raw = stats?.[key];
     const date = key === 'repo_views_yesterday' ? stats?.repo_views_date_utc
-      : key === 'site_views_today' ? stats?.site_views_date_utc : null;
+      : key === 'site_views_yesterday' ? stats?.site_views_date_utc : null;
     const dateNode = item.querySelector('[data-stat-date]');
     if (dateNode) dateNode.textContent = date ? ` · ${date}` : '';
     if (key === 'collected_at' && raw) valueNode.dateTime = raw;
     const text = key === 'collected_at' ? stats?.collected_at_beijing
       : Number.isSafeInteger(raw) && raw >= 0 ? raw.toLocaleString('zh-CN')
-        : key === 'repo_views_yesterday' && date ? '暂无数据' : null;
+        : date ? '暂无数据' : null;
     valueNode.textContent = text ?? '';
     item.hidden = !text;
     if (text) visibleCount += 1;
@@ -144,7 +144,9 @@ function initIndex(catalog) {
   const typeSelect = document.getElementById('type');
   const yearGroup = document.getElementById('year-group');
   const yearSelect = document.getElementById('year');
-  const tagGroup = document.getElementById('tag-group');
+  const tagToggleGroup = document.getElementById('tag-toggle-group');
+  const tagToggle = document.getElementById('tag-toggle');
+  const tagDrawer = document.getElementById('tag-drawer');
   const tagOptions = document.getElementById('tag-options');
   const tagCount = document.getElementById('tag-count');
   const courseList = document.getElementById('course-list');
@@ -155,8 +157,15 @@ function initIndex(catalog) {
   const resultStatus = document.getElementById('result-status');
   const noResults = document.getElementById('no-results');
   const noResultsText = document.getElementById('no-results-text');
-  const noResultsClear = document.getElementById('no-results-clear');
-  const clearButton = document.getElementById('clear-filters');
+  const clearSearchButton = document.getElementById('clear-search');
+  const searchWrap = qInput?.closest('.search-input-wrap') ?? null;
+  const pageHero = document.querySelector('.page-hero');
+  const searchSection = document.querySelector('main search');
+  const heroPulse = document.getElementById('hero-pulse');
+  const heroPulseText = document.getElementById('hero-pulse-text');
+  const heroBrowseAll = document.getElementById('hero-browse-all');
+  const resultsSection = document.querySelector('.results');
+  const siteFooter = document.querySelector('.site-footer');
   const resultsHeading = document.getElementById('results-heading');
 
   const schema = state.schema;
@@ -179,12 +188,90 @@ function initIndex(catalog) {
     url.search = serializeFilters(initial).toString();
     history.replaceState(null, '', url);
   }
+  const hasInitialFilters = serializeFilters(initial).toString() !== '';
+  const isInitiallyDetailed = document.body.dataset.mode === 'detailed';
+  document.body.dataset.hero = !hasInitialFilters && !isInitiallyDetailed ? 'centered' : 'expanded';
+
+  if (heroPulse && heroPulseText) {
+    const courseTotal = catalog.counts?.courses ?? catalog.courses.length;
+    const withTotal = catalog.counts?.with_resources
+      ?? catalog.courses.filter((c) => courseResources(c).length > 0).length;
+    const resTotal = catalog.counts?.resources
+      ?? catalog.courses.reduce((sum, c) => sum + courseResources(c).length, 0);
+    heroPulseText.textContent = `已索引 ${courseTotal.toLocaleString('zh-CN')} 门本科课 · ${withTotal.toLocaleString('zh-CN')} 门含资料 · ${resTotal.toLocaleString('zh-CN')} 条资料`;
+    heroPulse.hidden = false;
+  }
+
   render(initial, { sync: false });
 
   let debounceTimer = 0;
 
+  function expandHero({ animate = true } = {}) {
+    if (document.body.dataset.hero !== 'centered') return;
+    const reduceMotion = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
+    const heroBefore = pageHero?.getBoundingClientRect().top ?? 0;
+    const searchBefore = searchSection?.getBoundingClientRect().top ?? 0;
+
+    document.body.dataset.hero = 'expanded';
+
+    if (!animate || reduceMotion) return;
+    const timing = { duration: 360, easing: 'cubic-bezier(0.22, 1, 0.36, 1)' };
+    if (pageHero?.animate) {
+      const dy = heroBefore - pageHero.getBoundingClientRect().top;
+      if (Math.abs(dy) > 1) {
+        pageHero.animate(
+          [{ transform: `translateY(${dy}px)` }, { transform: 'translateY(0)' }],
+          timing,
+        );
+      }
+    }
+    if (searchSection?.animate) {
+      const dy = searchBefore - searchSection.getBoundingClientRect().top;
+      if (Math.abs(dy) > 1) {
+        searchSection.animate(
+          [{ transform: `translateY(${dy}px)` }, { transform: 'translateY(0)' }],
+          timing,
+        );
+      }
+    }
+    for (const node of [resultsSection, siteFooter]) {
+      if (node?.animate) {
+        node.animate(
+          [
+            { opacity: 0, transform: 'translateY(14px)' },
+            { opacity: 1, transform: 'translateY(0)' },
+          ],
+          { duration: 320, easing: 'cubic-bezier(0.22, 1, 0.36, 1)', fill: 'backwards' },
+        );
+      }
+    }
+  }
+
+  qInput.addEventListener('focus', () => expandHero());
+  if (searchWrap) {
+    searchWrap.addEventListener('pointerdown', () => expandHero());
+    searchWrap.addEventListener('click', () => expandHero());
+  }
+  if (heroBrowseAll) {
+    heroBrowseAll.addEventListener('click', () => {
+      expandHero();
+      if (resultsHeading) resultsHeading.focus();
+    });
+  }
+  window.addEventListener('ustc-mode-change', (event) => {
+    if (event.detail?.mode === 'detailed') expandHero();
+  });
+
+  if (tagToggle) {
+    tagToggle.addEventListener('click', () => {
+      const isOpen = tagDrawer?.dataset.open === 'true';
+      setTagDrawerOpen(!isOpen);
+    });
+  }
+
   form.addEventListener('submit', (event) => {
     event.preventDefault();
+    expandHero();
     window.clearTimeout(debounceTimer);
     page = 1;
     const filters = readFilters();
@@ -195,7 +282,8 @@ function initIndex(catalog) {
   form.addEventListener('reset', () => {
     window.clearTimeout(debounceTimer);
     window.setTimeout(() => {
-      if (tagGroup) tagGroup.open = false;
+      yearSelect.value = 'all';
+      setTagDrawerOpen(false);
       updateTagCount();
       updateYearOptions();
       page = 1;
@@ -217,6 +305,8 @@ function initIndex(catalog) {
   });
 
   qInput.addEventListener('input', () => {
+    expandHero();
+    syncSearchWrapState();
     window.clearTimeout(debounceTimer);
     debounceTimer = window.setTimeout(() => {
       page = 1;
@@ -225,13 +315,16 @@ function initIndex(catalog) {
     }, 250);
   });
 
-  noResultsClear.addEventListener('click', () => {
-    form.reset();
-  });
+  if (clearSearchButton) {
+    clearSearchButton.addEventListener('click', () => {
+      form.reset();
+    });
+  }
 
   window.addEventListener('popstate', () => {
     page = 1;
     const filters = parseFilters(new URLSearchParams(location.search), schema);
+    if (serializeFilters(filters).toString() !== '') expandHero({ animate: false });
     applyControls(filters);
     updateYearOptions();
     yearSelect.value = filters.year;
@@ -258,13 +351,23 @@ function initIndex(catalog) {
     }
   }
 
+  function setTagDrawerOpen(open) {
+    if (!tagDrawer || !tagToggle) return;
+    const next = Boolean(open);
+    tagDrawer.dataset.open = next ? 'true' : 'false';
+    tagDrawer.inert = !next;
+    tagToggle.setAttribute('aria-expanded', String(next));
+  }
+
   function buildTagOptions() {
     const tags = Array.isArray(catalog.tags) ? catalog.tags : [];
     if (tags.length === 0) {
-      tagGroup.hidden = true;
+      if (tagToggleGroup) tagToggleGroup.hidden = true;
+      if (tagDrawer) tagDrawer.hidden = true;
       return;
     }
-    tagGroup.hidden = false;
+    if (tagToggleGroup) tagToggleGroup.hidden = false;
+    if (tagDrawer) tagDrawer.hidden = false;
     const fragment = document.createDocumentFragment();
     for (const tag of tags) {
       const label = el('label', 'tag-option');
@@ -279,6 +382,7 @@ function initIndex(catalog) {
       fragment.append(label);
     }
     tagOptions.replaceChildren(fragment);
+    setTagDrawerOpen(false);
     updateTagCount();
   }
 
@@ -353,7 +457,13 @@ function initIndex(catalog) {
       input.checked = filters.tags.includes(input.value);
     }
     updateTagCount();
-    if (filters.tags.length > 0 && tagGroup) tagGroup.open = true;
+    if (filters.tags.length > 0) setTagDrawerOpen(true);
+  }
+
+  function syncSearchWrapState(active = false) {
+    if (!searchWrap) return;
+    if (active || qInput.value.length > 0) searchWrap.dataset.hasValue = 'true';
+    else delete searchWrap.dataset.hasValue;
   }
 
   function render(filters, { sync = true, push = false } = {}) {
@@ -377,10 +487,7 @@ function initIndex(catalog) {
     const total = catalog.courses.length;
     const withCount = results.filter((course) => courseResources(course).length > 0).length;
     const active = serializeFilters(filters).toString() !== '';
-    if (clearButton) {
-      if (active) clearButton.dataset.active = 'true';
-      else delete clearButton.dataset.active;
-    }
+    syncSearchWrapState(active);
 
     let statusText;
     if (filters.status === 'none') {
@@ -400,12 +507,12 @@ function initIndex(catalog) {
       if (filters.status === 'none') {
         setText(
           noResultsText,
-          '两种收录状态都未勾选，因此没有课程可显示。请勾选“已收录资料”或“暂未收录资料”，或点击下方按钮清除筛选。',
+          '两种收录状态都未勾选，当前不显示任何课程。',
         );
       } else if (active) {
         setText(
           noResultsText,
-          `没有同时满足这些条件的课程：${describeFilters(filters, { kindLabels, tagLabels, typeLabels })}。可以清除部分条件后重试。`,
+          `没有同时满足这些条件的课程：${describeFilters(filters, { kindLabels, tagLabels, typeLabels })}。`,
         );
       } else {
         setText(noResultsText, '课程目录中没有可显示的课程，可能是构建数据缺失。');
@@ -714,24 +821,25 @@ function renderResource(resource, labels) {
     }
     titleWrap.append(badgeRow);
   }
-  if (resource.exercise_source || solutions.length) {
-    const references = el('p', 'resource-notes exercise-references');
-    if (resource.exercise_source) references.append(`出处：${resource.exercise_source}`);
-    const keys = new Set(plan.keys);
-    for (const { page_url, download_page, download_url } of solutions) {
-      const url = safeExternalUrl(download_url ?? download_page ?? page_url);
-      const key = canonicalUrlKey(url);
-      if (!key || keys.has(key)) continue;
-      keys.add(key);
-      if (references.childNodes.length) references.append(' · ');
-      const link = externalLink(url, '配套解答');
-      link.setAttribute('aria-label', `${resource.title}：配套解答（新标签页打开）`);
-      references.append(link);
-    }
-    if (references.childNodes.length) titleWrap.append(references);
+  const solutionLinks = [];
+  const seenKeys = new Set(plan.keys);
+  for (const { page_url, download_page, download_url } of solutions) {
+    const url = safeExternalUrl(download_url ?? download_page ?? page_url);
+    const key = canonicalUrlKey(url);
+    if (!key || seenKeys.has(key)) continue;
+    seenKeys.add(key);
+    solutionLinks.push(url);
+  }
+  if (resource.exercise_source) {
+    titleWrap.append(el('p', 'resource-notes exercise-references', `出处：${resource.exercise_source}`));
   }
   head.append(titleWrap);
-  head.append(renderCompactLinks(plan, labels, solutions.length > 0 ? resource.title : ''));
+  head.append(
+    renderCompactLinks(plan, labels, {
+      exerciseTitle: solutionLinks.length > 0 ? resource.title : '',
+      solutionLinks,
+    }),
+  );
   article.append(head);
 
   const detail = el('div', 'mode-detail resource-detail');
@@ -759,17 +867,22 @@ function renderResource(resource, labels) {
     detail.append(p);
   }
 
-  if (plan.details.length === 0) {
+  const detailSolutions = solutions
+    .map((location) => {
+      const url = safeExternalUrl(location.download_url ?? location.download_page ?? location.page_url);
+      if (!url) return null;
+      return { location, entries: [{ url, label: '配套解答' }] };
+    })
+    .filter(Boolean);
+
+  if (plan.details.length === 0 && detailSolutions.length === 0) {
     detail.append(el('p', 'empty-type', '该资料尚未登记可用的原始入口。'));
   } else {
     const list = el('ul', 'locations');
     list.setAttribute('role', 'list');
     plan.details.forEach((entry, index) => list.append(renderLocation(entry, labels, index)));
-    for (const location of solutions) {
-      if (location.file_snapshot) {
-        const entry = { url: location.download_url, label: '配套解答' };
-        list.append(renderLocation({ location, entries: [entry] }, labels, 0));
-      }
+    for (const entry of detailSolutions) {
+      list.append(renderLocation(entry, labels, 0));
     }
     detail.append(list);
   }
@@ -781,35 +894,56 @@ function renderResource(resource, labels) {
 }
 
 /** 简洁行：原始出处与最直接的资料入口。 */
-function renderCompactLinks(plan, labels, exerciseTitle) {
+function renderCompactLinks(plan, labels, { exerciseTitle = '', solutionLinks = [] } = {}) {
   const line = el('div', 'location-links compact-links mode-compact');
-  if (!plan.compact) {
+  if (!plan.compact && solutionLinks.length === 0) {
     line.append(el('span', 'source-note', '尚未登记可用的原始入口。'));
     return line;
   }
-  const compact = plan.compact;
-  if (compact.original) {
-    const { location, entry } = compact.original;
-    const group = el('div', 'compact-link-group');
-    group.append(
-      el('span', 'source-note', `来源：${sourceNames(labels.sourceNames, location.source_id)}`),
-      externalLink(entry.url, entry.label),
-    );
-    line.append(group);
+  if (plan.compact) {
+    const compact = plan.compact;
+    if (compact.original) {
+      const { location, entry } = compact.original;
+      const group = el('div', 'compact-link-group');
+      group.append(
+        el('span', 'source-note', `来源：${sourceNames(labels.sourceNames, location.source_id)}`),
+        externalLink(entry.url, entry.label),
+      );
+      line.append(group);
+    }
+    const mainGroup = el('div', 'compact-link-group');
+    if (!compact.original || compact.original.location.source_id !== compact.location.source_id) {
+      const label = compact.original ? '另见' : '来源';
+      mainGroup.append(
+        el('span', 'source-note', `${label}：${sourceNames(labels.sourceNames, compact.location.source_id)}`),
+      );
+    }
+    const actions = el('div', 'compact-link-actions');
+    const link = externalLink(compact.entry.url, exerciseTitle ? '题目' : compact.entry.label);
+    if (exerciseTitle) {
+      link.setAttribute('aria-label', `${exerciseTitle}：题目（新标签页打开）`);
+    }
+    actions.append(link);
+    for (const url of solutionLinks) {
+      const solLink = externalLink(url, '配套解答');
+      if (exerciseTitle) {
+        solLink.setAttribute('aria-label', `${exerciseTitle}：配套解答（新标签页打开）`);
+      }
+      actions.append(solLink);
+    }
+    mainGroup.append(actions);
+    line.append(mainGroup);
+  } else if (solutionLinks.length > 0) {
+    const actions = el('div', 'compact-link-actions');
+    for (const url of solutionLinks) {
+      const solLink = externalLink(url, '配套解答');
+      if (exerciseTitle) {
+        solLink.setAttribute('aria-label', `${exerciseTitle}：配套解答（新标签页打开）`);
+      }
+      actions.append(solLink);
+    }
+    line.append(actions);
   }
-  const mainGroup = el('div', 'compact-link-group');
-  if (!compact.original || compact.original.location.source_id !== compact.location.source_id) {
-    const label = compact.original ? '另见' : '来源';
-    mainGroup.append(
-      el('span', 'source-note', `${label}：${sourceNames(labels.sourceNames, compact.location.source_id)}`),
-    );
-  }
-  const link = externalLink(compact.entry.url, exerciseTitle ? '题目' : compact.entry.label);
-  if (exerciseTitle) {
-    link.setAttribute('aria-label', `${exerciseTitle}：题目（新标签页打开）`);
-  }
-  mainGroup.append(link);
-  line.append(mainGroup);
   return line;
 }
 
@@ -961,6 +1095,9 @@ function renderHealth(entry, labels) {
 /* ============================== 启动 ============================== */
 
 async function main() {
+  if (document.body.dataset.page === 'index' && document.body.dataset.mode !== 'detailed' && !location.search) {
+    document.body.dataset.hero = 'centered';
+  }
   const catalog = await loadCatalog();
   state.schema = schemaFromCatalog(catalog);
   renderSiteStats(catalog.stats);
@@ -974,6 +1111,7 @@ async function main() {
 
 main().catch((error) => {
   console.error(error);
+  if (document.body.dataset.hero === 'centered') document.body.dataset.hero = 'expanded';
   showLoadError(
     '无法加载课程目录（data/catalog.json）。请刷新页面；若问题仍然存在，说明构建产物不完整，可先查看来源与检索记录。',
   );

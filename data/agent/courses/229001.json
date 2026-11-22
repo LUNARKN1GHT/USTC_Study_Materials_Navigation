@@ -322,6 +322,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-229001-f0d6753675cc1648",
+      "type": "study",
+      "title": "离散数学 讲义与习题",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22485/#review-102166",
+        "note": "61 页；第 1 页仅 12–13 字符（封面图），第 2 页 87/88 字符含课程码 229001 与「作业」「讲义」，第 3–4 页为目录（1,412/1,502 字符）；正文未逐页核验，年份与是否含解答未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22485/#review-102166",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "0ea89dea5bd2b08d13fe17a07e8f4450ac8361c7426c10749052cc4c5f1cd716",
+              "bytes": 666688,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-229001-2b6c227130952f83",
       "type": "study",
       "title": "离散数学复习提纲",

@@ -1,5 +1,9 @@
 # 更新日志
 
+## 2026-11-23
+
+- 发布「也西书架」新版界面，补充中法班和评课资料；仓库与网站日浏览统一显示 UTC 昨日。
+
 ## 2026-11-19
 
 - 新增 150 条资料：144 条来自 GitHub 用户 [Amsors](https://github.com/Amsors) 提供的评课数据包，6 条来自 [USTC-Course](https://github.com/USTC-Resource/USTC-Course)。全站共 1,557 条，256 门课有资料，其中 37 门首次收录。

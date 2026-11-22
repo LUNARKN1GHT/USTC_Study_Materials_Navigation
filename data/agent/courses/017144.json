@@ -580,6 +580,42 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-017144-d57fb36e5ee1c279",
+      "type": "exams",
+      "title": "随机过程B 期末试卷(年份未核实)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6777/#review-87547",
+        "note": "8 页 PDF，抽读前四页；前两页均有本课程和期末试卷标识。年份及解答未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6777/#review-87547",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "193bb9e02c7e9ed6810b1f2f0a326e527c51a21f59b95011a566951c6011af0b",
+              "bytes": 385437,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-017144-616d607a9991e415",
       "type": "exams",
       "title": "随机过程B 试卷",
@@ -826,6 +862,163 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-017144-86f520cee81442f0",
+      "type": "homework",
+      "title": "随机过程B 《方兆本随机过程第三版》习题答案整理(2024 版)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25880/#review-100006",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/toc (60p)。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25880/#review-100006",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "2476fed4024b80b4faed8a73742f8b9d7e42a12141a7cf8e659b1ea4606d504d",
+              "bytes": 399510,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-017144-42a13743e154864f",
+      "type": "homework",
+      "title": "随机过程B 2024秋 随堂测试(原卷)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/6780/#review-91494",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。共2页PDF；第1页卷头为「中国科学技术大学 2024学年秋季学期随堂测试」「考试科目：随机过程」，含7小题与三大计算证明题，无解答。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6780/#review-91494",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "330f725f1533ece2b3631b85af158872d802df0d647a9c4f8eaf0fa710c6aa07",
+              "bytes": 210482,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "df461e93128f8a0b862ff2971ea7f571a7d8b06609ff7f5824dcc71b29b3f170",
+              "bytes": 356791,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-017144-2ac8615734047aa5",
+      "type": "homework",
+      "title": "随机过程B 教材第三版课后习题答案整理(2023修订)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6780/#review-91494",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。共60页PDF；第1页标注教材第三版答案整理（2023年10月修订）及第1—4章目录，第2页起为第一章引论1.1、1.2题题干与完整证明求解。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6780/#review-91494",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a48257dc6e680d1a39df45659cc18e0fc4a454633eae7dd455a4ec4d89b87a7e",
+              "bytes": 400998,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-017144-cccfa155c37c9f7e",
+      "type": "homework",
+      "title": "随机过程B 教材课后习题解析(2018未完成版)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6780/#review-91494",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。共49页PDF；第1页封面标明「随机过程习题解析（未完成版）」及日期2018-01-09，第2—3页包含第一章1.1—1.5题完整题干与解答。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6780/#review-91494",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6ac78da2daf1e663daa2bba58e1a74e8b166c8d6db504b5d3155d4a63805c061",
+              "bytes": 494552,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-017144-362cce0f55203ee9",
@@ -1117,6 +1310,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-017144-3441107bb13c7ad5",
+      "type": "study",
+      "title": "随机过程B 考前复习大抄(两页手写整理)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18996/#review-94029",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18996/#review-94029",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "205f2352571548015220163149321758083ad5c70285468aacf9ecc9c9b4959a",
+              "bytes": 997843,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-017144-57b78d4b317bd8ba",

@@ -117,6 +117,44 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-MATH1010-55845a52eff87568",
+      "type": "exams",
+      "title": "线性代数(B2) 2022—2023 学年第一学期期末考试试卷(2023-02-23)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/5494/#review-58315",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 image1.jpg (p1-2)/image2.jpg (p3-4)/image3.jpg (p5-6)。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5494/#review-58315",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "62b05299fdbe0628b7bae157e8320788961304cfbad67bc6538e00481367f9c7",
+              "bytes": 154742,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-uexam-math1010-2023-final-462fe4",
       "type": "exams",
       "title": "线性代数B2 2023 期末",
@@ -413,6 +451,78 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-MATH1010-99c77e2782b73f15",
+      "type": "exams",
+      "title": "线性代数(B2) 期末试卷(年份未核实)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5493/#review-89897",
+        "note": "2 页全文取样；正文无年份信号，不推断年份；卷别「期末」取自正文类别词，不推断学年与答案。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5493/#review-89897",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "de211d944bb869a04125b9988a840f36526c18fff39201031d173cd2b89431d0",
+              "bytes": 161561,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-MATH1010-5c34222ab96486e6",
+      "type": "exams",
+      "title": "线性代数(B2) 期中试卷(扫描残卷)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/5494/#review-81564",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5494/#review-81564",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "da7abc998c21d0eb9fafd5ce6339cc717e060243ccd49ba1bbc6696ffe45bf65",
+              "bytes": 993449,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-MATH1010-228e4df2326ffd97",
       "type": "exams",
       "title": "线性代数(B2)：试题与解析（3 个附件）",
@@ -436,10 +546,17 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "d2047f9564835fd95eba54a94f09694704251a61f0c6ef9542659e9ac166c887",
+              "bytes": 1100767,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-MATH1010-13e8c0c6271815d4",
@@ -531,7 +648,7 @@
   ],
   "sources": {
     "ustc-math-exam": "USTC 数学课程往年试卷",
-    "feixu-alist": "feixu 学习资料分享站（AList）",
-    "icourse-club": "USTC 评课社区"
+    "icourse-club": "USTC 评课社区",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
   }
 }

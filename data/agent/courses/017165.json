@@ -32,10 +32,17 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6b66e4c74b92d8adbbab44ee8e6a0148dcfa00c2467b5dc4e751ecfe249865e4",
+              "bytes": 1234615,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "hum-017165-homework-timeseries",
@@ -114,6 +121,44 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-017165-3c83a91548938ec2",
+      "type": "study",
+      "title": "金融时间序列分析讲义(2025年春季学期,1247页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25613/#review-103240",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。1247页课程网页汇编讲义（2025年春），覆盖 R 软件与金融时间序列模型、单位根过程与预测等，无商业出版标识。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25613/#review-103240",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "8de56e9dd303064c92ae7f32b6a7d8e9889bc5b0407988ff83e59427f8691355",
+              "bytes": 21929902,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

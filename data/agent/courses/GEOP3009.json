@@ -97,6 +97,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-GEOP3009-7ec603f8ea3e24ef",
+      "type": "study",
+      "title": "空间物理学导论:太阳物理复习笔记",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22553/#review-96555",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。第 1-4 页（共 29 页，页脚标《太阳物理》）依次涵盖 CH.1 太阳概况与思考题及 CH.2 较差自转与对流不稳定性推导，正文未印制年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22553/#review-96555",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "bada16161be149ea6a9d15ce59e060af7d7f76e89a88a7c9375291345b1aa5b9",
+              "bytes": 4847510,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-GEOP3009-17ca1f26af19f250",
       "type": "study",
       "title": "空间物理学导论：学习资料（2 个附件）",

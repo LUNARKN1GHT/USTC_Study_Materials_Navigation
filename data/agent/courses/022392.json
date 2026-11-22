@@ -467,6 +467,44 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-022392-0e698b2cd8697cc4",
+      "type": "exams",
+      "title": "理论力学A 试卷与参考答案(2022 年)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/19015/#review-42365",
+        "note": "取样第 1–4 页（共 5 页）：第 1 页含考试/试卷/姓名/学号与 2022，第 3 页含参考答案；附件名 202201 指向 2022 年 1 月，未在正文检出期末/期中字样，故卷别留未知；库内 2021 期中/2020 期末等条目与本件 SHA 不同。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19015/#review-42365",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a73b86e773d5cfa5d7ba324dd616d94b9096929d2747a9a1eaadbef8846dfe09",
+              "bytes": 626793,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-uexam-022392-2020-final-488048",
       "type": "exams",
       "title": "理论力学 2020 期末",
@@ -660,6 +698,82 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-022392-d256a4d4722a16ac",
+      "type": "exams",
+      "title": "理论力学A 2021 期中考试参考答案",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19015/#review-42365",
+        "note": "3 页 PDF，取样第 1–2 页：第 1 页文本层 704 字符同时检出课程码 022392、「期中」「考试」「参考答案」与 2021，第 2 页另有 850 字符可提取文本；文件本身带「参考答案」页首词，故 has_solutions=true，是否覆盖全部题目未核实。与库内两份 2021 期中卷是否配套未逐题比对。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19015/#review-42365",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "eed964fb581864df37002d5b6e2330402f152cc4a2cdacbe6d564bdcbf442917",
+              "bytes": 376188,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022392-ea7dafe5bb24b53a",
+      "type": "exams",
+      "title": "理论力学A 2021 期中试题(11月卷)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20689/#review-44348",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。第 1–2 页为排版试题，含课程号 022392.06、2021 年 11 月 21 日期中时间标记及第一至第六大题完整题面。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20689/#review-44348",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "67f6d412002f7e2f8c16161f603d060389a27345c8e610b332b2a028faef407d",
+              "bytes": 148642,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-uexam-022392-2020-final-04cf91",
@@ -1067,6 +1181,42 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-022392-951574e323808f1f",
+      "type": "exams",
+      "title": "理论力学A 2019—2020学年第一学期考试试卷(A卷,原卷)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/4526/#review-40430",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。共3页完整试题PDF，卷头为「2019～2020 学年第一学期考试试卷（A卷，闭卷）」，含磁单极子拉格朗日/哈密顿量、落体正则变换、拉格朗日陀螺、Runge-Lenz矢量泊松括号、圆盘无滑动滚动5题及第3页常用公式附录，无解答。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4526/#review-40430",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "70ebc1612e5ab24f7763afbab35a2b35c4f561bc963a9bd1dc14eb00a5a0f149",
+              "bytes": 143411,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-022392-eb411fe0df3889b6",
       "type": "exams",
       "title": "理论力学A 考卷照片（2022 秋）",
@@ -1144,6 +1294,78 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-022392-a82eb8a0549c1cad",
+      "type": "exams",
+      "title": "理论力学A 考试试卷(6题原卷,年份及卷别正文未标)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/4526/#review-40430",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。共3页完整试题PDF，包含正则变换、一维谐振子泊松括号、哈密顿-雅可比方法、单摆相图、中心力散射与重对称圆锥陀螺共6道大题，无完整解答，卷面未标注年份与期中/期末。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4526/#review-40430",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "acf601dea4a39256f65f1e8f0fb6be9c8154a148747e92bc8aaa28db589d1162",
+              "bytes": 345345,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022392-0070c718ffd0250f",
+      "type": "exams",
+      "title": "理论力学A 期末考试参考答案与评分标准",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/4526/#review-40430",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。共 3 页完整参考答案与评分标准，涵盖循环坐标与哈密顿正则方程、泊松定理、电磁场哈密顿量与母函数、开普勒问题作用角变量及刚体转动欧拉动力学方程共 5 题详解与给分点，无个人隐私信息与年份标注。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4526/#review-40430",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ae8156a64f18713b423b14120f20be78f19b1f1dc9fc4bdca8cbab3ee0470003",
+              "bytes": 1094025,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-022392-3cde41e611ff41e1",
@@ -1231,6 +1453,44 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-022392-a370f88be9b05b22",
+      "type": "homework",
+      "title": "理论力学A 2021 作业",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19015/#review-42365",
+        "note": "3 页 PDF，取样第 1–2 页：第 1 页文本层 948 字符同时检出课程码 022392、类别词「作业」与年份 2021，第 2 页另有 1,079 字符可提取文本；全文未逐页核验，题目数与是否含解答未核实。库内 022392 无同 SHA 文件。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19015/#review-42365",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "d4ceb993e5d11daffa62bf56f852232a1949ebfa74ec80369ea64226cb7e16f1",
+              "bytes": 113574,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-022392-723cb90069475dd1",
@@ -1364,9 +1624,217 @@
             "bytes": 2436574,
             "checked_at": "2026-11-19"
           }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4524/#review-71585",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "df242a0ad3de1bfef7a12b1d9b458763305ecd2054830c4d4710a4129a4b35e4",
+              "bytes": 42859419,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022392-c06c270609981e84",
+      "type": "study",
+      "title": "理论力学A 课程讲义:理论力学(二)哈密顿力学",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4526/#review-40430",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。共116页PDF；第1页标题为「理论力学（二） 哈密顿力学」，第2—3页讲述「拉格朗日方程的降阶」及广义动量引入，页面未见年份标注。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4526/#review-40430",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "31a652d5049dc287e2914883de52532e966b74142cf3f401390a19a2562cc1a6",
+              "bytes": 2500279,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022392-b289096e78ecd21a",
+      "type": "study",
+      "title": "理论力学A 课程讲义第一部分(2021修改稿)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4526/#review-40430",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。共105页PDF；第1页标题为「理论力学（2021修改稿）」，第2页介绍课程使用教材《力学与理论力学（下册）》（科学出版社，2017）及教学安排，第3页列出中外参考书目，属课程教学讲义。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4526/#review-40430",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "054c82559fb4e5b65d229ef10e5567574b0db86b4e21b1563e5b67417587ef60",
+              "bytes": 2674367,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "6267f1402c37ca146f011d624240e96da9b41873c263695a77fdc8e2f0a9beb5",
+              "bytes": 2509487,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022392-d094e8b215bed5b1",
+      "type": "study",
+      "title": "理论力学A 课程讲义与答疑合集(2024 春,16 份 PDF)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4523/#review-85233",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 zip_listing.txt/讲义/0.绪论.pdf:p1-2/讲义/00.选课说明.pdf:p1/讲义/1.数学准备.pdf:p1-2。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4523/#review-85233",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "0cb895343380d73788f1c14ea4a91f82946fc99799b2d4a3f22a03b9fbb7e110",
+              "bytes": 9717276,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022392-f294d920455e20dc",
+      "type": "study",
+      "title": "理论力学A 课程学习笔记(161 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21889/#review-71935",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21889/#review-71935",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "4ae2602245d42da5cbcb4366236f6f837c857d3519eb96e8db4e741196cfa47b",
+              "bytes": 2934759,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022392-3a731848d65e7a5b",
+      "type": "study",
+      "title": "理论力学A 课程资料汇编(讲义、2023 秋作业、编程作业与历年试题,67 个文件)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4525/#review-72057",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 zip_listing.txt/布置的作业/hw1.pdf#p1/布置的作业/hw10.pdf#p1/布置的作业/hw11.pdf#p1。67 个成员涵盖教学大纲、讲义、2023秋平时作业及部分答案、编程作业与历年试题；抽样 3 份作业首页标明「《理论力学Ａ》（2023 年秋季）平时作业」，无商业教材扫描件或个人隐私信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4525/#review-72057",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ce11a2a4716bae0c5e9f1ec6ee389172ff749b5e990aabd8484c680aafd3dd91",
+              "bytes": 58900487,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-022392-5846d092c9b3accf",
@@ -1536,6 +2004,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-022392-39c32aefe3203cbb",
+      "type": "study",
+      "title": "理论力学A 手写课堂笔记(59页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4524/#review-15160",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。59页手写《理论力学A》笔记（含绪论、SO(3)与张量运算），非商业教材，无个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4524/#review-15160",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "55ac6775280b8b7f3466ce6d5b16673390dc8a9228a551477e98a7c19ff2d6f5",
+              "bytes": 12059000,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-022392-notes-326e6c",

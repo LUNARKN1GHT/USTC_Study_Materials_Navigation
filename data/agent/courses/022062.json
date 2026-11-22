@@ -635,6 +635,45 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-022062-343feba4a0d9cc32",
+      "type": "exams",
+      "title": "热力学与统计物理A 历年试卷与课件压缩包(16个成员)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2018,
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/12612/#review-73703",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 member_1:1-2/member_2:1-2/member_3:1-2/zip_listing.txt。16成员ZIP合集，抽样确认含中科大022062多年度试卷（其中2018春期中、2019春均附完整解答），无个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12612/#review-73703",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "566afd9b7a602c3539930d79655ddddc568579052f16037619198ed2c068ced3",
+              "bytes": 17536307,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-uexam-022062-2018-final-ceb2de",
       "type": "exams",
       "title": "热力学与统计物理 2018 期末",

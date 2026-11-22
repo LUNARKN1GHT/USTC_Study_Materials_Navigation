@@ -33,9 +33,51 @@
           "license_note": "评课社区用户上传的点评附件，需登录下载；页面未声明再分发许可，仅导航原页面。",
           "attribution": "USTC 评课社区用户上传（课程页 24650，文件“生物技术1.pdf、生物技术2.pdf、生物技术3.pdf、生物技术4.pdf、生物技术5.pdf、生物技术6.pdf”）",
           "page_kind": null
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24650/#review-100701",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "02163fdb9d151c3cad36ec7b31b5327220a0cd86fa113c0acb17c8cc10a3ed7b",
+              "bytes": 1315225,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "2eba22b181b9de68d9ea3ee5a0e2b4bbbd571c326ea214c9bcca24f886578944",
+              "bytes": 7002421,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "56c618bf8d77af5baf44eece8ef72db62c2ee063c51c30ecf01a6317a5ed3c60",
+              "bytes": 8209478,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "9331dfd705c43e745c3fcd796d39272c277c4e0f7ecadd36c2c85282d625cc5a",
+              "bytes": 7263385,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "b5678f9cfae12074b6ada3310e3bd628241026ef367ece890de34f3dea1473c8",
+              "bytes": 446495,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "cec3ca7e1767a39edd9dcfcc489deb47caccb7410460d20037e633bf7cee620e",
+              "bytes": 5401495,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

@@ -362,10 +362,17 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "2f5ea182aea48903e57267a1cc7860c6df52687cc9acf3e444eaa7ce3b2d24c1",
+              "bytes": 4024368,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "computing-projects-gh-ustc-course-plus-011705-h",

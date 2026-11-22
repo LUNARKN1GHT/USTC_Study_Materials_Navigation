@@ -284,11 +284,11 @@ function buildCatalog(dataset) {
 
   const withResources = courses.filter((course) => course.has_resources).length;
   const rawStats = dataset.traffic ?? {};
-  const stats = Object.fromEntries(['repo_views_yesterday', 'repo_views_14d', 'site_views_today', 'site_total_views'].map(key => {
+  const stats = Object.fromEntries(['repo_views_yesterday', 'repo_views_14d', 'site_views_yesterday', 'site_total_views'].map(key => {
     const value = rawStats[key];
     return [key, Number.isSafeInteger(value) && value >= 0 ? value : null];
   }));
-  for (const [key, field] of [['repo_views_yesterday', 'repo_views_date_utc'], ['site_views_today', 'site_views_date_utc']]) {
+  for (const [key, field] of [['repo_views_yesterday', 'repo_views_date_utc'], ['site_views_yesterday', 'site_views_date_utc']]) {
     stats[field] = /^\d{4}-\d{2}-\d{2}$/u.test(rawStats[field] ?? '') ? rawStats[field] : null;
     if (!stats[field]) stats[key] = null;
   }
@@ -689,20 +689,22 @@ function renderSourcesHtml(report) {
   const statLabels = {
     repo_views_yesterday: '仓库昨日浏览（UTC）',
     repo_views_14d: '仓库浏览（近 14 天）',
-    site_views_today: '网站浏览（今日，UTC）',
+    site_views_yesterday: '网站昨日浏览（UTC）',
     site_total_views: '网站累计浏览次数',
   };
-  const hasStats = Object.keys(statLabels).some(key => stats[key] != null) || stats.repo_views_date_utc || stats.collected_at;
+  const hasStats = Object.keys(statLabels).some(key => stats[key] != null) || stats.repo_views_date_utc || stats.site_views_date_utc || stats.collected_at;
 
   const parts = [];
   parts.push(`<!doctype html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-theme="light">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <meta name="color-scheme" content="light dark">
     <meta name="description" content="课程资料导航的来源、检索记录、受阻项与致谢。">
-    <title>来源、检索记录与致谢 · 中科大本科课程资料导航</title>
+    <title>来源、检索记录与致谢 · 也西书架</title>
+    <link rel="icon" type="image/png" href="assets/logo.png">
+    <script>try{var t=localStorage.getItem('ustc-course-nav.theme');document.documentElement.dataset.theme=t==='dark'||t==='system'?t:'light';}catch{document.documentElement.dataset.theme='light';}</script>
     <link rel="stylesheet" href="assets/style.css">
     <script type="module" src="assets/mode.mjs"></script>
   </head>
@@ -712,11 +714,36 @@ function renderSourcesHtml(report) {
       <div class="wrap header-inner">
         <p class="brand">
           <a href="./">
-            <span class="brand-mark" aria-hidden="true">USTC</span>
-            <span class="brand-text">中科大本科课程资料导航</span>
+            <img class="brand-logo" src="assets/logo.png" alt="" width="28" height="28">
+            <span class="brand-text">也西书架</span>
           </a>
         </p>
         <nav class="site-nav" aria-label="主导航">
+          <div class="nav-icon-group">
+            <button type="button" class="icon-circle-btn mode-icon-btn" data-mode-toggle aria-pressed="false" aria-label="切换简洁或详细模式" hidden>
+              <svg class="icon-mode-compact" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <rect x="4" y="2.5" width="12" height="15" rx="2"></rect>
+                <path d="M7.5 7.5h5M7.5 11.5h3.5"></path>
+              </svg>
+              <svg class="icon-mode-detailed" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <rect x="4" y="2.5" width="12" height="15" rx="2"></rect>
+                <path d="M7 6.5h6M7 9.5h6M7 12.5h6M7 15h4"></path>
+              </svg>
+            </button>
+            <button type="button" class="icon-circle-btn theme-icon-btn" data-theme-toggle aria-label="切换外观主题" hidden>
+              <svg class="icon-theme-light" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="10" cy="10" r="3.5"></circle>
+                <path d="M10 2.5v1.5M10 16v1.5M2.5 10H4M16 10h1.5M4.7 4.7l1.05 1.05M14.25 14.25l1.05 1.05M15.3 4.7l-1.05 1.05M5.75 14.25l-1.05 1.05"></path>
+              </svg>
+              <svg class="icon-theme-dark" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M16.2 12.6A6.8 6.8 0 0 1 7.4 3.8a7 7 0 1 0 8.8 8.8Z"></path>
+              </svg>
+              <svg class="icon-theme-system" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <rect x="2.75" y="3.5" width="14.5" height="9.75" rx="1.6"></rect>
+                <path d="M7.5 16.5h5M10 13.25v3.25"></path>
+              </svg>
+            </button>
+          </div>
           <a href="./">课程目录</a>
           <a href="sources.html" aria-current="page">来源与致谢</a>
         </nav>
@@ -732,14 +759,6 @@ function renderSourcesHtml(report) {
           <h1>来源、检索记录与致谢</h1>
           <p class="intro">本页由构建脚本从来源与检索记录生成。资料版权归原作者；具体授权以各来源和文件页面的声明为准。</p>
         </div>
-        <button type="button" class="secondary mode-switch" data-mode-toggle aria-pressed="false" hidden>
-          <span class="mode-switch-prefix">显示模式</span>
-          <span class="mode-switch-track" aria-hidden="true">
-            <span class="mode-switch-opt" data-mode-opt="compact">简洁</span>
-            <span class="mode-switch-opt" data-mode-opt="detailed">详细</span>
-          </span>
-          <span class="visually-hidden">（切换简洁或详细模式）</span>
-        </button>
       </header>
 `);
 
@@ -900,8 +919,8 @@ function renderSourcesHtml(report) {
           ${Object.entries(statLabels).map(([key, label]) => {
             const value = stats[key];
             const date = key === 'repo_views_yesterday' ? stats.repo_views_date_utc
-              : key === 'site_views_today' ? stats.site_views_date_utc : null;
-            const visible = value != null || (key === 'repo_views_yesterday' && date);
+              : key === 'site_views_yesterday' ? stats.site_views_date_utc : null;
+            const visible = value != null || date;
             return `<div class="stat-pill" data-stat-item="${key}"${visible ? '' : ' hidden'}>
             <dt>${label}${date ? ` · ${escapeHtml(date)}` : ''}</dt>
             <dd data-stat-value="${key}">${value?.toLocaleString('zh-CN') ?? (visible ? '暂无数据' : '')}</dd>

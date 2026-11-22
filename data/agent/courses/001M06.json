@@ -65,10 +65,47 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-001M06-871179453bc6cbfd",
+      "type": "projects",
+      "title": "计算机图形学前沿 课程综述报告:3D 生成模型进展",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6125/#review-71808",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6125/#review-71808",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "133694172f5b40523a36da9d6ad7fe22cb3b302dfc0c229e37d887bae6733a11",
+              "bytes": 2515939,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
     "gcl-ustc-summer-2023": "2023 中科大计算机图形学暑期课程",
-    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
+    "icourse-club": "USTC 评课社区"
   }
 }

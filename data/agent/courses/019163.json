@@ -69,6 +69,103 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-019163-7c24b6b3e5d32c82",
+      "type": "study",
+      "title": "化学原理B 课程课件、作业与参考解答合集(ZIP)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12862/#review-24427",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 sample_1/sample_2/sample_3/zip_listing。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12862/#review-24427",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b25a38b45808fcbda5c1b751f732866ed2d6a2eeec5d5076e26d802fc7a3f82e",
+              "bytes": 102983887,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-019163-3b92be55465767dd",
+      "type": "study",
+      "title": "化学原理B 课件/讲义（6 份）",
+      "authors": [],
+      "notes": "全 45 页横版教学 PPT 课件：第 1 页「第2章 气体」物质三态对比；第 2 页气体热力学/生活实例图示；第 3 页给出第 2 章 7 节完整大纲（理想/实际气体定律、分压/分体积定律、格拉罕姆扩散定律、气体分子运动论与速率/能量分布）。；全 14 页横版教学 PPT 课件：第 1 页「第3章 液体和相变」大纲（§3.1 液体结构至 §3.6 液体与液晶）；第 2 页「§3.1 液体的结构（structure of liquids）」近程有序/远程无序；第 3 页液体微观结构示意图与基本特征。；33 页课堂课件 PDF，第 1–3 页为「第八章 电离平衡与酸碱理论」提要、§8.1–8.4 目录及 §8.1 电解质溶液正文；无年份。；62 页课堂课件 PDF，第 1–3 页为「第10章 氧化还原反应与电化学」§10.1–10.5 目录、六项内容提要及 §10.1 氧化还原概念演变；无年份。；97 页课堂课件 PDF，第 1–3 页为「第11章 原子结构和元素周期律」封面、五项教学要点及 §11.1 节标题；无年份。；85 页课堂课件 PDF，第 1–3 页为「第12章 化学键与分子结构」封面、主要内容及教学重点（Lewis/VB/VSEPR/MO 等）；无年份。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14198/#review-31974",
+        "note": "同一匿名原帖 6 个附件，整件 SHA-256 与字节数逐个实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14198/#review-31974",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "2e0f7b9841e50b2eac54d40526fbf60bee92958ec82f80263f667535d0795469",
+              "bytes": 2123267,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "573f5bc85ef2dc7f158342d36d956f37f4d8f34672493dc1f02dc2e2d462ff28",
+              "bytes": 6187354,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "6f35c9c297c05dbb12a145297b0be1a9b122ccf0122c4e741fc5bfb96d3255e8",
+              "bytes": 3566906,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "78652e1bf7c9ba43efad0098a92fe5887fa5759d6f4e019726490a5ebbfe269c",
+              "bytes": 1720355,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "a53a1e28aed6de0f9d27cf8ee7b7b27918e16e1dab6e0dfd149aa8221b353ae8",
+              "bytes": 9191245,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "b93c2d21edac4595d68717a44aee98d193fccc9e574fd2ce904acd6f3c3d0d41",
+              "bytes": 581532,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-019163-a9e186ea33ef191f",
       "type": "study",
       "title": "化学原理B：学习资料（4 个附件）",
@@ -92,10 +189,42 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "1dc5cd02d3f553a2bee7463e13e4fcb325c751642206f72d770a34383f6d9fdf",
+              "bytes": 2581180,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "53e3bee3d4b9fb1924ce1ed02c407197b72363d640818d803b351b56402172fc",
+              "bytes": 4857431,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "982fe07e862901b0e8161dda82e631a4e1250c2ae62a45247a72fb9d32f2bb20",
+              "bytes": 2902872,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "d8657d86d59ab8f6b468f6f761c662a936d28a52e606a2355fa102e3a3d74281",
+              "bytes": 3755657,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "e14b0e87d03955084baabd895c9d98014bbaff57691af1ed15f28506930feb95",
+              "bytes": 9093468,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "e46647b821522481757078700371651df4c5759af391795c76b7d912ce71e5f3",
+              "bytes": 1555573,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-019163-1b7214e2a4e3f2f1",
@@ -121,10 +250,17 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "9d4d9cffe853c7bafcab45e6380865c6b10fb81421e5c3f3c0b539433bec791a",
+              "bytes": 1431399,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

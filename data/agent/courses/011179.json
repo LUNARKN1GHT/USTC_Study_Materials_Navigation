@@ -79,6 +79,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-011179-f2771d4993eed316",
+      "type": "study",
+      "title": "Web 信息处理与应用 复习大抄(含题型做法示例,LaTeX 源码)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18319/#review-99878",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。ZIP唯一成员 web.tex 前191行：LaTeX双栏横向速查排版，涵盖第2-7节核心知识与解题模板，无个人身份信息及年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18319/#review-99878",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "68e1f2b7c1ea55e712d5d9f008ecf07208ed7f5f0a1bd26c98f94f56221b1814",
+              "bytes": 47147,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-011179-bb038d03e693bd37",
       "type": "study",
       "title": "Web 信息处理与应用 复习提纲与总结（USTC-Course）",
@@ -166,6 +202,114 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-011179-9167b97eda02f8c4",
+      "type": "study",
+      "title": "Web 信息处理与应用 课程复习大纲与知识点整理",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18319/#review-61598",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。全 2 页按第二节至第十六节梳理反爬虫、分词、索引、排序、推荐系统、知识图谱与社会网络等课程知识点。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18319/#review-61598",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "cb94503fa4c0971b42a2f936af2a0948f79b77700c509cc080c254880d635e18",
+              "bytes": 299583,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-011179-6706afe6a41e4168",
+      "type": "study",
+      "title": "Web 信息处理与应用 课程复习速查总结(含 Lec3–15 知识点与作业题解)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18319/#review-38925",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。全 2 页多栏速查笔记，涵盖 Lec3–15 核心知识点及第 2 页后半附带的作业题参考解答汇总。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18319/#review-38925",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "00f637d17db3b50c4d78f1ef5c3ce0ee06b6171f3830031db4f95534d8af82ac",
+              "bytes": 1163147,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-011179-58611136af283754",
+      "type": "study",
+      "title": "Web 信息处理与应用 课程知识点复习大抄",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18319/#review-78869",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。DOCX完整导出文本（87段、15,475字符），按 Lec 2 至 Lec 16 逐讲整理Web信息处理与应用核心概念、算法与公式，无个人身份信息及年份标注。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18319/#review-78869",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "52ae345bfb43fd1bd0af5522e861e59959cea7819d88d4bdd90e29f8c0fe49d2",
+              "bytes": 735716,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "computing-lectures-gh-ustc-cs-courses-re-011179-web",

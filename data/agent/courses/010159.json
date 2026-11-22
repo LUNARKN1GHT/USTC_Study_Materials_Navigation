@@ -9,6 +9,42 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-010159-a79f71f90476fb0d",
+      "type": "exams",
+      "title": "自动控制原理 2021-2022 学年期末回忆版试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/5917/#review-94942",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 doc_text/image1.jpeg/image2.jpeg/image3.jpeg。DOCX 回忆版期末试卷共 6 大题（时域指标、传递函数建模、劳斯判据、方框图化简、Bode 图与根轨迹设计），无解答，已脱敏。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5917/#review-94942",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b7c192e59886387b5141c1e1b078c2905ad2fdbae014f9927a56ab421a9bd4d0",
+              "bytes": 192880,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "eng-exam-010159-c18142e8",
       "type": "exams",
       "title": "自动控制原理 2021—2022学年（公历年份未确认） 期末",
@@ -100,6 +136,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-010159-d363a36aff1200c9",
+      "type": "study",
+      "title": "自动控制原理 计算题复习整理与典型例题解析",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5917/#review-40073",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5917/#review-40073",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "fdc9859eb44ffbc555597b0a61d38dd7940432e40582582e08b3d4f979156300",
+              "bytes": 3649011,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-010159-51f5a012110d4ae3",
       "type": "study",
       "title": "自动控制原理：学习资料（11 个附件）",
@@ -123,10 +195,17 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a52136288706d00a7894b66a7c828ee80f27bf47e20586739d769f35038d8b04",
+              "bytes": 2840038,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "eng-notes-010159-b7e74412",
@@ -190,7 +269,7 @@
     }
   ],
   "sources": {
-    "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）",
-    "icourse-club": "USTC 评课社区"
+    "icourse-club": "USTC 评课社区",
+    "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）"
   }
 }

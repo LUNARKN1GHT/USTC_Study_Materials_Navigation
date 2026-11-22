@@ -63,6 +63,82 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-022012-69e4e31652af65c1",
+      "type": "homework",
+      "title": "计算物理A 作业(2017,38 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6307/#review-9010",
+        "note": "38 页，第 1 页文本层 676 字符含课程码 022012、「作业」与 2017，第 2 页 OCR 1,531/文本 1,574 字符仍为题面；全文未逐页核验，年份取自第 1 页文本。与同帖 4 页、28 页两份附件是不同文件，未合并。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6307/#review-9010",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b9201b10068358dcf90b0600a53ab3ec4640f106e58a7e150b5abaefaf143188",
+              "bytes": 14658363,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022012-b134768423629be2",
+      "type": "homework",
+      "title": "计算物理A 作业(2017,4 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6307/#review-9010",
+        "note": "4 页，第 1 页文本层 792 字符含课程码 022012、「作业」与 2017，第 2 页 OCR 1,260/文本 1,607 字符、第 3 页 1,005、第 4 页 1,032 字符均为题目正文；全文已到第 4 页，年份取自第 1 页文本。与同帖 38 页、28 页两份附件是不同文件（SHA/字节/页数均不同），不并入其资源。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6307/#review-9010",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "d9483814a2e05ee91cc9c0d9c4ee82ff5917c76ff9ab39db0a8341f81f0139f8",
+              "bytes": 653782,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-feixu-022012-homework-86ff32",
       "type": "homework",
       "title": "计算物理A新作业",
@@ -164,6 +240,159 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-022012-15f7b583924f0eed",
+      "type": "study",
+      "title": "计算物理A 复习小抄(分子动力学与有限元,2024秋)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24623/#review-88056",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。第1页（全1页）页眉有中国科学技术大学校徽及名称，页脚标注「计算物理 A」「2024 秋」；正文梳理随机模拟与分子动力学方法、密度与对关联函数、周期性边界条件、Lennard-Jones势、NVE/NVT系综模拟及有限元分析基本原理与实例。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24623/#review-88056",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "922537ac3c1da4a03be8b39920f0d9d4d3a47acf9a6ff2db1a6df0a5a7fa5d0e",
+              "bytes": 536458,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022012-f2dc0eb9defbed0d",
+      "type": "study",
+      "title": "计算物理A 复习小抄(四页全套)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18357/#review-62027",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。第1页整理Monte Carlo方法、随机数检验、抽样法、Brown运动、随机行走、DLA、逾渗模型与正则系综/Markov链及Ising模型；第2页整理Ising精确解、XY/Heisenberg/Potts/自旋玻璃模型、混沌（KAM/Li-Yorke/Lorenz/Julia/M集）、分形维数、L系统、IFS与元胞自动机。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18357/#review-62027",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "163617226bc8208e540641116136b2c4530d02a3ed740fe4c6b7325f529dc2de",
+              "bytes": 951155,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "44f7231e54210511e990ae330e8d8ee1201db87dc5b397562f476bd7c6abdfff",
+              "bytes": 524077,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022012-008ab75ff5f1e312",
+      "type": "study",
+      "title": "计算物理A 讲义与作业(2017,28 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6307/#review-9010",
+        "note": "28 页，第 1 页文本层 561 字符含课程码 022012、「作业」与 2017，第 2 页 OCR 1,122/文本 1,234 字符出现「讲义」，第 3–4 页仍有正文；全文未逐页核验。与同帖另两份纯作业文件按角色分开登记。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6307/#review-9010",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ea4e8e2140ec9b2fc3b9b34b6cd7411ea479d6ff99364c7659c3cab408f1150d",
+              "bytes": 1324122,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022012-8bbb51acd48e4250",
+      "type": "study",
+      "title": "计算物理A 手写课程总结笔记(30页扫描版)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18357/#review-28143",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。30页中文手写计算物理A复习笔记（随机数、抽样与蒙特卡罗方法），无出版信息、年份或个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18357/#review-28143",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "d9572f680aa6e09fb5f531d67d8355031a23873be35f6c4c7c8004187466aa4c",
+              "bytes": 12579612,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-022012-9cbf5020290673c3",
       "type": "projects",
       "title": "计算物理A 课程代码与报告（elmer-sun）",
@@ -254,6 +483,7 @@
   "sources": {
     "rainzor-computational-physics": "Rainzor/Computational-Physics",
     "feixu-alist": "feixu 学习资料分享站（AList）",
+    "icourse-club": "USTC 评课社区",
     "gh-zhichen-cpa": "Zhichenzzz/Computational-Physics-A",
     "gh-elmer-sun-computational-physics": "elmer-sun/computational-physics-from-ustc",
     "gh-yesunhuang-computational-physics": "yesunhuang/Computational-Physics",

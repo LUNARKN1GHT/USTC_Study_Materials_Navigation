@@ -576,9 +576,51 @@
           "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
           "attribution": "duxiaoyang-creator",
           "page_kind": null
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25814/#review-104674",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "4a212bbe66073ae1bb6464bfc3850f23d29cca3fd7373d138f4bb0ec9bf5763b",
+              "bytes": 4444602,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "a8007b8e13e973f2f2d6971664a8f5a9c74d18fe3aa176a9296d311439fcc41e",
+              "bytes": 4539564,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "aa8a70ed5f9787ead0d628f2b1cb4cb4e79ed6d595668b40aa9b996db16ad36b",
+              "bytes": 4558983,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "b417b78e3da813ee9a1238954a899f912ec6e4a624cf58ff59f46cfc05016dd6",
+              "bytes": 3890265,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "dbe9bd85fea3f28daf3da15959aaa0a1bc1c3a7d86d1cc88aab0646ea5705c84",
+              "bytes": 3795133,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "fd1c69532f3ced10793668fd113bb24112615f614ea79112b6a6033e5c42980e",
+              "bytes": 4040972,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-EE2004-928ea6a478035752",

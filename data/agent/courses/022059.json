@@ -115,9 +115,533 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-022059-0258326381d18da0",
+      "type": "homework",
+      "title": "量子力学B 2025 秋作业与参考答案(hw1–hw10)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6651/#review-98629",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 archive_listing.txt/hw1.pdf:p1/hw10.pdf:p1/hw10_answer.pdf:p1。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6651/#review-98629",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b500b16c9de764d3746bb08eb217e182c1568099aaa01d226f92b68d495c1fec",
+              "bytes": 4134331,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022059-5e8c5875792f1321",
+      "type": "homework",
+      "title": "量子力学B 作业选集(8 个附件)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6651/#review-38257",
+        "note": "核验同一原帖中 8 个 PDF 附件的完整字节，各抽读首页及可读的后续页；首页含课程标识和作业字样。仅收录已核实的作业附件，不代表完整课程作业或覆盖原帖全部材料。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6651/#review-38257",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "036a2e6d62aa80e0e3d101fa80de8310391e3ef2bba29676b7069760f3e77ed0",
+              "bytes": 2879883,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "06d356ba576229bb5b669deff623b70706c3cd0f684fe6eb636036de8be327f1",
+              "bytes": 1138986,
+              "checked_at": "2026-11-19"
+            },
+            {
+              "sha256": "1e9019fb9e5df22a7dce2411e0e9166e04641e4bda93e81fa0d57b76e0e43f95",
+              "bytes": 4575664,
+              "checked_at": "2026-11-19"
+            },
+            {
+              "sha256": "24276d20b5126ef23296cf3e002c13d41c047082dc0bc7f3c38e1a1006f6c98c",
+              "bytes": 8121302,
+              "checked_at": "2026-11-19"
+            },
+            {
+              "sha256": "37396d74b98e00141141d9cf6ca7eb77a59059e50c9d15860716b981b6073c94",
+              "bytes": 8101087,
+              "checked_at": "2026-11-19"
+            },
+            {
+              "sha256": "4ae3675503e352fdd3ef02270ef9392a38e86c97472568a3c8c5ffb56441b4ad",
+              "bytes": 3446986,
+              "checked_at": "2026-11-19"
+            },
+            {
+              "sha256": "51c36bab718bfec24925b53341f47c16fecbd9d56f6dbf4e37334c654dab7d89",
+              "bytes": 2922621,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "70c90d067f1e84c4242c8926fad291f5ddece8bb717b88d891bc28b6fab9a66d",
+              "bytes": 378786,
+              "checked_at": "2026-11-19"
+            },
+            {
+              "sha256": "72f159f0e57c480bd4d7c62c0fb940f28f68b37731ff7988c49704de01986f7b",
+              "bytes": 7064615,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "8234d88876b13e90a101edbe91750d43daec76ec920c71906fea623c391ae3cb",
+              "bytes": 3485824,
+              "checked_at": "2026-11-19"
+            },
+            {
+              "sha256": "b1d9823008518dc46c2e2dd91f54b132ef83955fdece09c7b0cd355fe4a53188",
+              "bytes": 2019950,
+              "checked_at": "2026-11-19"
+            },
+            {
+              "sha256": "efff873f41b373d9e113a96bc1fd1f03fbf1e3fc517217e9690af4f296588e40",
+              "bytes": 3803680,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022059-50cfc46005063d6d",
+      "type": "study",
+      "title": "量子力学 课堂手写笔记(部分3:氢原子)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6651/#review-38257",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。38 页手写笔记 PDF，第 1—3 页内容为「4. 氢原子（三维中心力场定态问题）」，涵盖质心与相对坐标变换、Born-Oppenheimer 近似、球坐标分离变量与球谐函数、径向方程无量纲化与广义 Laguerre 多项式波函数、能级简并度（n² 与 2n²）以及 1s/2s 径向概率密度与球谐函数分布图。全文未见具体年份标注。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6651/#review-38257",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "0dc1ac36097da83a4d774243b2a1a0815aebfe225718c7949db06574e4d1ef1e",
+              "bytes": 31080673,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "bc47a02af451d232b37e3bb5946b3e41f338beafe6c0fb18519b22255839c0ea",
+              "bytes": 31200054,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "c5c67408090a92cf920e78a03e5e4f15b4b73a3b173a2bbae04e8bd06714beeb",
+              "bytes": 17762070,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "c9d85883d38c5638944df4d3d1d980a0b9e5f26799b4ba6205dff6ba66948048",
+              "bytes": 31010473,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022059-b668b0f03fe66e0b",
+      "type": "study",
+      "title": "量子力学B 补充讲义:广义演化与广义测量、退相干(2026春)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6658/#review-99098",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页题为「补充内容——广义演化与广义测量、退相干」，阐述密度矩阵、CPTP映射、POVM广义测量定义及半正定/厄米性；第2–3页及chapters.txt涵盖量子信道完全正定性例题、Kraus算符退极化模型及Lindblad主方程（全8页）。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6658/#review-99098",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "cdc31051fa09dfa8a9572d18f843cb2242ebe873de1561d1e730d59f460292b3",
+              "bytes": 152914,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022059-396a490dbc27aba0",
+      "type": "study",
+      "title": "量子力学B 补充讲义:Baker-Campbell-Hausdorff 公式",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6658/#review-99098",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。全 3 页共两节（e^A B e^-A 型算子展开定理与证明、自旋/动量平移/缩放算符量子力学例题；e^A e^B 型简化及一般 BCH 公式展开）；文件内未印年份，2026 年依据已核实的 2026 春课程原帖语境。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6658/#review-99098",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "dbd25dec7ff34d70ec9deaa583ef21a86d256bae60c40372704787c4153d718c",
+              "bytes": 105245,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022059-217910183a84b139",
+      "type": "study",
+      "title": "量子力学B 补充讲义:Rodrigues 公式",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6658/#review-99098",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。10 页讲义前 3 页及目录显示涵盖量子力学定态薛定谔方程 Sturm-Liouville 问题、特殊多项式解、通用 Rodrigues 公式推导及正交性/微分方程性质；文件内未印年份，2026 年依据已核实的 2026 春课程原帖语境。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6658/#review-99098",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ec1f5711d0b94bfeb9c458994f8aa4f04aac71b6a9441bf58a78fbee3033abce",
+              "bytes": 174780,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022059-53b1dcb877aad7ae",
+      "type": "study",
+      "title": "量子力学B 复习讲义:两个双值量子系统 C^2⊗C^2 空间(2026春)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6658/#review-99098",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页封面题为「复习——两个双值量子系统 C^2⊗C^2 空间」；第2–3页目录及chapters.txt列出直积空间、矩阵操作、量子态/酉变换/测量及EPR问题与Mach-Zender干涉仪专题（全36页）。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6658/#review-99098",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "82c2072738937d4952e51e58753441fda184986e2955c5856dec00de62942a7b",
+              "bytes": 450400,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022059-179f162e5de552e0",
+      "type": "study",
+      "title": "量子力学B 复习讲义:C^2 空间中的量子力学",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6658/#review-99098",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。35 页 Beamer 复习幻灯片，第 1–3 页渲染图与目录书签显示四章结构：1. 为什么需要量子力学；2. 描述量子力学；3. 量子力学中的变换与对称性；4. C^2 空间中的特殊结论；文件内未印年份，2026 年依据已核实的 2026 春课程原帖语境。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6658/#review-99098",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "8eba8c7062117b73ef1b74e07cfdbaf57f1d24148360d3ad58ff08b09efe90fd",
+              "bytes": 254550,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022059-d3a78676a7d69f65",
+      "type": "study",
+      "title": "量子力学B 复习讲义:C^2空间中的量子力学 II(2026春)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6658/#review-99098",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页封面题为「复习——C^2 空间中的量子力学 II」；第2–3页目录及chapters.txt列出量子态时间演化一般结果与三大绘景、匀强/旋转磁场中自旋1/2粒子、绝热Berry相位与非绝热A-A相位（全41页）。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6658/#review-99098",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "d9f39e142ce03744a160f1a738a8e806a36a8802808e7dcd8f17bf96b4c305a1",
+              "bytes": 249181,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022059-05e21136e5c5222e",
+      "type": "study",
+      "title": "量子力学B 期末复习讲义:无穷维空间的量子力学(2026春,105页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6658/#review-99098",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页封面题为「期末复习——无穷维空间的量子力学」；第2–3页目录及chapters.txt完整涵盖一般描述、一维问题、角动量及三维问题四大专题（全105页）。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6658/#review-99098",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "8483467cd46b8f8e83b59214792a905ae21136043a04c61e2b815863db2e2022",
+              "bytes": 551920,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022059-d13d917d4f28cf17",
+      "type": "study",
+      "title": "量子力学B 手写课堂笔记(部分1)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6651/#review-38321",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。32 页手写量子力学B课堂笔记第 1 部分（考核大纲与黑体热辐射溯源），无个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6651/#review-38321",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "0dc1ac36097da83a4d774243b2a1a0815aebfe225718c7949db06574e4d1ef1e",
+              "bytes": 31080673,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "bc47a02af451d232b37e3bb5946b3e41f338beafe6c0fb18519b22255839c0ea",
+              "bytes": 31200054,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022059-e273172c52e07efe",
+      "type": "study",
+      "title": "量子力学B 手写课堂笔记(Quantum Mechanics Lecture Notes,43 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6651/#review-78575",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6651/#review-78575",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "c83d434a917bf63b94f366cc9277f9b3b47553ad1d333bab4bb5ebcc68cdf6c3",
+              "bytes": 99812890,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
-    "ustc-phy-exam": "USTC 物理课程往年试卷"
+    "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "icourse-club": "USTC 评课社区"
   }
 }

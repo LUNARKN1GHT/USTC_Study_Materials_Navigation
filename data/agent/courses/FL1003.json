@@ -6,7 +6,46 @@
   "tags": [
     "languages"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-FL1003-3d0efc03d0c260b8",
+      "type": "study",
+      "title": "英语交流I 课堂讨论题(6题)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19192/#review-26294",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 按理由所述成员/正文。doc_strings.txt 提取出“Topics for Discussion”下 6 道英语交流讨论题及参考新闻链接，内容涵盖 2021 新年贺词、English Communication 课观影讨论、USTC 校史馆参观、校园科技日、合肥迁址 50 周年宣传册及科学精神讨论。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19192/#review-26294",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "f134f96a670d6e3ce41b734e49dc551bb3aae11f7baa1c133b3f3c707516dd4f",
+              "bytes": 54784,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

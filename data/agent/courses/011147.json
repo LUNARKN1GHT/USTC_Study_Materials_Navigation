@@ -47,6 +47,44 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-011147-c0ff969e5524b05f",
+      "type": "exams",
+      "title": "数据库系统及应用:2020-2021 学年第二学期期中测验试题与答案",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/14365/#review-34602",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 按理由所述成员/正文。DOCX 全文含五大题（单/多选、填空、SQL、JDBC Java 代码分析、UNDO-REDO 日志恢复）及各题答案与解析。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14365/#review-34602",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6a994daed1e0f260d00db244c372a3a0b998e517b42ef452e2195c564353669f",
+              "bytes": 54815,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "computing-exam-guch-011147-database-2020-spring-pdf",
       "type": "exams",
       "title": "数据库系统及应用 2020 春试卷（金培权班）",

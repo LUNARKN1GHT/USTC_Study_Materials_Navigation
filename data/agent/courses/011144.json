@@ -587,6 +587,150 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-011144-d821486fc3e6fd82",
+      "type": "study",
+      "title": "计算机网络 期末 A4 三栏复习小抄(第 4–8 章知识点与小测题)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6260/#review-28509",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。2 页 A4 三栏排版复习小抄，含第 4–8 章小测题与知识点，无课程年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6260/#review-28509",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "d74ceb751dc8099b3ec0a3a153adbb510faf929c972eca14e6b686d4350dcc17",
+              "bytes": 942612,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-011144-14e2713deb7d5ed9",
+      "type": "study",
+      "title": "计算机网络 期中 A4 三栏复习小抄(第 1–3 章知识点与小测题)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6260/#review-28509",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。2 页 A4 三栏排版复习小抄，含第 1–3 章小测题与知识点，无课程年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6260/#review-28509",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "1aa9c761abb9cbaa0118397854f9c3bb9b6f55c7666678dc41e37578af22f694",
+              "bytes": 740010,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-011144-09c0968ee66b0d59",
+      "type": "study",
+      "title": "计算机网络 期中开卷复习大抄(含小测题与第 3 章传输层总结)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6260/#review-29186",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。DOCX 全文含网络层前小测与练习题解答及 Chap3 传输层完整知识点和 3 张教材配图，未见年份及个人身份信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6260/#review-29186",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "385cb9963fee16c4cd71a44ad3070243a3bf94d9808004f02ec65f65897aa843",
+              "bytes": 764718,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-011144-fcdc000a5deaf748",
+      "type": "study",
+      "title": "计算机网络 全学期 A4 三栏速成小抄(第 1–8 章知识点与小测题)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6260/#review-10151",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。2 页 A4 三栏排版全学期速成小抄，涵盖第 1–8 章小测题与知识点，无课程年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6260/#review-10151",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "bbd5ffa3807f2dd008a7e8acb92c66eddc26047fb9eaec7018d3fe6f1def77b0",
+              "bytes": 685086,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "computing-notes-gh-ustc-course-011144-notes",
       "type": "study",
       "title": "计算机网络 知识点与小抄（USTC-Course）",
@@ -692,6 +836,42 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-011144-a924846af3e92f3b",
+      "type": "study",
+      "title": "计算机网络:期末复习大抄(网络层至链路层知识点汇总)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6259/#review-56641",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 按理由所述成员/正文。DOCX 全文共 52,023 字符，梳理《计算机网络》网络层、控制平面与链路层知识点，无作业/实验报告内容。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6259/#review-56641",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "809ce351c67bc3f17944a9afa2270fc649136388e5912c9436181c7a84427c1e",
+              "bytes": 128638,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-011144-eb734fc88d012266",

@@ -231,10 +231,49 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-001704-6de128bb9190e51c",
+      "type": "study",
+      "title": "近世代数(H) 课堂笔记(2025春,134页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6524/#review-95336",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为「近世代数 (H) 课堂笔记」「2025 春」封面；第2页前言说明课程归属中科大数学院近世代数(H)、授课计划（环论、域论、有限群论、Galois理论）及参考教材；第3页及chapters.txt列出第1至5章完整目录（共134页）。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6524/#review-95336",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "df00a5037f4b5dcacf35c21a0dcaf654507b70a118ea4a6917bb3ce86466ce95",
+              "bytes": 1052961,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
     "ustc-math-exam": "USTC 数学课程往年试卷",
-    "lyuchangle-notes": "lyuchangle2006 课程讲义"
+    "lyuchangle-notes": "lyuchangle2006 课程讲义",
+    "icourse-club": "USTC 评课社区"
   }
 }

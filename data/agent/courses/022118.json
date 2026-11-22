@@ -106,6 +106,78 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-022118-10b1f8314bb36778",
+      "type": "study",
+      "title": "固体物理B 课程复习整理(13页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1398/#review-48135",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。13 页固体物理B紧凑排版复习笔记（晶体结构与倒易点阵），含彩标重点与自注学习注释，无商业出版信息或年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1398/#review-48135",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "9fc70f67fdc6c48a7d6d89d55d38f5f3b8e33c6699cb112c19a94616234e795b",
+              "bytes": 36254294,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022118-fd4abf21f2a9ca48",
+      "type": "study",
+      "title": "固体物理B 期末小抄(2页整理)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24100/#review-83608",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。2页固体物理B高密度公式与手写汇总小抄，涵盖晶体结构、晶格振动、自由电子论、能带理论及典型题解。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24100/#review-83608",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "0b11335ed5f5705adf2e6f6dcd29f25703cab80b590b0242c42de1a12072b8a0",
+              "bytes": 34068186,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-022118-a22547af847f484f",
       "type": "study",
       "title": "固体物理B：学习资料（2 个附件）",

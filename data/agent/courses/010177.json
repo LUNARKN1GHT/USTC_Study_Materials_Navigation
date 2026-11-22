@@ -322,6 +322,42 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-010177-91d7dd740a50fc7e",
+      "type": "study",
+      "title": "现代控制理论 复习资料与真题合集(7份PDF)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4455/#review-46199",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 member_1:p1-2/member_2:p1-2/member_3:p1-2。7 份 PDF 含回忆版试题答案、课堂实拍复习题照片集与复习笔记，无商业出版物扫描件或个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4455/#review-46199",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ac30ab438af9c0e8972321c7a5a3fe8ba7bed21fcacf9a5ae037f7e025d226ed",
+              "bytes": 90146449,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "eng-notes-010177-97a887c7",
       "type": "study",
       "title": "现代控制理论复习",

@@ -76,6 +76,44 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-011040-2185804d6b7ccd2b",
+      "type": "exams",
+      "title": "图论:2024 年期末试题(回忆版)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/1458/#review-88122",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。全 1 页标题为《2024图论期末试题（回忆版）》，列出第 1 至第 9 题完整题目描述（未附解答）。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1458/#review-88122",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "819d142c8b0e9a4490ac918d730b5ee3986bcf30f64c16ea4eaa00dd802b4f57",
+              "bytes": 93435,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "computing-exam-guch-011040-gt2022f-pdf",
       "type": "exams",
       "title": "图论 2022 期末回忆版",
@@ -558,6 +596,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-011040-5d4e50be0589a28c",
+      "type": "exams",
+      "title": "图论:手写整理试题(7 道大题)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/1457/#review-16934",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。单页手写试题照片，包含第一至第七题共 7 道《图论》综合题目，未附解答，未见年份或卷别标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1457/#review-16934",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "744896b6511ee8612f5bd03843c51666b760e2c39422ee8ee17868f642075e78",
+              "bytes": 903407,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-011040-6dfb835c6e3cdce7",

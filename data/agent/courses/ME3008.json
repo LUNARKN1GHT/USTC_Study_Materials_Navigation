@@ -6,7 +6,46 @@
   "tags": [
     "instruments"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-ME3008-bfd110c9a3b5ea0f",
+      "type": "study",
+      "title": "精密机械设计(机械设计基础II)课堂笔记",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/23694/#review-85066",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。ME3008 精密机械设计手写课堂笔记（机构自由度与运动副分析），已脱敏水印，非出版教材。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/23694/#review-85066",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6e7848c309a28e80c42cb500a4a27f447172bccdbc0da2565e0e57ff6969240b",
+              "bytes": 44783871,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

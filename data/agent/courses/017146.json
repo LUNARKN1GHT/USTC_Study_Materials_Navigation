@@ -38,6 +38,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-017146-d50024de6623089e",
+      "type": "exams",
+      "title": "回归分析 期末试卷(压缩包)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1350/#review-21634",
+        "note": "抽读 7z 包内 2/2 个 PDF 的首页；其中 1 个 PDF 首页明确标注本课程和期末试卷。摘要对应原帖 7z 整包，不是包内文件。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1350/#review-21634",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "110a72f95eb05e8c8a622c181734253367b051e5b5ad6132b0703482426a9a40",
+              "bytes": 664990,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "hum-017146-homework-regression",
       "type": "homework",
       "title": "回归分析 2025 Lab1–4 讲义与作业",
@@ -126,6 +162,42 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-017146-05aff99924f4e5b3",
+      "type": "homework",
+      "title": "回归分析 作业与习题材料(压缩包)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1350/#review-63524",
+        "note": "ZIP 共 26 个条目，抽读 4 个 PDF 成员首页（4/26）：index 0（491,793 字节，24 页）第 1 页文本 186 字符含课程码 017146 与「作业」；index 1（483,088 字节，25 页）、index 2（383,253 字节，20 页）、index 3（438,073 字节，25 页）首页含课程码 017146、无类别词。年份与解答情况未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1350/#review-63524",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "db21fc1dd4210b1fd417b0c9bedd7873a87f863b3ed832134fc68e9f1bbc4402",
+              "bytes": 10686097,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-017146-c3a93be14788ebe6",

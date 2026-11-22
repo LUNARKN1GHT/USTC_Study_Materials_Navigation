@@ -665,6 +665,42 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-011174-f0477637af1304e7",
+      "type": "study",
+      "title": "操作系统原理与设计 期末复习笔记",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13766/#review-93493",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13766/#review-93493",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "2b159518025b2160a4f929d3036d29b392cb1b4d962feec1f7e86d24601e21fa",
+              "bytes": 2362530,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-011174-66169bee560baf95",
       "type": "study",
       "title": "USTC OS Docs：操作系统实验与作业文档站",

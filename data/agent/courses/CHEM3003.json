@@ -39,9 +39,46 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-CHEM3003-1b072713eaaf3572",
+      "type": "study",
+      "title": "化学动力学基础手写参考笔记",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24162/#review-102773",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。第 1 页页眉题为“化学动力学基础”，含势能面示意图与基元反应速率方程笔记；第 2-4 页为反应级数、半衰期、平均寿命、零级表面反应及对峙、平行、连续反应与稳态近似手写笔记。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24162/#review-102773",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5e404886b1500ca8b9c1b75d54b6d376252a766123b8d8ff70adb28907fa5c11",
+              "bytes": 30065791,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
-    "chembio-daswalpurgis": "dasWalpurgis/USTC（化学系、化学物理系课程资料）"
+    "chembio-daswalpurgis": "dasWalpurgis/USTC（化学系、化学物理系课程资料）",
+    "icourse-club": "USTC 评课社区"
   }
 }

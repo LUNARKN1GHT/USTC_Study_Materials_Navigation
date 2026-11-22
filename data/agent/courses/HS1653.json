@@ -6,7 +6,46 @@
   "tags": [
     "arts"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-HS1653-ab032584e9211d37",
+      "type": "study",
+      "title": "音乐来信——走进交响世界 门德尔松 Op.12 乐谱与和声分析(ZIP 4 成员)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24789/#review-93041",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 member_1:p1/member_2:p1-2/member_3:p1/zip_listing (4/4)。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24789/#review-93041",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "cd62640b8236e1f6b8fb43ea7f095d32dc8aad6825eb8bacdd15253114b8d7b6",
+              "bytes": 26240192,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

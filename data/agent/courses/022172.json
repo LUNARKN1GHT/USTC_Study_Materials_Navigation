@@ -125,6 +125,78 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-022172-067ed7df8e199302",
+      "type": "exams",
+      "title": "时间和空间 试题回忆版(1 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/25790/#review-100214",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25790/#review-100214",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5034ee4dee457f548bdd32259ffb79bf1b89a90ea76b1644ed5b94e468ea8547",
+              "bytes": 80320,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-022172-9f0e0f2c820ae0b9",
+      "type": "exams",
+      "title": "时间和空间 手写回忆版试题(1 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/21851/#review-75875",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21851/#review-75875",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ae6c20ab6660bc41054bcc0405e1718b5a2c93c0b577908c3ff0248b16c4bae2",
+              "bytes": 218911,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-022172-f11c75ae15b89ed8",
       "type": "study",
       "title": "时间和空间 课程笔记（修改版）",

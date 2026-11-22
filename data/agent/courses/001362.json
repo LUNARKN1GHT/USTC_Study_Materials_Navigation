@@ -6,7 +6,48 @@
   "tags": [
     "math"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-001362-7ce699878502f1de",
+      "type": "exams",
+      "title": "小波分析 2026 春期末试题",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/2131/#review-105866",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。单页 PDF 完整包含“2026 春小波分析期末”标题及 7 道计算与证明简答题（满分 100 分），未附解答。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2131/#review-105866",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "85c0eb8e175859f486a8cbdefa8a61f7c8d67ea712ea137643ab3b7d229d6cca",
+              "bytes": 66359,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

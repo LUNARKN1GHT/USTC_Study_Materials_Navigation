@@ -10,6 +10,82 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-EE2003-495095a53cd17cda",
+      "type": "exams",
+      "title": "计算机原理与嵌入式系统 2024 试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25202/#review-94948",
+        "note": "7 页扫描件，OCR 取样前两页；首页有课程标识、考试及试卷字样和 2024。卷别、卷型及解答未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25202/#review-94948",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a9d032c1b4f0f777fcf29a8232de44c83ac9d37828e23b5f4f543ce3fef70969",
+              "bytes": 4681522,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-EE2003-5eae698306922c45",
+      "type": "exams",
+      "title": "计算机原理与嵌入式系统 2019—2020 学年第 2 学期考试试卷(A 卷,卷面名微机原理与嵌入式系统)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25202/#review-92780",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第 1–3 页为《中国科学技术大学 2019~2020 学年第 2 学期考试试卷（A 卷）》，考试科目“微机原理与嵌入式系统”，包含填空、单选、判断、简答、汇编及 STM32 综合设计题与附录 1。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25202/#review-92780",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "e54a61c8eacb4eccfe9fcb504ef9bd3f3ab8d7d4e914260e902627dcf01fee93",
+              "bytes": 457262,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "eng-exam-ee2003-57d8aa22",
       "type": "exams",
       "title": "计算机原理与嵌入式系统 2019—2020 学年第二学期期末试卷（A 卷，卷面旧名微机原理与嵌入式系统）",
@@ -384,6 +460,47 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-EE2003-e82f6bffcd4d56b7",
+      "type": "study",
+      "title": "计算机原理与嵌入式系统 复习大抄(2.0 版)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25202/#review-94948",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。全 2 页复习提要，涵盖第 1–5 章与第 8 章体系结构、总线、Cortex-M3/M4 内核及外设核心知识点与 AHB 时序图，无年份或个人信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25202/#review-94948",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "3ea5fb4bb12978e8aef45269920c545d8ac6287655dc45f2413d6d1ed0776a09",
+              "bytes": 1718105,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "d1fbcff6f20148f30f1949126632e73cf3072edb6280eedf45b44f3b94a748bd",
+              "bytes": 1116508,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-EE2003-a47da0d1172f0cd8",
       "type": "study",
       "title": "计算机原理与嵌入式系统：学习资料（10 个附件）",
@@ -718,9 +835,9 @@
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
-    "icourse-club": "USTC 评课社区",
     "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
     "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
     "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）"

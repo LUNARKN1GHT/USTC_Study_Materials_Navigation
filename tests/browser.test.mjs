@@ -15,32 +15,47 @@ import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { buildCatalog } from '../scripts/build.mjs';
+import { buildCatalog, renderSourcesHtml } from '../scripts/build.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const SITE_DIR = path.join(ROOT, 'site');
 const COURSE_CODE = 'MATH1001';
+const QUIZ_COURSE_CODE = 'MATH1002';
 const QUESTION_SHA = 'a'.repeat(64);
 const SOLUTION_SHA = 'b'.repeat(64);
 const QUESTION_PAGE = 'https://example.org/ustc/math1001/2024-final';
 const QUESTION_URL = 'https://example.org/ustc/math1001/2024-final.pdf';
 const SOLUTION_URL = 'https://example.org/ustc/math1001/2024-final-solution.pdf';
+const QUIZ_PAGE = 'https://example.org/ustc/math1002/quiz3';
+const QUIZ_SOLUTION_URL = 'https://example.org/ustc/math1002/quiz3-sol.pdf';
 const QUESTION_BYTES = 123456;
 const SOLUTION_BYTES = 7890;
 const SNAPSHOT_DATE = '2026-11-18';
-const MODE_STORAGE_KEY = 'ustc-course-nav.mode';
+const MODE_STORAGE_KEY_LEGACY = 'ustc-course-nav.mode';
+const MODE_STORAGE_KEY_CATALOG = 'ustc-course-nav.mode.catalog';
+const MODE_STORAGE_KEY_COURSE = 'ustc-course-nav.mode.course';
+const THEME_STORAGE_KEY = 'ustc-course-nav.theme';
 
 /* ------------------------------------------------------------------ */
 /* 合成目录（只走正式 buildCatalog 投影，不接触 data/）                  */
 /* ------------------------------------------------------------------ */
 
-function createFixtureCatalog() {
-  const dataset = {
-    courses: [{ code: COURSE_CODE, name: '数学分析（浏览器回归）' }],
+function createFixtureDataset() {
+  return {
+    courses: [
+      { code: COURSE_CODE, name: '数学分析（浏览器回归）' },
+      { code: QUIZ_COURSE_CODE, name: '数学分析 A2（小测参考答案回归）' },
+      { code: 'PHYS1001', name: '力学（无资料回归）' },
+    ],
     courseMetadata: {
       [COURSE_CODE]: { kind: 'common', tags: ['math'] },
+      [QUIZ_COURSE_CODE]: { kind: 'common', tags: ['math'] },
+      PHYS1001: { kind: 'common', tags: ['physics'] },
     },
-    tags: [{ id: 'math', label: '数学' }],
+    tags: [
+      { id: 'math', label: '数学' },
+      { id: 'physics', label: '物理' },
+    ],
     sources: [
       {
         id: 'fixture-source',
@@ -116,11 +131,74 @@ function createFixtureCatalog() {
         ],
         verified_at: SNAPSHOT_DATE,
       },
+      {
+        id: 'browser-fixture-quiz',
+        course_codes: [QUIZ_COURSE_CODE],
+        type: 'homework',
+        title: '2025 秋 第一次小测（含参考答案）',
+        authors: ['测试署名'],
+        notes: '',
+        exercise_source: '2025 秋课程主页第一次随堂小测（含较长出处描述用于窄屏换行检验）',
+        coverage: {
+          years: [2025],
+          academic_years: [],
+          exam_kind: 'quiz',
+          exam_form: 'original',
+          has_solutions: true,
+          evidence_url: QUIZ_PAGE,
+          note: '',
+        },
+        locations: [
+          {
+            source_id: 'fixture-source',
+            page_url: QUIZ_PAGE,
+            download_page: null,
+            download_url: null,
+            access: 'public',
+            page_kind: 'file',
+          },
+          {
+            source_id: 'fixture-source',
+            page_url: null,
+            download_page: null,
+            download_url: QUIZ_SOLUTION_URL,
+            access: 'public',
+            page_kind: 'file',
+            role: 'solution',
+          },
+        ],
+        verified_at: SNAPSHOT_DATE,
+      },
     ],
     monitoring: { links: [] },
     traffic: {},
   };
-  return buildCatalog(dataset);
+}
+
+function createFixtureCatalog() {
+  return buildCatalog(createFixtureDataset());
+}
+
+function createFixtureSourcesHtml(catalog) {
+  return renderSourcesHtml({
+    coverage: [],
+    sources: [],
+    generalLogs: [],
+    courseLogs: [],
+    unmappedLogs: [],
+    blocked: [],
+    incomplete: [],
+    health: {},
+    checkedAt: null,
+    withResources: catalog.counts.with_resources,
+    withoutResources: catalog.counts.without_resources,
+    resources: catalog.counts.resources,
+    courseCount: catalog.counts.courses,
+    sourceCount: catalog.sources.length,
+    usedSourceCount: catalog.sources.length,
+    logCount: 0,
+    catalog,
+  });
 }
 
 /* ------------------------------------------------------------------ */
@@ -215,9 +293,10 @@ function sendText(response, status, text) {
   response.end(text);
 }
 
-/** 只读服务 site/，并用内存中的合成 catalog 覆盖 data/catalog.json。 */
-async function startSiteServer(catalog) {
+/** 只读服务 site/，并用内存中的合成 catalog 与 sources.html 覆盖对应路由。 */
+async function startSiteServer(catalog, { failCatalog = false } = {}) {
   const catalogBody = JSON.stringify(catalog);
+  const sourcesBody = createFixtureSourcesHtml(catalog);
   const server = createServer(async (request, response) => {
     if (request.method !== 'GET' && request.method !== 'HEAD') {
       response.writeHead(405, { allow: 'GET, HEAD' });
@@ -232,6 +311,7 @@ async function startSiteServer(catalog) {
       return;
     }
     if (pathname === '/data/catalog.json') {
+      if (failCatalog) return sendText(response, 503, 'catalog unavailable');
       const headers = {
         'content-type': 'application/json; charset=utf-8',
         'content-length': Buffer.byteLength(catalogBody),
@@ -241,6 +321,18 @@ async function startSiteServer(catalog) {
       response.writeHead(200, headers);
       if (request.method === 'HEAD') response.end();
       else response.end(catalogBody);
+      return;
+    }
+    if (pathname === '/sources.html') {
+      const headers = {
+        'content-type': 'text/html; charset=utf-8',
+        'content-length': Buffer.byteLength(sourcesBody),
+        'cache-control': 'no-store',
+        'x-content-type-options': 'nosniff',
+      };
+      response.writeHead(200, headers);
+      if (request.method === 'HEAD') response.end();
+      else response.end(sourcesBody);
       return;
     }
 
@@ -574,7 +666,7 @@ test(
         questionLinkTexts: visibleLinkTexts(${questionUrlLiteral}),
         solutionLinkTexts: visibleLinkTexts(${solutionUrlLiteral}),
         bodyText: document.body.innerText,
-        storage: localStorage.getItem(${JSON.stringify(MODE_STORAGE_KEY)}),
+        storage: localStorage.getItem(${JSON.stringify(MODE_STORAGE_KEY_COURSE)}),
       };
     })()`;
 
@@ -630,7 +722,7 @@ test(
         snapshotCount: document.querySelectorAll('.file-snapshot').length,
         rows,
         bodyText: document.body.innerText,
-        storage: localStorage.getItem(${JSON.stringify(MODE_STORAGE_KEY)}),
+        storage: localStorage.getItem(${JSON.stringify(MODE_STORAGE_KEY_COURSE)}),
       };
     })()`);
 
@@ -690,3 +782,365 @@ test(
     assert.equal(compactAgain.solutionLinkTexts.some((text) => text.includes('配套解答')), true);
   },
 );
+
+async function openBrowserEnv(t, options) {
+  const catalog = createFixtureCatalog();
+  const { server, origin } = await startSiteServer(catalog, options);
+  const userDataDir = await mkdtemp(path.join(os.tmpdir(), 'ustc-nav-browser-'));
+  const browser = launchBrowser(BROWSER_PATH, userDataDir);
+  const port = await waitForDevToolsPort(path.join(userDataDir, 'DevToolsActivePort'), browser);
+  const target = await waitForPageTarget(port, browser);
+  const webSocket = await connectWebSocket(target.webSocketDebuggerUrl);
+  const cdp = createCdpClient(webSocket);
+  await cdp.send('Page.enable');
+  await cdp.send('Runtime.enable');
+
+  const extraClients = [];
+  t.after(async () => {
+    for (const client of extraClients) {
+      try {
+        client.close();
+      } catch {
+        // 已关闭。
+      }
+    }
+    try {
+      cdp.close();
+    } catch {
+      // 已关闭。
+    }
+    await stopBrowser(browser);
+    await new Promise((resolve) => server.close(resolve));
+    await rm(userDataDir, { recursive: true, force: true, maxRetries: 10, retryDelay: 200 }).catch(
+      () => {},
+    );
+  });
+
+  async function openTab(url) {
+    const { targetId } = await cdp.send('Target.createTarget', { url });
+    const targets = await fetchJson(`http://127.0.0.1:${port}/json/list`);
+    const found = targets.find((entry) => entry.id === targetId && entry.webSocketDebuggerUrl);
+    if (!found) throw new Error(`找不到新建标签页 target：${targetId}`);
+    const ws = await connectWebSocket(found.webSocketDebuggerUrl);
+    const client = createCdpClient(ws);
+    extraClients.push(client);
+    await client.send('Page.enable');
+    await client.send('Runtime.enable');
+    return client;
+  }
+
+  return { origin, cdp, openTab };
+}
+
+test(
+  '居中搜索态、顶栏显示模式与主题圆按钮、两组隔离与跨标签页同步',
+  {
+    skip: BROWSER_PATH
+      ? false
+      : '未找到 Chrome/Edge 可执行文件；设置 CHROME_PATH 或 EDGE_PATH 后运行。',
+    timeout: 90000,
+  },
+  async (t) => {
+    const { origin, cdp, openTab } = await openBrowserEnv(t);
+
+    await cdp.send('Page.navigate', { url: `${origin}/` });
+    await cdp.waitFor(`document.readyState === 'complete' && document.body.dataset.hero === 'centered'`);
+
+    // 预置旧的全站键，重载后两组均应保持默认简洁且不迁移旧键，主题默认浅色，且初始居中隐藏结果与页脚。
+    await cdp.evaluate(`localStorage.setItem(${JSON.stringify(MODE_STORAGE_KEY_LEGACY)}, 'detailed')`);
+    await cdp.send('Page.reload', { ignoreCache: true });
+    await cdp.waitFor(`document.readyState === 'complete' && document.body.dataset.hero === 'centered'`);
+
+    const indexCompact = await cdp.evaluate(`(() => {
+      const isVisible = (node) => Boolean(node && getComputedStyle(node).display !== 'none' && node.getClientRects().length > 0);
+      return {
+        hero: document.body.dataset.hero ?? null,
+        mode: document.body.dataset.mode ?? null,
+        theme: document.documentElement.dataset.theme ?? null,
+        pressed: document.querySelector('[data-mode-toggle]')?.getAttribute('aria-pressed') ?? null,
+        introVisible: isVisible(document.querySelector('.intro')),
+        filtersVisible: isVisible(document.querySelector('.filter-groups')),
+        tagDrawerVisible: isVisible(document.querySelector('#tag-drawer')),
+        resultsVisible: isVisible(document.querySelector('.results')),
+        footerVisible: isVisible(document.querySelector('.site-footer')),
+        catalogKey: localStorage.getItem(${JSON.stringify(MODE_STORAGE_KEY_CATALOG)}),
+        courseKey: localStorage.getItem(${JSON.stringify(MODE_STORAGE_KEY_COURSE)}),
+        themeKey: localStorage.getItem(${JSON.stringify(THEME_STORAGE_KEY)}),
+      };
+    })()`);
+    assert.equal(indexCompact.hero, 'centered');
+    assert.equal(indexCompact.mode, null);
+    assert.equal(indexCompact.theme, 'light');
+    assert.equal(indexCompact.pressed, 'false');
+    assert.equal(indexCompact.introVisible, false);
+    assert.equal(indexCompact.filtersVisible, false);
+    assert.equal(indexCompact.tagDrawerVisible, false);
+    assert.equal(indexCompact.resultsVisible, false, '未点击搜索框时不应展示结果区');
+    assert.equal(indexCompact.footerVisible, false, '未点击搜索框时不应展示页脚');
+    assert.equal(indexCompact.catalogKey, null);
+    assert.equal(indexCompact.courseKey, null);
+    assert.equal(indexCompact.themeKey, null);
+
+    const iconCheck = await cdp.evaluate(`(() => {
+      return ['[data-mode-toggle]', '[data-theme-toggle]'].map((sel) => {
+        const btn = document.querySelector(sel);
+        const r = btn.getBoundingClientRect();
+        const visibleSvg = [...btn.querySelectorAll('svg')].find((s) => getComputedStyle(s).display !== 'none');
+        const sr = visibleSvg?.getBoundingClientRect();
+        return {
+          width: r.width,
+          height: r.height,
+          svgWidth: sr?.width ?? 0,
+          svgHeight: sr?.height ?? 0,
+        };
+      });
+    })()`);
+    for (const item of iconCheck) {
+      assert.equal(Math.abs(item.width - item.height) <= 1, true, '顶栏圆按钮应为正圆');
+      assert.equal(item.svgWidth >= 14 && item.svgHeight >= 14, true, '顶栏圆按钮内 SVG 图标不得被压缩隐藏');
+    }
+
+    // 点击搜索框：从居中态平滑展开，显示结果与页脚。
+    const qBox = await cdp.evaluate(`(() => {
+      const r = document.querySelector('#q').getBoundingClientRect();
+      return { x: r.left + r.width / 2, y: r.top + r.height / 2 };
+    })()`);
+    await cdp.send('Input.dispatchMouseEvent', { type: 'mousePressed', button: 'left', clickCount: 1, x: qBox.x, y: qBox.y });
+    await cdp.send('Input.dispatchMouseEvent', { type: 'mouseReleased', button: 'left', clickCount: 1, x: qBox.x, y: qBox.y });
+    await cdp.waitFor(`document.body.dataset.hero === 'expanded' && getComputedStyle(document.querySelector('.results')).display !== 'none'`);
+    assert.equal(
+      await cdp.evaluate(`getComputedStyle(document.querySelector('.site-footer')).display !== 'none'`),
+      true,
+    );
+
+    const sourcesTab = await openTab(`${origin}/sources.html`);
+    await sourcesTab.waitFor(`document.readyState === 'complete' && document.querySelector('[data-mode-toggle]') !== null`);
+    assert.equal(await sourcesTab.evaluate(`document.body.dataset.mode ?? null`), null);
+
+    const courseTab = await openTab(`${origin}/course.html?code=${COURSE_CODE}`);
+    await courseTab.waitFor(`document.readyState === 'complete' && document.querySelector('#course-content') && !document.querySelector('#course-content').hidden`);
+    assert.equal(await courseTab.evaluate(`document.body.dataset.mode ?? null`), null);
+
+    // 顶栏主题圆按钮循环切换：light -> dark -> system -> light，全站同步。
+    await cdp.evaluate(`document.querySelector('[data-theme-toggle]').click()`);
+    await cdp.waitFor(`document.documentElement.dataset.theme === 'dark'`);
+    await sourcesTab.waitFor(`document.documentElement.dataset.theme === 'dark'`);
+    await courseTab.waitFor(`document.documentElement.dataset.theme === 'dark'`);
+    await cdp.evaluate(`document.querySelector('[data-theme-toggle]').click()`);
+    await cdp.waitFor(`document.documentElement.dataset.theme === 'system'`);
+    await cdp.evaluate(`document.querySelector('[data-theme-toggle]').click()`);
+    await cdp.waitFor(`document.documentElement.dataset.theme === 'light'`);
+
+    // 重新打开全新首页在居中态直接切详细：自动展开并展示学科抽屉按钮。
+    await cdp.send('Page.navigate', { url: `${origin}/` });
+    await cdp.waitFor(`document.readyState === 'complete' && document.body.dataset.hero === 'centered'`);
+    await cdp.evaluate(`document.querySelector('[data-mode-toggle]').click()`);
+    await cdp.waitFor(`document.body.dataset.mode === 'detailed' && document.body.dataset.hero === 'expanded'`);
+    await sourcesTab.waitFor(`document.body.dataset.mode === 'detailed'`);
+    assert.equal(await courseTab.evaluate(`document.body.dataset.mode ?? null`), null);
+    const indexDetailed = await cdp.evaluate(`(() => {
+      const isVisible = (node) => Boolean(node && getComputedStyle(node).display !== 'none' && node.getClientRects().length > 0);
+      return {
+        introVisible: isVisible(document.querySelector('.intro')),
+        filtersVisible: isVisible(document.querySelector('.filter-groups')),
+        tagToggleVisible: isVisible(document.querySelector('#tag-toggle')),
+        tagDrawerOpen: document.querySelector('#tag-drawer')?.dataset.open ?? null,
+      };
+    })()`);
+    assert.equal(indexDetailed.introVisible, true);
+    assert.equal(indexDetailed.filtersVisible, true);
+    assert.equal(indexDetailed.tagToggleVisible, true);
+    assert.equal(indexDetailed.tagDrawerOpen, 'false');
+
+    // 点击右侧学科按钮，抽屉展开。
+    await cdp.evaluate(`document.querySelector('#tag-toggle').click()`);
+    await cdp.waitFor(`document.querySelector('#tag-drawer').dataset.open === 'true'`);
+
+    // 课程详情切换到详细：首页和来源页均不受影响。
+    await courseTab.evaluate(`document.querySelector('[data-mode-toggle]').click()`);
+    await courseTab.waitFor(`document.body.dataset.mode === 'detailed'`);
+    await cdp.evaluate(`document.querySelector('[data-mode-toggle]').click()`);
+    await cdp.waitFor(`!document.body.dataset.mode`);
+    await sourcesTab.waitFor(`!document.body.dataset.mode`);
+    assert.equal(await courseTab.evaluate(`document.body.dataset.mode ?? null`), 'detailed');
+  },
+);
+
+test(
+  '带筛选 URL 直接展开且切模式保留状态；单叉在有内容或悬停聚焦时显现，一键清除后留在展开态',
+  {
+    skip: BROWSER_PATH
+      ? false
+      : '未找到 Chrome/Edge 可执行文件；设置 CHROME_PATH 或 EDGE_PATH 后运行。',
+    timeout: 90000,
+  },
+  async (t) => {
+    const { origin, cdp } = await openBrowserEnv(t);
+    const queryUrl = `${origin}/?q=${encodeURIComponent('数学')}&type=exams&year=2024&tag=math&status=none`;
+
+    await cdp.send('Page.navigate', { url: queryUrl });
+    await cdp.waitFor(`document.readyState === 'complete' && document.querySelector('#no-results') && !document.querySelector('#no-results').hidden`);
+    await cdp.waitFor(`getComputedStyle(document.querySelector('#clear-search')).opacity === '1'`);
+
+    const readFormState = `(() => ({
+      hero: document.body.dataset.hero ?? null,
+      mode: document.body.dataset.mode ?? null,
+      search: location.search,
+      statusText: document.querySelector('#result-status')?.textContent ?? '',
+      noResultsText: document.querySelector('#no-results-text')?.textContent ?? '',
+      q: document.querySelector('#q')?.value ?? '',
+      type: document.querySelector('#type')?.value ?? '',
+      year: document.querySelector('#year')?.value ?? '',
+      yearHidden: document.querySelector('#year-group')?.hidden ?? null,
+      statusWith: document.querySelector('input[name="status"][value="with"]')?.checked ?? null,
+      statusWithout: document.querySelector('input[name="status"][value="without"]')?.checked ?? null,
+      tagMath: document.querySelector('input[name="tag"][value="math"]')?.checked ?? null,
+      tagDrawerOpen: document.querySelector('#tag-drawer')?.dataset.open ?? null,
+      tagExpanded: document.querySelector('#tag-toggle')?.getAttribute('aria-expanded') ?? null,
+      clearOpacity: getComputedStyle(document.querySelector('#clear-search')).opacity,
+      activeId: document.activeElement?.id ?? null,
+    }))()`;
+
+    const beforeToggle = await cdp.evaluate(readFormState);
+    assert.equal(beforeToggle.hero, 'expanded');
+    assert.equal(beforeToggle.mode, null);
+    assert.equal(beforeToggle.q, '数学');
+    assert.equal(beforeToggle.type, 'exams');
+    assert.equal(beforeToggle.year, '2024');
+    assert.equal(beforeToggle.statusWith, false);
+    assert.equal(beforeToggle.statusWithout, false);
+    assert.equal(beforeToggle.tagMath, true);
+    assert.equal(beforeToggle.clearOpacity, '1', '输入框或筛选有内容时清除叉号应直接可见（照顾手机端）');
+    assert.doesNotMatch(beforeToggle.noResultsText, /清除筛选|点击.*按钮/);
+
+    // 切模式不得破坏 URL、表单状态与结果。
+    await cdp.evaluate(`document.querySelector('[data-mode-toggle]').click()`);
+    await cdp.waitFor(`document.body.dataset.mode === 'detailed'`);
+    const whileDetailed = await cdp.evaluate(readFormState);
+    assert.equal(whileDetailed.search, beforeToggle.search);
+    assert.equal(whileDetailed.statusText, beforeToggle.statusText);
+    assert.equal(whileDetailed.q, beforeToggle.q);
+    assert.equal(whileDetailed.type, beforeToggle.type);
+    assert.equal(whileDetailed.year, beforeToggle.year);
+    assert.equal(whileDetailed.statusWith, false);
+    assert.equal(whileDetailed.statusWithout, false);
+    assert.equal(whileDetailed.tagMath, true);
+    assert.equal(whileDetailed.tagDrawerOpen, 'true');
+
+    await cdp.evaluate(`document.querySelector('[data-mode-toggle]').click()`);
+    await cdp.waitFor(`!document.body.dataset.mode`);
+
+    // 键盘焦点移到 #clear-search 后按 Enter 一键复位，且保持在展开态。
+    await cdp.send('Page.bringToFront');
+    await cdp.evaluate(`document.querySelector('#clear-search').focus()`);
+    await cdp.waitFor(`document.activeElement?.id === 'clear-search' && getComputedStyle(document.querySelector('#clear-search')).opacity === '1'`);
+    await cdp.send('Input.dispatchKeyEvent', {
+      type: 'keyDown',
+      key: 'Enter',
+      code: 'Enter',
+      text: '\r',
+      unmodifiedText: '\r',
+      windowsVirtualKeyCode: 13,
+      nativeVirtualKeyCode: 13,
+    });
+    await cdp.send('Input.dispatchKeyEvent', {
+      type: 'keyUp',
+      key: 'Enter',
+      code: 'Enter',
+      windowsVirtualKeyCode: 13,
+      nativeVirtualKeyCode: 13,
+    });
+    await cdp.waitFor(`location.search === '' && document.querySelectorAll('#course-list li').length === 3`);
+
+    const afterClear = await cdp.evaluate(readFormState);
+    assert.equal(afterClear.hero, 'expanded', '一键清除后应停留在展开态');
+    assert.equal(afterClear.search, '');
+    assert.equal(afterClear.q, '');
+    assert.equal(afterClear.type, 'all');
+    assert.equal(afterClear.yearHidden, true);
+    assert.equal(afterClear.statusWith, true);
+    assert.equal(afterClear.statusWithout, true);
+    assert.equal(afterClear.tagMath, false);
+    assert.equal(afterClear.tagDrawerOpen, 'false');
+    assert.equal(afterClear.tagExpanded, 'false');
+    assert.equal(afterClear.activeId, 'q', '清除后焦点应回到搜索输入框');
+
+    // 移开焦点与鼠标后空框应隐藏叉号；鼠标移到搜索框上时再次显现。
+    await cdp.evaluate(`document.activeElement?.blur()`);
+    await cdp.send('Input.dispatchMouseEvent', { type: 'mouseMoved', x: 5, y: 5 });
+    await cdp.waitFor(`getComputedStyle(document.querySelector('#clear-search')).opacity === '0'`);
+
+    const box = await cdp.evaluate(`(() => {
+      const r = document.querySelector('.search-input-wrap').getBoundingClientRect();
+      return { x: r.left + r.width / 2, y: r.top + r.height / 2 };
+    })()`);
+    await cdp.send('Input.dispatchMouseEvent', { type: 'mouseMoved', x: box.x, y: box.y });
+    await cdp.waitFor(`getComputedStyle(document.querySelector('#clear-search')).opacity === '1'`);
+  },
+);
+
+test(
+  '390px 窄竖窗与宽屏下首页及含小测参考答案按钮的详情页无溢出且不跑歪',
+  {
+    skip: BROWSER_PATH
+      ? false
+      : '未找到 Chrome/Edge 可执行文件；设置 CHROME_PATH 或 EDGE_PATH 后运行。',
+    timeout: 90000,
+  },
+  async (t) => {
+    const { origin, cdp } = await openBrowserEnv(t);
+
+    for (const viewport of [
+      { width: 390, height: 844, deviceScaleFactor: 2, mobile: true },
+      { width: 1280, height: 900, deviceScaleFactor: 1, mobile: false },
+    ]) {
+      await cdp.send('Emulation.setDeviceMetricsOverride', viewport);
+
+      await cdp.send('Page.navigate', { url: `${origin}/` });
+      await cdp.waitFor(`document.readyState === 'complete' && document.querySelectorAll('#course-list li').length === 3`);
+      const indexLayout = await cdp.evaluate(`(() => ({
+        scrollWidth: document.documentElement.scrollWidth,
+        innerWidth: window.innerWidth,
+        toggleRect: document.querySelector('[data-mode-toggle]').getBoundingClientRect().toJSON(),
+        inputRect: document.querySelector('#q').getBoundingClientRect().toJSON(),
+        clearRect: document.querySelector('#clear-search').getBoundingClientRect().toJSON(),
+      }))()`);
+      assert.equal(indexLayout.scrollWidth <= indexLayout.innerWidth, true, `首页在 ${viewport.width}px 下不应水平溢出`);
+      assert.equal(indexLayout.clearRect.right <= indexLayout.inputRect.right + 1, true);
+      assert.equal(indexLayout.toggleRect.right <= viewport.width + 1, true);
+
+      await cdp.send('Page.navigate', { url: `${origin}/course.html?code=${QUIZ_COURSE_CODE}` });
+      await cdp.waitFor(`document.readyState === 'complete' && document.querySelector('#course-content') && !document.querySelector('#course-content').hidden`);
+      const courseLayout = await cdp.evaluate(`(() => {
+        const refButtons = document.querySelectorAll('.exercise-references .link-button').length;
+        const buttons = [...document.querySelectorAll('.compact-link-actions .link-button')].map((el) => ({
+          text: el.textContent.trim(),
+          rect: el.getBoundingClientRect().toJSON(),
+        }));
+        return {
+          scrollWidth: document.documentElement.scrollWidth,
+          innerWidth: window.innerWidth,
+          refButtons,
+          buttons,
+        };
+      })()`);
+      assert.equal(courseLayout.scrollWidth <= courseLayout.innerWidth, true, `课程详情在 ${viewport.width}px 下不应水平溢出`);
+      assert.equal(courseLayout.refButtons, 0, '配套解答按钮不应混在出处段落内');
+      assert.equal(courseLayout.buttons.length, 2, '应并排显示题目与配套解答按钮');
+      const [qBtn, solBtn] = courseLayout.buttons;
+      assert.equal(qBtn.rect.right <= viewport.width && solBtn.rect.right <= viewport.width, true);
+      assert.equal(Math.abs(qBtn.rect.height - solBtn.rect.height) <= 2, true, '按钮高度应一致');
+      assert.equal(qBtn.rect.right <= solBtn.rect.left + 1 || qBtn.rect.bottom <= solBtn.rect.top + 1, true, '按钮不得互相重叠');
+    }
+  },
+);
+
+test('首页目录加载失败时显示恢复提示', {
+  skip: !BROWSER_PATH,
+  timeout: 90000,
+}, async (t) => {
+  const { origin, cdp } = await openBrowserEnv(t, { failCatalog: true });
+  await cdp.send('Page.navigate', { url: `${origin}/` });
+  await cdp.waitFor(`document.querySelector('#load-error')?.textContent.includes('请刷新页面')`);
+  assert.equal(await cdp.evaluate(`document.querySelector('#load-error').checkVisibility()`), true);
+});

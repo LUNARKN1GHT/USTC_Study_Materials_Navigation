@@ -61,10 +61,58 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a7ee333a33a372474f0b0ab677f41decc122007335adf03d2455777e21cc6077",
+              "bytes": 625454,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-PHYS1009B-5ca9117ab0ebd91e",
+      "type": "projects",
+      "title": "大学物理-综合实验B 参考实验报告(凯特摆、非平衡电桥)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21901/#review-55186",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。4页已打码脱敏的《用凯特摆测量重力加速度》实验参考报告，含原理、数据记录与不确定度分析。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21901/#review-55186",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5f3657a95002352d85263ea2cbbfb9130bbd2df6c024257c33332607294ac1c2",
+              "bytes": 2405909,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "8d395d371a5e8fed5a89a62026a7d10fd12a795cd4838b045a6961e50410bf32",
+              "bytes": 1231841,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-login-PHYS1009B-c963853d160a773d",

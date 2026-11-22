@@ -72,6 +72,78 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-006200-f6f0987eb8f31ba8",
+      "type": "exams",
+      "title": "统计信号分析与处理 手写回忆版试题(1 页,卷面年份未注)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/25093/#review-93759",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25093/#review-93759",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "216fab6b0a4ec018a37283ec9b947ddf780c5a389dcf3a112424c16012d877f5",
+              "bytes": 4091189,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-006200-85ac8635e8a89510",
+      "type": "homework",
+      "title": "统计信号分析与处理 作业答案与教材习题解析合集",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25093/#review-94481",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 Homework1(2016).pdf:p1-2/Homework2(2016).pdf:p1-2/Homework3(2016).pdf:p1-2/zip_listing.txt。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25093/#review-94481",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ca08f1f874ad52afcdfb48249f672baa96b2a0bcde9e7086df5ed0fe2b873cf5",
+              "bytes": 12081139,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "eng-homework-006200-ab9c090d",
       "type": "homework",
       "title": "统计信号分析与处理作业答案",
@@ -130,6 +202,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-006200-de7f63937a3ff15f",
+      "type": "study",
+      "title": "统计信号分析与处理 课程考点与公式复习笔记(5 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13570/#review-49210",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13570/#review-49210",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "f3014c34ebd49d5b160ce382dcbab79f3a774da98bf1cfaa80315626efd4c060",
+              "bytes": 189602,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "eng-notes-006200-6c91353e",

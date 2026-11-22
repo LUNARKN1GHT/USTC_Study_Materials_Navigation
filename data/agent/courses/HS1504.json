@@ -6,7 +6,82 @@
   "tags": [
     "history"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-HS1504-cc6377da27e35c7a",
+      "type": "study",
+      "title": "科技考古概论 复习提纲与试题整理",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20896/#review-89127",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 doc_text.txt:1-46。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20896/#review-89127",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "45217fac42f2f256149307ef9ed9815fd8f0e9b0f8538e24e9210a9bbdf3a8db",
+              "bytes": 13062,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-HS1504-02d842c32b1d97bf",
+      "type": "study",
+      "title": "科技考古概论 期末复习要点与论述题整理",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20896/#review-84222",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 doc_text.txt:1-25。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20896/#review-84222",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "c2e426e425a892dc70cf1b1106e4f9262eca3bafc2bc06ebc74c2888fcfe9a77",
+              "bytes": 17865,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

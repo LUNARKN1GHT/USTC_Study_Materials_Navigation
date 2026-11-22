@@ -69,9 +69,46 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-210712-bf127c0229bf1ff0",
+      "type": "study",
+      "title": "自然语言处理 综合回答及知识点解释",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14092/#review-84708",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4。第 1–4 页包含 5 个自然语言处理核心知识点问答及计算过程，并标注对应课程 Week 7、8、9、12 讲义内容，属课程复习解析资料。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14092/#review-84708",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "badf18dc5aa0e0540b403db0cc41d40463aa86e5d4e4e4f2541ae5a5ca40c806",
+              "bytes": 997154,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
-    "gh-ustc-resource": "USTC-Resource/USTC-Course"
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "icourse-club": "USTC 评课社区"
   }
 }

@@ -38,6 +38,78 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-FIN2001-5b88e62f0c0e32a0",
+      "type": "homework",
+      "title": "经济学基础 往年作业题目与参考答案合集(ZIP)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20334/#review-94597",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 24作业答案/08-第八次作业参考答案 .pdf:1-2/24作业答案/09-第九次作业参考答案 .pdf:1-2/24作业答案/第一次作业参考答案.pdf:1-2/zip_listing。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20334/#review-94597",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "4b8d065776e8d40be1bbda0e10e6212b843d5dcff5e6b1152959cc22827e66be",
+              "bytes": 9893582,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-FIN2001-bad100618f1b5ece",
+      "type": "study",
+      "title": "经济学基础 课程思维导图(第 1—16 章,16 张 PNG)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20334/#review-60332",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 zip_listing/经济学基础思维导图/ch03.PNG/经济学基础思维导图/ch08.PNG/经济学基础思维导图/ch09.PNG。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20334/#review-60332",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "d9ee5630da168ef55b175e6731c0fe4da4521b95fba96db9217abdfab466a3e2",
+              "bytes": 4356806,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-FIN2001-c786136d756bd3d7",
       "type": "study",
       "title": "经济学基础 手写笔记（第 1—14 章，6 页）",
@@ -145,6 +217,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-FIN2001-ee905341694f8b10",
+      "type": "study",
+      "title": "经济学基础《经济学的思维方式》课程笔记(26页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20334/#review-94169",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20334/#review-94169",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "402c2c0d180cea1795813e9d13d5f44c7ad2deb5833d4eaeaa0e8483090e0f78",
+              "bytes": 782189,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

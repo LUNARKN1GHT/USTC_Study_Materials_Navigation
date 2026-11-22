@@ -6,7 +6,183 @@
   "tags": [
     "math"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "cfmath-001673-izquierdo-td",
+      "type": "homework",
+      "title": "代数IV：环与模习题（Diego Izquierdo）",
+      "authors": [
+        "Diego Izquierdo"
+      ],
+      "notes": "中法班代数IV 环与模习题，教师页公开 USTC_TD1–TD8 共 8 份，按序合一条。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/teaching/",
+        "note": "教师页 #course-at-ustc-rings-and-modules-2023-and-2024 确认科大环与模；匿名完整 GET 核验 8 份习题 PDF；覆盖 2023、2024 授课，不推定每份年份。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-izquierdo",
+          "page_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/teaching/",
+          "download_page": null,
+          "download_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/media/USTC/USTC_TD1.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Diego Izquierdo",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "6320f453ecc5ed67c7fd118c1a00ee1ae81573abb8e067a1e8bae205304c8cf7",
+            "bytes": 250935,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-izquierdo",
+          "page_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/teaching/",
+          "download_page": null,
+          "download_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/media/USTC/USTC_TD2.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Diego Izquierdo",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "66eac10693a11872d0a42f656dcc3686d30136cceda799fa1a323247cb79b5c2",
+            "bytes": 229612,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-izquierdo",
+          "page_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/teaching/",
+          "download_page": null,
+          "download_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/media/USTC/USTC_TD3.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Diego Izquierdo",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "124a84826b37213ecfb0f17f3e5064a9a05400c64131325fcb898b9acfd8df43",
+            "bytes": 214682,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-izquierdo",
+          "page_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/teaching/",
+          "download_page": null,
+          "download_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/media/USTC/USTC_TD4.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Diego Izquierdo",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "8ef84fbcdef5b81912cc4a47421b9cd177ebb30ab9b9933fee6ee7abed007534",
+            "bytes": 280927,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-izquierdo",
+          "page_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/teaching/",
+          "download_page": null,
+          "download_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/media/USTC/USTC_TD5.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Diego Izquierdo",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "e1a93ddc02e80b5e96751718d544c0c9b462f39abd0247ad07b8b94dcc17e798",
+            "bytes": 224764,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-izquierdo",
+          "page_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/teaching/",
+          "download_page": null,
+          "download_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/media/USTC/USTC_TD6.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Diego Izquierdo",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "da16389bb73ee1504c70941baf91cd096f1d47a3e909ce4687205c7130a4f25c",
+            "bytes": 191271,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-izquierdo",
+          "page_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/teaching/",
+          "download_page": null,
+          "download_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/media/USTC/USTC_TD7.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Diego Izquierdo",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "abf5005ac70ebacb066c3a2b51aad610e20a04208cc169d30f17c20a4ac52d74",
+            "bytes": 201476,
+            "checked_at": "2026-11-21"
+          }
+        },
+        {
+          "source_id": "cfmath-izquierdo",
+          "page_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/teaching/",
+          "download_page": null,
+          "download_url": "https://perso.pages.math.cnrs.fr/users/diego.izquierdo/media/USTC/USTC_TD8.pdf",
+          "access": "public",
+          "license_note": "原作者公开提供；仅链接，不转载。",
+          "attribution": "Diego Izquierdo",
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "85ca205c3136d28a77e62c119821973c5e1b8a3f311b4f26c67583798535921e",
+            "bytes": 167125,
+            "checked_at": "2026-11-21"
+          }
+        }
+      ],
+      "verified_at": "2026-11-21"
+    },
+    {
+      "id": "cfmath-notes-001673-izquierdo",
+      "type": "study",
+      "title": "代数IV：模论章节（法语笔记）",
+      "authors": [
+        "CHEN Zongbo（手写笔记）"
+      ],
+      "notes": "Diego Izquierdo 授课部分。原站列出四章教学范围，当前网页版笔记为第二章「模」。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://cfmath-notes.pages.dev/cours/algebre-iv/diego-izquierdo/",
+        "note": "核对课程页与第 2.1 节正文；第二章列出 13 节，不把教学大纲当成已提供的笔记。"
+      },
+      "locations": [
+        {
+          "source_id": "cfmath-notes",
+          "page_url": "https://cfmath-notes.pages.dev/cours/algebre-iv/diego-izquierdo/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原站公开提供；仅链接，不转载。",
+          "attribution": "CFMath Notes；网页版改编自 CHEN Zongbo 的手写笔记。",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-21"
+    }
+  ],
+  "sources": {
+    "cfmath-izquierdo": "Diego Izquierdo 教学页",
+    "cfmath-notes": "CFMath Notes（中法数学英才班学生笔记站）"
+  }
 }

@@ -92,10 +92,53 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "892570d11ca5608fba1c5892baa121a2c6405d8919f4e1141970a2d8d4843597",
+              "bytes": 2762744,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-ASTRON1501-ae102f42884bfc7b",
+      "type": "study",
+      "title": "天体物理概观复习资料(16 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1979/#review-6958",
+        "note": "16 页 PDF，取样前两段：第 1 段 425 字符含课程码 ASTRON1501 与「复习」，第 2 段 381 字符为正文；附件标题为「复习资料」；仅取样前页、未逐页核读全文；附件需登录后访问。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1979/#review-6958",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "d3618c05b5351613ec1d37dd9964b926256a413121e84344fe9da2f373eba8f7",
+              "bytes": 1909948,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

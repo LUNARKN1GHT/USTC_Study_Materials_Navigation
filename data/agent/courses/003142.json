@@ -9,6 +9,156 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-003142-a3f565e68f9a0dbd",
+      "type": "homework",
+      "title": "物理化学基础实验(上) 预习思考题及解答(共11份)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25994/#review-96993",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 按理由所述成员/正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25994/#review-96993",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b71c2f6ee6dbbac39c99af031fa76cba740ee6992adcde2d19591283901a1441",
+              "bytes": 161173,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-003142-913fda1b4da3a305",
+      "type": "projects",
+      "title": "物理化学基础实验(上) 实验报告与数据处理脚本(实验4–6 等,同帖系列包)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25994/#review-97050",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 4/Expt_4.pdf#p1-2/zip_listing.txt。4 个成员含实验报告 PDF、Python 数据拟合脚本及数据图片；作者与学号已占位脱敏。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25994/#review-97050",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "159da53c881c66f518bfc75466e431cef88dc497a74d3cd411c4161a9afbfed4",
+              "bytes": 4713798,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "31194f81928cb9d37372b732045c0f0c6fa72562e68dcf563d1deeb7aa5fb3c9",
+              "bytes": 1486822,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "43a8e5f62fadfa6394c8a3fb13c1c4edfda57e013188995f00f0a7202af4d3e7",
+              "bytes": 1312966,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "c5f9868a7175af458e6ef02ac840877eacf77116efd9993daebfc66326876374",
+              "bytes": 1285830,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "d40c15cf383a0c2c1bb5e7db5c3b921ecac633f4141be882d8fa65ef8ca366e2",
+              "bytes": 14662247,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "e80e13e327fd95123025515d89e0074838ff641b08ab0048340f655a5334c2bb",
+              "bytes": 3071927,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-003142-533990ba22944dcb",
+      "type": "projects",
+      "title": "物理化学基础实验(上) 实验三:燃烧热的测定实验报告",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20635/#review-40927",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。5 页实验报告（2021年12月），含中英文摘要、实验原理、仪器试剂、步骤、雷诺校正图、误差分析与结论，作者信息栏已脱敏。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20635/#review-40927",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "2f8fbf544a52ba298d0154ffa7b2495ad57ea7b66c44ec9efe30a5da3f52438a",
+              "bytes": 83191,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "845270b35ef77405e0b4536d9571bdd28b99ab3a59af6daedaac13c06dc038c5",
+              "bytes": 121592,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "ae99d398a3ca1734d899103111202e33cf0ecb463048efbc5f6d0754d28f7797",
+              "bytes": 513023,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "b12127ef6301301ad35fe52462a852637cf57b993bc1132d6c21c4870678f705",
+              "bytes": 741044,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "chembio-003142-003143-lab-reports-flimmernz",
       "type": "projects",
       "title": "物理化学基础实验（上/下）实验研究报告 15 份（材料系本科）",
@@ -70,6 +220,7 @@
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "chembio-flimmernz": "flimmernz/course-note（材料系课程笔记与报告）",
     "gitee-linweibi-physical-chemistry": "LinweiBi/experiment-of-physical-chemistry-i"
   }

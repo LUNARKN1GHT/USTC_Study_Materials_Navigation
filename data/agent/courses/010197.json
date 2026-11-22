@@ -33,10 +33,152 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "0a4ad7298edc4d77ae6ca9c0dfffd50b434ca6ea4d0611b6213ff3070f3ac7ca",
+              "bytes": 70188,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-010197-6ce2900ad0a91915",
+      "type": "study",
+      "title": "执行器技术 2025 春课堂讲义",
+      "authors": [],
+      "notes": "第1页为PPT标题页「第二篇 非电类执行器」；第2页目录包含「第六章 执行器（概述、执行器发展状况）」与「第七章 阀门（阀门概述、分类、主要技术性能、编制方法、标准代号）」；第3页进入第六章第一节概述，说明执行器在自动控制系统中的作用。；第1–3页均为同一套青绿色半圆模板的课程PPT：第1页配结构示意图讲解三通调节阀（合流与分流）；第2页配图讲解隔膜控制阀结构与耐腐蚀特性；第3页配图讲解蝶阀的工作原理、适用场合与流量特性。；第1页讲授流量系数计算原公式推导存在的问题（阀结构修正、阻塞流临界压差、低雷诺数与安装条件）；第2页讲授阻塞流定义、体积流量公式及压力恢复系数FL；第3页讲授低雷诺数修正及层流/紊流/过渡流界定。；第1-3页为课程PPT幻灯片，讲授调节阀实际可调比 R_τ（ΔP变化），包括串联管道阻力损失对阀前后压差与实际可调比的影响推导、R_τ-S 关系曲线及并联管道旁路阀开度与实际可调比公式推导。；第1-3页为同一模板课程PPT幻灯片，讲授调节阀的不平衡力与不平衡力矩概念、影响因素及全关状态受力计算依据，并附直通单座阀不平衡力与位移关系图及流开/流闭阀芯示意图。；第1-3页为课程PPT幻灯片，依次讲授气动薄膜式执行机构的力平衡方程与静态特性曲线（非线性偏差与正反行程变差原因）以及动态特性微分方程和传递函数推导。；第1-3页为课程PPT幻灯片，讲授粉尘防爆区域划分（IEC 2",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12799/#review-92027",
+        "note": "同一匿名原帖 9 个附件，整件 SHA-256 与字节数逐个实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-92027",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "119b40c32b7c12c809fbef55db9668f26e6eb9da8732e56df7a0401294b03738",
+              "bytes": 1112571,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "1305a7e217c41e19aaf0246c325b34582a844915da82dd887c9402d503a798d1",
+              "bytes": 5050598,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "2139c0ff10df2a6d9838a33341d63d604099d422c1afdbc5a115deb425d117a4",
+              "bytes": 3188647,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "28a102a45f6493599423e92fa992a6e90cbd9f9f495f90e468782d24502987ae",
+              "bytes": 2387244,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "4c6eb59e248433d721c26f35d1a60a3cbdf03b696db371a992d800be359c1e9a",
+              "bytes": 1870170,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "5225a9829b21da88327d013f69bd36ddfad95eadb4a8211e032ff07fe46719fc",
+              "bytes": 2133275,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "d8755b228f241c429a9e553de181791db79d7200111b7146589fc6b7b3260f40",
+              "bytes": 1987492,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "faf5c5760e4ae7a1a7f895e8b607c9e5bb9a6f5da9964d5d40f2e71f72c83f89",
+              "bytes": 1835467,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "ff4166e1a2fd5773f1aff9f5d4a7c66035bce4731d7a0958be4f1675e7a3fce8",
+              "bytes": 895618,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-94938",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "0aeeddd02451490a49e8a496bae49d32042a5cd702c9abc074539de58f214477",
+              "bytes": 2685952,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "2c3643db7c28630dfe9f09f93fb1988c33276fb6ca482db2f3de94934b606368",
+              "bytes": 1884160,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "45d8bf53f75b790b07ce9cdea1df653a382d5fc1e52b7e0335aa14f63475b44d",
+              "bytes": 1431552,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "66a06cfc6fbef6b27a2742cfc16a15cb651597b9f5c40598e114e27e0fc2c00b",
+              "bytes": 3638784,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "7d476e7489c9fba05f449173b9908b9dfa629fec4beb5d653ec40d2e97d3177e",
+              "bytes": 7093760,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "8c10ee0abd22f331e5f9986c9eebb53492d575fc78b332eb6b6247caa7c36f07",
+              "bytes": 3436032,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "969f998f1b89c3587b50892c4c49bf12b8ba6c279549f97fb26f78ec39c4e2f4",
+              "bytes": 2038784,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "d5160295189b872cf3613a5c10e01e6472cf2ba359f861414c02c2bff6e9151f",
+              "bytes": 466944,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "f9e0ca323e7d71d4aec8c5c5d16510f371b9b463feade89caafe950a2b84e4f9",
+              "bytes": 6621696,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "intake-010197-c3b4f7773573f9cb",
@@ -101,6 +243,301 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-010197-3fc4f807976ad6c8",
+      "type": "study",
+      "title": "执行器技术 课程讲义:步进电动机及其控制",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12799/#review-94938",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为同模板PPT章节封面「第六章 步进电动机及其控制」；第2页讲授5.1概述，给出步进电机定义及脉冲发生—脉冲分配—放大—步进电机—工作机构系统框图；第3页介绍步进电机名称由来及数控等应用场合。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-94938",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "629ca54ad82cce77972b7df7665b1e7a109bdff1056f1594824277c53ebc7c22",
+              "bytes": 1970493,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-010197-09574337e7644092",
+      "type": "study",
+      "title": "执行器技术 课程讲义:电动机转角与转速测量",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12799/#review-94938",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为同模板PPT章节封面「第六章 电动机转角与转速测量」；第2页讲授光电编码器工作原理、分类（直线式/旋转式、增量式/绝对式）与特点；第3页配三维剖面图与光路示意图讲解增量式光电编码器结构。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-94938",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5b471270b725f68cff32a219e0b2c171e4efd389c3b950ff5949ce2ef5bc6fa2",
+              "bytes": 1721417,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-010197-0515da7721283e1b",
+      "type": "study",
+      "title": "执行器技术 课程讲义:小功率同步电动机",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12799/#review-94938",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为同模板PPT章节封面「第四章 小功率同步电动机」；第2页介绍同步电机转速与频率关系及应用；第3页讲授4.1同步电动机的定子绕组与永磁/磁阻/磁滞等结构分类。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-94938",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5034c82afa264683f50db738442a07938f9d952850619864328bd3bbb93ae022",
+              "bytes": 746548,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-010197-ebf30bf6d1b873dc",
+      "type": "study",
+      "title": "执行器技术 课程讲义:异步电动机及其控制",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12799/#review-94938",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。第1页为课程PPT章节封面「第三章 异步电动机及其控制」，底部配多种机器人与伺服驱动机构示意图；第2页讲授3.1.1异步电动机简介及相数分类；第3页列举异步电动机的优缺点。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-94938",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "6b3f2e4acc3e4aab04fffa26dc015335f7261920f2031c0d1f84d27e9b48269c",
+              "bytes": 4637512,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-010197-6f222924aecd4670",
+      "type": "study",
+      "title": "执行器技术 课程讲义(20 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12799/#review-94938",
+        "note": "20 页 PDF：第 1 页文本层 35 字符含课程码 010197（页首），第 2 页文本层 138 字符命中『讲义』；两处不在同页但同属文件前两页，合起来支持课程与讲义类型；未逐页核验内容完整性。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-94938",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "1206043ff7d1c3be6665dd4509c90891e275c807fdcd880e0d70b9ae8210a3ff",
+              "bytes": 1227487,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-010197-d3eceb148f4c4069",
+      "type": "study",
+      "title": "执行器技术 课堂讲义PPT（2 份）",
+      "authors": [],
+      "notes": "第1页为课程PPT封面页（标题“第一章 直流电动机及其控制”，底部配有执行器与机器人应用配图）；第2页列出1.1直流电机及基本结构至1.9直流电动机的选择共9节目录；第3页开始讲授1.1直流电机工作原理与应用场景。；第1页为与1572同模板的课程PPT封面页（标题“第三章 变压器”）；第2页介绍变压器定义与四大分类；第3页展示电力、电源、控制、三相干式变压器及接触调压器实物图示。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12799/#review-94938",
+        "note": "同一匿名原帖 2 个附件，整件 SHA-256 与字节数逐个实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-94938",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "06f90df29442d2a982e7f9c9b59d5a8ed174642c0ce37e61186ffc394c3cff6d",
+              "bytes": 4672087,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "584470e78486ed32a9bbc161ab9551121004ebcb597875af453fd0620da87cfb",
+              "bytes": 1385771,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-010197-006d1a09f1b615ae",
+      "type": "study",
+      "title": "执行器技术 液动部分知识提纲(2 页课堂实拍)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12799/#review-94938",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。第1–2页为课堂投影文档实拍：第1页展示提纲第1–10条（执行器的作用、构成、调节阀特点/流量系数/流量特性/口径计算、气动执行机构正反作用、阀门定位器、防爆防尘及电磁阀工作原理），右下角系统时间显示2024/5/29；第2页下滚补全第11–12条（液压执行机构组成及作用、液压控制元件作用）。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-94938",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5426f06104a468716f5b62899090a5ab590f62a25e2e96bb5efcb5623e35c7ab",
+              "bytes": 30244914,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-010197-1e72c852cd1471eb",
+      "type": "study",
+      "title": "执行器技术 直流伺服电动机启动例题与解答(1 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12799/#review-94938",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。第1页包含两道带完整推导过程的直流伺服电动机启动例题：例题1计算四级启动时的各级启动电阻值；例题2根据最大启动电流与切换点电流条件确定启动级数并计算各串联电阻值。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-94938",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "7152a284286829bad26c527495d98918e0b704f0d6a1fbe377dbe53d9317aa1a",
+              "bytes": 68685,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "eng-lectures-010197-68a8e156",

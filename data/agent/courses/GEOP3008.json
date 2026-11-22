@@ -11,6 +11,42 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-GEOP3008-aae20eb70ffaafb5",
+      "type": "study",
+      "title": "磁流体力学 期末复习考点提纲(PPTX)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5042/#review-67011",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3/4/5。PPTX 共 5 页，列出磁流体力学 Review 章节目录及磁冻结、磁压/磁张力、压缩比与色散关系等核心考点，未见年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5042/#review-67011",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "aa9b9d155dbac46a1701701f0235d6b5bcc4c0294fcb0e925c95a0f875900f6a",
+              "bytes": 432275,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-GEOP3008-19fdb55488e2b240",
       "type": "study",
       "title": "磁流体力学讲义公式含义表",
@@ -38,6 +74,44 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-GEOP3008-f10212eb365f4323",
+      "type": "study",
+      "title": "磁流体力学英文讲义(MHD 2023S)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5042/#review-67011",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。222 页本校自编英文磁流体力学讲义（2023 年春），无商业出版社/ISBN/CIP 或个人隐私信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5042/#review-67011",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "9633cbf4e64a7fcada4ee419fcef68e5ed12a684b551a597f3fe8ff708d3cb08",
+              "bytes": 29763445,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {

@@ -29,7 +29,7 @@
     {
       "code": "001125",
       "name": "数值代数",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "001139",
@@ -39,7 +39,7 @@
     {
       "code": "001362",
       "name": "小波分析",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "001505",
@@ -134,7 +134,7 @@
     {
       "code": "001672",
       "name": "分析IV",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "001672EX",
@@ -149,7 +149,7 @@
     {
       "code": "001673",
       "name": "代数IV",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "001673EX",
@@ -224,7 +224,7 @@
     {
       "code": "001683",
       "name": "代数III",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "001683EX",
@@ -444,7 +444,7 @@
     {
       "code": "004031",
       "name": "核电子学实验",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "004033",
@@ -469,7 +469,7 @@
     {
       "code": "004120",
       "name": "气体放电原理",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "004122",
@@ -849,7 +849,7 @@
     {
       "code": "008508",
       "name": "分子生物学",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "008704",
@@ -1254,7 +1254,7 @@
     {
       "code": "017048",
       "name": "概率论",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "017063",
@@ -1264,7 +1264,7 @@
     {
       "code": "017123",
       "name": "计量经济学",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "017124",
@@ -1504,7 +1504,7 @@
     {
       "code": "019167",
       "name": "合成化学",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "019169",
@@ -1554,7 +1554,7 @@
     {
       "code": "020011",
       "name": "高分子化学",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "020014",
@@ -1719,7 +1719,7 @@
     {
       "code": "023317",
       "name": "电磁场与波",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "025142",
@@ -2899,7 +2899,7 @@
     {
       "code": "EE2506A",
       "name": "模拟与数字电路A",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "EE2506B",
@@ -3009,7 +3009,7 @@
     {
       "code": "EE4501",
       "name": "脑机接口",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "EE4701",
@@ -3294,7 +3294,7 @@
     {
       "code": "FL1003",
       "name": "英语交流I",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "FL1004",
@@ -3319,7 +3319,7 @@
     {
       "code": "FL1008",
       "name": "英语交流进阶II",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "FL1009",
@@ -3519,7 +3519,7 @@
     {
       "code": "GEOP3003",
       "name": "重力与固体潮",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "GEOP3004",
@@ -3534,7 +3534,7 @@
     {
       "code": "GEOP3006",
       "name": "空间探测综合实验",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "GEOP3007",
@@ -3614,7 +3614,7 @@
     {
       "code": "HS1504",
       "name": "科技考古概论",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "HS1505",
@@ -3649,7 +3649,7 @@
     {
       "code": "HS1521",
       "name": "天文学史",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "HS1523",
@@ -3684,7 +3684,7 @@
     {
       "code": "HS1536",
       "name": "大学生健康教育",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "HS1538",
@@ -3764,7 +3764,7 @@
     {
       "code": "HS1577M",
       "name": "欧洲文明的现代历程",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "HS1580M",
@@ -3919,7 +3919,7 @@
     {
       "code": "HS1634",
       "name": "宋代美学",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "HS1635",
@@ -3984,7 +3984,7 @@
     {
       "code": "HS1653",
       "name": "音乐来信——走进交响世界",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "HS1654",
@@ -4354,7 +4354,7 @@
     {
       "code": "MATH2501",
       "name": "复变函数(化学)",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "MATH2502",
@@ -4549,12 +4549,12 @@
     {
       "code": "ME2012",
       "name": "工程计算方法",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "ME2013",
       "name": "统计热力学",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "ME2014",
@@ -4624,7 +4624,7 @@
     {
       "code": "ME3008",
       "name": "机械设计基础II",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "ME3009",
@@ -5654,7 +5654,7 @@
     {
       "code": "PHYS1006",
       "name": "大学物理I",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "PHYS1007",
@@ -5709,7 +5709,7 @@
     {
       "code": "PHYS3001",
       "name": "激光原理与技术",
-      "has_resources": false
+      "has_resources": true
     },
     {
       "code": "PHYS3002",

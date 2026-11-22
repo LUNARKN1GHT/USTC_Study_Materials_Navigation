@@ -6,7 +6,50 @@
   "tags": [
     "statistics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-017048-035c677b9c982a87",
+      "type": "exams",
+      "title": "概率论 历年试卷、答案与课件压缩包(2014–2020)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2017,
+          2018,
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/3843/#review-21630",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 archive_listing.txt/member_1:1/member_2:1-2/member_3:1-2。35 成员 7z 合集，抽样 3 份 PDF 确认为中科大《概率论》期中试卷，无商业教材扫描或个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/3843/#review-21630",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "16f698d0ff034062393cb973496bc9ac850a030814cc8bd21462161129d4c4fa",
+              "bytes": 35923328,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

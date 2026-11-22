@@ -9,6 +9,82 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-PHYS1010-957f23f1a65c0e16",
+      "type": "exams",
+      "title": "量子物理试卷(2026)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25424/#review-103115",
+        "note": "全 2 页文本层读取，两页均检出 PHYS1010、「试卷」与 2026；年份取自卷面字样，未核对具体学期与卷别。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25424/#review-103115",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "68a29328d564ae82465a97f32019e820afe1b091fea6512d91b8c64654fa3c17",
+              "bytes": 83024,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-PHYS1010-675fa6975367dba8",
+      "type": "exams",
+      "title": "2025春量子物理期末试卷(回忆版)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/25422/#review-93645",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 按理由所述成员/正文。doc_text.txt 全文以“25春量物期末”开头，包含 12 道简答题与 8 道计算题的回忆整理文本，覆盖原子物理与量子信息基础内容，不含参考答案。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25422/#review-93645",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "b007911354291147a6951463bf904859d3e5da22e41f1e1a741ff361476d5fad",
+              "bytes": 18870,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-feixu-phys1010-exams-0a723f",
       "type": "exams",
       "title": "2025期末",
@@ -38,6 +114,82 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-PHYS1010-57846a86756a053e",
+      "type": "exams",
+      "title": "量子物理 2025 春期末试卷(回忆整理版)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/25422/#review-93645",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。全 2 页，标题“25 春量物期末”，含简答题 12 题、计算题 8 题，覆盖原子光谱、自旋与量子信息等内容，无解答。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25422/#review-93645",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "c54333f6d15f7fe5ea3ee7f07019bba9e60be10394be59ffef6383193ca24ac2",
+              "bytes": 230968,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-PHYS1010-ec177d57e72b477f",
+      "type": "exams",
+      "title": "量子物理试卷(2025)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25424/#review-103115",
+        "note": "全 3 页文本层读取，三页均检出 PHYS1010、「试卷」与 2025；年份取自卷面字样。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25424/#review-103115",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "ecc62913700b9ff68cabc143407516a553ee11f8b974addc0c90cc1e61ee8833",
+              "bytes": 84745,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-phys1010-exams-5c4eeb",
@@ -102,6 +254,82 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-PHYS1010-7849b3642a384344",
+      "type": "exams",
+      "title": "量子物理 2024 期末试卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25424/#review-103115",
+        "note": "核验两页题卷；课程与试卷类型由首页文本确认，卷别和年份与原帖明确附件题名一致。未核实是否含解答。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25424/#review-103115",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "4fb437ce80981d0538684db5caf71361134f6e4adedf4a0639b6560b910d7032",
+              "bytes": 71792,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-PHYS1010-48b4c859e93b06f4",
+      "type": "exams",
+      "title": "量子物理试卷(2023)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25424/#review-103115",
+        "note": "全 2 页文本层读取，两页均检出 PHYS1010、「试卷」与 2023；年份取自卷面字样。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25424/#review-103115",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5a4fb9e6261feb4b5cebdb6422b51f0dc44871f9d1bf18679da9ff22c9ae6b34",
+              "bytes": 79718,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-PHYS1010-5ed3134d33c21e46",
       "type": "exams",
       "title": "量子物理：试题与解析（2 个附件）",
@@ -158,6 +386,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-PHYS1010-3e94d4ec7e0a4e6f",
+      "type": "exams",
+      "title": "量子物理往年试卷(2 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21420/#review-94405",
+        "note": "2 页扫描；第 1 页 OCR 605 字符含 PHYS1010、考试、试卷、姓名、学号，第 2 页 OCR 512 字符；附件名 往年试卷；未见年份与卷别字样，exam_kind 记 unknown；有空白姓名/学号栏，按原卷记 original；是否有解答未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21420/#review-94405",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "a14aed6644d83efb6a646de98f8cccc69f9b61e1197cb46c0f2f3d1d9aa51992",
+              "bytes": 1132353,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-phys1010-exams-0aca2f",
@@ -450,6 +714,114 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-PHYS1010-caebf14c7a04cd24",
+      "type": "homework",
+      "title": "量子物理第 3 章答案(20 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21420/#review-94405",
+        "note": "20 页中取样第 1–4 页：第 1 页含 PHYS1010 与「习题」，第 2–4 页为正文；附件名 第 3 章答案；未逐页核对，未核实是否覆盖全部题目。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21420/#review-94405",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5d31987affc07a46310d3ff89aa0d2e0feecc274104a2f5da1d3c6b594c63ff9",
+              "bytes": 756167,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-PHYS1010-c56af1918b119ffa",
+      "type": "homework",
+      "title": "量子物理第 4 章答案(5 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21420/#review-94405",
+        "note": "5 页中取样第 1–4 页：第 1 页含 PHYS1010 与「习题」，第 3 页另见「讲义」字样，第 2–4 页为正文；附件名 第 4 章答案。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21420/#review-94405",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "46930606e441e769528b84314896f786a353cf30b22f81fb991ef09b03c167a1",
+              "bytes": 150938,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-PHYS1010-19420be1756bba24",
+      "type": "homework",
+      "title": "量子物理第 5~7 章答案(15 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21420/#review-94405",
+        "note": "15 页中取样第 1–4 页：第 1 页含 PHYS1010 与「习题」，第 2–4 页为正文；附件名 第 5~7 章答案；未逐页核对。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21420/#review-94405",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "5b25b71db8b8cafe09b73771245bdbd6ad660feaee556e198aefab0c906f2cc5",
+              "bytes": 681227,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-feixu-phys1010-homework-89e664",
       "type": "homework",
       "title": "量子物理习题解答_别的班的",
@@ -605,6 +977,118 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-PHYS1010-81f5425ab9c99b59",
+      "type": "study",
+      "title": "量子物理 电子手写课堂笔记(6份PDF合集)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21420/#review-47023",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 member_1:p1-2/member_2:p1-2/member_3:p1-2。ZIP 含 6 份 PDF 量子物理电子手写课堂笔记，内容清晰完整，无商业教材扫描或个人隐私。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21420/#review-47023",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "3f38d7230d7c72976b7214e6259a58a2fd071b7fe3752f2089f863a97c4d5b68",
+              "bytes": 43537970,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-PHYS1010-ea55cc22b1666437",
+      "type": "study",
+      "title": "量子物理 课件/讲义（9 份）",
+      "authors": [],
+      "notes": "第 1 页封面标题「第四章 氢原子」；第 2 页讲授 4.1 氢原子本征态三个量子数 (n,l,m) 取值范围、能量公式及简并度 2n^2 推导；第 3 页为「例：第四章习题1」（n=2 电子可能状态标记及解答），虽附件原标签为期末复习文件，实际前 3 页为第四章教学/复习幻灯片。；第 1 页标题「第二章 玻尔原子模型」，列出 1.1 黑体辐射至 1.5 波尔原子模型共 5 节提纲；第 2 页为 1.1 黑体辐射引论（十九世纪末力学、热力学与电动力学背景）；第 3 页介绍 1900 年开尔文关于热与光动力学理论「两朵乌云」的演讲。；第 1 页封面「第六章 二能级体系与量子比特」，页脚标明「Quantum Physics」；第 2 页讲解 6.1 二能级系统二维正交完备基、叠加态表达式、Rabi 振荡及量子比特定义；第 3 页展示经典比特与量子比特（Bloch 球叠加与测量）对比示意图。；77 页课程课件 PDF，第 1–3 页为「第七章 量子信息简介」及「7.1 EPR佯谬、量子纠缠与Bell不等式」，第 2 页页脚带中国科学技术大学物理学院标识；未见年份。；89 页教学课件 PDF，第 1–3 页包含参考教材《原子物理学》封面、第三章「波函数与测量」六节目录及 §3.1「物质波与波粒二象性」正文；未见年份。；第 1 页封面「第五章 自旋」（页脚「Quantum Physics」）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24427/#review-94941",
+        "note": "同一匿名原帖 7 个附件，整件 SHA-256 与字节数逐个实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24427/#review-94941",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "070c48264db98d63c322aa9161a575e5174fa8bcaf1fa1cee4b9dea7ed9317d0",
+              "bytes": 10944979,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "0d77beadccc97b0bec07c06217a88b701d75c10c286d071d0e388624be3b591e",
+              "bytes": 13924134,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "1e5257f30ea40480004511eda1cc23c645971cb860428e2e12504ab3c6bab94e",
+              "bytes": 14760967,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "59d0aa9df71a53d73fe9649346a6fa8c1dca837776ba7e3d4fe4fa4948c79064",
+              "bytes": 15006012,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "5c48990c35d2e376c887b8904d8b31149f922adadf52a889a75fd8d19a2136fc",
+              "bytes": 13713226,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "9a00369e4182f8f5315bdf536f98179839bf2123803e26575b44844c28ddc986",
+              "bytes": 5844899,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "bce4e7ac597426b39d53d8f9a58e2b577fc05a890f574cbc16731c18bb4c91cd",
+              "bytes": 4090962,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "c3d89db4689fa005581de0f1372114d0353ebebb11766378ec7dae73f256cd14",
+              "bytes": 7048812,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "e2cef7212df57e76faad6e52ef14c3d29341864a24b578d59a042f4767338bf1",
+              "bytes": 14409517,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-gh-phys1010-notes-ef6f32",
       "type": "study",
       "title": "量子物理 量子物理（notes）",
@@ -632,6 +1116,42 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-PHYS1010-85013cf4a9ebb8ec",
+      "type": "study",
+      "title": "量子物理 期末复习问答汇总(含光学、原子物理、量子力学与量子计算)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24427/#review-94941",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/10/11/12/13/2/3/4/5/6/7/8/9。全 13 页「SUMMARY」期末复习问答及解答：第 1–3 页为光学（13 题）与原子物理（5 题）；第 4–6 页为薛定谔方程（9 题，含波函数、算符对易、测量假设）；第 6–7 页为氢原子（7 题，含角动量与塞曼分裂）；第 7–10 页为自旋（10 题，含 Pauli 矩阵、耦合/非耦合表象）；第 11–13 页为量子计算（13 题，含量子门、纠缠态与不可克隆定理）。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24427/#review-94941",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "c2ade1288b97dd6d0430d3a37eb6b3497ebce77640c9e842ee902557156f8d5f",
+              "bytes": 825546,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-phys1010-notes-9f1bdb",
@@ -860,10 +1380,22 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "7184121a728995ad2d83d37094d4360dd619a4ce6d93b3f3fb0da5743e186fde",
+              "bytes": 5476632,
+              "checked_at": "2026-11-20"
+            },
+            {
+              "sha256": "b73342684b4f64f05ceee3f35309a3ad640b7619c0ce5c53370ba2ba2dc06f80",
+              "bytes": 48331083,
+              "checked_at": "2026-11-20"
+            }
+          ]
         }
       ],
-      "verified_at": "2026-11-19"
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-phys1010-lectures-2d5ba0",
@@ -924,6 +1456,78 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-PHYS1010-856312934d0a9eea",
+      "type": "study",
+      "title": "量子物理考前check笔记",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22658/#review-65886",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。量子物理考前核心公式与表象/角动量手写复习笔记（作者署名已脱敏），无出版信息或年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22658/#review-65886",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "83877887a7a4caf1dd8d7925d3a96cf5c3abb366f80372a816aca55259e5e08f",
+              "bytes": 47157639,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-PHYS1010-9cbdaf4e79cec298",
+      "type": "study",
+      "title": "量子物理课程资料(200 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21420/#review-94405",
+        "note": "200 页中取样第 1–4 页：第 1 页 1,122 字符含 PHYS1010，第 2–3 页 1,580／909 字符，第 4 页 1,468 字符含「习题」；未见「考试/试卷/姓名/学号」类卷面标签；未逐页核对。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21420/#review-94405",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "759c4b38d4d4c8347e52bd4c9c39c5b4fd639a0857e2c20df32929ff1e3b4263",
+              "bytes": 3435642,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "mp-feixu-phys1010-notes-ba06c7",
       "type": "study",
       "title": "量子物理例题",
@@ -951,6 +1555,42 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-PHYS1010-89de95c658143674",
+      "type": "study",
+      "title": "量子物理期末总结(33 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21424/#review-86979",
+        "note": "33 页中取样第 1–4 页：第 1 页 278 字符含 PHYS1010 与「期末」，第 2 页 OCR 315 + 文本 327、第 3 页 386、第 4 页 714 字符；附件名 量子物理期末总结 -- 20240603 2.pdf（文件名含 2024-06-03）；未逐页核对。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21424/#review-86979",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "f3564630b9fb7291391c14fd971acb5ae366f3f04ec9741287832576228dfc6e",
+              "bytes": 691154,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     },
     {
       "id": "mp-feixu-phys1010-notes-453b2b",
@@ -1215,8 +1855,8 @@
     }
   ],
   "sources": {
-    "feixu-alist": "feixu 学习资料分享站（AList）",
     "icourse-club": "USTC 评课社区",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-kobe972": "Kobe972/ustc_course_plus"
   }
 }

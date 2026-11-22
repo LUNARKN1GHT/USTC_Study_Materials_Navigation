@@ -72,6 +72,44 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-PHYS1008B-1ccf3c87a35ac4c8",
+      "type": "study",
+      "title": "大学物理-基础实验B 实验指南(大雾实验不完全指北,2024,63 页)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24426/#review-83695",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24426/#review-83695",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "c03d0e29edfe59eab86c9f2e906ffa2586d7fc095708511565632db1d3a917ef",
+              "bytes": 10784028,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "intake-login-PHYS1008B-d8c453a532b1babe",
       "type": "study",
       "title": "大学物理-基础实验B：学习资料（2 个附件）",

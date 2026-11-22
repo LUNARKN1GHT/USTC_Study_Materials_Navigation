@@ -340,6 +340,42 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-CS2002-1f026198ff337e7a",
+      "type": "exams",
+      "title": "数理逻辑历年试卷合订(2017–2026,9 套汇总)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/22510/#review-104342",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22510/#review-104342",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "50550b72cb9663c94db23941103bb2467a8325cbc68d2215b8edade85c600e82",
+              "bytes": 197078,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
       "id": "computing-homework-gh-ustc-course-plus-cs2002",
       "type": "homework",
       "title": "数理逻辑基础 习题课与作业答案（ustc_course_plus）",

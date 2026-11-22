@@ -538,11 +538,86 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-001702-4b6232bdd6a9489a",
+      "type": "study",
+      "title": "实分析(H) 讲义与习题材料",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/2061/#review-93746",
+        "note": "165 页，仅核前 4 页；第 1 页年份信号 2026 未据以登记年份；第 2 页含「作业」「习题」字样，未确认是否为作业原件，按讲义/习题材料记 study。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2061/#review-93746",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "bc9fbcc94c8a2c2d36ec493b9916d93a3a1415594dd62b06fbbf16756e5368eb",
+              "bytes": 4295437,
+              "checked_at": "2026-11-19"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
+    },
+    {
+      "id": "intake-login-001702-965bbe2b0611caf3",
+      "type": "study",
+      "title": "实分析(H) 课程讲义合集(2024春)",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/2061/#review-83975",
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2/3。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2061/#review-83975",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "05c021679dca6e47d4e1334a13e6d5df73e829b64f96bb52ce676db009c2a283",
+              "bytes": 10982685,
+              "checked_at": "2026-11-20"
+            }
+          ]
+        }
+      ],
+      "verified_at": "2026-11-20"
     }
   ],
   "sources": {
     "ustc-math-exam": "USTC 数学课程往年试卷",
     "feixu-alist": "feixu 学习资料分享站（AList）",
-    "staff-ustc-wangzuoq-ra": "实分析课程主页（2018 春，王作勤）"
+    "staff-ustc-wangzuoq-ra": "实分析课程主页（2018 春，王作勤）",
+    "icourse-club": "USTC 评课社区"
   }
 }
