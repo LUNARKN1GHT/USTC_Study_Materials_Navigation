@@ -520,6 +520,37 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "gh-ddndles-qbank-phys1002a",
+      "type": "study",
+      "title": "热学A 结构化题库、配图与知识点树（352 题 + 48 图，JSONL / SQLite）",
+      "authors": [
+        "DDNdles"
+      ],
+      "notes": "结构化题库目录 courses/PHYS1002A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 352 道 Markdown+LaTeX 题目与分步解析，覆盖 2004–2026 年期中/期末/预考/免修考与三次小测、热学历年真题合订本及清华《大学物理》热学选择题库（official 219 / community 13 / ai 120，10 题低置信隔离），附 48 张灰度 WebP 与矢量化 SVG 配图（共 124.7 KB）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1002A/meta.json",
+        "note": "已核对仓库 courses/PHYS1002A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（352 题，45 个知识点节点，48 题含 48 张 WebP/SVG 配图）；按官方课号 PHYS1002A 建目录，10 道回忆版/条件歧义题标为 quarantined=true，仓库不含原扫描 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ddndles-ustc-question-bank",
+          "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1002A",
+          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
+          "attribution": "GitHub @DDNdles/USTC-Question-Bank（整理与结构化；上游来源见仓库 NOTICE.md）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-22"
+    },
+    {
       "id": "mp-feixu-phys1002a-notes-3046bd",
       "type": "study",
       "title": "热学A全书要点",
@@ -581,6 +612,7 @@
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
     "icourse-club": "USTC 评课社区",
-    "feixu-alist": "feixu 学习资料分享站（AList）"
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）"
   }
 }
