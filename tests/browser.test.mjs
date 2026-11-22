@@ -153,7 +153,7 @@ function createFixtureDataset() {
             source_id: 'fixture-source',
             page_url: QUIZ_PAGE,
             download_page: null,
-            download_url: null,
+            download_url: `${QUIZ_PAGE}.pdf`,
             access: 'public',
             page_kind: 'file',
           },
@@ -1080,7 +1080,7 @@ test(
 );
 
 test(
-  '390px 窄竖窗与宽屏下首页及含小测参考答案按钮的详情页无溢出且不跑歪',
+  '手机与桌面首页搜索和课程详情按钮排版',
   {
     skip: BROWSER_PATH
       ? false
@@ -1091,10 +1091,13 @@ test(
     const { origin, cdp } = await openBrowserEnv(t);
 
     for (const viewport of [
+      { width: 320, height: 720, deviceScaleFactor: 2, mobile: true },
       { width: 390, height: 844, deviceScaleFactor: 2, mobile: true },
+      { width: 800, height: 900, deviceScaleFactor: 1, mobile: false },
       { width: 1280, height: 900, deviceScaleFactor: 1, mobile: false },
     ]) {
       await cdp.send('Emulation.setDeviceMetricsOverride', viewport);
+      await cdp.send('Emulation.setTouchEmulationEnabled', { enabled: viewport.mobile });
 
       await cdp.send('Page.navigate', { url: `${origin}/` });
       await cdp.waitFor(`document.readyState === 'complete' && document.querySelectorAll('#course-list li').length === 3`);
@@ -1104,15 +1107,24 @@ test(
         toggleRect: document.querySelector('[data-mode-toggle]').getBoundingClientRect().toJSON(),
         inputRect: document.querySelector('#q').getBoundingClientRect().toJSON(),
         clearRect: document.querySelector('#clear-search').getBoundingClientRect().toJSON(),
+        submitRect: document.querySelector('.query-actions button').getBoundingClientRect().toJSON(),
       }))()`);
       assert.equal(indexLayout.scrollWidth <= indexLayout.innerWidth, true, `首页在 ${viewport.width}px 下不应水平溢出`);
       assert.equal(indexLayout.clearRect.right <= indexLayout.inputRect.right + 1, true);
       assert.equal(indexLayout.toggleRect.right <= viewport.width + 1, true);
+      assert.ok(Math.abs(indexLayout.inputRect.top - indexLayout.submitRect.top) < 2, `搜索按钮在 ${viewport.width}px 应与输入框同排`);
+      assert.ok(indexLayout.submitRect.left >= indexLayout.inputRect.right);
+      assert.ok(indexLayout.submitRect.right <= viewport.width);
+      if (viewport.mobile) assert.ok(indexLayout.submitRect.height >= 44);
 
       await cdp.send('Page.navigate', { url: `${origin}/course.html?code=${QUIZ_COURSE_CODE}` });
       await cdp.waitFor(`document.readyState === 'complete' && document.querySelector('#course-content') && !document.querySelector('#course-content').hidden`);
       const courseLayout = await cdp.evaluate(`(() => {
         const refButtons = document.querySelectorAll('.exercise-references .link-button').length;
+        const headerPosition = getComputedStyle(document.querySelector('.site-header')).position;
+        const actionButton = document.querySelector('.compact-link-actions .link-button');
+        const originalRect = actionButton.closest('.compact-links').querySelector('.compact-link-group > a')?.getBoundingClientRect().toJSON();
+        const sourceRect = actionButton.closest('.compact-links').querySelector('.source-note').getBoundingClientRect().toJSON();
         const buttons = [...document.querySelectorAll('.compact-link-actions .link-button')].map((el) => ({
           text: el.textContent.trim(),
           rect: el.getBoundingClientRect().toJSON(),
@@ -1120,6 +1132,9 @@ test(
         return {
           scrollWidth: document.documentElement.scrollWidth,
           innerWidth: window.innerWidth,
+          headerPosition,
+          originalRect,
+          sourceRect,
           refButtons,
           buttons,
         };
@@ -1131,6 +1146,16 @@ test(
       assert.equal(qBtn.rect.right <= viewport.width && solBtn.rect.right <= viewport.width, true);
       assert.equal(Math.abs(qBtn.rect.height - solBtn.rect.height) <= 2, true, '按钮高度应一致');
       assert.equal(qBtn.rect.right <= solBtn.rect.left + 1 || qBtn.rect.bottom <= solBtn.rect.top + 1, true, '按钮不得互相重叠');
+      assert.equal(courseLayout.headerPosition, viewport.mobile ? 'static' : 'sticky');
+      if (viewport.mobile) {
+        assert.ok(courseLayout.originalRect, '应保留独立的原始页面入口');
+        assert.ok(courseLayout.sourceRect.bottom <= courseLayout.originalRect.top);
+        assert.ok(Math.abs(qBtn.rect.top - solBtn.rect.top) < 2, '题目与配套解答应在同一行');
+        if (viewport.width >= 390) {
+          assert.ok(Math.abs(courseLayout.originalRect.top - qBtn.rect.top) < 2);
+          assert.ok(courseLayout.originalRect.right <= qBtn.rect.left + 1);
+        }
+      }
     }
   },
 );

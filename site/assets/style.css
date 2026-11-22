@@ -781,6 +781,16 @@
     align-items: center;
   }
 
+  @media (max-width: 36rem) {
+    body[data-page="index"] .query-field {
+      flex-basis: 0;
+    }
+
+    body[data-page="index"] .query-actions {
+      flex-shrink: 0;
+    }
+  }
+
   .search-input-wrap {
     position: relative;
     display: flex;
@@ -1997,6 +2007,20 @@
     flex-wrap: wrap;
     align-items: center;
     gap: 0.4rem;
+  }
+
+  @media (max-width: 36rem) {
+    body[data-page="course"] .site-header {
+      position: static;
+    }
+
+    .compact-link-group {
+      display: contents;
+    }
+
+    .compact-links .source-note {
+      flex-basis: 100%;
+    }
   }
 
   .resource-detail {
