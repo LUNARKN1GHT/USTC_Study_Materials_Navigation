@@ -191,7 +191,7 @@
   - 复变函数B:《复变函数》教材习题全解(第 1-8 章) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/21917/#review-87356
 - **学习资料**
   - 复变函数讲义（未校对版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21917/#review-96890
-  - 复变函数B 结构化题库与知识点树（571 题，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-20 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/001548（资料目录）
+  - 复变函数B 结构化题库与知识点树（571 题，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-20 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/001548（资料目录）
   - 复变函数B 课程课件与讲义（第 1—7 章） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14559/#review-16210
   - 复变函数B：课程笔记（王小桃） —— 王小桃的学习笔记；核验于 2026-11-23 https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AC%94%E8%AE%B0.md（文件页）
   - 复变函数B：往年试题选讲（张礼贤） —— 王小桃的学习笔记；核验于 2026-11-23 https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%80%89%E8%AE%B2.pdf（文件页）
@@ -2349,7 +2349,7 @@
   - 数字逻辑电路 习题课讲义与作业解答（USTC-Course-Materials-Sharing） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89
 - **学习资料**
   - 数电复习准备v1.0 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2787/#review-40068
-  - 数字逻辑电路 结构化题库与知识点树（92 题 + 72 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210050（资料目录）
+  - 数字逻辑电路 结构化题库与知识点树（92 题 + 72 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210050（资料目录）
   - 数字逻辑电路 资料（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Digital%20Logic%20Circuits
   - 2022—2023 学年：数字逻辑电路：两次习题课讲义（高源，2022 秋） —— USTC 课程资料簿（GitBook）；核验于 2026-11-23 https://easylink.cc/7l9j9v（文件页）
   - 数字逻辑电路：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2794/#review-40454
@@ -2408,7 +2408,7 @@
   - 数据结构、数据结构及其算法 资料簿条目（USTC课程资料簿） —— USTC 课程资料簿（GitBook）；核验于 2026-11-18 https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa
   - 数据结构错题集 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%94%99%E9%A2%98%E9%9B%86.txt（文件页）
   - 数据结构第二~五章习题课 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%98%E8%AF%BE10.24.pdf（文件页）
-  - 数据结构及其算法 结构化题库、配图与知识点树（347 题 + 17 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210070（资料目录）
+  - 数据结构及其算法 结构化题库、配图与知识点树（347 题 + 17 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210070（资料目录）
   - 数据结构及其算法复习整理（对照考试范围） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25785/#review-98268
   - 数据结构及应用算法经验分享 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%BA%94%E7%94%A8%E7%AE%97%E6%B3%95%20%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.pdf（文件页）
   - 数据结构实验讲义（n_exp.pdf） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 http://staff.ustc.edu.cn/~ypb/exp/n_exp.pdf（文件页）
@@ -2877,7 +2877,7 @@
   - 计算机程序设计复习用测试题（2025 版，另一帖） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25853/#review-101251
   - 计算机程序设计复习用测试题（2025 版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25828/#review-103950
 - **学习资料**
-  - 计算机程序设计 结构化题库与知识点树（1,533 题，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-21 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/CS1003（资料目录）
+  - 计算机程序设计 结构化题库与知识点树（1,533 题，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-21 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/CS1003（资料目录）
   - 计算机程序设计：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25828/#review-103950
   - 计算机程序设计期末上机习题课 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25853/#review-101251
   - 计算机程序设计总结与复习 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%BB%93%E4%B8%8E%E5%A4%8D%E4%B9%A0.pdf（文件页）
@@ -4188,7 +4188,7 @@
   - 数分习题课讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19516/#review-77292
   - 2024 年：数学分析(B1) 2024 秋课程讲义（助教整理，v2.0） —— Passiflora-sago 课程主页与讲义发布；核验于 2026-11-19 https://github.com/Passiflora-sago/Passiflora-sago.github.io/releases/download/v1.0.0/24FallMAB1.pdf（文件页）
   - 数学分析(B1) 笔记 17 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19512/#review-105840
-  - 数学分析(B1) 结构化题库与知识点树（445 题，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-20 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1006（资料目录）
+  - 数学分析(B1) 结构化题库与知识点树（445 题，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-20 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1006（资料目录）
   - 数学分析(B1) 期末复习课件(积分学、微分方程与无穷级数) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/19512/#review-105840
   - 数学分析(B1) 期中复习课件(极限与函数性质) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/19512/#review-105840
   - 数学分析(B1) 手写课程笔记(161页扫描版) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/25960/#review-97386
@@ -4241,7 +4241,7 @@
   - 第11章复习提纲 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC11%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf（文件页）
   - 第12章复习提纲 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC12%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf（文件页）
   - 第13章复习提纲 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC13%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf（文件页）
-  - 数学分析(B2) 结构化题库与知识点树（569 题，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-20 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1007（资料目录）
+  - 数学分析(B2) 结构化题库与知识点树（569 题，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-20 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1007（资料目录）
   - 数学分析(B2) 课程讲稿 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13223/#review-46622
   - 2026 年：数学分析(B2) 习题课讲义(2026,52 页) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/2848/#review-104511
   - 数学分析(B2)：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13222/#review-86578
@@ -4317,7 +4317,7 @@
   - 线性代数(B1) 2025-09 讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25296/#review-94790
   - 线性代数(B1) 讲义 2023S —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5481/#review-73657
   - 线性代数(B1) 讲义(线性代数(I)) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/24268/#review-84581
-  - 线性代数(B1) 结构化题库与知识点树（885 题，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-21 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1009（资料目录）
+  - 线性代数(B1) 结构化题库与知识点树（885 题，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-21 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1009（资料目录）
   - 线性代数(B1) 线代B1（notes） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E7%BA%BF%E4%BB%A3B1
   - 线性代数(B1)：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18268/#review-86625
   - 线性代数(B1)笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E7%AC%94%E8%AE%B0.pdf（文件页）
@@ -4985,7 +4985,7 @@
   - 年份待确认（类型不明、形式不明、解答情况不明）：力学历年考题 —— USTC 评课社区 https://icourse.club/course/19967/#review-27995
 - **学习资料**
   - 力学A 复习大抄(手写公式与例题整理,2 页) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/19588/#review-90767
-  - 力学A 结构化题库、配图与知识点树（253 题 + 91 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-21 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1001A（资料目录）
+  - 力学A 结构化题库、配图与知识点树（253 题 + 91 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-21 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1001A（资料目录）
   - 力学A：公式速查（余启帆） —— USTC 课程资料簿（GitBook）；核验于 2026-11-23 https://easylink.cc/13ty3c（文件页）
   - 力学A：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22033/#review-90305
   - 力学A大抄 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/%E5%8A%9B%E5%AD%A6A%E5%A4%A7%E6%8A%84.pdf（文件页）
@@ -5058,7 +5058,7 @@
   - 《热学A》知识点整理（未校对版本） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20182/#review-86729
   - 热学笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20189/#review-69168
   - 热学讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20182/#review-32160
-  - 热学A 结构化题库、配图与知识点树（352 题 + 48 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1002A（资料目录）
+  - 热学A 结构化题库、配图与知识点树（352 题 + 48 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1002A（资料目录）
   - 热学A全书要点 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E7%83%AD%E5%AD%A6A%E5%85%A8%E4%B9%A6%E8%A6%81%E7%82%B9.pdf（文件页）
   - 热学A知识点整理 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E7%83%AD%E5%AD%A6A%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86.docx（文件页）
 
@@ -5098,7 +5098,7 @@
   - 光学A习题集 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21012/#review-90459
 - **学习资料**
   - 复习光学 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24002/#review-76343
-  - 光学A 结构化题库与知识点树（228 题 + 17 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1003A（资料目录）
+  - 光学A 结构化题库与知识点树（228 题 + 17 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1003A（资料目录）
   - 光学A 助教习题课讲义（Optics2023.pdf） —— 光学A 助教习题课讲义（home.ustc.edu.cn）；核验于 2026-11-19 http://home.ustc.edu.cn/~shiyaowei040126/Optics2023.pdf（文件页）
   - 光学A：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24002/#review-78596
   - 光学A：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21013/#review-39224
@@ -5143,7 +5143,7 @@
   - 电磁学A 小测三次合集 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20200/#review-36575
 - **学习资料**
   - 电磁学A 磁场习题课 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20200/#review-36575
-  - 电磁学A 结构化题库、配图与知识点树（121 题 + 59 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1004A（资料目录）
+  - 电磁学A 结构化题库、配图与知识点树（121 题 + 59 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1004A（资料目录）
   - 电磁学A 课程笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4937/#review-69650
   - 电磁学A 例题选讲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23138/#review-70033
   - 电磁学A：学习资料（8 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4933/#review-4600
@@ -5464,7 +5464,7 @@
   - 概率论与数理统计 概率论与数理统计（notes） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
   - 概率论与数理统计 概率论与数理统计（notes） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
   - 概率论与数理统计 教案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21053/#review-40210
-  - 概率论与数理统计 结构化题库与知识点树（431 题 + 1 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/STAT2002（资料目录）
+  - 概率论与数理统计 结构化题库与知识点树（431 题 + 1 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/STAT2002（资料目录）
   - 概率论与数理统计 课程主页（张伟平） —— 张伟平 概率论与数理统计课程页；核验于 2026-11-19 http://staff.ustc.edu.cn/~zwp/teach/Prob-Stat/probstat.htm
   - 概率论与数理统计 课程资料（Wloner0809 仓库目录） —— Wloner0809/ustc-course-resource；核验于 2026-11-19 https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1（资料目录）
   - 概率论与数理统计 试卷 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://raw.githubusercontent.com/li-qi-lin/USTC-Course-Materials-Sharing/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Prob_Stat_Concepts_Examples.pdf
@@ -6997,7 +6997,7 @@
 - 地址：<https://github.com/DDNdles/USTC-Question-Bank>
 - 维护者：DDNdles
 - GitHub：DDNdles/USTC-Question-Bank（分支 main）
-- 说明：按中科大官方课号组织的结构化题库仓库（UTF-8 JSONL、知识点树 taxonomy.json、零依赖 Python 加载库与 SQLite FTS5 构建器），覆盖复变函数B（001548，571 题）、数学分析(B1)（MATH1006，445 题）、数学分析(B2)（MATH1007，569 题）、线性代数(B1)（MATH1009，885 题）、计算机程序设计（CS1003，1,533 题）、力学A（PHYS1001A，253 题 + 91 图）、热学A（PHYS1002A，352 题 + 48 图）、电磁学A（PHYS1004A，121 题 + 59 图）、数据结构及其算法（210070，347 题 + 17 图）、概率论与数理统计（STAT2002，431 题 + 1 图）、光学A（PHYS1003A，228 题 + 17 图）与数字逻辑电路（210050，92 题 + 72 图），合计 5,827 题。仓库代码、Schema 与元数据采用 MIT；NOTICE.md 明确第三方真题、教材习题及引用解答版权归原作者与出版社所有、不适用 MIT，仅供学习研究。
+- 说明：机读题库，不是网盘或在线刷题站：仓库内是 JSONL 题目流、知识点树与配图，直接打开是原始文本，需要配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用。校内可走免代理镜像 https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank 。按中科大官方课号组织，覆盖复变函数B（001548，571 题）、数学分析(B1)（MATH1006，445 题）、数学分析(B2)（MATH1007，569 题）、线性代数(B1)（MATH1009，885 题）、计算机程序设计（CS1003，1,533 题）、力学A（PHYS1001A，253 题 + 91 图）、热学A（PHYS1002A，352 题 + 48 图）、电磁学A（PHYS1004A，121 题 + 59 图）、数据结构及其算法（210070，347 题 + 17 图）、概率论与数理统计（STAT2002，431 题 + 1 图）、光学A（PHYS1003A，228 题 + 17 图）与数字逻辑电路（210050，92 题 + 72 图），合计 5,827 题；其中复变B、力学A、电磁学A、数电、光学A、数据结构、热学A 的 ai 生成解答占比较高，使用前核对 origin=ai 的题目。仓库代码、Schema 与元数据采用 MIT；NOTICE.md 明确第三方真题、教材习题及引用解答版权归原作者与出版社所有、不适用 MIT，仅供学习研究。
 - 被正式资料引用：12 处
 
 ### 黄文超：形式化方法导引

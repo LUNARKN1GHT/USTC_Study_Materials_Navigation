@@ -434,11 +434,11 @@
     {
       "id": "gh-ddndles-qbank-phys1003a",
       "type": "study",
-      "title": "光学A 结构化题库与知识点树（228 题 + 17 图，JSONL / SQLite）",
+      "title": "光学A 结构化题库与知识点树（228 题 + 17 图，机读 JSONL/SQLite，需工具或脚本阅读）",
       "authors": [
         "DDNdles"
       ],
-      "notes": "结构化题库目录 courses/PHYS1003A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp），收录 228 道 Markdown+LaTeX 题目与分步解析，覆盖 2020–2026 学年共 6 套期末/模拟卷、配套《光学复习指导》107 题与《光学A习题集》23 题（official 121 / community 16 / ai 91，10 题因缺图/缺参或低置信隔离），17 道真题带图题附去边灰度 WebP 配图（合计 155.6 KB）。",
+      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1003A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp），收录 228 道 Markdown+LaTeX 题目与分步解析，覆盖 2020–2026 学年共 6 套期末/模拟卷、配套《光学复习指导》107 题与《光学A习题集》23 题（official 121 / community 16 / ai 91，10 题因缺图/缺参或低置信隔离），17 道真题带图题附去边灰度 WebP 配图（合计 155.6 KB），提供 Python 加载库与 SQLite FTS5 构建脚本。其中 ai 生成解答 91 题（约 40%），使用前请核对 origin=ai 的题目。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -452,7 +452,7 @@
         {
           "source_id": "gh-ddndles-ustc-question-bank",
           "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1003A",
-          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
           "download_url": null,
           "access": "public",
           "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
