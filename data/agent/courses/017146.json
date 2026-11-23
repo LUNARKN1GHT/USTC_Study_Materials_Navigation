@@ -9,6 +9,78 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "mp-uexam-017146-2021-final-2021sregressionfinal",
+      "type": "exams",
+      "title": "回归分析 2021 期末",
+      "authors": [],
+      "notes": "试卷合集站收录的 回归分析 试卷；年份按卷面或目录页行确认。",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+        "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2021；文件：2021Sregressionfinal.pdf；完整文件 SHA-256 1e7c8055f8d4f0d2…，597795 字节"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/ProbStat/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021Sregressionfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "1e7c8055f8d4f0d206d4c21495ddf8e875a9a08fec9a7b44ca5b5278fff9aec8",
+            "bytes": 597795,
+            "checked_at": "2026-11-23"
+          }
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
+      "id": "mp-uexam-017146-2021-final-2022fregressionfinal",
+      "type": "exams",
+      "title": "回归分析 2021 期末",
+      "authors": [],
+      "notes": "试卷合集站收录的 回归分析 试卷；年份按卷面或目录页行确认。",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+        "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2021；文件：2022Fregressionfinal.pdf；完整文件 SHA-256 8edde2f712bf74c9…，176395 字节"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/ProbStat/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2022Fregressionfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "8edde2f712bf74c9989833216125acd7d9844668184d517ab98afa7791637d8b",
+            "bytes": 176395,
+            "checked_at": "2026-11-23"
+          }
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "intake-login-017146-3a6530c2cb416167",
       "type": "exams",
       "title": "回归分析 2025 期末最后一题",
@@ -230,6 +302,7 @@
     }
   ],
   "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷",
     "icourse-club": "USTC 评课社区",
     "github-irvingyou-regression-lab": "中科大回归分析 2025 lab（IrvingYou）"
   }
