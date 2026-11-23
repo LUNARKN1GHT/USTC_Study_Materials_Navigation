@@ -99799,5 +99799,272 @@
       }
     ],
     "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-001505-complex-a",
+    "course_codes": [
+      "001505"
+    ],
+    "type": "study",
+    "title": "复变函数A：课程讲义（田涌波）",
+    "authors": [
+      "田涌波"
+    ],
+    "notes": "讲义正文涵盖复数、复积分与留数；资料簿标明课程版本与作者，田涌波授课记录对应 001505。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/fei-shu-zhuan-ye-de-shu-xue-ke/fu-bian-han-shu",
+      "note": "讲义正文涵盖复数、复积分与留数；资料簿标明课程版本与作者，田涌波授课记录对应 001505。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/vbag4u",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "田涌波",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1001a-mechanics-formulas",
+    "course_codes": [
+      "PHYS1001A"
+    ],
+    "type": "study",
+    "title": "力学A：公式速查（余启帆）",
+    "authors": [
+      "余启帆"
+    ],
+    "notes": "两页公式速查；资料簿题名明确为力学 A，正文可读，含有心力、天体运动、振动与波。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/da-yi-bi-kan/li-xue",
+      "note": "两页公式速查；资料簿题名明确为力学 A，正文可读，含有心力、天体运动、振动与波。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/13ty3c",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "余启帆",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-022059-quantum-b-ta",
+    "course_codes": [
+      "022059"
+    ],
+    "type": "study",
+    "title": "量子力学B：习题解答与助教讲义（2022 秋）",
+    "authors": [
+      "刘丰铨",
+      "宋冰睿"
+    ],
+    "notes": "封面及前言实核：易为老师 2022 秋 022059.03；两位助教汇编作业参考解答、习题课讲义及补充习题。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2022-2023"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/liang-zi-li-xue-todo",
+      "note": "封面及前言实核：易为老师 2022 秋 022059.03；两位助教汇编作业参考解答、习题课讲义及补充习题。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/f9fr0z",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "刘丰铨、宋冰睿",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1005a-atomic-ta-notes",
+    "course_codes": [
+      "PHYS1005A"
+    ],
+    "type": "study",
+    "title": "原子物理A：知识归纳与课程拾遗（2022 春）",
+    "authors": [],
+    "notes": "两份材料的前言均署 2022 春原子物理 A 课程助教，并注明班号；分别为知识归纳和形式理论、微扰论补充讲义。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2021-2022"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/yuan-zi-wu-li",
+      "note": "两份材料的前言均署 2022 春原子物理 A 课程助教，并注明班号；分别为知识归纳和形式理论、微扰论补充讲义。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/xqhysr",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "原子物理 A 课程助教（见前言）",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/mw3jck",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "原子物理 A 课程助教（见前言）",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-210050-digital-logic-tutorials",
+    "course_codes": [
+      "210050"
+    ],
+    "type": "study",
+    "title": "数字逻辑电路：两次习题课讲义（高源，2022 秋）",
+    "authors": [
+      "高源"
+    ],
+    "notes": "两份标题页均注明 2022 秋数字逻辑电路 05 班，分别为 11 月 24 日、30 日；区别于已收录的 2023 年习题课。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2022-2023"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/dian-lu-dian-ji-he-shi-gun-chu-wu-yuan-bi-xiu/shu-zi-dian-lu",
+      "note": "两份标题页均注明 2022 秋数字逻辑电路 05 班，分别为 11 月 24 日、30 日；区别于已收录的 2023 年习题课。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/7l9j9v",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "高源",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/ig8dge",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "高源",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-011704-yorick-2020-slides",
+    "course_codes": [
+      "011704"
+    ],
+    "type": "study",
+    "title": "计算机系统概论(H)：2020 秋课件（安虹）",
+    "authors": [
+      "安虹"
+    ],
+    "notes": "2020 秋荣誉班课程课件的学生归档。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2020-2021"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020/-/blob/master/PPT/README.md",
+      "note": "仓库 README 自述 2020 秋荣誉课；PPT 目录说明为安虹课堂课件；课程组官网将安虹荣誉班列为 011704.01。按历史版本独立登记，不混入普通班 CS1002A。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-yorick-ics-2020",
+        "page_url": "https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020/-/tree/master/PPT",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "安虹（课件）；Yorick（归档）",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-ai1001b-2026fa-zhong-labs",
+    "course_codes": [
+      "AI1001B"
+    ],
+    "type": "homework",
+    "title": "人工智能数学原理与算法B：Python 与决策树实验（2026 秋）",
+    "authors": [
+      "曾有成",
+      "史睿铭",
+      "胡泷"
+    ],
+    "notes": "两次实验：Python 环境与基础、信息熵与决策树。课程仓库含讲义、实验要求和代码骨架。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2026-2027"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b/-/blob/main/README.md",
+      "note": "README 明确中国科大、课程全名和 2026 秋；核读实验 01 讲义正文及实验 02 说明。区别于 CNN/GNN 综合实验。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-zengyoucheng-ai1001b-26fall",
+        "page_url": "https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "钟志诚（主讲）；曾有成、史睿铭、胡泷（整理）",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-23"
   }
 ]

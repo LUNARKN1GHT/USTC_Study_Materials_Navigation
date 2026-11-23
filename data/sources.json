@@ -2021,5 +2021,23 @@
     "kind": "repository",
     "github": null,
     "notes": "教师维护的课程目录，数据库基础部分提供课件、分章作业及实验说明。"
+  },
+  {
+    "id": "ustcgit-yorick-ics-2020",
+    "name": "Yorick／计算机系统概论 2020",
+    "url": "https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020",
+    "maintainer": "Yorick",
+    "kind": "repository",
+    "github": null,
+    "notes": "学生归档的 2020 秋计算机系统概论荣誉课材料；课程课件按仓库公开说明署名。"
+  },
+  {
+    "id": "ustcgit-zengyoucheng-ai1001b-26fall",
+    "name": "AI1001B 2026 秋实验材料（钟志诚）",
+    "url": "https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b",
+    "maintainer": "曾有成等",
+    "kind": "repository",
+    "github": null,
+    "notes": "课程实验说明、代码与配套数据；仓库 README 列明主讲和整理者。"
   }
 ]

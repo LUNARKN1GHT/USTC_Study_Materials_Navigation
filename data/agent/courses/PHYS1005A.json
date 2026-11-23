@@ -503,11 +503,53 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "ustcguide-phys1005a-atomic-ta-notes",
+      "type": "study",
+      "title": "原子物理A：知识归纳与课程拾遗（2022 春）",
+      "authors": [],
+      "notes": "两份材料的前言均署 2022 春原子物理 A 课程助教，并注明班号；分别为知识归纳和形式理论、微扰论补充讲义。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2021-2022"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/yuan-zi-wu-li",
+        "note": "两份材料的前言均署 2022 春原子物理 A 课程助教，并注明班号；分别为知识归纳和形式理论、微扰论补充讲义。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/xqhysr",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料原站；版权归原作者。",
+          "attribution": "原子物理 A 课程助教（见前言）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/mw3jck",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料原站；版权归原作者。",
+          "attribution": "原子物理 A 课程助教（见前言）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-23"
     }
   ],
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
     "icourse-club": "USTC 评课社区",
-    "feixu-alist": "feixu 学习资料分享站（AList）"
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）"
   }
 }

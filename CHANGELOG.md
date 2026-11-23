@@ -6,6 +6,7 @@
 - 收录 [DDNdles 提交的结构化题库](https://github.com/TwinJades/USTC_Study_Materials_Navigation/pull/3)，新增 12 个课程题库入口。
 - 修正手机首页搜索按钮换行，以及课程详情的顶栏遮挡与资料按钮排版。
 - 补充形式化方法导引课件、人工智能综合实验、复变函数 B 笔记与选讲，以及数据库基础课件和作业实验。
+- 补充 USTCGUIDE 的讲义和复习资料，以及 USTCGit 的安虹计算机系统概论课件、钟志诚人工智能实验。
 
 ## 2026-11-19
 

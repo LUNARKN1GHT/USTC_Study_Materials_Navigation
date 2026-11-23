@@ -762,6 +762,49 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "ustcguide-210050-digital-logic-tutorials",
+      "type": "study",
+      "title": "数字逻辑电路：两次习题课讲义（高源，2022 秋）",
+      "authors": [
+        "高源"
+      ],
+      "notes": "两份标题页均注明 2022 秋数字逻辑电路 05 班，分别为 11 月 24 日、30 日；区别于已收录的 2023 年习题课。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2022-2023"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/dian-lu-dian-ji-he-shi-gun-chu-wu-yuan-bi-xiu/shu-zi-dian-lu",
+        "note": "两份标题页均注明 2022 秋数字逻辑电路 05 班，分别为 11 月 24 日、30 日；区别于已收录的 2023 年习题课。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/7l9j9v",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料原站；版权归原作者。",
+          "attribution": "高源",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/ig8dge",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料原站；版权归原作者。",
+          "attribution": "高源",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "intake-login-210050-00a73740dca327f5",
       "type": "study",
       "title": "数字逻辑电路：学习资料（2 个附件）",
@@ -918,6 +961,7 @@
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）",
     "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）",
     "gh-xuzhen0913-digital-circuit": "数字逻辑电路课程资料整理"
   }
 }

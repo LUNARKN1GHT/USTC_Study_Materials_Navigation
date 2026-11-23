@@ -5,12 +5,12 @@
 ## 概览
 
 - 课程：1184 门（已收录资料 405 门，暂未收录 779 门）。
-- 资料：2700 条（按资料类型与试题年份的覆盖见下一节）。
-- 来源：175 个登记来源，其中 165 个被正式资料引用。
-- 检索记录：6698 条，覆盖 1184 门课程。
+- 资料：2707 条（按资料类型与试题年份的覆盖见下一节）。
+- 来源：177 个登记来源，其中 167 个被正式资料引用。
+- 检索记录：6705 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
-- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 3073 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
-- 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1331。
+- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 3083 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1341。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 
 ## 课程 × 资料类型 × 试题年份覆盖
@@ -134,6 +134,7 @@
   - 复变函数A 复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1651/#review-74450
   - 复变函数A 纲要 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1656/#review-77366
   - 复变函数A PPT —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13479/#review-95816
+  - 复变函数A：课程讲义（田涌波） —— USTC 课程资料簿（GitBook）；核验于 2026-11-23 https://easylink.cc/vbag4u（文件页）
   - 复变函数A：学习资料（16 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13479/#review-38073
   - 复变函数A笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0A%E7%AC%94%E8%AE%B0.pdf（文件页）
   - 复变函数A知识点整理 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13479/#review-43194
@@ -1347,6 +1348,7 @@
 - **学习资料**
   - 计算机系统概论 课程网站（acsa.ustc.edu.cn/ics） —— 中国科学技术大学计算机系统概论课程网站；核验于 2026-11-19 http://acsa.ustc.edu.cn/ics/
   - 计算机系统概论 期末复习资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6242/#review-98579
+  - 2020—2021 学年：计算机系统概论(H)：2020 秋课件（安虹） —— Yorick／计算机系统概论 2020；核验于 2026-11-23 https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020/-/tree/master/PPT（资料目录）
 - **大作业与考核作品**
   - 计算机系统概论 作业与实验（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA
   - 2015 年：计算机系统概论 作业与实验（USTC-CS-Resources） —— USTC-CS-Course-Resource/USTC-CS-Resources；核验于 2026-11-18 https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA
@@ -1927,6 +1929,7 @@
   - 2026 年：量子力学B 期末复习讲义:无穷维空间的量子力学(2026春,105页) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/6658/#review-99098
   - 量子力学B 手写课堂笔记(部分1) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/6651/#review-38321
   - 量子力学B 手写课堂笔记(Quantum Mechanics Lecture Notes,43 页) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/6651/#review-78575
+  - 2022—2023 学年：量子力学B：习题解答与助教讲义（2022 秋） —— USTC 课程资料簿（GitBook）；核验于 2026-11-23 https://easylink.cc/f9fr0z（文件页）
 
 ### 022062 热力学与统计物理A
 
@@ -2348,6 +2351,7 @@
   - 数电复习准备v1.0 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2787/#review-40068
   - 数字逻辑电路 结构化题库与知识点树（92 题 + 72 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210050（资料目录）
   - 数字逻辑电路 资料（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Digital%20Logic%20Circuits
+  - 2022—2023 学年：数字逻辑电路：两次习题课讲义（高源，2022 秋） —— USTC 课程资料簿（GitBook）；核验于 2026-11-23 https://easylink.cc/7l9j9v（文件页）
   - 数字逻辑电路：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2794/#review-40454
   - 数字逻辑电路：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2792/#review-89140
   - 2023 年：数字逻辑电路第一次习题课讲义（1—2、4 章） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-19 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE_124%E7%AB%A0.pptx（文件页）
@@ -2626,6 +2630,7 @@
   - 年份待确认（类型不明、形式不明、解答情况不明）：人工智能数学原理与算法B：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/26225/#review-98231
 - **作业、习题与小测**
   - 2026—2027 学年：人工智能数学原理与算法B：CNN 与 GNN 综合实验（2026 秋 05 班） —— AI1001B.05 2026 秋综合实验；核验于 2026-11-23 https://git.ustc.edu.cn/ai1001b.05.2026fa/CNN（资料目录）
+  - 2026—2027 学年：人工智能数学原理与算法B：Python 与决策树实验（2026 秋） —— AI1001B 2026 秋实验材料（钟志诚）；核验于 2026-11-23 https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b（资料目录）
 - **学习资料**
   - 2025 年：人工智能数学原理与算法 课件（课程站点 source/slides） —— ustc-ai-sgy/ustc-ai-sgy.github.io；核验于 2026-11-18 https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/slides
   - 2025 年：人工智能数学原理与算法 实验（课程站点 source/experiment） —— ustc-ai-sgy/ustc-ai-sgy.github.io；核验于 2026-11-18 https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/experiment
@@ -4981,6 +4986,7 @@
 - **学习资料**
   - 力学A 复习大抄(手写公式与例题整理,2 页) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/19588/#review-90767
   - 力学A 结构化题库、配图与知识点树（253 题 + 91 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-21 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1001A（资料目录）
+  - 力学A：公式速查（余启帆） —— USTC 课程资料簿（GitBook）；核验于 2026-11-23 https://easylink.cc/13ty3c（文件页）
   - 力学A：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22033/#review-90305
   - 力学A大抄 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/%E5%8A%9B%E5%AD%A6A%E5%A4%A7%E6%8A%84.pdf（文件页）
   - 物理学科学习指南8.16 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19588/#review-90767
@@ -5216,6 +5222,7 @@
   - 原子物理A 课程讲义课件与往年试题合集(ZIP) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/21410/#review-84041
   - 2022 年：原子物理A LaTeX 课程笔记(2022 年,67 页) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/21411/#review-49429
   - 原子物理A：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21409/#review-90701
+  - 2021—2022 学年：原子物理A：知识归纳与课程拾遗（2022 春） —— USTC 课程资料簿（GitBook）；核验于 2026-11-23 https://easylink.cc/xqhysr（文件页）
 
 ### PHYS1005B 原子物理B
 
@@ -5924,7 +5931,7 @@
 - 地址：<https://ustcguide.gitbook.io/coursedata/>
 - 维护者：USTCGUIDE（施耀炜等贡献者）
 - 说明：课程经验索引（GitBook）；正文页面未取得，仅作原页导航，不含电子书/教材下载。关联仓库 USTCGUIDE/USTCGUIDE 的 Coursedata 分支（见 ustcguide-repository），本站页面本身无 GitHub 身份。 按课程组织的资料索引，条目多为 easylink.cc 短链跳转云盘；序言署名施耀炜（21级少年班），贡献者与致谢见 https://ustcguide.gitbook.io/coursedata/start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md ；序言声明含电子书扫描版（教材下载不收录）。 公开课程经验/资料索引，序署施耀炜（21级少年班）；无再分发许可，只做原页导航；本轮检查llms.txt目录与相关课程页。 课程资料索引；序署名施耀炜（21级少年班），贡献者名单见 https://ustcguide.gitbook.io/coursedata/start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md 。序说明含电子版教材扫描，按本站方案不收录教材下载。 序署名施耀炜（21级少年班）及公开贡献者；资料簿 llms.txt 无本切片课程专页；无再分发许可，仅原页导航。
-- 被正式资料引用：3 处
+- 被正式资料引用：10 处
 
 ### USTCGUIDE/UstcCourseData.github.io
 
@@ -7024,6 +7031,22 @@
 - 维护者：袁平波
 - 说明：教师维护的课程目录，数据库基础部分提供课件、分章作业及实验说明。
 - 被正式资料引用：3 处
+
+### Yorick／计算机系统概论 2020
+
+- 类型：资料库
+- 地址：<https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020>
+- 维护者：Yorick
+- 说明：学生归档的 2020 秋计算机系统概论荣誉课材料；课程课件按仓库公开说明署名。
+- 被正式资料引用：1 处
+
+### AI1001B 2026 秋实验材料（钟志诚）
+
+- 类型：资料库
+- 地址：<https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b>
+- 维护者：曾有成等
+- 说明：课程实验说明、代码与配套数据；仓库 README 列明主讲和整理者。
+- 被正式资料引用：1 处
 
 ## 检索记录
 
@@ -8522,6 +8545,12 @@
 
 ### 001505 复变函数A
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/fei-shu-zhuan-ye-de-shu-xue-ke/fu-bian-han-shu>
+  - 查询：复变函数A：课程讲义（田涌波）
+  - 检查范围：讲义正文涵盖复数、复积分与留数；资料簿标明课程版本与作者，田涌波授课记录对应 001505。
+  - 说明：仅登记稳定公开入口，不保存临时签名。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：001505
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/1656/#review-77366>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -16657,6 +16686,12 @@
 
 ### 011704 计算机系统概论(H)
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020/-/blob/master/PPT/README.md>
+  - 查询：计算机系统概论(H)：2020 秋课件（安虹）
+  - 检查范围：仓库 README 自述 2020 秋荣誉课；PPT 目录说明为安虹课堂课件；课程组官网将安虹荣誉班列为 011704.01。按历史版本独立登记，不混入普通班 CS1002A。
+  - 说明：仅登记稳定公开入口，不保存临时签名。
+  - 来源 ID：ustcgit-yorick-ics-2020
+  - 课程代码：011704
 - 2026-11-19 · GitHub · 已查看 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E4%BD%9C%E4%B8%9A/hw01_2020.pdf>
   - 查询：计算机系统概论 Homework01 题面
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
@@ -20770,6 +20805,12 @@
 
 ### 022059 量子力学B
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/liang-zi-li-xue-todo>
+  - 查询：量子力学B：习题解答与助教讲义（2022 秋）
+  - 检查范围：封面及前言实核：易为老师 2022 秋 022059.03；两位助教汇编作业参考解答、习题课讲义及补充习题。
+  - 说明：仅登记稳定公开入口，不保存临时签名。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：022059
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/6651/#review-98629>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -23158,6 +23199,12 @@
 
 ### 210050 数字逻辑电路
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/dian-lu-dian-ji-he-shi-gun-chu-wu-yuan-bi-xiu/shu-zi-dian-lu>
+  - 查询：数字逻辑电路：两次习题课讲义（高源，2022 秋）
+  - 检查范围：两份标题页均注明 2022 秋数字逻辑电路 05 班，分别为 11 月 24 日、30 日；区别于已收录的 2023 年习题课。
+  - 说明：仅登记稳定公开入口，不保存临时签名。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：210050
 - 2026-11-22 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0>
   - 查询：DDNdles/USTC-Question-Bank v0.6.0 PHYS1003A 光学A & 210050 数字逻辑电路
   - 检查范围：courses/{PHYS1003A,210050}/{meta.json,taxonomy.json,questions.jsonl,assets/*}, manifest.json (v0.6.0), NOTICE.md
@@ -25061,6 +25108,12 @@
   - 检查范围：两个 README 均标明 AI1001B.05 与 2026 秋，并核读两份讲义的 LaTeX 源码。不同于已收录的 2025 年实验版本。
   - 说明：登记公开原站入口；仅链接，不转载文件。
   - 来源 ID：ustcgit-ai1001b-2026fa-05
+  - 课程代码：AI1001B
+- 2026-11-23 · 公开网页 · 已查看 · <https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b/-/blob/main/README.md>
+  - 查询：人工智能数学原理与算法B：Python 与决策树实验（2026 秋）
+  - 检查范围：README 明确中国科大、课程全名和 2026 秋；核读实验 01 讲义正文及实验 02 说明。区别于 CNN/GNN 综合实验。
+  - 说明：仅登记公开实验入口，不转载课程文件。
+  - 来源 ID：ustcgit-zengyoucheng-ai1001b-26fall
   - 课程代码：AI1001B
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26225/#review-98231>
   - 查询：人工智能数学原理与算法B：试题与解析（2 个附件）
@@ -46099,6 +46152,12 @@
 
 ### PHYS1001A 力学A
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/da-yi-bi-kan/li-xue>
+  - 查询：力学A：公式速查（余启帆）
+  - 检查范围：两页公式速查；资料簿题名明确为力学 A，正文可读，含有心力、天体运动、振动与波。
+  - 说明：仅登记稳定公开入口，不保存临时签名。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1001A
 - 2026-11-22 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.1>
   - 查询：DDNdles/USTC-Question-Bank v0.4.1 35 张配图截断与残字修复复检
   - 检查范围：courses/{PHYS1001A,PHYS1002A,PHYS1004A,210070}/{meta.json,questions.jsonl,assets/*}, manifest.json (v0.4.1)
@@ -47004,6 +47063,12 @@
 
 ### PHYS1005A 原子物理A
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/yuan-zi-wu-li>
+  - 查询：原子物理A：知识归纳与课程拾遗（2022 春）
+  - 检查范围：两份材料的前言均署 2022 春原子物理 A 课程助教，并注明班号；分别为知识归纳和形式理论、微扰论补充讲义。
+  - 说明：仅登记稳定公开入口，不保存临时签名。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1005A
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/21411/#review-49429>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -50449,8 +50514,8 @@
 ## 外链健康检查
 
 - 最近一次检查：2026-11-18T12:43:53.013Z
-- 统计范围：统计分母是站点引用的 3073 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
-- 结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1331。
+- 统计范围：统计分母是站点引用的 3083 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1341。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 - 判定口径：只有确认的 404/410 计为“无法找到”。需登录/认证说明服务器有响应但要求身份验证；目录列表页、软错误页、超时与预检拦截都不证明文件可下载或不存在。重定向中前一跳已收到响应、最终目标被预检拦截的条目归入预检中止，但仍计入“实际收到过 HTTP 响应”的条目。
 - 匿名检查只代表当次网络访问结果，不代表资料内容、课程归属、年份或授权已确认；失败不会自动删除资料或改变“是否收录”的分区。

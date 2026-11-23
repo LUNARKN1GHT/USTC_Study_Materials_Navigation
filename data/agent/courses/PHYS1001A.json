@@ -535,6 +535,37 @@
       "verified_at": "2026-11-21"
     },
     {
+      "id": "ustcguide-phys1001a-mechanics-formulas",
+      "type": "study",
+      "title": "力学A：公式速查（余启帆）",
+      "authors": [
+        "余启帆"
+      ],
+      "notes": "两页公式速查；资料簿题名明确为力学 A，正文可读，含有心力、天体运动、振动与波。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/da-yi-bi-kan/li-xue",
+        "note": "两页公式速查；资料簿题名明确为力学 A，正文可读，含有心力、天体运动、振动与波。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/13ty3c",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料原站；版权归原作者。",
+          "attribution": "余启帆",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "intake-login-PHYS1001A-d14eee1e8f760320",
       "type": "study",
       "title": "力学A：学习资料（4 个附件）",
@@ -655,6 +686,7 @@
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "ustc-phy-exam": "USTC 物理课程往年试卷",
     "icourse-club": "USTC 评课社区",
-    "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）"
+    "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）"
   }
 }

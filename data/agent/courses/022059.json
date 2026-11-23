@@ -638,10 +638,45 @@
         }
       ],
       "verified_at": "2026-11-20"
+    },
+    {
+      "id": "ustcguide-022059-quantum-b-ta",
+      "type": "study",
+      "title": "量子力学B：习题解答与助教讲义（2022 秋）",
+      "authors": [
+        "刘丰铨",
+        "宋冰睿"
+      ],
+      "notes": "封面及前言实核：易为老师 2022 秋 022059.03；两位助教汇编作业参考解答、习题课讲义及补充习题。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2022-2023"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/liang-zi-li-xue-todo",
+        "note": "封面及前言实核：易为老师 2022 秋 022059.03；两位助教汇编作业参考解答、习题课讲义及补充习题。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/f9fr0z",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料原站；版权归原作者。",
+          "attribution": "刘丰铨、宋冰睿",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-23"
     }
   ],
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
-    "icourse-club": "USTC 评课社区"
+    "icourse-club": "USTC 评课社区",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）"
   }
 }

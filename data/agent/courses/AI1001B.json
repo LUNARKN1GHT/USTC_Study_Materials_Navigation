@@ -80,6 +80,41 @@
       "verified_at": "2026-11-23"
     },
     {
+      "id": "ustcgit-ai1001b-2026fa-zhong-labs",
+      "type": "homework",
+      "title": "人工智能数学原理与算法B：Python 与决策树实验（2026 秋）",
+      "authors": [
+        "曾有成",
+        "史睿铭",
+        "胡泷"
+      ],
+      "notes": "两次实验：Python 环境与基础、信息熵与决策树。课程仓库含讲义、实验要求和代码骨架。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2026-2027"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b/-/blob/main/README.md",
+        "note": "README 明确中国科大、课程全名和 2026 秋；核读实验 01 讲义正文及实验 02 说明。区别于 CNN/GNN 综合实验。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcgit-zengyoucheng-ai1001b-26fall",
+          "page_url": "https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料原站；版权归原作者。",
+          "attribution": "钟志诚（主讲）；曾有成、史睿铭、胡泷（整理）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "computing-lectures-gh-ustc-ai-sgy-source-slides",
       "type": "study",
       "title": "人工智能数学原理与算法 课件（课程站点 source/slides）",
@@ -149,6 +184,7 @@
   "sources": {
     "icourse-club": "USTC 评课社区",
     "ustcgit-ai1001b-2026fa-05": "AI1001B.05 2026 秋综合实验",
+    "ustcgit-zengyoucheng-ai1001b-26fall": "AI1001B 2026 秋实验材料（钟志诚）",
     "gh-ustc-ai-sgy-ustc-ai-sgy-io": "ustc-ai-sgy/ustc-ai-sgy.github.io"
   }
 }
