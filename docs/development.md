@@ -184,7 +184,7 @@ npm run monitor -- --publish
 
 GitHub 检查只读登记资料库的确定 `branch`；头未变跳过树，变化时读取完整树按 path+SHA 比较，`truncated` 逐子树读取；通知失败不推进对应基线。文件变化写入固定 Issue“资料来源变化待核验”，不自动增删正式资料。
 
-发布前先读取远端 monitoring 内容及起始 SHA，以远端有效内容为基线。仅当 Contents API 返回 `type: file`、`encoding: none` 时，按该响应的 SHA 补读 Git blob；校验 blob 内容及监控数据，失败时停止发布，不写 Issue 或文件。检查结束仍使用起始 SHA 通过 Contents API 更新单个文件，期间发生并发编辑即冲突失败，不覆盖新内容。Authorization 仅发送到 `https://api.github.com`；通知分块全部成功后才推进相应来源基线，并在远端更新成功后同步 runner 本地文件供本次构建使用。
+发布前先读取远端 monitoring 内容及起始 SHA，以远端有效内容为基线。仅当 Contents API 返回 `type: file`、`encoding: none` 时，按该响应的 SHA 补读 Git blob，并验证其内容与监控结构（包括链接和仓库条目）。读取或校验失败时停止发布，不写 Issue 或文件。已下架来源不视为结构错误，仍由发布流程清理。检查结束仍使用起始 SHA 通过 Contents API 更新单个文件，期间发生并发编辑即冲突失败，不覆盖新内容。Authorization 仅发送到 `https://api.github.com`；通知分块全部成功后才推进相应来源基线，并在远端更新成功后同步 runner 本地文件供本次构建使用。
 
 ## 测试
 
