@@ -702,11 +702,11 @@
     {
       "id": "gh-ddndles-qbank-210050",
       "type": "study",
-      "title": "数字逻辑电路 结构化题库与知识点树（92 题 + 72 图，JSONL / SQLite）",
+      "title": "数字逻辑电路 结构化题库、配图与知识点树（512 题 + 506 图，机读 JSONL/SQLite，需工具或脚本阅读）",
       "authors": [
         "DDNdles"
       ],
-      "notes": "结构化题库目录 courses/210050/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.{webp,svg}），收录 92 道 Markdown+LaTeX 题目与分步解析，覆盖 2015–2023 学年 7 套期末真题与 2020 秋 06 班模拟卷（official 29 / community 23 / ai 40），58 道带图题附按题精裁灰度 WebP 与去手写空白矢量 SVG 共 72 张（合计 526.8 KB）。",
+      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/210050/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.{webp,svg}），收录 512 道 Markdown+LaTeX 题目与分步解析，覆盖 2015–2023 学年 8 套期末真题与模拟卷（92 题），以及阎石、王红《数字电子技术基础（第六版）学习辅导与习题解答》例题、习题与 7 套自测试卷（420 题）；official 449 / community 23 / ai 40。附 503 张灰度 WebP + 3 张空白矢量 SVG 共 506 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 40 题（约 8%），使用前请核对 origin=ai 的题目。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -720,7 +720,7 @@
         {
           "source_id": "gh-ddndles-ustc-question-bank",
           "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210050",
-          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
           "download_url": null,
           "access": "public",
           "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -728,7 +728,7 @@
           "page_kind": "directory"
         }
       ],
-      "verified_at": "2026-11-22"
+      "verified_at": "2026-11-23"
     },
     {
       "id": "computing-lectures-gh-ly382965-210050-2fa-digital-logic-circuits",
@@ -760,6 +760,49 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "ustcguide-210050-digital-logic-tutorials",
+      "type": "study",
+      "title": "数字逻辑电路：两次习题课讲义（高源，2022 秋）",
+      "authors": [
+        "高源"
+      ],
+      "notes": "两份标题页均注明 2022 秋数字逻辑电路 05 班，分别为 11 月 24 日、30 日；区别于已收录的 2023 年习题课。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2022-2023"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/dian-lu-dian-ji-he-shi-gun-chu-wu-yuan-bi-xiu/shu-zi-dian-lu",
+        "note": "两份标题页均注明 2022 秋数字逻辑电路 05 班，分别为 11 月 24 日、30 日；区别于已收录的 2023 年习题课。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/7l9j9v",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料原站；版权归原作者。",
+          "attribution": "高源",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/ig8dge",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料原站；版权归原作者。",
+          "attribution": "高源",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-23"
     },
     {
       "id": "intake-login-210050-00a73740dca327f5",
@@ -918,6 +961,7 @@
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）",
     "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）",
     "gh-xuzhen0913-digital-circuit": "数字逻辑电路课程资料整理"
   }
 }

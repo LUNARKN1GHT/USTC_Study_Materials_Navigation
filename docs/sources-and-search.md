@@ -5,12 +5,12 @@
 ## 概览
 
 - 课程：1184 门（已收录资料 405 门，暂未收录 779 门）。
-- 资料：2694 条（按资料类型与试题年份的覆盖见下一节）。
-- 来源：171 个登记来源，其中 161 个被正式资料引用。
-- 检索记录：6692 条，覆盖 1184 门课程。
+- 资料：2744 条（按资料类型与试题年份的覆盖见下一节）。
+- 来源：177 个登记来源，其中 167 个被正式资料引用。
+- 检索记录：6743 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
-- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 3058 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
-- 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1316。
+- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 3126 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1384。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 
 ## 课程 × 资料类型 × 试题年份覆盖
@@ -54,6 +54,7 @@
   - 2024 年（期中、形式不明、解答情况不明）：常微分方程、偏微分方程 2024 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2024ODEmid.pdf
   - 2023 年（期中、原题、解答情况不明）：常微分方程、偏微分方程 2023 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023ODEmid.pdf
   - 2020 年（期中、形式不明、解答情况不明）：常微分方程、偏微分方程 2020 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020ODEmid.pdf
+  - 2019 年（期末、原题、含解答）：常微分方程 2019 秋期末（含参考解答） —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2019ODEfinal.pdf
   - 2016 年（期中、原题、解答情况不明）：常微分方程、偏微分方程 2016 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2016ODEmid.pdf
 - **作业、习题与小测**
   - 2026 年：2026 秋 常微分方程（章俊彦班） · 作业 1 —— 章俊彦 · 中科大数学课程主页；核验于 2026-11-19 https://www.zhangjy9610.me/USTC/2026F-ODE-HW1.pdf
@@ -134,6 +135,7 @@
   - 复变函数A 复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1651/#review-74450
   - 复变函数A 纲要 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1656/#review-77366
   - 复变函数A PPT —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13479/#review-95816
+  - 复变函数A：课程讲义（田涌波） —— USTC 课程资料簿（GitBook）；核验于 2026-11-23 https://easylink.cc/vbag4u（文件页）
   - 复变函数A：学习资料（16 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13479/#review-38073
   - 复变函数A笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0A%E7%AC%94%E8%AE%B0.pdf（文件页）
   - 复变函数A知识点整理 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13479/#review-43194
@@ -190,8 +192,10 @@
   - 复变函数B:《复变函数》教材习题全解(第 1-8 章) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/21917/#review-87356
 - **学习资料**
   - 复变函数讲义（未校对版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21917/#review-96890
-  - 复变函数B 结构化题库与知识点树（571 题，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-20 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/001548（资料目录）
+  - 复变函数B 结构化题库与知识点树（571 题，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/001548（资料目录）
   - 复变函数B 课程课件与讲义（第 1—7 章） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14559/#review-16210
+  - 复变函数B：课程笔记（王小桃） —— 王小桃的学习笔记；核验于 2026-11-23 https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AC%94%E8%AE%B0.md（文件页）
+  - 复变函数B：往年试题选讲（张礼贤） —— 王小桃的学习笔记；核验于 2026-11-23 https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%80%89%E8%AE%B2.pdf（文件页）
   - 复变期末复习讲义-舒文炫 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%AE%B2%E4%B9%89-%E8%88%92%E6%96%87%E7%82%AB.pdf（文件页）
 
 ### 001549 数理方程B
@@ -382,6 +386,8 @@
 
 - **试题与解析**
   - 2026 年（期末、回忆版、解答情况不明）：固体物理 2026 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/26SpSSPAFinalZJ.pdf
+  - 2022 年（期末、原题、解答情况不明）：固体物理A 2022 春期末 —— USTC 课程资料簿（GitBook） https://easylink.cc/3eqvny
+  - 2021 年（期末、原题、解答情况不明）：固体物理A 2021 春期末 —— USTC 课程资料簿（GitBook） https://easylink.cc/vhiu4j
   - 2019 年（期末、原题、解答情况不明）：固体物理A 2019期末考试 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86A%202019%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
 - **学习资料**
   - 固体物理 课程讲义（教师主页） —— 固体物理课程讲义（教师主页）；核验于 2026-11-19 http://staff.ustc.edu.cn/~gzwang/
@@ -1006,11 +1012,14 @@
   - 2025 年（期末、回忆版、解答情况不明）：图论 2025 期末回忆版（许胤龙、吕敏班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2025F.pdf
   - 2024 年（期末、回忆版、解答情况不明）：图论 2024 期末回忆版（徐宏力班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2024F.md
   - 2024 年（期末、回忆版、无解答）：图论:2024 年期末试题(回忆版) —— USTC 评课社区 https://icourse.club/course/1458/#review-88122
+  - 2023 年（期末、原题、解答情况不明）：图论 2023 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023GTfinal.pdf
+  - 2023 年（期中、原题、解答情况不明）：图论 2023 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023GTmid.pdf
   - 2022 年（期末、回忆版、解答情况不明）：图论 2022 期末回忆版 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2022F.pdf
   - 2022 年（期末、形式不明、解答情况不明）：图论 2022 期末试卷 —— USTC 评课社区 https://icourse.club/course/1457/#review-56701
   - 2021 年（期末、回忆版、解答情况不明）：图论 2021 期末回忆版 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2021F.docx
   - 2021 年（期末、形式不明、解答情况不明）：图论 2021 秋期末试题（回忆文本） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2021%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.txt（文件页）
   - 2018 年、2019 年、2020 年（期末、回忆版、含解答）：图论 2018-2020 试题答案 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2018-2020Ans.pdf
+  - 2020 年（期末、原题、解答情况不明）：图论 2020 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020GTfinal.pdf
   - 2020 年（期末、回忆版、解答情况不明）：图论 2020 期末回忆版 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2020F.pdf
   - 2020 年（期末、形式不明、含解答）：图论 2020 秋期末试题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2020%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf（文件页）
   - 2019 年（期末、回忆版、含解答）：图论 2019 答案 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2019Ans.pdf
@@ -1345,6 +1354,7 @@
 - **学习资料**
   - 计算机系统概论 课程网站（acsa.ustc.edu.cn/ics） —— 中国科学技术大学计算机系统概论课程网站；核验于 2026-11-19 http://acsa.ustc.edu.cn/ics/
   - 计算机系统概论 期末复习资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6242/#review-98579
+  - 2020—2021 学年：计算机系统概论(H)：2020 秋课件（安虹） —— Yorick／计算机系统概论 2020；核验于 2026-11-23 https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020/-/tree/master/PPT（资料目录）
 - **大作业与考核作品**
   - 计算机系统概论 作业与实验（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA
   - 2015 年：计算机系统概论 作业与实验（USTC-CS-Resources） —— USTC-CS-Course-Resource/USTC-CS-Resources；核验于 2026-11-18 https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA
@@ -1446,15 +1456,19 @@
 专业课 · 统计
 
 - **试题与解析**
+  - 2026 年（期末、回忆版、解答情况不明）：数理统计 2026 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2026Sstatfinal.pdf
   - 2025 年（期末、形式不明、解答情况不明）：数理统计 2025 期末试卷(9 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
+  - 2025 年（期中、原题、解答情况不明）：数理统计 2025 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2025Sstatmid.pdf
   - 2025 年（期中、形式不明、解答情况不明）：数理统计 2025 期中试卷(11 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
   - 2024 年（期中、形式不明、解答情况不明）：期中考试试卷分析（2024.4.19） (1) (1) —— USTC 评课社区 https://icourse.club/course/24080/#review-85525
-  - 2024 年（期中、原题、无解答）：数理统计 2024 春期中考试试卷(2024-04-19 原卷) —— USTC 评课社区 https://icourse.club/course/24080/#review-83800
+  - 2024 年（期中、原题、无解答）：数理统计 2024 春期中考试试卷(2024-04-19 原卷) —— USTC 评课社区、USTC 数学课程往年试卷 https://icourse.club/course/24080/#review-83800
   - 2024 年（期末、原题、含解答）：数理统计 2024 年春季学期期末考试参考答案(含原题) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
+  - 2024 年（期末、原题、解答情况不明）：数理统计 2024 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2024Sstatfinal.pdf
   - 2024 年（期末、形式不明、解答情况不明）：数理统计 2024 期末试卷(8 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
   - 2024 年（期中、形式不明、解答情况不明）：数理统计 2024 期中试卷(9 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
-  - 2023 年（期末、形式不明、解答情况不明）：数理统计 2023 期末残卷(6 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
-  - 2023 年（期中、形式不明、解答情况不明）：数理统计 2023 期中残卷(2 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
+  - 2023 年（期末、形式不明、解答情况不明）：数理统计 2023 期末残卷(6 页) —— USTC 评课社区、USTC 数学课程往年试卷 https://icourse.club/course/25111/#review-92610
+  - 2023 年（期中、形式不明、解答情况不明）：数理统计 2023 期中残卷(2 页) —— USTC 评课社区、USTC 数学课程往年试卷 https://icourse.club/course/25111/#review-92610
+  - 2021 年（期中、原题、解答情况不明）：数理统计 2021 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2021Sstatmid.pdf
   - 2021 年（期中、形式不明、解答情况不明）：数理统计 2021 期中试卷(8 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
   - 年份待确认（期末、形式不明、解答情况不明）：25期末参考答案及评分要点 —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
   - 年份待确认（期中期末混合、形式不明、解答情况不明）：数理统计期中期末试卷汇编(52 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
@@ -1475,7 +1489,20 @@
 专业课 · 统计
 
 - **试题与解析**
-  - 年份待确认（期中、原题、无解答）：实用随机过程:2019 级统计学专业期中考试试题 —— USTC 评课社区 https://icourse.club/course/2093/#review-93966
+  - 2026 年（期末、原题、解答情况不明）：实用随机过程 2026 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2026SPfinal.pdf
+  - 2026 年（期中、原题、解答情况不明）：实用随机过程 2026 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2026SPmid.pdf
+  - 2025 年（期末、原题、解答情况不明）：实用随机过程 2025 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2025SPfinal.pdf
+  - 2023 年（期末、原题、解答情况不明）：实用随机过程 2023 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023SPfinal.pdf
+  - 2023 年（期中、原题、解答情况不明）：实用随机过程 2023 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023SPmid.pdf
+  - 2022 年（期末、原题、解答情况不明）：实用随机过程 2022 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2022SPfinal.pdf
+  - 2022 年（期中、原题、解答情况不明）：实用随机过程 2022 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2022Sstochmid.pdf
+  - 2021 年（期末、原题、解答情况不明）：实用随机过程 2021 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2021SPfinal.pdf
+  - 2020 年（期末、原题、解答情况不明）：实用随机过程 2020 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020Fstochfinal.pdf
+  - 2020 年（期中、原题、解答情况不明）：实用随机过程 2020 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020Fstochmid.pdf
+  - 2019 年（期中、原题、解答情况不明）：实用随机过程 2019 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2019Fstoch.pdf
+  - 2015 年（期中、原题、解答情况不明）：实用随机过程 2015 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2015Fstochmid.pdf
+  - 2011 年（期中、原题、解答情况不明）：实用随机过程 2011 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2011Fstochmid.pdf
+  - 年份待确认（期中、原题、无解答）：实用随机过程:2019 级统计学专业期中考试试题 —— USTC 评课社区、USTC 数学课程往年试卷 https://icourse.club/course/2093/#review-93966
   - 年份待确认（期中期末混合、形式不明、解答情况不明）：实用随机过程：试题与解析（16 个附件） —— USTC 评课社区 https://icourse.club/course/2093/#review-93966
 - **作业、习题与小测**
   - 实用随机过程：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2093/#review-93966
@@ -1563,6 +1590,8 @@
 专业课 · 统计
 
 - **试题与解析**
+  - 2022 年（期末、原题、解答情况不明）：回归分析 2022 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2022Fregressionfinal.pdf
+  - 2021 年（期末、原题、解答情况不明）：回归分析 2021 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2021Sregressionfinal.pdf
   - 年份待确认（期末、形式不明、解答情况不明）：回归分析 2025 期末最后一题 —— USTC 评课社区 https://icourse.club/course/1350/#review-100405
   - 年份待确认（期末、形式不明、解答情况不明）：回归分析 期末试卷(压缩包) —— USTC 评课社区 https://icourse.club/course/1350/#review-21634
 - **作业、习题与小测**
@@ -1887,11 +1916,14 @@
   - 2019 年（期末、形式不明、解答情况不明）：电动力学 2019 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/19SpEDAFinalWSJ.pdf
   - 2017 年（期末、原题、含解答）：2017期末考试 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/2017%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
   - 2016 年（期末、原题、含解答）：2016期末考试 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/2016%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
-  - 2015 年（期末、原题、解答情况不明）：电动力学 2015 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/15SpEDAFinalPHJ.pdf
-  - 2014 年（期末、原题、解答情况不明）：电动力学 2014 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/14SpEDAFinalPHJ.pdf
+  - 2015 年（期末、原题、含解答）：电动力学 2015 期末 —— USTC 物理课程往年试卷、USTC 课程资料簿（GitBook） https://ustcphyexam.github.io/USTC/15SpEDAFinalPHJ.pdf
+  - 2015 年（期末、原题、含解答）：电动力学 2015 期末解答（潘海俊） —— USTC 课程资料簿（GitBook） https://easylink.cc/aocfsw
+  - 2014 年（期末、原题、含解答）：电动力学 2014 期末 —— USTC 物理课程往年试卷、USTC 课程资料簿（GitBook） https://ustcphyexam.github.io/USTC/14SpEDAFinalPHJ.pdf
+  - 2014 年（期末、原题、含解答）：电动力学 2014 期末解答（潘海俊） —— USTC 课程资料簿（GitBook） https://easylink.cc/k0xibo
   - 年份待确认（期末、原题、解答情况不明）：电动力学 2024 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/24FaEDAFinal.pdf
 - **作业、习题与小测**
   - 《电动力学》（第四版，郭硕鸿）习题参考解答（Uphi. 修订版） —— Uphi. 个人站；核验于 2026-11-19 https://hongfeiy.com/assets/pdf/gsh_answer.pdf（文件页）
+  - 2022 年（小测、原题、解答情况不明）：电动力学 2022 春 第一次小测（潘海俊） —— USTC 课程资料簿（GitBook） https://easylink.cc/kulfwy
   - 电动力学：作业与习题（18 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23458/#review-72448
 - **学习资料**
   - 电动力学 A4 公式速查整理(大抄) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/4762/#review-48684
@@ -1925,6 +1957,7 @@
   - 2026 年：量子力学B 期末复习讲义:无穷维空间的量子力学(2026春,105页) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/6658/#review-99098
   - 量子力学B 手写课堂笔记(部分1) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/6651/#review-38321
   - 量子力学B 手写课堂笔记(Quantum Mechanics Lecture Notes,43 页) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/6651/#review-78575
+  - 2022—2023 学年：量子力学B：习题解答与助教讲义（2022 秋） —— USTC 课程资料簿（GitBook）；核验于 2026-11-23 https://easylink.cc/f9fr0z（文件页）
 
 ### 022062 热力学与统计物理A
 
@@ -2125,6 +2158,7 @@
   - 2021 年（期中期末混合、形式不明、解答情况不明）：理论力学 2021 秋期中、期末考试（潘海俊） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62021%E7%A7%8B%E6%BD%98%E6%B5%B7%E4%BF%8A%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%26%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
   - 2021 年（期中、形式不明、解答情况不明）：理论力学A 2021 期中考试参考答案 —— USTC 评课社区 https://icourse.club/course/19015/#review-42365
   - 2021 年（期中、形式不明、解答情况不明）：理论力学A 2021 期中试题(11月卷) —— USTC 评课社区 https://icourse.club/course/20689/#review-44348
+  - 2021 年（期末、原题、含解答）：理论力学A 2021 秋期末参考答案（朱界杰） —— USTC 课程资料簿（GitBook） https://easylink.cc/ltmkyn
   - 2020 年（期末、模拟练习、解答情况不明）：理论力学 2020 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/SampleTMAFinalZJJ.pdf
   - 2020 年（期末、原题、解答情况不明）：理论力学 2020 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/20FaTMAFinalYYF.pdf
   - 2020 年（期中、模拟练习、解答情况不明）：理论力学 2020 期中 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/SampleTMAMidZJJ.pdf
@@ -2134,6 +2168,7 @@
   - 2019 年（期中、形式不明、解答情况不明）：理论力学 2019 期中 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/19FaTMAMidZJJ.pdf
   - 2019 年（期末、形式不明、含解答）：理论力学 2019 秋期末考试（袁业飞） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62019%E7%A7%8B%E8%A2%81%E4%B8%9A%E9%A3%9E%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2018 年（期末、原题、解答情况不明）：理论力学 2018 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/18FaTMAFinalPHJ.pdf
+  - 2018 年（期中、原题、含解答）：理论力学A 2018 秋期中（潘海俊，含答案） —— USTC 课程资料簿（GitBook） https://easylink.cc/pwnqyu
   - 2016 年（期末、形式不明、含解答）：理论力学 2016 秋期末考试及参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62016%E7%A7%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 年份待确认（类型不明、原题、无解答）：理论力学A 2019—2020学年第一学期考试试卷(A卷,原卷) —— USTC 评课社区 https://icourse.club/course/4526/#review-40430
   - 年份待确认（类型不明、形式不明、解答情况不明）：理论力学A 考卷照片（2022 秋） —— USTC 评课社区 https://icourse.club/uploads/images/82706a20a51ba3a16006b4affefcd8b0e0066c53.jpg
@@ -2180,6 +2215,7 @@
   - 线性电子线路章节练习与小结 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/exercise%281%29.pdf（文件页）
   - 线性电子线路章节习题答案 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%AD%94%E6%A1%88/answers_chap1_2.pdf（文件页）
 - **学习资料**
+  - 线性电子线路 结构化题库、配图与知识点树（407 题 + 340 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/023181（资料目录）
   - 2025 年：线性电子线路 课程课件(2025 秋,第 1–7、9 章及复习重点) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/14405/#review-99480
   - 线性电子线路复习笔记 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%BA%BF%E7%94%B5%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf
   - 线性电子线路概念整理 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E6%A6%82%E5%BF%B5.docx
@@ -2344,8 +2380,9 @@
   - 数字逻辑电路 习题课讲义与作业解答（USTC-Course-Materials-Sharing） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89
 - **学习资料**
   - 数电复习准备v1.0 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2787/#review-40068
-  - 数字逻辑电路 结构化题库与知识点树（92 题 + 72 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210050（资料目录）
+  - 数字逻辑电路 结构化题库、配图与知识点树（512 题 + 506 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210050（资料目录）
   - 数字逻辑电路 资料（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Digital%20Logic%20Circuits
+  - 2022—2023 学年：数字逻辑电路：两次习题课讲义（高源，2022 秋） —— USTC 课程资料簿（GitBook）；核验于 2026-11-23 https://easylink.cc/7l9j9v（文件页）
   - 数字逻辑电路：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2794/#review-40454
   - 数字逻辑电路：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2792/#review-89140
   - 2023 年：数字逻辑电路第一次习题课讲义（1—2、4 章） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-19 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE_124%E7%AB%A0.pptx（文件页）
@@ -2402,7 +2439,7 @@
   - 数据结构、数据结构及其算法 资料簿条目（USTC课程资料簿） —— USTC 课程资料簿（GitBook）；核验于 2026-11-18 https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa
   - 数据结构错题集 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%94%99%E9%A2%98%E9%9B%86.txt（文件页）
   - 数据结构第二~五章习题课 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%98%E8%AF%BE10.24.pdf（文件页）
-  - 数据结构及其算法 结构化题库、配图与知识点树（347 题 + 17 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210070（资料目录）
+  - 数据结构及其算法 结构化题库、配图与知识点树（347 题 + 17 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210070（资料目录）
   - 数据结构及其算法复习整理（对照考试范围） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25785/#review-98268
   - 数据结构及应用算法经验分享 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%BA%94%E7%94%A8%E7%AE%97%E6%B3%95%20%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.pdf（文件页）
   - 数据结构实验讲义（n_exp.pdf） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 http://staff.ustc.edu.cn/~ypb/exp/n_exp.pdf（文件页）
@@ -2492,8 +2529,11 @@
 
 专业课 · 计算机
 
+- **作业、习题与小测**
+  - 数据库基础：分章作业与 SQL 实验（袁平波） —— 袁平波课程主页；核验于 2026-11-23 https://git.ustc.edu.cn/ypb/course/-/raw/main/dbs/dbhomework.pdf（文件页）
 - **学习资料**
   - 数据库基础 课程笔记（公开站点） —— 数据库基础课程笔记（jonbgua.com）；核验于 2026-11-19 https://coursenotes.jonbgua.com/sql/
+  - 数据库基础：课程课件（袁平波） —— 袁平波课程主页；核验于 2026-11-23 https://git.ustc.edu.cn/ypb/course/-/tree/main/dbs/PPT（资料目录）
   - 数据库基础讲义与复习 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89.pdf（文件页）
 
 ### 210515 电子线路
@@ -2619,6 +2659,9 @@
 
 - **试题与解析**
   - 年份待确认（类型不明、形式不明、解答情况不明）：人工智能数学原理与算法B：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/26225/#review-98231
+- **作业、习题与小测**
+  - 2026—2027 学年：人工智能数学原理与算法B：CNN 与 GNN 综合实验（2026 秋 05 班） —— AI1001B.05 2026 秋综合实验；核验于 2026-11-23 https://git.ustc.edu.cn/ai1001b.05.2026fa/CNN（资料目录）
+  - 2026—2027 学年：人工智能数学原理与算法B：Python 与决策树实验（2026 秋） —— AI1001B 2026 秋实验材料（钟志诚）；核验于 2026-11-23 https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b（资料目录）
 - **学习资料**
   - 2025 年：人工智能数学原理与算法 课件（课程站点 source/slides） —— ustc-ai-sgy/ustc-ai-sgy.github.io；核验于 2026-11-18 https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/slides
   - 2025 年：人工智能数学原理与算法 实验（课程站点 source/experiment） —— ustc-ai-sgy/ustc-ai-sgy.github.io；核验于 2026-11-18 https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/experiment
@@ -2865,7 +2908,7 @@
   - 计算机程序设计复习用测试题（2025 版，另一帖） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25853/#review-101251
   - 计算机程序设计复习用测试题（2025 版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25828/#review-103950
 - **学习资料**
-  - 计算机程序设计 结构化题库与知识点树（1,533 题，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-21 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/CS1003（资料目录）
+  - 计算机程序设计 结构化题库与知识点树（1,533 题，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/CS1003（资料目录）
   - 计算机程序设计：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25828/#review-103950
   - 计算机程序设计期末上机习题课 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25853/#review-101251
   - 计算机程序设计总结与复习 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%BB%93%E4%B8%8E%E5%A4%8D%E4%B9%A0.pdf（文件页）
@@ -3039,6 +3082,8 @@
 
 专业课 · 计算机 · 数学
 
+- **学习资料**
+  - 2025—2026 学年：形式化方法导引：2026 春课件（黄文超） —— 黄文超：形式化方法导引；核验于 2026-11-23 https://faculty.ustc.edu.cn/huangwenchao/zh_CN/zdylm/995897/list/index.htm
 - **大作业与考核作品**
   - 形式化方法导引 课程项目：ROBDD 构造器（含 LALR 解析） —— Catoverflow/ROBDD（ROBDD 构造器）；核验于 2026-11-19 https://github.com/catoverflow/ROBDD（资料目录）
   - 形式化方法导引 实验与报告（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95%E5%AF%BC%E5%BC%95
@@ -3198,6 +3243,7 @@
   - 计嵌大抄（A4排版） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/%E5%A4%A7%E6%8A%84inA4.pdf
   - 计嵌复习提要（2024-05-23 版与 2025-05-22 v2） —— ly382965/USTC_learning_materials（6系课程资料）、feixu 学习资料分享站（AList）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/%E3%80%8A%E8%AE%A1%E5%B5%8C%E3%80%8B%E5%A4%8D%E4%B9%A0%E6%8F%90%E8%A6%8120240523.pdf
   - 计算机原理与嵌入式系统 复习大抄(2.0 版) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/25202/#review-94948
+  - 计算机原理与嵌入式系统 结构化题库、配图与知识点树（505 题 + 20 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/EE2003（资料目录）
   - 计算机原理与嵌入式系统：学习资料（10 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21287/#review-46454
   - 计算机原理与嵌入式系统：学习资料（12 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25202/#review-94948
   - 计算机原理与嵌入式系统：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21286/#review-84603
@@ -4174,7 +4220,7 @@
   - 数分习题课讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19516/#review-77292
   - 2024 年：数学分析(B1) 2024 秋课程讲义（助教整理，v2.0） —— Passiflora-sago 课程主页与讲义发布；核验于 2026-11-19 https://github.com/Passiflora-sago/Passiflora-sago.github.io/releases/download/v1.0.0/24FallMAB1.pdf（文件页）
   - 数学分析(B1) 笔记 17 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19512/#review-105840
-  - 数学分析(B1) 结构化题库与知识点树（445 题，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-20 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1006（资料目录）
+  - 数学分析(B1) 结构化题库与知识点树（445 题，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1006（资料目录）
   - 数学分析(B1) 期末复习课件(积分学、微分方程与无穷级数) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/19512/#review-105840
   - 数学分析(B1) 期中复习课件(极限与函数性质) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/19512/#review-105840
   - 数学分析(B1) 手写课程笔记(161页扫描版) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/25960/#review-97386
@@ -4227,7 +4273,7 @@
   - 第11章复习提纲 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC11%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf（文件页）
   - 第12章复习提纲 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC12%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf（文件页）
   - 第13章复习提纲 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC13%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf（文件页）
-  - 数学分析(B2) 结构化题库与知识点树（569 题，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-20 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1007（资料目录）
+  - 数学分析(B2) 结构化题库与知识点树（569 题，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1007（资料目录）
   - 数学分析(B2) 课程讲稿 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13223/#review-46622
   - 2026 年：数学分析(B2) 习题课讲义(2026,52 页) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/2848/#review-104511
   - 数学分析(B2)：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13222/#review-86578
@@ -4303,7 +4349,7 @@
   - 线性代数(B1) 2025-09 讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25296/#review-94790
   - 线性代数(B1) 讲义 2023S —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5481/#review-73657
   - 线性代数(B1) 讲义(线性代数(I)) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/24268/#review-84581
-  - 线性代数(B1) 结构化题库与知识点树（885 题，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-21 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1009（资料目录）
+  - 线性代数(B1) 结构化题库与知识点树（885 题，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1009（资料目录）
   - 线性代数(B1) 线代B1（notes） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E7%BA%BF%E4%BB%A3B1
   - 线性代数(B1)：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18268/#review-86625
   - 线性代数(B1)笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E7%AC%94%E8%AE%B0.pdf（文件页）
@@ -4969,9 +5015,11 @@
   - 2016 年、2017 年、2018 年、2020 年（期中期末混合、形式不明、解答情况不明）：力学A：试题与解析（7 个附件） —— USTC 评课社区 https://icourse.club/course/19589/#review-43609
   - 2024—2025 学年（期末、形式不明、解答情况不明）：2024-2025秋季学期 力学A(AH AL)期末参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2024-2025%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%20%E5%8A%9B%E5%AD%A6A%28AH%20AL%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 年份待确认（类型不明、形式不明、解答情况不明）：力学历年考题 —— USTC 评课社区 https://icourse.club/course/19967/#review-27995
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：力学A：上古密卷合集 —— USTC 课程资料簿（GitBook） https://easylink.cc/bp2ybz
 - **学习资料**
   - 力学A 复习大抄(手写公式与例题整理,2 页) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/19588/#review-90767
-  - 力学A 结构化题库、配图与知识点树（253 题 + 91 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-21 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1001A（资料目录）
+  - 力学A 结构化题库、配图与知识点树（253 题 + 91 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1001A（资料目录）
+  - 力学A：公式速查（余启帆） —— USTC 课程资料簿（GitBook）；核验于 2026-11-23 https://easylink.cc/13ty3c（文件页）
   - 力学A：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22033/#review-90305
   - 力学A大抄 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/%E5%8A%9B%E5%AD%A6A%E5%A4%A7%E6%8A%84.pdf（文件页）
   - 物理学科学习指南8.16 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19588/#review-90767
@@ -5033,6 +5081,7 @@
   - 2021 年（期中、原题、解答情况不明）：热学(A) 2021 期中试题 —— USTC 评课社区 https://icourse.club/course/20187/#review-36580
   - 2017 年（类型不明、形式不明、解答情况不明）：2017年热学公共题部分 —— USTC 评课社区 https://icourse.club/course/20182/#review-86729
   - 年份待确认（期末、形式不明、解答情况不明）：热学A：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/20182/#review-33854
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：热学A：早年真题合集 —— USTC 课程资料簿（GitBook） https://easylink.cc/m0klme
 - **作业、习题与小测**
   - 2023 春热学参考题（wxf 班） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/2023%E6%98%A5wxf%E7%8F%AD%E7%83%AD%E5%AD%A6%E5%8F%82%E8%80%83%E9%A2%98.docx（文件页）
   - 大学物理热学习题库试题与答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20187/#review-36580
@@ -5043,7 +5092,7 @@
   - 《热学A》知识点整理（未校对版本） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20182/#review-86729
   - 热学笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20189/#review-69168
   - 热学讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20182/#review-32160
-  - 热学A 结构化题库、配图与知识点树（352 题 + 48 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1002A（资料目录）
+  - 热学A 结构化题库、配图与知识点树（352 题 + 48 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1002A（资料目录）
   - 热学A全书要点 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E7%83%AD%E5%AD%A6A%E5%85%A8%E4%B9%A6%E8%A6%81%E7%82%B9.pdf（文件页）
   - 热学A知识点整理 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E7%83%AD%E5%AD%A6A%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86.docx（文件页）
 
@@ -5073,6 +5122,8 @@
   - 2024 年（期末、原题、解答情况不明）：光学 2024 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/24FaOpticsAfinal.pdf
   - 2023 年（期末、原题、解答情况不明）：光学 2023 期末 —— USTC 物理课程往年试卷、USTC 评课社区 https://ustcphyexam.github.io/USTC/23FaOpticsAfinal.pdf
   - 2022 年（期末、形式不明、解答情况不明）：光学 2022 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/22FaOpticsAfinal.pdf
+  - 2021 年（期末、模拟练习、解答情况不明）：光学A：chb 老师样题（2021） —— USTC 课程资料簿（GitBook） https://easylink.cc/czwlfh
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：光学A：往年考试题合集 —— USTC 课程资料簿（GitBook） https://easylink.cc/sj6yep
   - 2021—2022 学年（期末、原题、含解答）：光学A2021-2022学年第一学期期末考试试卷及答案 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2021-2022%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2022—2023 学年（期末、形式不明、解答情况不明）：光学A2022-2023学年第一学期期末考试试卷及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2022-2023%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2023—2024 学年（期末、原题、解答情况不明）：光学A2023-2024学年第一学期期末考试试卷及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
@@ -5083,7 +5134,7 @@
   - 光学A习题集 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21012/#review-90459
 - **学习资料**
   - 复习光学 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24002/#review-76343
-  - 光学A 结构化题库与知识点树（228 题 + 17 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1003A（资料目录）
+  - 光学A 结构化题库与知识点树（228 题 + 20 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1003A（资料目录）
   - 光学A 助教习题课讲义（Optics2023.pdf） —— 光学A 助教习题课讲义（home.ustc.edu.cn）；核验于 2026-11-19 http://home.ustc.edu.cn/~shiyaowei040126/Optics2023.pdf（文件页）
   - 光学A：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24002/#review-78596
   - 光学A：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21013/#review-39224
@@ -5128,7 +5179,7 @@
   - 电磁学A 小测三次合集 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20200/#review-36575
 - **学习资料**
   - 电磁学A 磁场习题课 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20200/#review-36575
-  - 电磁学A 结构化题库、配图与知识点树（121 题 + 59 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1004A（资料目录）
+  - 电磁学A 结构化题库、配图与知识点树（121 题 + 59 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1004A（资料目录）
   - 电磁学A 课程笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4937/#review-69650
   - 电磁学A 例题选讲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23138/#review-70033
   - 电磁学A：学习资料（8 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4933/#review-4600
@@ -5198,7 +5249,8 @@
   - 2025 年（类型不明、形式不明、解答情况不明）：原子物理 2025 秋小测答案 —— USTC 评课社区 https://icourse.club/course/24423/#review-99248
   - 2022 年（期末、形式不明、解答情况不明）：原子物理 2022 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/22SpAtomAFinal.pdf
   - 2018 年（期末、形式不明、解答情况不明）：原子物理 2018 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/18SpAtomAFinal.pdf
-  - 2016 年（期末、形式不明、解答情况不明）：原子物理 2016 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/16SpAtomAFinal.pdf
+  - 2016 年（期末、形式不明、含解答）：原子物理 2016 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList）、USTC 课程资料簿（GitBook） https://ustcphyexam.github.io/USTC/16SpAtomAFinal.pdf
+  - 年份待确认（类型不明、形式不明、解答情况不明）：原子物理：上古密卷合集 —— USTC 课程资料簿（GitBook） https://easylink.cc/eqe390
   - 年份待确认（类型不明、形式不明、解答情况不明）：原子物理A：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/21408/#review-48342
   - 年份待确认（类型不明、形式不明、解答情况不明）：原子物理A：试题与解析（7 个附件） —— USTC 评课社区 https://icourse.club/course/21408/#review-84825
 - **学习资料**
@@ -5207,6 +5259,7 @@
   - 原子物理A 课程讲义课件与往年试题合集(ZIP) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/21410/#review-84041
   - 2022 年：原子物理A LaTeX 课程笔记(2022 年,67 页) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/21411/#review-49429
   - 原子物理A：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21409/#review-90701
+  - 2021—2022 学年：原子物理A：知识归纳与课程拾遗（2022 春） —— USTC 课程资料簿（GitBook）；核验于 2026-11-23 https://easylink.cc/xqhysr（文件页）
 
 ### PHYS1005B 原子物理B
 
@@ -5448,7 +5501,7 @@
   - 概率论与数理统计 概率论与数理统计（notes） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
   - 概率论与数理统计 概率论与数理统计（notes） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
   - 概率论与数理统计 教案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21053/#review-40210
-  - 概率论与数理统计 结构化题库与知识点树（431 题 + 1 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-22 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/STAT2002（资料目录）
+  - 概率论与数理统计 结构化题库与知识点树（431 题 + 1 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/STAT2002（资料目录）
   - 概率论与数理统计 课程主页（张伟平） —— 张伟平 概率论与数理统计课程页；核验于 2026-11-19 http://staff.ustc.edu.cn/~zwp/teach/Prob-Stat/probstat.htm
   - 概率论与数理统计 课程资料（Wloner0809 仓库目录） —— Wloner0809/ustc-course-resource；核验于 2026-11-19 https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1（资料目录）
   - 概率论与数理统计 试卷 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://raw.githubusercontent.com/li-qi-lin/USTC-Course-Materials-Sharing/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Prob_Stat_Concepts_Examples.pdf
@@ -5882,7 +5935,7 @@
 - 维护者：ustcmathexam（学生运营）
 - GitHub：ustcmathexam/ustcmathexam.github.io（分支 master）
 - 说明：按课程分类的数学试卷站，文件在仓库 USTC/；站点模板 MIT 不覆盖试卷权利。
-- 被正式资料引用：373 处
+- 被正式资料引用：401 处
 
 ### 中国科学技术大学慕课平台
 
@@ -5915,7 +5968,7 @@
 - 地址：<https://ustcguide.gitbook.io/coursedata/>
 - 维护者：USTCGUIDE（施耀炜等贡献者）
 - 说明：课程经验索引（GitBook）；正文页面未取得，仅作原页导航，不含电子书/教材下载。关联仓库 USTCGUIDE/USTCGUIDE 的 Coursedata 分支（见 ustcguide-repository），本站页面本身无 GitHub 身份。 按课程组织的资料索引，条目多为 easylink.cc 短链跳转云盘；序言署名施耀炜（21级少年班），贡献者与致谢见 https://ustcguide.gitbook.io/coursedata/start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md ；序言声明含电子书扫描版（教材下载不收录）。 公开课程经验/资料索引，序署施耀炜（21级少年班）；无再分发许可，只做原页导航；本轮检查llms.txt目录与相关课程页。 课程资料索引；序署名施耀炜（21级少年班），贡献者名单见 https://ustcguide.gitbook.io/coursedata/start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md 。序说明含电子版教材扫描，按本站方案不收录教材下载。 序署名施耀炜（21级少年班）及公开贡献者；资料簿 llms.txt 无本切片课程专页；无再分发许可，仅原页导航。
-- 被正式资料引用：3 处
+- 被正式资料引用：25 处
 
 ### USTCGUIDE/UstcCourseData.github.io
 
@@ -6981,8 +7034,56 @@
 - 地址：<https://github.com/DDNdles/USTC-Question-Bank>
 - 维护者：DDNdles
 - GitHub：DDNdles/USTC-Question-Bank（分支 main）
-- 说明：按中科大官方课号组织的结构化题库仓库（UTF-8 JSONL、知识点树 taxonomy.json、零依赖 Python 加载库与 SQLite FTS5 构建器），覆盖复变函数B（001548，571 题）、数学分析(B1)（MATH1006，445 题）、数学分析(B2)（MATH1007，569 题）、线性代数(B1)（MATH1009，885 题）、计算机程序设计（CS1003，1,533 题）、力学A（PHYS1001A，253 题 + 91 图）、热学A（PHYS1002A，352 题 + 48 图）、电磁学A（PHYS1004A，121 题 + 59 图）、数据结构及其算法（210070，347 题 + 17 图）、概率论与数理统计（STAT2002，431 题 + 1 图）、光学A（PHYS1003A，228 题 + 17 图）与数字逻辑电路（210050，92 题 + 72 图），合计 5,827 题。仓库代码、Schema 与元数据采用 MIT；NOTICE.md 明确第三方真题、教材习题及引用解答版权归原作者与出版社所有、不适用 MIT，仅供学习研究。
-- 被正式资料引用：12 处
+- 说明：机读题库，不是网盘或在线刷题站：仓库内是 JSONL 题目流、知识点树与配图，直接打开是原始文本，需要配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用。校内可走免代理镜像 https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank 。按中科大官方课号组织，当前 14 门课共 7,159 题：复变函数B（001548，571 题）、数学分析(B1)（MATH1006，445 题）、数学分析(B2)（MATH1007，569 题）、线性代数(B1)（MATH1009，885 题）、计算机程序设计（CS1003，1,533 题）、力学A（PHYS1001A，253 题 + 91 图）、热学A（PHYS1002A，352 题 + 48 图）、电磁学A（PHYS1004A，121 题 + 59 图）、数据结构及其算法（210070，347 题 + 17 图）、概率论与数理统计（STAT2002，431 题 + 1 图）、光学A（PHYS1003A，228 题 + 20 图）、数字逻辑电路（210050，512 题 + 506 图）、线性电子线路（023181，407 题 + 340 图）、计算机原理与嵌入式系统（EE2003，505 题 + 20 图）。其中力学A、电磁学A、复变B、数电、光学A、数据结构、热学A 等课的 ai 生成解答占比较高，使用前核对 origin=ai 的题目。仓库代码、Schema 与元数据采用 MIT；NOTICE.md 明确第三方真题、教材习题及引用解答版权归原作者与出版社所有、不适用 MIT，仅供学习研究。
+- 被正式资料引用：14 处
+
+### 黄文超：形式化方法导引
+
+- 类型：网站
+- 地址：<https://faculty.ustc.edu.cn/huangwenchao/zh_CN/zdylm/995897/list/index.htm>
+- 维护者：黄文超
+- 说明：课程教师公开的本科形式化方法导引讲义。
+- 被正式资料引用：1 处
+
+### AI1001B.05 2026 秋综合实验
+
+- 类型：资料库
+- 地址：<https://git.ustc.edu.cn/ai1001b.05.2026fa>
+- 维护者：AI1001B.05 教学团队
+- 说明：课程群组发布的综合实验说明与代码框架。
+- 被正式资料引用：2 处
+
+### 王小桃的学习笔记
+
+- 类型：资料库
+- 地址：<https://git.ustc.edu.cn/ustc_wsh/Learning_Note>
+- 维护者：王思晗
+- 说明：公开课程笔记仓库；转收的试题选讲按文件原署名。
+- 被正式资料引用：2 处
+
+### 袁平波课程主页
+
+- 类型：资料库
+- 地址：<https://git.ustc.edu.cn/ypb/course>
+- 维护者：袁平波
+- 说明：教师维护的课程目录，数据库基础部分提供课件、分章作业及实验说明。
+- 被正式资料引用：3 处
+
+### Yorick／计算机系统概论 2020
+
+- 类型：资料库
+- 地址：<https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020>
+- 维护者：Yorick
+- 说明：学生归档的 2020 秋计算机系统概论荣誉课材料；课程课件按仓库公开说明署名。
+- 被正式资料引用：1 处
+
+### AI1001B 2026 秋实验材料（钟志诚）
+
+- 类型：资料库
+- 地址：<https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b>
+- 维护者：曾有成等
+- 说明：课程实验说明、代码与配套数据；仓库 README 列明主讲和整理者。
+- 被正式资料引用：1 处
 
 ## 检索记录
 
@@ -8239,6 +8340,12 @@
 
 ### 001101 常微分方程
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2019ODEfinal.pdf>
+  - 查询：常微分方程 2019 秋期末（含参考解答）
+  - 检查范围：卷面为 2019 秋季学期微分方程 I 期末考试，授课教师张永兵；同站另有参考解答 2019ODEfinalsol.pdf；两份均已下载算 SHA-256。
+  - 说明：索引只登记稳定文件直链与完整哈希。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：001101
 - 2026-11-19 · 公开网页 · 已查看 · <https://www.zhangjy9610.me/2026F-PDE1.html>
   - 查询：2026 秋 常微分方程（章俊彦班）的作业和自编讲义
   - 检查范围：复核课程页逐次题目和答案；10 个链接匿名返回 HTTP 206 和 PDF 文件头；抽核讲义封面。
@@ -8481,6 +8588,12 @@
 
 ### 001505 复变函数A
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/fei-shu-zhuan-ye-de-shu-xue-ke/fu-bian-han-shu>
+  - 查询：复变函数A：课程讲义（田涌波）
+  - 检查范围：讲义正文涵盖复数、复积分与留数；资料簿标明课程版本与作者，田涌波授课记录对应 001505。
+  - 说明：仅登记稳定公开入口，不保存临时签名。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：001505
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/1656/#review-77366>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -8755,6 +8868,18 @@
 
 ### 001548 复变函数B
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AC%94%E8%AE%B0.md>
+  - 查询：复变函数B：课程笔记（王小桃）
+  - 检查范围：正文开头明确写复变函数 B；核读笔记正文。不含同仓转收的历年卷或教材。
+  - 说明：登记公开原站入口；仅链接，不转载文件。
+  - 来源 ID：ustcgit-wsh-learning-note
+  - 课程代码：001548
+- 2026-11-23 · 公开网页 · 已查看 · <https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%80%89%E8%AE%B2.pdf>
+  - 查询：复变函数B：往年试题选讲（张礼贤）
+  - 检查范围：核读 PDF，首页明确署名张礼贤，正文按复变函数 B 历年期末题编排；仓库为转载入口。
+  - 说明：登记公开原站入口；仅链接，不转载文件。
+  - 来源 ID：ustcgit-wsh-learning-note
+  - 课程代码：001548
 - 2026-11-20 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank>
   - 查询：DDNdles/USTC-Question-Bank 首发课程结构化题库核验
   - 检查范围：README.md, NOTICE.md, manifest.json, courses/001548/, courses/MATH1006/, courses/MATH1007/
@@ -11021,6 +11146,18 @@
 
 ### 002001 固体物理A
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/gu-ti-wu-li-todo>
+  - 查询：固体物理A 2021 春期末
+  - 检查范围：资料簿「固体物理」页试卷与答案一栏；卷面为 2020–2021 学年第二学期，无 A/B 标记；完整文件 SHA-256 92de66a88d29bbdd…，3,365,942 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：002001
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/gu-ti-wu-li-todo>
+  - 查询：固体物理A 2022 春期末
+  - 检查范围：资料簿「固体物理」页试卷与答案一栏；卷面为 2021–2022 学年第二学期，无 A/B 标记；完整文件 SHA-256 0387ee92c8f95b5a…，370,168 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：002001
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1392/#review-103144>
   - 查询：固体物理期末总复习指南
   - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
@@ -15435,6 +15572,24 @@
 
 ### 011040 图论
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2020GTfinal.pdf>
+  - 查询：图论 2020 期末
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期末考试；行年份：2015；文件：2020GTfinal.pdf；完整文件 SHA-256 ae15b480568dd3b1…，59952 字节；最终年份取 2020（目录页链接标签 2020；卷面 2020 秋）
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：011040
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2023GTfinal.pdf>
+  - 查询：图论 2023 期末
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期末考试；行年份：2023；文件：2023GTfinal.pdf；完整文件 SHA-256 64e50d19cc614474…，28028 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：011040
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2023GTmid.pdf>
+  - 查询：图论 2023 期中
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期中考试；行年份：2023；文件：2023GTmid.pdf；完整文件 SHA-256 2fa259adc7d63c68…，82022 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：011040
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/1458/#review-88122>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -16604,6 +16759,12 @@
 
 ### 011704 计算机系统概论(H)
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020/-/blob/master/PPT/README.md>
+  - 查询：计算机系统概论(H)：2020 秋课件（安虹）
+  - 检查范围：仓库 README 自述 2020 秋荣誉课；PPT 目录说明为安虹课堂课件；课程组官网将安虹荣誉班列为 011704.01。按历史版本独立登记，不混入普通班 CS1002A。
+  - 说明：仅登记稳定公开入口，不保存临时签名。
+  - 来源 ID：ustcgit-yorick-ics-2020
+  - 课程代码：011704
 - 2026-11-19 · GitHub · 已查看 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E4%BD%9C%E4%B8%9A/hw01_2020.pdf>
   - 查询：计算机系统概论 Homework01 题面
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
@@ -17645,6 +17806,36 @@
 
 ### 017063 数理统计
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/ProbStat/>
+  - 查询：数理统计 2023/2024 期中期末：评课附件与数学站公开直链同文件合并
+  - 检查范围：按完整字节数比对：2023 期中 59,740、2023 期末 105,034、2024 期中 883,974 与评课社区登录附件一致，判为同一文件。
+  - 说明：保留评课原帖位置并补公开直链；不重复建条目。
+  - 来源 ID：icourse-club、ustc-math-exam
+  - 课程代码：017063
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2021Sstatmid.pdf>
+  - 查询：数理统计 2021 期中
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2021；文件：2021Sstatmid.pdf；完整文件 SHA-256 9c9fc44c17af6040…，460603 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017063
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2024Sstatfinal.pdf>
+  - 查询：数理统计 2024 期末
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2024；文件：2024Sstatfinal.pdf；完整文件 SHA-256 f396c92294652ba8…，1871984 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017063
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2025Sstatmid.pdf>
+  - 查询：数理统计 2025 期中
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2025；文件：2025Sstatmid.pdf；完整文件 SHA-256 dba4a7bfb0727126…，1124029 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017063
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2026Sstatfinal.pdf>
+  - 查询：数理统计 2026 期末
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2026；文件：2026Sstatfinal.pdf；完整文件 SHA-256 001b468ef633538a…，92218 字节；卷面标为残卷或回忆版
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017063
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/25111/#review-92610>
   - 查询：评课原帖附件正文取样
   - 检查范围：核对匿名定位、完整文件字节与正文取样。
@@ -17817,6 +18008,90 @@
 
 ### 017129 实用随机过程
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/ProbStat/>
+  - 查询：实用随机过程 2019 级期中：评课附件与数学站公开直链同文件
+  - 检查范围：完整文件 340,311 字节，SHA-256 613ed37f… 与评课社区登录附件一致，判为同一文件。
+  - 说明：保留原帖位置并补公开直链，不重复建条目。
+  - 来源 ID：icourse-club、ustc-math-exam
+  - 课程代码：017129
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2011Fstochmid.pdf>
+  - 查询：实用随机过程 2011 期中
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2011；文件：2011Fstochmid.pdf；完整文件 SHA-256 d1b46cc34fb3271b…，1435056 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017129
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2015Fstochmid.pdf>
+  - 查询：实用随机过程 2015 期中
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2013；文件：2015Fstochmid.pdf；完整文件 SHA-256 1e6bf2dcf6683328…，2250084 字节；最终年份取 2015（按链接标签或卷面）
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017129
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2019Fstoch.pdf>
+  - 查询：实用随机过程 2019 期中
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2013；文件：2019Fstoch.pdf；完整文件 SHA-256 9f6ebf8737f2c5d4…，1471042 字节；最终年份取 2019（按链接标签或卷面）
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017129
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2020Fstochfinal.pdf>
+  - 查询：实用随机过程 2020 期末
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2013；文件：2020Fstochfinal.pdf；完整文件 SHA-256 85b7307f57a34324…，556338 字节；最终年份取 2020（按链接标签或卷面）
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017129
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2020Fstochmid.pdf>
+  - 查询：实用随机过程 2020 期中
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2013；文件：2020Fstochmid.pdf；完整文件 SHA-256 fd6334b033f28919…，148744 字节；最终年份取 2020（按链接标签或卷面）
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017129
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2021SPfinal.pdf>
+  - 查询：实用随机过程 2021 期末
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2021；文件：2021SPfinal.pdf；完整文件 SHA-256 9a396515c48b4948…，1077033 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017129
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2022SPfinal.pdf>
+  - 查询：实用随机过程 2022 期末
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2022；文件：2022SPfinal.pdf；完整文件 SHA-256 8132a009fdc04237…，927250 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017129
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2022Sstochmid.pdf>
+  - 查询：实用随机过程 2022 期中
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2022；文件：2022Sstochmid.pdf；完整文件 SHA-256 02ae21f5f28fbb11…，81953 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017129
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2023SPfinal.pdf>
+  - 查询：实用随机过程 2023 期末
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2023；文件：2023SPfinal.pdf；完整文件 SHA-256 71f2c825c0631eca…，3521462 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017129
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2023SPmid.pdf>
+  - 查询：实用随机过程 2023 期中
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2023；文件：2023SPmid.pdf；完整文件 SHA-256 f8bac49822f972a8…，3525031 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017129
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2025SPfinal.pdf>
+  - 查询：实用随机过程 2025 期末
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2025；文件：2025SPfinal.pdf；完整文件 SHA-256 34cf37c27ef62d92…，373037 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017129
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2026SPfinal.pdf>
+  - 查询：实用随机过程 2026 期末
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2026；文件：2026SPfinal.pdf；完整文件 SHA-256 53ce73acf2664c9a…，1003308 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017129
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2026SPmid.pdf>
+  - 查询：实用随机过程 2026 期中
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2026；文件：2026SPmid.pdf；完整文件 SHA-256 6be7dd9195e67169…，61281 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017129
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/2093/#review-93966>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -18352,6 +18627,18 @@
 
 ### 017146 回归分析
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2021Sregressionfinal.pdf>
+  - 查询：回归分析 2021 期末
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2021；文件：2021Sregressionfinal.pdf；完整文件 SHA-256 1e7c8055f8d4f0d2…，597795 字节
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017146
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2022Fregressionfinal.pdf>
+  - 查询：回归分析 2022 期末
+  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2021；文件：2022Fregressionfinal.pdf；完整文件 SHA-256 8edde2f712bf74c9…，176395 字节；最终年份取 2022（链接标签 2022秋；卷面 2023.2.24 属该学期）
+  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
+  - 来源 ID：ustc-math-exam
+  - 课程代码：017146
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/1350/#review-63524>
   - 查询：评课原帖附件正文取样
   - 检查范围：核对匿名定位、完整文件字节与正文取样。
@@ -20625,6 +20912,24 @@
 
 ### 022057 电动力学
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo>
+  - 查询：电动力学 2014 期末解答（潘海俊）
+  - 检查范围：资料簿「电动力学」页试卷与答案一栏，题名标 2014 期末解答；原卷已在书架，本条只补解答；完整文件 SHA-256 4cccf4844d373b13…，762,457 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：022057
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo>
+  - 查询：电动力学 2015 期末解答（潘海俊）
+  - 检查范围：资料簿「电动力学」页试卷与答案一栏，题名标 2015 期末解答；原卷已在书架，本条只补解答；完整文件 SHA-256 2c5f51c0e60b0480…，857,294 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：022057
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo>
+  - 查询：电动力学 2022 春 第一次小测（潘海俊）
+  - 检查范围：资料簿「电动力学」页试卷与答案一栏，题名标 2022 春第一次小测；完整文件 SHA-256 460fc88eef5617a4…，148,430 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：022057
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/4762/#review-48684>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -20717,6 +21022,12 @@
 
 ### 022059 量子力学B
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/liang-zi-li-xue-todo>
+  - 查询：量子力学B：习题解答与助教讲义（2022 秋）
+  - 检查范围：封面及前言实核：易为老师 2022 秋 022059.03；两位助教汇编作业参考解答、习题课讲义及补充习题。
+  - 说明：仅登记稳定公开入口，不保存临时签名。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：022059
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/6651/#review-98629>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -21508,6 +21819,18 @@
 
 ### 022392 理论力学A
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue>
+  - 查询：理论力学A 2018 秋期中（潘海俊，含答案）
+  - 检查范围：资料簿「理论力学」页试卷与答案一栏，题名标 18–19 期中与答案；完整文件 SHA-256 e0de21d4dadc4613…，439,775 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：022392
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue>
+  - 查询：理论力学A 2021 秋期末参考答案（朱界杰）
+  - 检查范围：资料簿「理论力学」页试卷与答案一栏，题名标 21 期末参考答案；完整文件 SHA-256 3aef92a74fed6b88…，246,765 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：022392
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/4524/#review-71585>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -21698,6 +22021,12 @@
 
 ### 023181 线性电子线路
 
+- 2026-11-23 · GitHub · 已查看 · <https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank/-/raw/main/manifest.json>
+  - 查询：DDNdles/USTC-Question-Bank 扩库复核：14 门 7,159 题
+  - 检查范围：manifest.json 汇总（14 门、7,159 题、quarantined 35）；各课 meta.json 的 stats 与 assets 文件清单经镜像分页核到；210050 由 92 题增至 512 题（新增辅导书与自测试卷两批），PHYS1003A 配图为 20 个文件，新增 023181 线性电子线路与 EE2003 计算机原理与嵌入式系统。
+  - 说明：配图仅核文件数与扩展名，未逐张下载算字节；题数与原题分布取自 meta.json stats。
+  - 来源 ID：gh-ddndles-ustc-question-bank
+  - 课程代码：023181、EE2003、210050、PHYS1003A、PHYS1001A、PHYS1002A、PHYS1004A、210070
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/14405/#review-99480>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -23105,6 +23434,18 @@
 
 ### 210050 数字逻辑电路
 
+- 2026-11-23 · GitHub · 已查看 · <https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank/-/raw/main/manifest.json>
+  - 查询：DDNdles/USTC-Question-Bank 扩库复核：14 门 7,159 题
+  - 检查范围：manifest.json 汇总（14 门、7,159 题、quarantined 35）；各课 meta.json 的 stats 与 assets 文件清单经镜像分页核到；210050 由 92 题增至 512 题（新增辅导书与自测试卷两批），PHYS1003A 配图为 20 个文件，新增 023181 线性电子线路与 EE2003 计算机原理与嵌入式系统。
+  - 说明：配图仅核文件数与扩展名，未逐张下载算字节；题数与原题分布取自 meta.json stats。
+  - 来源 ID：gh-ddndles-ustc-question-bank
+  - 课程代码：023181、EE2003、210050、PHYS1003A、PHYS1001A、PHYS1002A、PHYS1004A、210070
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/dian-lu-dian-ji-he-shi-gun-chu-wu-yuan-bi-xiu/shu-zi-dian-lu>
+  - 查询：数字逻辑电路：两次习题课讲义（高源，2022 秋）
+  - 检查范围：两份标题页均注明 2022 秋数字逻辑电路 05 班，分别为 11 月 24 日、30 日；区别于已收录的 2023 年习题课。
+  - 说明：仅登记稳定公开入口，不保存临时签名。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：210050
 - 2026-11-22 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0>
   - 查询：DDNdles/USTC-Question-Bank v0.6.0 PHYS1003A 光学A & 210050 数字逻辑电路
   - 检查范围：courses/{PHYS1003A,210050}/{meta.json,taxonomy.json,questions.jsonl,assets/*}, manifest.json (v0.6.0), NOTICE.md
@@ -23344,6 +23685,12 @@
 
 ### 210070 数据结构及其算法
 
+- 2026-11-23 · GitHub · 已查看 · <https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank/-/raw/main/manifest.json>
+  - 查询：DDNdles/USTC-Question-Bank 扩库复核：14 门 7,159 题
+  - 检查范围：manifest.json 汇总（14 门、7,159 题、quarantined 35）；各课 meta.json 的 stats 与 assets 文件清单经镜像分页核到；210050 由 92 题增至 512 题（新增辅导书与自测试卷两批），PHYS1003A 配图为 20 个文件，新增 023181 线性电子线路与 EE2003 计算机原理与嵌入式系统。
+  - 说明：配图仅核文件数与扩展名，未逐张下载算字节；题数与原题分布取自 meta.json stats。
+  - 来源 ID：gh-ddndles-ustc-question-bank
+  - 课程代码：023181、EE2003、210050、PHYS1003A、PHYS1001A、PHYS1002A、PHYS1004A、210070
 - 2026-11-22 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.0>
   - 查询：DDNdles/USTC-Question-Bank v0.4.0 PHYS1002A, PHYS1004A & 210070
   - 检查范围：courses/{PHYS1002A,PHYS1004A,210070}/{meta.json,taxonomy.json,questions.jsonl}, courses/*/assets/*, manifest.json (v0.4.0), NOTICE.md
@@ -23839,6 +24186,18 @@
 
 ### 210514 数据库基础
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://git.ustc.edu.cn/ypb/course/-/raw/main/README.md>
+  - 查询：数据库基础：分章作业与 SQL 实验（袁平波）
+  - 检查范围：两份 PDF 位于教师目录的《数据库基础》一节，已抽读作业与实验正文。
+  - 说明：登记公开原站入口；仅链接，不转载文件。
+  - 来源 ID：ustcgit-ypb-course
+  - 课程代码：210514
+- 2026-11-23 · 公开网页 · 已查看 · <https://git.ustc.edu.cn/ypb/course/-/raw/main/README.md>
+  - 查询：数据库基础：课程课件（袁平波）
+  - 检查范围：教师目录按课程标题分节；数据库基础与同仓的《数据结构与数据库》分开。核对目录及文件路径，未逐份抽读演示文稿。
+  - 说明：登记公开原站入口；仅链接，不转载文件。
+  - 来源 ID：ustcgit-ypb-course
+  - 课程代码：210514
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2878/#review-52913>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -24991,6 +25350,18 @@
 
 ### AI1001B 人工智能数学原理与算法B
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://git.ustc.edu.cn/ai1001b.05.2026fa/CNN/-/raw/main/README.md>
+  - 查询：人工智能数学原理与算法B：CNN 与 GNN 综合实验（2026 秋 05 班）
+  - 检查范围：两个 README 均标明 AI1001B.05 与 2026 秋，并核读两份讲义的 LaTeX 源码。不同于已收录的 2025 年实验版本。
+  - 说明：登记公开原站入口；仅链接，不转载文件。
+  - 来源 ID：ustcgit-ai1001b-2026fa-05
+  - 课程代码：AI1001B
+- 2026-11-23 · 公开网页 · 已查看 · <https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b/-/blob/main/README.md>
+  - 查询：人工智能数学原理与算法B：Python 与决策树实验（2026 秋）
+  - 检查范围：README 明确中国科大、课程全名和 2026 秋；核读实验 01 讲义正文及实验 02 说明。区别于 CNN/GNN 综合实验。
+  - 说明：仅登记公开实验入口，不转载课程文件。
+  - 来源 ID：ustcgit-zengyoucheng-ai1001b-26fall
+  - 课程代码：AI1001B
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26225/#review-98231>
   - 查询：人工智能数学原理与算法B：试题与解析（2 个附件）
   - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
@@ -28041,6 +28412,12 @@
 
 ### CS4005 形式化方法导引
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://faculty.ustc.edu.cn/huangwenchao/zh_CN/skxx/995892/content/2943.htm>
+  - 查询：形式化方法导引：2026 春课件（黄文超）
+  - 检查范围：教师授课信息确认本科课号；抽读 2026 春课件第 0 章与 SAT 求解阅读版。
+  - 说明：登记公开原站入口；仅链接，不转载文件。
+  - 来源 ID：ustc-huangwenchao-fm
+  - 课程代码：CS4005
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20498/#review-94175>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
@@ -29209,6 +29586,12 @@
 
 ### EE2003 计算机原理与嵌入式系统
 
+- 2026-11-23 · GitHub · 已查看 · <https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank/-/raw/main/manifest.json>
+  - 查询：DDNdles/USTC-Question-Bank 扩库复核：14 门 7,159 题
+  - 检查范围：manifest.json 汇总（14 门、7,159 题、quarantined 35）；各课 meta.json 的 stats 与 assets 文件清单经镜像分页核到；210050 由 92 题增至 512 题（新增辅导书与自测试卷两批），PHYS1003A 配图为 20 个文件，新增 023181 线性电子线路与 EE2003 计算机原理与嵌入式系统。
+  - 说明：配图仅核文件数与扩展名，未逐张下载算字节；题数与原题分布取自 meta.json stats。
+  - 来源 ID：gh-ddndles-ustc-question-bank
+  - 课程代码：023181、EE2003、210050、PHYS1003A、PHYS1001A、PHYS1002A、PHYS1004A、210070
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/25202/#review-94948>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点；核对附件完整 SHA-256 与字节数，按已记录范围取样。
@@ -46022,6 +46405,24 @@
 
 ### PHYS1001A 力学A
 
+- 2026-11-23 · GitHub · 已查看 · <https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank/-/raw/main/manifest.json>
+  - 查询：DDNdles/USTC-Question-Bank 扩库复核：14 门 7,159 题
+  - 检查范围：manifest.json 汇总（14 门、7,159 题、quarantined 35）；各课 meta.json 的 stats 与 assets 文件清单经镜像分页核到；210050 由 92 题增至 512 题（新增辅导书与自测试卷两批），PHYS1003A 配图为 20 个文件，新增 023181 线性电子线路与 EE2003 计算机原理与嵌入式系统。
+  - 说明：配图仅核文件数与扩展名，未逐张下载算字节；题数与原题分布取自 meta.json stats。
+  - 来源 ID：gh-ddndles-ustc-question-bank
+  - 课程代码：023181、EE2003、210050、PHYS1003A、PHYS1001A、PHYS1002A、PHYS1004A、210070
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/da-yi-bi-kan/li-xue>
+  - 查询：力学A：公式速查（余启帆）
+  - 检查范围：两页公式速查；资料簿题名明确为力学 A，正文可读，含有心力、天体运动、振动与波。
+  - 说明：仅登记稳定公开入口，不保存临时签名。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1001A
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/da-yi-bi-kan/li-xue>
+  - 查询：力学A：上古密卷合集
+  - 检查范围：资料簿「力学」页试卷与答案一栏，题名标「上古密卷」；完整文件 SHA-256 fec5ffcf4c98a4e2…，19,365,293 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1001A
 - 2026-11-22 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.1>
   - 查询：DDNdles/USTC-Question-Bank v0.4.1 35 张配图截断与残字修复复检
   - 检查范围：courses/{PHYS1001A,PHYS1002A,PHYS1004A,210070}/{meta.json,questions.jsonl,assets/*}, manifest.json (v0.4.1)
@@ -46264,6 +46665,18 @@
 
 ### PHYS1002A 热学A
 
+- 2026-11-23 · GitHub · 已查看 · <https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank/-/raw/main/manifest.json>
+  - 查询：DDNdles/USTC-Question-Bank 扩库复核：14 门 7,159 题
+  - 检查范围：manifest.json 汇总（14 门、7,159 题、quarantined 35）；各课 meta.json 的 stats 与 assets 文件清单经镜像分页核到；210050 由 92 题增至 512 题（新增辅导书与自测试卷两批），PHYS1003A 配图为 20 个文件，新增 023181 线性电子线路与 EE2003 计算机原理与嵌入式系统。
+  - 说明：配图仅核文件数与扩展名，未逐张下载算字节；题数与原题分布取自 meta.json stats。
+  - 来源 ID：gh-ddndles-ustc-question-bank
+  - 课程代码：023181、EE2003、210050、PHYS1003A、PHYS1001A、PHYS1002A、PHYS1004A、210070
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/re-xue>
+  - 查询：热学A：早年真题合集
+  - 检查范围：资料簿「热学」页试卷与答案一栏，题名标「远古真题」；完整文件 SHA-256 c0d5a4fad87de60a…，14,947,225 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1002A
 - 2026-11-22 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.0>
   - 查询：DDNdles/USTC-Question-Bank v0.4.0 PHYS1002A, PHYS1004A & 210070
   - 检查范围：courses/{PHYS1002A,PHYS1004A,210070}/{meta.json,taxonomy.json,questions.jsonl}, courses/*/assets/*, manifest.json (v0.4.0), NOTICE.md
@@ -46448,6 +46861,24 @@
 
 ### PHYS1003A 光学A
 
+- 2026-11-23 · GitHub · 已查看 · <https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank/-/raw/main/manifest.json>
+  - 查询：DDNdles/USTC-Question-Bank 扩库复核：14 门 7,159 题
+  - 检查范围：manifest.json 汇总（14 门、7,159 题、quarantined 35）；各课 meta.json 的 stats 与 assets 文件清单经镜像分页核到；210050 由 92 题增至 512 题（新增辅导书与自测试卷两批），PHYS1003A 配图为 20 个文件，新增 023181 线性电子线路与 EE2003 计算机原理与嵌入式系统。
+  - 说明：配图仅核文件数与扩展名，未逐张下载算字节；题数与原题分布取自 meta.json stats。
+  - 来源 ID：gh-ddndles-ustc-question-bank
+  - 课程代码：023181、EE2003、210050、PHYS1003A、PHYS1001A、PHYS1002A、PHYS1004A、210070
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/guang-xue>
+  - 查询：光学A：chb 老师样题（2021）
+  - 检查范围：资料簿「光学」页试卷与答案一栏，题名标 2021 样题；完整文件 SHA-256 abc8592bfb0bc56b…，8,636,885 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1003A
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/guang-xue>
+  - 查询：光学A：往年考试题合集
+  - 检查范围：资料簿「光学」页试卷与答案一栏；完整文件 SHA-256 50c18bdf2a56151b…，55,731,650 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1003A
 - 2026-11-22 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0>
   - 查询：DDNdles/USTC-Question-Bank v0.6.0 PHYS1003A 光学A & 210050 数字逻辑电路
   - 检查范围：courses/{PHYS1003A,210050}/{meta.json,taxonomy.json,questions.jsonl,assets/*}, manifest.json (v0.6.0), NOTICE.md
@@ -46619,6 +47050,12 @@
 
 ### PHYS1004A 电磁学A
 
+- 2026-11-23 · GitHub · 已查看 · <https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank/-/raw/main/manifest.json>
+  - 查询：DDNdles/USTC-Question-Bank 扩库复核：14 门 7,159 题
+  - 检查范围：manifest.json 汇总（14 门、7,159 题、quarantined 35）；各课 meta.json 的 stats 与 assets 文件清单经镜像分页核到；210050 由 92 题增至 512 题（新增辅导书与自测试卷两批），PHYS1003A 配图为 20 个文件，新增 023181 线性电子线路与 EE2003 计算机原理与嵌入式系统。
+  - 说明：配图仅核文件数与扩展名，未逐张下载算字节；题数与原题分布取自 meta.json stats。
+  - 来源 ID：gh-ddndles-ustc-question-bank
+  - 课程代码：023181、EE2003、210050、PHYS1003A、PHYS1001A、PHYS1002A、PHYS1004A、210070
 - 2026-11-22 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.0>
   - 查询：DDNdles/USTC-Question-Bank v0.4.0 PHYS1002A, PHYS1004A & 210070
   - 检查范围：courses/{PHYS1002A,PHYS1004A,210070}/{meta.json,taxonomy.json,questions.jsonl}, courses/*/assets/*, manifest.json (v0.4.0), NOTICE.md
@@ -46927,6 +47364,18 @@
 
 ### PHYS1005A 原子物理A
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/yuan-zi-wu-li>
+  - 查询：原子物理A：知识归纳与课程拾遗（2022 春）
+  - 检查范围：两份材料的前言均署 2022 春原子物理 A 课程助教，并注明班号；分别为知识归纳和形式理论、微扰论补充讲义。
+  - 说明：仅登记稳定公开入口，不保存临时签名。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1005A
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/yuan-zi-wu-li>
+  - 查询：原子物理：上古密卷合集
+  - 检查范围：资料簿「原子物理」页试卷与答案一栏；卷面「原子物理学 共 3 页」，无年份；完整文件 SHA-256 9f4c98b8e86eb6eb…，14,122,987 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1005A
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/21411/#review-49429>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -50372,8 +50821,8 @@
 ## 外链健康检查
 
 - 最近一次检查：2026-11-18T12:43:53.013Z
-- 统计范围：统计分母是站点引用的 3058 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
-- 结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1316。
+- 统计范围：统计分母是站点引用的 3126 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1384。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 - 判定口径：只有确认的 404/410 计为“无法找到”。需登录/认证说明服务器有响应但要求身份验证；目录列表页、软错误页、超时与预检拦截都不证明文件可下载或不存在。重定向中前一跳已收到响应、最终目标被预检拦截的条目归入预检中止，但仍计入“实际收到过 HTTP 响应”的条目。
 - 匿名检查只代表当次网络访问结果，不代表资料内容、课程归属、年份或授权已确认；失败不会自动删除资料或改变“是否收录”的分区。

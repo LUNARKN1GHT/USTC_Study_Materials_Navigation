@@ -1984,6 +1984,60 @@
       "repo": "USTC-Question-Bank",
       "branch": "main"
     },
-    "notes": "按中科大官方课号组织的结构化题库仓库（UTF-8 JSONL、知识点树 taxonomy.json、零依赖 Python 加载库与 SQLite FTS5 构建器），覆盖复变函数B（001548，571 题）、数学分析(B1)（MATH1006，445 题）、数学分析(B2)（MATH1007，569 题）、线性代数(B1)（MATH1009，885 题）、计算机程序设计（CS1003，1,533 题）、力学A（PHYS1001A，253 题 + 91 图）、热学A（PHYS1002A，352 题 + 48 图）、电磁学A（PHYS1004A，121 题 + 59 图）、数据结构及其算法（210070，347 题 + 17 图）、概率论与数理统计（STAT2002，431 题 + 1 图）、光学A（PHYS1003A，228 题 + 17 图）与数字逻辑电路（210050，92 题 + 72 图），合计 5,827 题。仓库代码、Schema 与元数据采用 MIT；NOTICE.md 明确第三方真题、教材习题及引用解答版权归原作者与出版社所有、不适用 MIT，仅供学习研究。"
+    "notes": "机读题库，不是网盘或在线刷题站：仓库内是 JSONL 题目流、知识点树与配图，直接打开是原始文本，需要配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用。校内可走免代理镜像 https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank 。按中科大官方课号组织，当前 14 门课共 7,159 题：复变函数B（001548，571 题）、数学分析(B1)（MATH1006，445 题）、数学分析(B2)（MATH1007，569 题）、线性代数(B1)（MATH1009，885 题）、计算机程序设计（CS1003，1,533 题）、力学A（PHYS1001A，253 题 + 91 图）、热学A（PHYS1002A，352 题 + 48 图）、电磁学A（PHYS1004A，121 题 + 59 图）、数据结构及其算法（210070，347 题 + 17 图）、概率论与数理统计（STAT2002，431 题 + 1 图）、光学A（PHYS1003A，228 题 + 20 图）、数字逻辑电路（210050，512 题 + 506 图）、线性电子线路（023181，407 题 + 340 图）、计算机原理与嵌入式系统（EE2003，505 题 + 20 图）。其中力学A、电磁学A、复变B、数电、光学A、数据结构、热学A 等课的 ai 生成解答占比较高，使用前核对 origin=ai 的题目。仓库代码、Schema 与元数据采用 MIT；NOTICE.md 明确第三方真题、教材习题及引用解答版权归原作者与出版社所有、不适用 MIT，仅供学习研究。"
+  },
+  {
+    "id": "ustc-huangwenchao-fm",
+    "name": "黄文超：形式化方法导引",
+    "url": "https://faculty.ustc.edu.cn/huangwenchao/zh_CN/zdylm/995897/list/index.htm",
+    "maintainer": "黄文超",
+    "kind": "website",
+    "github": null,
+    "notes": "课程教师公开的本科形式化方法导引讲义。"
+  },
+  {
+    "id": "ustcgit-ai1001b-2026fa-05",
+    "name": "AI1001B.05 2026 秋综合实验",
+    "url": "https://git.ustc.edu.cn/ai1001b.05.2026fa",
+    "maintainer": "AI1001B.05 教学团队",
+    "kind": "repository",
+    "github": null,
+    "notes": "课程群组发布的综合实验说明与代码框架。"
+  },
+  {
+    "id": "ustcgit-wsh-learning-note",
+    "name": "王小桃的学习笔记",
+    "url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note",
+    "maintainer": "王思晗",
+    "kind": "repository",
+    "github": null,
+    "notes": "公开课程笔记仓库；转收的试题选讲按文件原署名。"
+  },
+  {
+    "id": "ustcgit-ypb-course",
+    "name": "袁平波课程主页",
+    "url": "https://git.ustc.edu.cn/ypb/course",
+    "maintainer": "袁平波",
+    "kind": "repository",
+    "github": null,
+    "notes": "教师维护的课程目录，数据库基础部分提供课件、分章作业及实验说明。"
+  },
+  {
+    "id": "ustcgit-yorick-ics-2020",
+    "name": "Yorick／计算机系统概论 2020",
+    "url": "https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020",
+    "maintainer": "Yorick",
+    "kind": "repository",
+    "github": null,
+    "notes": "学生归档的 2020 秋计算机系统概论荣誉课材料；课程课件按仓库公开说明署名。"
+  },
+  {
+    "id": "ustcgit-zengyoucheng-ai1001b-26fall",
+    "name": "AI1001B 2026 秋实验材料（钟志诚）",
+    "url": "https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b",
+    "maintainer": "曾有成等",
+    "kind": "repository",
+    "github": null,
+    "notes": "课程实验说明、代码与配套数据；仓库 README 列明主讲和整理者。"
   }
 ]

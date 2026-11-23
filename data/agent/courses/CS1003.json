@@ -815,11 +815,11 @@
     {
       "id": "gh-ddndles-qbank-cs1003",
       "type": "study",
-      "title": "计算机程序设计 结构化题库与知识点树（1,533 题，JSONL / SQLite）",
+      "title": "计算机程序设计 结构化题库与知识点树（1,533 题，机读 JSONL/SQLite，需工具或脚本阅读）",
       "authors": [
         "DDNdles"
       ],
-      "notes": "结构化题库目录 courses/CS1003/（含 questions.jsonl、taxonomy.json、meta.json），收录 1,533 道 C 语言结构化题目与分步解析，覆盖 2018–2025 期中/期末/补考/机考 13 套真题、2012/2024/2025 综合模拟测试、公开 C 语言题库及习题课练习（official 1,231 / community 188 / ai 114），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/CS1003/（含 questions.jsonl、taxonomy.json、meta.json），收录 1,533 道 C 语言结构化题目与分步解析，覆盖 2018–2025 期中/期末/补考/机考 13 套真题、2012/2024/2025 综合模拟测试、公开 C 语言题库及习题课练习（official 1,231 / community 188 / ai 114），提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 114 题（约 7%），使用前请核对 origin=ai 的题目。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -833,7 +833,7 @@
         {
           "source_id": "gh-ddndles-ustc-question-bank",
           "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/CS1003",
-          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
           "download_url": null,
           "access": "public",
           "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -841,7 +841,7 @@
           "page_kind": "directory"
         }
       ],
-      "verified_at": "2026-11-21"
+      "verified_at": "2026-11-23"
     },
     {
       "id": "intake-login-CS1003-477e5d7e9b0091c9",

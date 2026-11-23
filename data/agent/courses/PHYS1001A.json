@@ -468,6 +468,35 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "ustcguide-phys1001a-old-set",
+      "type": "exams",
+      "title": "力学A：上古密卷合集",
+      "authors": [],
+      "notes": "36 页老卷合集，无统一年份。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/da-yi-bi-kan/li-xue",
+        "note": "资料簿「力学」页试卷与答案一栏，题名标「上古密卷」；完整文件 SHA-256 fec5ffcf4c98a4e2…，19,365,293 字节；短链落地带时效签名，不写直链。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/bp2ybz",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "intake-login-PHYS1001A-e5f09d2eea86fb94",
       "type": "study",
       "title": "力学A 复习大抄(手写公式与例题整理,2 页)",
@@ -506,11 +535,11 @@
     {
       "id": "gh-ddndles-qbank-phys1001a",
       "type": "study",
-      "title": "力学A 结构化题库、配图与知识点树（253 题 + 91 图，JSONL / SQLite）",
+      "title": "力学A 结构化题库、配图与知识点树（253 题 + 91 图，机读 JSONL/SQLite，需工具或脚本阅读）",
       "authors": [
         "DDNdles"
       ],
-      "notes": "结构化题库目录 courses/PHYS1001A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp），收录 253 道 Markdown+LaTeX 题目与分步解析，覆盖 2005–2026 学年期中/期末真题、力学历年考题合集与刚体笔记例题（official 49 / community 1 / ai 203，14 题低置信隔离），附 91 张灰度优化 WebP 配图（共 668 KB），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1001A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.{webp,svg}），收录 253 道 Markdown+LaTeX 题目与分步解析，覆盖 2005–2026 学年期中/期末真题、力学历年考题合集与刚体笔记例题（official 49 / community 1 / ai 203，14 题低置信隔离），附 70 张灰度 WebP + 21 张矢量 SVG 共 91 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 203 题（约 80%），使用前请核对 origin=ai 的题目。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -518,13 +547,13 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1001A/meta.json",
-        "note": "已核对仓库 courses/PHYS1001A/meta.json、taxonomy.json、questions.jsonl 与 assets/*.webp（253 题，46 个知识点节点，86 题含 91 张 WebP 配图）；按官方课号 PHYS1001A 建目录，14 道歧义/估算低置信题标为 quarantined=true，仓库不含原扫描 PDF。"
+        "note": "已核对仓库 courses/PHYS1001A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（91 个文件：70 张 WebP + 21 张 SVG，共 448.7 KB；253 题，46 个知识点节点，86 题含配图）；按官方课号 PHYS1001A 建目录，14 道歧义/估算低置信题标为 quarantined=true，仓库不含原扫描 PDF。"
       },
       "locations": [
         {
           "source_id": "gh-ddndles-ustc-question-bank",
           "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1001A",
-          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
           "download_url": null,
           "access": "public",
           "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -532,7 +561,38 @@
           "page_kind": "directory"
         }
       ],
-      "verified_at": "2026-11-21"
+      "verified_at": "2026-11-23"
+    },
+    {
+      "id": "ustcguide-phys1001a-mechanics-formulas",
+      "type": "study",
+      "title": "力学A：公式速查（余启帆）",
+      "authors": [
+        "余启帆"
+      ],
+      "notes": "两页公式速查；资料簿题名明确为力学 A，正文可读，含有心力、天体运动、振动与波。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/da-yi-bi-kan/li-xue",
+        "note": "两页公式速查；资料簿题名明确为力学 A，正文可读，含有心力、天体运动、振动与波。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/13ty3c",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料原站；版权归原作者。",
+          "attribution": "余启帆",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-23"
     },
     {
       "id": "intake-login-PHYS1001A-d14eee1e8f760320",
@@ -655,6 +715,7 @@
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "ustc-phy-exam": "USTC 物理课程往年试卷",
     "icourse-club": "USTC 评课社区",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）",
     "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）"
   }
 }

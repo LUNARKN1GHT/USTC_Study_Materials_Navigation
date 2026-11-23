@@ -270,6 +270,37 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "ustcguide-001505-complex-a",
+      "type": "study",
+      "title": "复变函数A：课程讲义（田涌波）",
+      "authors": [
+        "田涌波"
+      ],
+      "notes": "讲义正文涵盖复数、复积分与留数；资料簿标明课程版本与作者，田涌波授课记录对应 001505。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/fei-shu-zhuan-ye-de-shu-xue-ke/fu-bian-han-shu",
+        "note": "讲义正文涵盖复数、复积分与留数；资料簿标明课程版本与作者，田涌波授课记录对应 001505。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/vbag4u",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料原站；版权归原作者。",
+          "attribution": "田涌波",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "intake-login-001505-c741f7adb95a59c5",
       "type": "study",
       "title": "复变函数A：学习资料（16 个附件）",
@@ -359,6 +390,7 @@
   ],
   "sources": {
     "icourse-club": "USTC 评课社区",
-    "feixu-alist": "feixu 学习资料分享站（AList）"
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）"
   }
 }

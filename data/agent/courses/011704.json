@@ -202,6 +202,39 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "ustcgit-011704-yorick-2020-slides",
+      "type": "study",
+      "title": "计算机系统概论(H)：2020 秋课件（安虹）",
+      "authors": [
+        "安虹"
+      ],
+      "notes": "2020 秋荣誉班课程课件的学生归档。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2020-2021"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020/-/blob/master/PPT/README.md",
+        "note": "仓库 README 自述 2020 秋荣誉课；PPT 目录说明为安虹课堂课件；课程组官网将安虹荣誉班列为 011704.01。按历史版本独立登记，不混入普通班 CS1002A。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcgit-yorick-ics-2020",
+          "page_url": "https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020/-/tree/master/PPT",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料原站；版权归原作者。",
+          "attribution": "安虹（课件）；Yorick（归档）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "computing-projects-gh-ustc-course-plus-011704",
       "type": "projects",
       "title": "计算机系统概论 作业与实验（ustc_course_plus）",
@@ -299,6 +332,7 @@
     "icourse-club": "USTC 评课社区",
     "gh-guidongnan": "guidongnan/ustc_ds_undergraduate_course",
     "acsa-ustc-ics": "中国科学技术大学计算机系统概论课程网站",
+    "ustcgit-yorick-ics-2020": "Yorick／计算机系统概论 2020",
     "gh-kobe972": "Kobe972/ustc_course_plus",
     "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources",
     "gh-ace-tyl-icsh-code": "Ace-tyl/icsh-code"
