@@ -1,5 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
+import { createHash } from 'node:crypto';
 import http from 'node:http';
 import { once } from 'node:events';
 
@@ -461,7 +462,11 @@ function createGithubFixture(options = {}) {
         sha: state.monitoringSha,
         content: state.monitoringContent,
         encoding: 'base64',
+        ...options.monitoringMetadata,
       });
+    }
+    if (method === 'GET' && path === `/repos/o/r/git/blobs/${state.monitoringSha}` && options.blob) {
+      return json(options.blobStatus ?? 200, options.blob);
     }
     if (path === `/repos/o/r/contents/${MONITORING_RELATIVE_PATH}` && method === 'PUT') {
       const payload = JSON.parse(body);
@@ -724,6 +729,67 @@ test('monitor: the first publish only stores a baseline, without creating a noti
   assert.equal(fixture.state.comments.length, 0);
   assert.equal(saved.value.repositories['src-a'].head_sha, HEAD_OLD);
   assert.equal(fixture.state.puts.length, 1);
+});
+
+function largeMonitoringFixture(bytes, { blobStatus, blobPatch, contentsPatch } = {}) {
+  const sha = createHash('sha1').update(`blob ${bytes.length}\0`).update(bytes).digest('hex');
+  return createGithubFixture({
+    head: HEAD_NEW,
+    tree: treeFromFiles({ 'new.txt': 'sha-new' }),
+    monitoringSha: sha,
+    monitoringMetadata: { encoding: 'none', content: '', size: bytes.length, ...contentsPatch },
+    blobStatus,
+    blob: { sha, encoding: 'base64', content: `${bytes.toString('base64')}\n`, ...blobPatch },
+  });
+}
+
+test('monitor: publish reads a large baseline by its blob SHA before checking, then PUTs with that SHA', async () => {
+  const baseline = monitoringWith({ 'old.txt': 'sha-old' });
+  const fixture = largeMonitoringFixture(Buffer.from(`${JSON.stringify(baseline)}${' '.repeat(1024 * 1024)}`));
+  const startingSha = fixture.state.monitoringSha;
+  const { options, saved } = baseRunOptions(fixture, { mode: 'publish' });
+  const checkLinks = options.checkLinksImpl;
+  options.checkLinksImpl = (...args) => {
+    assert.deepEqual(fixture.state.requests.map(({ method, path }) => [method, path]), [
+      ['GET', '/repos/o/r'],
+      ['GET', `/repos/o/r/contents/${MONITORING_RELATIVE_PATH}`],
+      ['GET', `/repos/o/r/git/blobs/${startingSha}`],
+    ]);
+    return checkLinks(...args);
+  };
+  const report = await runMonitor(options);
+
+  assert.equal(report.repositories[0].status, 'changed');
+  assert.deepEqual(report.repositories[0].diff.removed.map(({ path }) => path), ['old.txt']);
+  assert.equal(fixture.state.comments.length, 1);
+  assert.deepEqual(fixture.state.puts.map(({ sha }) => sha), [startingSha]);
+  assert.equal(saved.value.repositories['src-a'].head_sha, HEAD_NEW);
+});
+
+test('monitor: an unreadable or invalid large remote baseline makes no writes', async (t) => {
+  const valid = JSON.stringify(monitoringWith({ 'old.txt': 'sha-old' }));
+  for (const [name, text, response, expectedError] of [
+    ['missing blob', valid, { blobStatus: 404 }, { status: 404 }],
+    ['wrong blob SHA', valid, { blobPatch: { sha: HEAD_NEW } }, { code: 'invalid_response' }],
+    ['wrong blob bytes', valid, { blobPatch: { content: 'e30=' } }, { code: 'invalid_response' }],
+    ['invalid JSON', '{', {}, { code: 'invalid_remote_monitoring' }],
+    ['JSON null', 'null', {}, { code: 'invalid_remote_monitoring' }],
+    ['invalid schema', '{}', {}, { code: 'invalid_monitoring' }],
+    ['missing starting SHA', valid, { contentsPatch: { sha: null } }, { code: 'invalid_response' }],
+    ['non-file', valid, { contentsPatch: { type: 'symlink' } }, { code: 'remote_content_unavailable' }],
+  ]) {
+    await t.test(name, async () => {
+      const fixture = largeMonitoringFixture(Buffer.from(text), response);
+      const { options, saved } = baseRunOptions(fixture, { mode: 'publish' });
+      options.checkLinksImpl = () => assert.fail('baseline must be verified before checking links');
+      await assert.rejects(runMonitor(options), expectedError);
+      assert.equal(saved.value, null);
+      assert.deepEqual(fixture.state.requests.filter(({ method }) => method !== 'GET'), []);
+      if (expectedError.code === 'remote_content_unavailable') {
+        assert.equal(fixture.state.requests.length, 2, 'non-files must not trigger a blob read');
+      }
+    });
+  }
 });
 
 test('monitor: publish creates the marked issue, posts once and advances the baseline', async () => {

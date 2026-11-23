@@ -16,6 +16,8 @@
 // - All tree walking is read-only. Notifications are comments on the single
 //   issue carrying the monitor marker.
 
+import { createHash } from 'node:crypto';
+
 import { createHttpTransport } from './link-health.mjs';
 
 export const GITHUB_API_ORIGIN = 'https://api.github.com';
@@ -389,6 +391,25 @@ export function createGitHubClient(options = {}) {
     return data;
   }
 
+  async function getBlob(owner, repo, sha) {
+    if (typeof sha !== 'string' || !/^[0-9a-f]{40}$/.test(sha)) {
+      throw new GitHubApiError('Contents response is missing a valid blob SHA', {
+        code: 'invalid_response',
+      });
+    }
+    const { data } = await request(`${repoBase(owner, repo)}/git/blobs/${sha}`);
+    if (data?.sha !== sha || data.encoding !== 'base64' || typeof data.content !== 'string' ||
+        /[^A-Za-z0-9+/=\r\n]/.test(data.content)) {
+      throw new GitHubApiError(`Invalid Git blob response for ${sha}`, { code: 'invalid_response' });
+    }
+    const bytes = Buffer.from(data.content, 'base64');
+    const actualSha = createHash('sha1').update(`blob ${bytes.length}\0`).update(bytes).digest('hex');
+    if (actualSha !== sha) {
+      throw new GitHubApiError(`Git blob content does not match ${sha}`, { code: 'invalid_response' });
+    }
+    return bytes;
+  }
+
   async function putContents(owner, repo, path, { content, message, branch, sha = null }) {
     const encodedPath = path.split('/').map(encodeURIComponent).join('/');
     const body = {
@@ -426,6 +447,7 @@ export function createGitHubClient(options = {}) {
     listComments,
     createComment,
     getContents,
+    getBlob,
     putContents,
   };
 }
