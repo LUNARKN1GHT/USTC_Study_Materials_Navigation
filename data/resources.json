@@ -99278,7 +99278,7 @@
     "authors": [
       "DDNdles"
     ],
-    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/001548/（含 questions.jsonl、taxonomy.json、meta.json），收录 571 道 Markdown+LaTeX 题目与分步解析，覆盖 2003–2025 历年真题、讲义例题、公开复习题库及严镇军教材书末习题（official 229 / community 26 / ai 316，7 题低置信隔离），提供 Python 加载库与 SQLite FTS5 构建脚本。其中 ai 生成解答 316 题（约 55%），使用前请核对 origin=ai 的题目。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/001548/（含 questions.jsonl、taxonomy.json、meta.json），收录 571 道 Markdown+LaTeX 题目与分步解析，覆盖 2003–2025 历年真题、讲义例题、公开复习题库及严镇军教材书末习题（official 229 / community 26 / ai 316，7 题低置信隔离），提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 316 题（约 55%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
@@ -99299,7 +99299,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-20"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-math1006",
@@ -99311,7 +99311,7 @@
     "authors": [
       "DDNdles"
     ],
-    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/MATH1006/（含 questions.jsonl、taxonomy.json、meta.json），收录 445 道 Markdown+LaTeX 题目与分步解析，覆盖 2016–2025 期中/期末/小测真题及《数学分析讲义》第一册第 1–7 章习题（official 133 / community 300 / ai 12），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/MATH1006/（含 questions.jsonl、taxonomy.json、meta.json），收录 445 道 Markdown+LaTeX 题目与分步解析，覆盖 2016–2025 期中/期末/小测真题及《数学分析讲义》第一册第 1–7 章习题（official 133 / community 300 / ai 12），提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 12 题（约 3%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
@@ -99332,7 +99332,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-20"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-math1007",
@@ -99365,7 +99365,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-20"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-math1009",
@@ -99377,7 +99377,7 @@
     "authors": [
       "DDNdles"
     ],
-    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/MATH1009/（含 questions.jsonl、taxonomy.json、meta.json），收录 885 道 Markdown+LaTeX 题目与分步解析，覆盖 2010–2026 学年 42 套期中/期末真题及李尚志《线性代数学习指导》第 1–4、6、8、9 章例题解答（official 611 / community 273 / ai 1），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/MATH1009/（含 questions.jsonl、taxonomy.json、meta.json），收录 885 道 Markdown+LaTeX 题目与分步解析，覆盖 2010–2026 学年 42 套期中/期末真题及李尚志《线性代数学习指导》第 1–4、6、8、9 章例题解答（official 611 / community 273 / ai 1），提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 1 题（约 0%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
@@ -99398,7 +99398,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-21"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-cs1003",
@@ -99410,7 +99410,7 @@
     "authors": [
       "DDNdles"
     ],
-    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/CS1003/（含 questions.jsonl、taxonomy.json、meta.json），收录 1,533 道 C 语言结构化题目与分步解析，覆盖 2018–2025 期中/期末/补考/机考 13 套真题、2012/2024/2025 综合模拟测试、公开 C 语言题库及习题课练习（official 1,231 / community 188 / ai 114），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/CS1003/（含 questions.jsonl、taxonomy.json、meta.json），收录 1,533 道 C 语言结构化题目与分步解析，覆盖 2018–2025 期中/期末/补考/机考 13 套真题、2012/2024/2025 综合模拟测试、公开 C 语言题库及习题课练习（official 1,231 / community 188 / ai 114），提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 114 题（约 7%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
@@ -99431,7 +99431,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-21"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-phys1001a",
@@ -99443,7 +99443,7 @@
     "authors": [
       "DDNdles"
     ],
-    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1001A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.{webp,svg}），收录 253 道 Markdown+LaTeX 题目与分步解析，覆盖 2005–2026 学年期中/期末真题、力学历年考题合集与刚体笔记例题（official 49 / community 1 / ai 203，14 题低置信隔离），附 91 张配图（70 张灰度 WebP + 21 张矢量 SVG，共 449 KB），提供 Python 加载库与 SQLite FTS5 构建脚本。其中 ai 生成解答 203 题（约 80%），使用前请核对 origin=ai 的题目。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1001A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.{webp,svg}），收录 253 道 Markdown+LaTeX 题目与分步解析，覆盖 2005–2026 学年期中/期末真题、力学历年考题合集与刚体笔记例题（official 49 / community 1 / ai 203，14 题低置信隔离），附 70 张灰度 WebP + 21 张矢量 SVG 共 91 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 203 题（约 80%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
@@ -99464,7 +99464,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-21"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-phys1002a",
@@ -99476,7 +99476,7 @@
     "authors": [
       "DDNdles"
     ],
-    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1002A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 352 道 Markdown+LaTeX 题目与分步解析，覆盖 2004–2026 年期中/期末/预考/免修考与三次小测、热学历年真题合订本及清华《大学物理》热学选择题库（official 219 / community 13 / ai 120，10 题低置信隔离），附 48 张灰度 WebP 与矢量化 SVG 配图（共 124.7 KB），提供 Python 加载库与 SQLite FTS5 构建脚本。其中 ai 生成解答 120 题（约 34%），使用前请核对 origin=ai 的题目。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1002A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 352 道 Markdown+LaTeX 题目与分步解析，覆盖 2004–2026 年期中/期末/预考/免修考与三次小测、热学历年真题合订本及清华《大学物理》热学选择题库（official 219 / community 13 / ai 120，10 题低置信隔离），附 25 张灰度 WebP + 23 张矢量化 SVG 共 48 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 120 题（约 34%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
@@ -99497,7 +99497,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-22"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-phys1004a",
@@ -99509,7 +99509,7 @@
     "authors": [
       "DDNdles"
     ],
-    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1004A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 121 道 Markdown+LaTeX 题目与分步解析，覆盖 2017–2026 年期中/期末公共题、秦敢期中样题、各班回忆版及磁场习题课例题（official 43 / community 0 / ai 78，7 题低置信隔离），附 59 张灰度 WebP 与矢量化 SVG 配图（共 212.2 KB），提供 Python 加载库与 SQLite FTS5 构建脚本。其中 ai 生成解答 78 题（约 65%），使用前请核对 origin=ai 的题目。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1004A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 121 道 Markdown+LaTeX 题目与分步解析，覆盖 2017–2026 年期中/期末公共题、秦敢期中样题、各班回忆版及磁场习题课例题（official 43 / community 0 / ai 78，7 题低置信隔离），附 33 张灰度 WebP + 26 张矢量化 SVG 共 59 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 78 题（约 64%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
@@ -99530,7 +99530,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-22"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-210070",
@@ -99542,7 +99542,7 @@
     "authors": [
       "DDNdles"
     ],
-    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/210070/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 347 道 Markdown+LaTeX 题目（含 C 代码围栏），覆盖 2008–2024 年期末真题、《数据结构》试卷A、三次习题课讲义及六次课程作业（official 71 / community 145 / ai 131），附 17 张灰度 WebP 与矢量化 SVG 配图（共 102.1 KB），提供 Python 加载库与 SQLite FTS5 构建脚本。其中 ai 生成解答 131 题（约 38%），使用前请核对 origin=ai 的题目。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/210070/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 347 道 Markdown+LaTeX 题目（含 C 代码围栏），覆盖 2008–2024 年期末真题、《数据结构》试卷A、三次习题课讲义及六次课程作业（official 71 / community 145 / ai 131），附 14 张灰度 WebP + 3 张矢量化 SVG 共 17 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 131 题（约 38%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
@@ -99563,7 +99563,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-22"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-stat2002",
@@ -99575,7 +99575,7 @@
     "authors": [
       "DDNdles"
     ],
-    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/STAT2002/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.svg），收录 431 道 Markdown+LaTeX 题目与分步解析，覆盖 2002–2026 学年共 36 套期中/期末真题（official 327 / community 0 / ai 104，3 题因缺表或设问不严隔离），第一套（2002–2003 期末）第一题附五开关桥式电路矢量 SVG 配图（1.6 KB），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/STAT2002/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.svg），收录 431 道 Markdown+LaTeX 题目与分步解析，覆盖 2002–2026 学年共 36 套期中/期末真题（official 327 / community 0 / ai 104，3 题因缺表或设问不严隔离），第一套（2002–2003 期末）第一题附五开关桥式电路矢量 SVG 配图，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 104 题（约 24%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
@@ -99596,7 +99596,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-22"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-phys1003a",
@@ -99604,11 +99604,11 @@
       "PHYS1003A"
     ],
     "type": "study",
-    "title": "光学A 结构化题库与知识点树（228 题 + 17 图，机读 JSONL/SQLite，需工具或脚本阅读）",
+    "title": "光学A 结构化题库与知识点树（228 题 + 20 图，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1003A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp），收录 228 道 Markdown+LaTeX 题目与分步解析，覆盖 2020–2026 学年共 6 套期末/模拟卷、配套《光学复习指导》107 题与《光学A习题集》23 题（official 121 / community 16 / ai 91，10 题因缺图/缺参或低置信隔离），17 道真题带图题附去边灰度 WebP 配图（合计 155.6 KB），提供 Python 加载库与 SQLite FTS5 构建脚本。其中 ai 生成解答 91 题（约 40%），使用前请核对 origin=ai 的题目。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1003A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp），收录 228 道 Markdown+LaTeX 题目与分步解析，覆盖 2020–2026 学年共 6 套期末/模拟卷、配套《光学复习指导》107 题与《光学A习题集》23 题（official 121 / community 16 / ai 91，10 题因缺图/缺参或低置信隔离），附 20 张去边灰度 WebP 配图，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 91 题（约 40%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
@@ -99629,7 +99629,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-22"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-210050",
@@ -99637,11 +99637,11 @@
       "210050"
     ],
     "type": "study",
-    "title": "数字逻辑电路 结构化题库与知识点树（92 题 + 72 图，机读 JSONL/SQLite，需工具或脚本阅读）",
+    "title": "数字逻辑电路 结构化题库、配图与知识点树（512 题 + 506 图，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/210050/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.{webp,svg}），收录 92 道 Markdown+LaTeX 题目与分步解析，覆盖 2015–2023 学年 7 套期末真题与 2020 秋 06 班模拟卷（official 29 / community 23 / ai 40），58 道带图题附按题精裁灰度 WebP 与去手写空白矢量 SVG 共 72 张（合计 526.8 KB），提供 Python 加载库与 SQLite FTS5 构建脚本。其中 ai 生成解答 40 题（约 44%），使用前请核对 origin=ai 的题目。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/210050/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.{webp,svg}），收录 512 道 Markdown+LaTeX 题目与分步解析，覆盖 2015–2023 学年 8 套期末真题与模拟卷（92 题），以及阎石、王红《数字电子技术基础（第六版）学习辅导与习题解答》例题、习题与 7 套自测试卷（420 题）；official 449 / community 23 / ai 40。附 503 张灰度 WebP + 3 张空白矢量 SVG 共 506 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 40 题（约 8%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
@@ -99662,7 +99662,73 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-22"
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "gh-ddndles-qbank-023181",
+    "course_codes": [
+      "023181"
+    ],
+    "type": "study",
+    "title": "线性电子线路 结构化题库、配图与知识点树（407 题 + 340 图，机读 JSONL/SQLite，需工具或脚本阅读）",
+    "authors": [
+      "DDNdles"
+    ],
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/023181/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp），收录 407 道 Markdown+LaTeX 题目与分步解析：童诗白、华成英《模拟电子技术基础（第五版）全程辅导与习题全解》第 1–10 章 342 题，以及 2014–2019 年期末真题/回忆版与 B 课样卷、模拟卷共 6 套 65 题（official 361 / community 0 / ai 46）。附 340 张精裁去水印灰度 WebP 配图，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 46 题（约 11%），使用前请核对 origin=ai 的题目。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/023181/meta.json",
+      "note": "已核对仓库 courses/023181/meta.json、taxonomy.json、questions.jsonl 与 assets/（407 题，配图 340 张 WebP）；按官方课号 023181 建目录。"
+    },
+    "locations": [
+      {
+        "source_id": "gh-ddndles-ustc-question-bank",
+        "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/023181",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
+        "download_url": null,
+        "access": "public",
+        "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
+        "attribution": "GitHub @DDNdles/USTC-Question-Bank（整理与结构化；上游来源见仓库 NOTICE.md）",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "gh-ddndles-qbank-ee2003",
+    "course_codes": [
+      "EE2003"
+    ],
+    "type": "study",
+    "title": "计算机原理与嵌入式系统 结构化题库、配图与知识点树（505 题 + 20 图，机读 JSONL/SQLite，需工具或脚本阅读）",
+    "authors": [
+      "DDNdles"
+    ],
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/EE2003/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp），收录 505 道 Markdown+LaTeX 题目与分步解析：胡访宇《计算机原理与嵌入式系统》第 1–8 章章末习题 295 题、课程作业参考解答补充题 24 题，以及 2019–2024 年期末真题 3 套与半开卷题型示意卷共 186 题（official 122 / community 0 / ai 383，13 题低置信隔离）。附 20 张配图 WebP，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 383 题（约 76%），使用前请核对 origin=ai 的题目。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/EE2003/meta.json",
+      "note": "已核对仓库 courses/EE2003/meta.json、taxonomy.json、questions.jsonl 与 assets/（505 题，配图 20 张 WebP）；按官方课号 EE2003 建目录。"
+    },
+    "locations": [
+      {
+        "source_id": "gh-ddndles-ustc-question-bank",
+        "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/EE2003",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
+        "download_url": null,
+        "access": "public",
+        "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
+        "attribution": "GitHub @DDNdles/USTC-Question-Bank（整理与结构化；上游来源见仓库 NOTICE.md）",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-23"
   },
   {
     "id": "ustc-cs4005-huang-2026-lectures",

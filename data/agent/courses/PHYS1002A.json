@@ -555,7 +555,7 @@
       "authors": [
         "DDNdles"
       ],
-      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1002A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 352 道 Markdown+LaTeX 题目与分步解析，覆盖 2004–2026 年期中/期末/预考/免修考与三次小测、热学历年真题合订本及清华《大学物理》热学选择题库（official 219 / community 13 / ai 120，10 题低置信隔离），附 48 张灰度 WebP 与矢量化 SVG 配图（共 124.7 KB），提供 Python 加载库与 SQLite FTS5 构建脚本。其中 ai 生成解答 120 题（约 34%），使用前请核对 origin=ai 的题目。",
+      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1002A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 352 道 Markdown+LaTeX 题目与分步解析，覆盖 2004–2026 年期中/期末/预考/免修考与三次小测、热学历年真题合订本及清华《大学物理》热学选择题库（official 219 / community 13 / ai 120，10 题低置信隔离），附 25 张灰度 WebP + 23 张矢量化 SVG 共 48 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 120 题（约 34%），使用前请核对 origin=ai 的题目。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -577,7 +577,7 @@
           "page_kind": "directory"
         }
       ],
-      "verified_at": "2026-11-22"
+      "verified_at": "2026-11-23"
     },
     {
       "id": "mp-feixu-phys1002a-notes-3046bd",

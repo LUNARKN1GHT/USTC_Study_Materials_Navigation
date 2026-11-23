@@ -1970,7 +1970,7 @@
       "authors": [
         "DDNdles"
       ],
-      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/MATH1006/（含 questions.jsonl、taxonomy.json、meta.json），收录 445 道 Markdown+LaTeX 题目与分步解析，覆盖 2016–2025 期中/期末/小测真题及《数学分析讲义》第一册第 1–7 章习题（official 133 / community 300 / ai 12），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/MATH1006/（含 questions.jsonl、taxonomy.json、meta.json），收录 445 道 Markdown+LaTeX 题目与分步解析，覆盖 2016–2025 期中/期末/小测真题及《数学分析讲义》第一册第 1–7 章习题（official 133 / community 300 / ai 12），提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 12 题（约 3%），使用前请核对 origin=ai 的题目。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -1992,7 +1992,7 @@
           "page_kind": "directory"
         }
       ],
-      "verified_at": "2026-11-20"
+      "verified_at": "2026-11-23"
     },
     {
       "id": "intake-login-MATH1006-e42fc69e11ba7fe6",

@@ -1621,7 +1621,7 @@
       "authors": [
         "DDNdles"
       ],
-      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/STAT2002/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.svg），收录 431 道 Markdown+LaTeX 题目与分步解析，覆盖 2002–2026 学年共 36 套期中/期末真题（official 327 / community 0 / ai 104，3 题因缺表或设问不严隔离），第一套（2002–2003 期末）第一题附五开关桥式电路矢量 SVG 配图（1.6 KB），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/STAT2002/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.svg），收录 431 道 Markdown+LaTeX 题目与分步解析，覆盖 2002–2026 学年共 36 套期中/期末真题（official 327 / community 0 / ai 104，3 题因缺表或设问不严隔离），第一套（2002–2003 期末）第一题附五开关桥式电路矢量 SVG 配图，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 104 题（约 24%），使用前请核对 origin=ai 的题目。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -1643,7 +1643,7 @@
           "page_kind": "directory"
         }
       ],
-      "verified_at": "2026-11-22"
+      "verified_at": "2026-11-23"
     },
     {
       "id": "intake-STAT2002-c9056b6d8b7e4db9",

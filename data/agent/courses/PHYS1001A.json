@@ -539,7 +539,7 @@
       "authors": [
         "DDNdles"
       ],
-      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1001A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.{webp,svg}），收录 253 道 Markdown+LaTeX 题目与分步解析，覆盖 2005–2026 学年期中/期末真题、力学历年考题合集与刚体笔记例题（official 49 / community 1 / ai 203，14 题低置信隔离），附 91 张配图（70 张灰度 WebP + 21 张矢量 SVG，共 449 KB），提供 Python 加载库与 SQLite FTS5 构建脚本。其中 ai 生成解答 203 题（约 80%），使用前请核对 origin=ai 的题目。",
+      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1001A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.{webp,svg}），收录 253 道 Markdown+LaTeX 题目与分步解析，覆盖 2005–2026 学年期中/期末真题、力学历年考题合集与刚体笔记例题（official 49 / community 1 / ai 203，14 题低置信隔离），附 70 张灰度 WebP + 21 张矢量 SVG 共 91 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 203 题（约 80%），使用前请核对 origin=ai 的题目。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -561,7 +561,7 @@
           "page_kind": "directory"
         }
       ],
-      "verified_at": "2026-11-21"
+      "verified_at": "2026-11-23"
     },
     {
       "id": "ustcguide-phys1001a-mechanics-formulas",
