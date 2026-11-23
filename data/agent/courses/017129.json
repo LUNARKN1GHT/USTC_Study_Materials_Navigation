@@ -297,42 +297,6 @@
       "verified_at": "2026-11-23"
     },
     {
-      "id": "mp-uexam-017129-2021-midterm-2021sstochmid",
-      "type": "exams",
-      "title": "实用随机过程 2021 期中",
-      "authors": [],
-      "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
-      "coverage": {
-        "years": [
-          2021
-        ],
-        "academic_years": [],
-        "exam_kind": "midterm",
-        "exam_form": "original",
-        "has_solutions": null,
-        "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-        "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2021；文件：2021Sstochmid.pdf；完整文件 SHA-256 613ed37fd42dafd5…，340311 字节"
-      },
-      "locations": [
-        {
-          "source_id": "ustc-math-exam",
-          "page_url": "https://ustcmathexam.github.io/ProbStat/",
-          "download_page": null,
-          "download_url": "https://ustcmathexam.github.io/USTC/2021Sstochmid.pdf",
-          "access": "public",
-          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null,
-          "file_snapshot": {
-            "sha256": "613ed37fd42dafd593c005b0fb432f8b8438dd3acb4817160f375d6fc2c6bb13",
-            "bytes": 340311,
-            "checked_at": "2026-11-23"
-          }
-        }
-      ],
-      "verified_at": "2026-11-23"
-    },
-    {
       "id": "mp-uexam-017129-2020-final-2020fstochfinal",
       "type": "exams",
       "title": "实用随机过程 2020 期末",
@@ -525,7 +489,7 @@
         "exam_form": "original",
         "has_solutions": false,
         "evidence_url": "https://icourse.club/course/2093/#review-93966",
-        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。共 1 页，标题为《2019 级统计学专业〈实用随机过程〉期中考试试题》（无解答），包含 6 道大题。"
+        "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。共 1 页，标题为《2019 级统计学专业〈实用随机过程〉期中考试试题》（无解答），包含 6 道大题。；同卷公开直链已补入（2021Sstochmid.pdf，340311 字节，SHA-256 613ed37fd42dafd5…）。"
       },
       "locations": [
         {
@@ -544,6 +508,21 @@
               "checked_at": "2026-11-20"
             }
           ]
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/ProbStat/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021Sstochmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "613ed37fd42dafd593c005b0fb432f8b8438dd3acb4817160f375d6fc2c6bb13",
+            "bytes": 340311,
+            "checked_at": "2026-11-23"
+          }
         }
       ],
       "verified_at": "2026-11-20"

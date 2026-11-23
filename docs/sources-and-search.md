@@ -5,7 +5,7 @@
 ## 概览
 
 - 课程：1184 门（已收录资料 405 门，暂未收录 779 门）。
-- 资料：2743 条（按资料类型与试题年份的覆盖见下一节）。
+- 资料：2742 条（按资料类型与试题年份的覆盖见下一节）。
 - 来源：177 个登记来源，其中 167 个被正式资料引用。
 - 检索记录：6742 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
@@ -1497,13 +1497,12 @@
   - 2022 年（期末、原题、解答情况不明）：实用随机过程 2022 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2022SPfinal.pdf
   - 2022 年（期中、原题、解答情况不明）：实用随机过程 2022 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2022Sstochmid.pdf
   - 2021 年（期末、原题、解答情况不明）：实用随机过程 2021 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2021SPfinal.pdf
-  - 2021 年（期中、原题、解答情况不明）：实用随机过程 2021 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2021Sstochmid.pdf
   - 2020 年（期末、原题、解答情况不明）：实用随机过程 2020 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020Fstochfinal.pdf
   - 2020 年（期中、原题、解答情况不明）：实用随机过程 2020 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020Fstochmid.pdf
   - 2019 年（期中、原题、解答情况不明）：实用随机过程 2019 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2019Fstoch.pdf
   - 2015 年（期中、原题、解答情况不明）：实用随机过程 2015 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2015Fstochmid.pdf
   - 2011 年（期中、原题、解答情况不明）：实用随机过程 2011 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2011Fstochmid.pdf
-  - 年份待确认（期中、原题、无解答）：实用随机过程:2019 级统计学专业期中考试试题 —— USTC 评课社区 https://icourse.club/course/2093/#review-93966
+  - 年份待确认（期中、原题、无解答）：实用随机过程:2019 级统计学专业期中考试试题 —— USTC 评课社区、USTC 数学课程往年试卷 https://icourse.club/course/2093/#review-93966
   - 年份待确认（期中期末混合、形式不明、解答情况不明）：实用随机过程：试题与解析（16 个附件） —— USTC 评课社区 https://icourse.club/course/2093/#review-93966
 - **作业、习题与小测**
   - 实用随机过程：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2093/#review-93966
@@ -18007,6 +18006,12 @@
 
 ### 017129 实用随机过程
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/ProbStat/>
+  - 查询：实用随机过程 2019 级期中：评课附件与数学站公开直链同文件
+  - 检查范围：完整文件 340,311 字节，SHA-256 613ed37f… 与评课社区登录附件一致，判为同一文件。
+  - 说明：保留原帖位置并补公开直链，不重复建条目。
+  - 来源 ID：icourse-club、ustc-math-exam
+  - 课程代码：017129
 - 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2011Fstochmid.pdf>
   - 查询：实用随机过程 2011 期中
   - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2011；文件：2011Fstochmid.pdf；完整文件 SHA-256 d1b46cc34fb3271b…，1435056 字节
@@ -18040,12 +18045,6 @@
 - 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2021SPfinal.pdf>
   - 查询：实用随机过程 2021 期末
   - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2021；文件：2021SPfinal.pdf；完整文件 SHA-256 9a396515c48b4948…，1077033 字节
-  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
-  - 来源 ID：ustc-math-exam
-  - 课程代码：017129
-- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2021Sstochmid.pdf>
-  - 查询：实用随机过程 2021 期中
-  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2021；文件：2021Sstochmid.pdf；完整文件 SHA-256 613ed37fd42dafd5…，340311 字节
   - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
   - 来源 ID：ustc-math-exam
   - 课程代码：017129
