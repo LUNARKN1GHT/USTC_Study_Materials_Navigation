@@ -96,13 +96,13 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/yxli2123/pattern-recognition-experiments",
+        "evidence_url": "https://github.com/yxli2123/2020FA_pattern-recognition",
         "note": "仓库描述明确 USTC 2020fall。"
       },
       "locations": [
         {
           "source_id": "gh-yxli2123-pattern-recognition",
-          "page_url": "https://github.com/yxli2123/pattern-recognition-experiments",
+          "page_url": "https://github.com/yxli2123/2020FA_pattern-recognition",
           "download_page": null,
           "download_url": null,
           "access": "public",

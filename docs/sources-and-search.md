@@ -9,8 +9,8 @@
 - 来源：177 个登记来源，其中 167 个被正式资料引用。
 - 检索记录：6742 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
-- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 3126 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
-- 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1384。
+- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 3123 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1381。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 
 ## 课程 × 资料类型 × 试题年份覆盖
@@ -863,7 +863,7 @@
 - **学习资料**
   - 模式识别导论：学习资料（7 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23043/#review-104683
 - **大作业与考核作品**
-  - 2020 年：模式识别 2020 秋 3 个实验源码 —— yxli2123/pattern-recognition-experiments；核验于 2026-11-19 https://github.com/yxli2123/pattern-recognition-experiments（资料目录）
+  - 2020 年：模式识别 2020 秋 3 个实验源码 —— yxli2123/pattern-recognition-experiments；核验于 2026-11-19 https://github.com/yxli2123/2020FA_pattern-recognition（资料目录）
 
 ### 010159 自动控制原理
 
@@ -1089,7 +1089,7 @@
 - **学习资料**
   - 人工智能基础 课程资料包（实验、复习资料与 2019—2021 期末试卷） —— 人工智能基础课程资料包（Google Drive 公开分享）；核验于 2026-11-19 https://drive.usercontent.google.com/download?id=1wTV1vfdICaOfRIbpbx8mbsMqIng3mCY_&export=download&confirm=t（文件页）
 - **大作业与考核作品**
-  - 2022 年：人工智能基础 2022 实验代码与报告 —— xXuHaiyang/USTC_AI2022_Lab；核验于 2026-11-19 https://github.com/xXuHaiyang/USTC_AI2022_Lab（资料目录）
+  - 2022 年：人工智能基础 2022 实验代码与报告 —— xXuHaiyang/USTC_AI2022_Lab；核验于 2026-11-19 https://github.com/xXuHaiyang/USTC_Artificial-Intelligence_2022（资料目录）
 
 ### 011144 计算机网络
 
@@ -2325,7 +2325,7 @@
   - 2025 年（期末、形式不明、解答情况不明）：数理逻辑与图论 2025 秋期末（刘斌班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathLogicGT2025F.pdf
   - 年份待确认（期末、形式不明、解答情况不明）：数理逻辑与图论 期末试卷 —— USTC 评课社区 https://icourse.club/course/3018/#review-97915
 - **作业、习题与小测**
-  - 数理逻辑与图论（2023 秋，刘斌班）作业反馈与答案 —— minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory；核验于 2026-11-19 https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory（资料目录）
+  - 数理逻辑与图论（2023 秋，刘斌班）作业反馈与答案 —— minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory；核验于 2026-11-19 https://github.com/minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory（资料目录）
 
 ### 210045 电路基本理论
 
@@ -2986,7 +2986,7 @@
   - 数理逻辑 课件（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91
   - 数理逻辑基础 直接证明处理思路 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24187/#review-86300
   - 数理逻辑基础 直接证明专题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24186/#review-104000
-  - USTC 数理逻辑基础课程资源目录 —— Wloner0809/ustc-curriculum-resource；核验于 2026-11-19 https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80（资料目录）
+  - USTC 数理逻辑基础课程资源目录 —— Wloner0809/ustc-curriculum-resource；核验于 2026-11-19 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80（资料目录）
   - USTC 数理逻辑基础课程资源目录（复习笔记） —— Melmaphother/ustc-course-resources；核验于 2026-11-19 https://github.com/Melmaphother/ustc-course-resources/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91（资料目录）
 - **大作业与考核作品**
   - 数理逻辑 system-L 命题证明脚本（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/codes/mbinary/system_L.py
@@ -3046,7 +3046,7 @@
 - **大作业与考核作品**
   - 计算机组成原理(H) 实验报告与课件（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86(H)
   - 计算机组成原理H 课程资料（2024，CODH-2024） —— 2024 计算机组成原理 H 课程资料；核验于 2026-11-19 https://github.com/Zhenyu-Bo/CODH-2024（资料目录）
-  - 计算机组成原理H 资料（Wloner0809 仓库） —— USTC 课程资源（计算机组成原理 H 等）；核验于 2026-11-19 https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H（资料目录）
+  - 计算机组成原理H 资料（Wloner0809 仓库） —— USTC 课程资源（计算机组成原理 H 等）；核验于 2026-11-19 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H（资料目录）
 
 ### CS3701 算法基础(H)
 
@@ -4472,7 +4472,7 @@
   - 计算方法习题课 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21925/#review-106377
   - 计算方法总结 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21350/#review-76125
 - **大作业与考核作品**
-  - 计算方法 2022 实验（GitHub 仓库） —— xXuHaiyang/USTC_Computation2022_Lab；核验于 2026-11-19 https://github.com/xXuHaiyang/USTC_Computation2022_Lab
+  - 计算方法 2022 实验（GitHub 仓库） —— xXuHaiyang/USTC_Computation2022_Lab；核验于 2026-11-19 https://github.com/xXuHaiyang/USTC_Computational-Method_2022
   - 计算方法 实验（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95
   - 计算方法 实验参考代码（GitHub 仓库） —— mmengjiadai/Computational-Method；核验于 2026-11-19 https://github.com/mmengjiadai/Computational-Method
 
@@ -4883,7 +4883,7 @@
 通识课 · 自动化 · 机械与仪器 · 创新创业
 
 - **大作业与考核作品**
-  - RoboGame 2022 机器人项目（BlackStar） —— Deagle-PrintStream/BlackStar_ustc_robogame_2022；核验于 2026-11-19 https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022（资料目录）
+  - RoboGame 2022 机器人项目（BlackStar） —— Deagle-PrintStream/BlackStar_ustc_robogame_2022；核验于 2026-11-19 https://github.com/swayee2026/BlackStar_ustc_robogame_2022（资料目录）
   - RoboGame 机器人项目（epsilonGoal） —— MichaelFW-ui/RoboGame-epsilonGoal；核验于 2026-11-19 https://github.com/MichaelFW-ui/RoboGame-epsilonGoal（资料目录）
 
 ### ME2006 理论力学B
@@ -5501,7 +5501,7 @@
   - 概率论与数理统计 教案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21053/#review-40210
   - 概率论与数理统计 结构化题库与知识点树（431 题 + 1 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-23 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/STAT2002（资料目录）
   - 概率论与数理统计 课程主页（张伟平） —— 张伟平 概率论与数理统计课程页；核验于 2026-11-19 http://staff.ustc.edu.cn/~zwp/teach/Prob-Stat/probstat.htm
-  - 概率论与数理统计 课程资料（Wloner0809 仓库目录） —— Wloner0809/ustc-course-resource；核验于 2026-11-19 https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1（资料目录）
+  - 概率论与数理统计 课程资料（Wloner0809 仓库目录） —— Wloner0809/ustc-course-resource；核验于 2026-11-19 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1（资料目录）
   - 概率论与数理统计 试卷 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://raw.githubusercontent.com/li-qi-lin/USTC-Course-Materials-Sharing/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Prob_Stat_Concepts_Examples.pdf
   - 概率论与数理统计：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3859/#review-91500
   - 概率论与数理统计：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3847/#review-78579
@@ -5815,7 +5815,7 @@
 - 类型：资料库
 - 地址：<https://github.com/USTC-CG/USTC_CG_25>
 - 维护者：USTC-CG
-- GitHub：USTC-CG/USTC_CG_25（分支 master）
+- GitHub：USTC-CG/USTC_CG_25（分支 main）
 - 说明：计算机图形学（001065）2025春课程作业仓库；README 明示课程编号。
 - 被正式资料引用：1 处
 
@@ -6109,16 +6109,16 @@
 - 类型：资料库
 - 地址：<https://github.com/MichaelFW-ui/RoboGame-epsilonGoal>
 - 维护者：GitHub @MichaelFW-ui
-- GitHub：MichaelFW-ui/RoboGame-epsilonGoal（分支 main）
+- GitHub：MichaelFW-ui/RoboGame-epsilonGoal（分支 master）
 - 说明：评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。
 - 被正式资料引用：1 处
 
 ### Deagle-PrintStream/BlackStar_ustc_robogame_2022
 
 - 类型：资料库
-- 地址：<https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022>
+- 地址：<https://github.com/swayee2026/BlackStar_ustc_robogame_2022>
 - 维护者：GitHub @Deagle-PrintStream
-- GitHub：Deagle-PrintStream/BlackStar_ustc_robogame_2022（分支 main）
+- GitHub：swayee2026/BlackStar_ustc_robogame_2022（分支 main）
 - 说明：评课社区公开点评外链定位到的课程仓库；本轮匿名入口可访问，仅导航原页。
 - 被正式资料引用：1 处
 
@@ -6259,9 +6259,9 @@
 ### USTC 课程资源（计算机组成原理 H 等）
 
 - 类型：资料库
-- 地址：<https://github.com/Wloner0809/ustc-curriculum-resource>
+- 地址：<https://github.com/Wloner0809/ustc-course-resource>
 - 维护者：Wloner0809
-- GitHub：Wloner0809/ustc-curriculum-resource（分支 main）
+- GitHub：Wloner0809/ustc-course-resource（分支 main）
 - 说明：评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。
 - 被正式资料引用：1 处
 
@@ -6528,9 +6528,9 @@
 ### xXuHaiyang/USTC_AI2022_Lab
 
 - 类型：资料库
-- 地址：<https://github.com/xXuHaiyang/USTC_AI2022_Lab>
+- 地址：<https://github.com/xXuHaiyang/USTC_Artificial-Intelligence_2022>
 - 维护者：xXuHaiyang
-- GitHub：xXuHaiyang/USTC_AI2022_Lab（分支 main）
+- GitHub：xXuHaiyang/USTC_Artificial-Intelligence_2022（分支 main）
 - 说明：USTC 人工智能基础 2022 实验代码与报告
 - 被正式资料引用：1 处
 
@@ -6607,9 +6607,9 @@
 ### yxli2123/pattern-recognition-experiments
 
 - 类型：资料库
-- 地址：<https://github.com/yxli2123/pattern-recognition-experiments>
+- 地址：<https://github.com/yxli2123/2020FA_pattern-recognition>
 - 维护者：yxli2123
-- GitHub：yxli2123/pattern-recognition-experiments（分支 main）
+- GitHub：yxli2123/2020FA_pattern-recognition（分支 main）
 - 说明：USTC 模式识别 2020 秋三个实验源码
 - 被正式资料引用：1 处
 
@@ -6624,9 +6624,9 @@
 ### Wloner0809/ustc-curriculum-resource
 
 - 类型：资料库
-- 地址：<https://github.com/Wloner0809/ustc-curriculum-resource>
+- 地址：<https://github.com/Wloner0809/ustc-course-resource>
 - 维护者：Wloner0809
-- GitHub：Wloner0809/ustc-curriculum-resource（分支 main）
+- GitHub：Wloner0809/ustc-course-resource（分支 main）
 - 说明：USTC 课程资源；评课点评引用的数理逻辑基础目录。无许可声明。
 - 被正式资料引用：1 处
 
@@ -6775,9 +6775,9 @@
 ### xXuHaiyang/USTC_Computation2022_Lab
 
 - 类型：资料库
-- 地址：<https://github.com/xXuHaiyang/USTC_Computation2022_Lab>
+- 地址：<https://github.com/xXuHaiyang/USTC_Computational-Method_2022>
 - 维护者：xXuHaiyang
-- GitHub：xXuHaiyang/USTC_Computation2022_Lab（分支 main）
+- GitHub：xXuHaiyang/USTC_Computational-Method_2022（分支 main）
 - 说明：评课社区点评外链的计算方法 2022 实验仓库；匿名可访问。
 - 被正式资料引用：1 处
 
@@ -6827,7 +6827,7 @@
 - 类型：资料库
 - 地址：<https://github.com/TheVaticanCameos/USTC_MM_26>
 - 维护者：TheVaticanCameos
-- GitHub：TheVaticanCameos/USTC_MM_26（分支 main）
+- GitHub：TheVaticanCameos/USTC_MM_26（分支 master）
 - 说明：评课社区点评外链的数学建模 2026 春作业仓库；匿名可访问。
 - 被正式资料引用：1 处
 
@@ -6844,7 +6844,7 @@
 - 类型：资料库
 - 地址：<https://github.com/txtxj/PL0-Compiler>
 - 维护者：txtxj
-- GitHub：txtxj/PL0-Compiler（分支 main）
+- GitHub：txtxj/PL0-Compiler（分支 master）
 - 说明：评课社区点评外链的编译原理 2022 秋大作业仓库；匿名可访问。
 - 被正式资料引用：1 处
 
@@ -6896,7 +6896,7 @@
 - 类型：资料库
 - 地址：<https://github.com/Oyyko/USTC-Random-Process>
 - 维护者：Oyyko
-- GitHub：Oyyko/USTC-Random-Process（分支 master）
+- GitHub：Oyyko/USTC-Random-Process（分支 main）
 - 说明：评课社区点评外链的随机过程复习资料仓库；匿名可访问。
 - 被正式资料引用：1 处
 
@@ -6905,7 +6905,7 @@
 - 类型：资料库
 - 地址：<https://github.com/Fluuuegel/USTC-OS-lab-2022>
 - 维护者：GitHub @Fluuuegel
-- GitHub：Fluuuegel/USTC-OS-Lab-2022（分支 main）
+- GitHub：Fluuuegel/USTC-OS-Lab-2022（分支 master）
 - 说明：评课社区公开点评外链定位到的实验仓库；匿名核对仓库页可访问，仅导航原页。
 - 被正式资料引用：1 处
 
@@ -6964,16 +6964,16 @@
 - 类型：资料库
 - 地址：<https://github.com/Catoverflow/ROBDD>
 - 维护者：GitHub @Catoverflow
-- GitHub：Catoverflow/ROBDD（分支 master）
+- GitHub：Catoverflow/ROBDD（分支 main）
 - 说明：评课社区公开点评外链定位到的课程项目仓库；匿名核对仓库页可访问，仅导航原页。
 - 被正式资料引用：1 处
 
 ### minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory
 
 - 类型：资料库
-- 地址：<https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory>
+- 地址：<https://github.com/minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory>
 - 维护者：GitHub @minervazz
-- GitHub：StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory（分支 main）
+- GitHub：minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory（分支 master）
 - 说明：评课社区公开点评外链定位到的作业反馈与答案仓库；匿名核对仓库页可访问，仅导航原页。
 - 被正式资料引用：1 处
 
@@ -6982,7 +6982,7 @@
 - 类型：资料库
 - 地址：<https://github.com/zzx6869/2020_python_program_design>
 - 维护者：GitHub @zzx6869
-- GitHub：zzx6869/2020_python_program_design（分支 master）
+- GitHub：zzx6869/2020_python_program_design（分支 main）
 - 说明：评课社区公开点评外链定位到的课程实验仓库；匿名核对仓库页可访问，仅导航原页。
 - 被正式资料引用：1 处
 
@@ -50813,8 +50813,8 @@
 ## 外链健康检查
 
 - 最近一次检查：2026-11-18T12:43:53.013Z
-- 统计范围：统计分母是站点引用的 3126 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
-- 结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1384。
+- 统计范围：统计分母是站点引用的 3123 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1381。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 - 判定口径：只有确认的 404/410 计为“无法找到”。需登录/认证说明服务器有响应但要求身份验证；目录列表页、软错误页、超时与预检拦截都不证明文件可下载或不存在。重定向中前一跳已收到响应、最终目标被预检拦截的条目归入预检中止，但仍计入“实际收到过 HTTP 响应”的条目。
 - 匿名检查只代表当次网络访问结果，不代表资料内容、课程归属、年份或授权已确认；失败不会自动删除资料或改变“是否收录”的分区。

@@ -54490,18 +54490,18 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
+      "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
       "note": "评课社区公开点评（2023春）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
     },
     "locations": [
       {
         "source_id": "gh-wloner0809-ustc-curriculum-resource",
-        "page_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
+        "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
         "download_page": null,
         "download_url": null,
         "access": "public",
         "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
-        "attribution": "GitHub 公开仓库 Wloner0809/ustc-curriculum-resource",
+        "attribution": "GitHub 公开仓库 Wloner0809/ustc-course-resource",
         "page_kind": "directory"
       }
     ],
@@ -54982,7 +54982,7 @@
     "authors": [
       "xXuHaiyang"
     ],
-    "notes": "仓库 USTC_AI2022_Lab（451 个文件），含 lab1 起实验代码、实验介绍 PDF 与报告；仓库自述 Code for Lab of AI2022。报告文件名含学生姓名/学号，不在此复述。",
+    "notes": "仓库 USTC_Artificial-Intelligence_2022（原 USTC_AI2022_Lab）（451 个文件），含 lab1 起实验代码、实验介绍 PDF 与报告；仓库自述 Code for Lab of AI2022。报告文件名含学生姓名/学号，不在此复述。",
     "coverage": {
       "years": [
         2022
@@ -54993,13 +54993,13 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/xXuHaiyang/USTC_AI2022_Lab",
+      "evidence_url": "https://github.com/xXuHaiyang/USTC_Artificial-Intelligence_2022",
       "note": "仓库名与 README 标明 AI2022；实验目录按 lab 编号组织。"
     },
     "locations": [
       {
         "source_id": "gh-xxuhaiyang-ustc-ai2022-lab",
-        "page_url": "https://github.com/xXuHaiyang/USTC_AI2022_Lab",
+        "page_url": "https://github.com/xXuHaiyang/USTC_Artificial-Intelligence_2022",
         "download_page": null,
         "download_url": null,
         "access": "public",
@@ -55352,13 +55352,13 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/yxli2123/pattern-recognition-experiments",
+      "evidence_url": "https://github.com/yxli2123/2020FA_pattern-recognition",
       "note": "仓库描述明确 USTC 2020fall。"
     },
     "locations": [
       {
         "source_id": "gh-yxli2123-pattern-recognition",
-        "page_url": "https://github.com/yxli2123/pattern-recognition-experiments",
+        "page_url": "https://github.com/yxli2123/2020FA_pattern-recognition",
         "download_page": null,
         "download_url": null,
         "access": "public",
@@ -55612,7 +55612,7 @@
     "locations": [
       {
         "source_id": "gh-deagle-blackstar-robogame",
-        "page_url": "https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022",
+        "page_url": "https://github.com/swayee2026/BlackStar_ustc_robogame_2022",
         "download_page": null,
         "download_url": null,
         "access": "public",
@@ -56830,13 +56830,13 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
+      "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
       "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
     },
     "locations": [
       {
         "source_id": "gh-wloner0809-curriculum",
-        "page_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
+        "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
         "download_page": null,
         "download_url": null,
         "page_kind": "directory",
@@ -58324,13 +58324,13 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/xXuHaiyang/USTC_Computation2022_Lab",
+      "evidence_url": "https://github.com/xXuHaiyang/USTC_Computational-Method_2022",
       "note": "GitHub 公开仓库；仓库说明为计算方法 2022 实验；未逐文件下载核验"
     },
     "locations": [
       {
         "source_id": "gh-xxuhaiyang-computation2022",
-        "page_url": "https://github.com/xXuHaiyang/USTC_Computation2022_Lab",
+        "page_url": "https://github.com/xXuHaiyang/USTC_Computational-Method_2022",
         "download_page": null,
         "download_url": null,
         "page_kind": "page",
@@ -58417,13 +58417,13 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+      "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
       "note": "GitHub 公开仓库的课程资料目录；匿名可访问；未逐文件下载核验"
     },
     "locations": [
       {
         "source_id": "gh-wloner0809",
-        "page_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
         "download_page": null,
         "download_url": null,
         "page_kind": "directory",
@@ -59287,13 +59287,13 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
+      "evidence_url": "https://github.com/minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
       "note": "类型按仓库说明与目录（作业反馈/答案）判定；未逐份核对答案正确性。"
     },
     "locations": [
       {
         "source_id": "gh-minervazz-mathlogic-gt",
-        "page_url": "https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
+        "page_url": "https://github.com/minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
         "page_kind": "directory",
         "download_page": null,
         "download_url": null,
