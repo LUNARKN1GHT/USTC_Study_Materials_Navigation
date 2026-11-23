@@ -668,13 +668,13 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
         "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
       },
       "locations": [
         {
           "source_id": "gh-wloner0809-curriculum",
-          "page_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
           "download_page": null,
           "download_url": null,
           "access": "public",

@@ -90,13 +90,13 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
+        "evidence_url": "https://github.com/minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
         "note": "类型按仓库说明与目录（作业反馈/答案）判定；未逐份核对答案正确性。"
       },
       "locations": [
         {
           "source_id": "gh-minervazz-mathlogic-gt",
-          "page_url": "https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
+          "page_url": "https://github.com/minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
           "download_page": null,
           "download_url": null,
           "access": "public",

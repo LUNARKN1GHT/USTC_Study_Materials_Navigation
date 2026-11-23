@@ -361,7 +361,7 @@
     "github": {
       "owner": "USTC-CG",
       "repo": "USTC_CG_25",
-      "branch": "master"
+      "branch": "main"
     },
     "notes": "计算机图形学（001065）2025春课程作业仓库；README 明示课程编号。"
   },
@@ -755,18 +755,18 @@
     "github": {
       "owner": "MichaelFW-ui",
       "repo": "RoboGame-epsilonGoal",
-      "branch": "main"
+      "branch": "master"
     },
     "notes": "评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。"
   },
   {
     "id": "gh-deagle-blackstar-robogame",
     "name": "Deagle-PrintStream/BlackStar_ustc_robogame_2022",
-    "url": "https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022",
+    "url": "https://github.com/swayee2026/BlackStar_ustc_robogame_2022",
     "maintainer": "GitHub @Deagle-PrintStream",
     "kind": "repository",
     "github": {
-      "owner": "Deagle-PrintStream",
+      "owner": "swayee2026",
       "repo": "BlackStar_ustc_robogame_2022",
       "branch": "main"
     },
@@ -966,12 +966,12 @@
   {
     "id": "gh-wloner0809-ustc-curriculum-resource",
     "name": "USTC 课程资源（计算机组成原理 H 等）",
-    "url": "https://github.com/Wloner0809/ustc-curriculum-resource",
+    "url": "https://github.com/Wloner0809/ustc-course-resource",
     "maintainer": "Wloner0809",
     "kind": "repository",
     "github": {
       "owner": "Wloner0809",
-      "repo": "ustc-curriculum-resource",
+      "repo": "ustc-course-resource",
       "branch": "main"
     },
     "notes": "评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。"
@@ -1329,12 +1329,12 @@
   {
     "id": "gh-xxuhaiyang-ustc-ai2022-lab",
     "name": "xXuHaiyang/USTC_AI2022_Lab",
-    "url": "https://github.com/xXuHaiyang/USTC_AI2022_Lab",
+    "url": "https://github.com/xXuHaiyang/USTC_Artificial-Intelligence_2022",
     "maintainer": "xXuHaiyang",
     "kind": "repository",
     "github": {
       "owner": "xXuHaiyang",
-      "repo": "USTC_AI2022_Lab",
+      "repo": "USTC_Artificial-Intelligence_2022",
       "branch": "main"
     },
     "notes": "USTC 人工智能基础 2022 实验代码与报告"
@@ -1438,12 +1438,12 @@
   {
     "id": "gh-yxli2123-pattern-recognition",
     "name": "yxli2123/pattern-recognition-experiments",
-    "url": "https://github.com/yxli2123/pattern-recognition-experiments",
+    "url": "https://github.com/yxli2123/2020FA_pattern-recognition",
     "maintainer": "yxli2123",
     "kind": "repository",
     "github": {
       "owner": "yxli2123",
-      "repo": "pattern-recognition-experiments",
+      "repo": "2020FA_pattern-recognition",
       "branch": "main"
     },
     "notes": "USTC 模式识别 2020 秋三个实验源码"
@@ -1460,12 +1460,12 @@
   {
     "id": "gh-wloner0809-curriculum",
     "name": "Wloner0809/ustc-curriculum-resource",
-    "url": "https://github.com/Wloner0809/ustc-curriculum-resource",
+    "url": "https://github.com/Wloner0809/ustc-course-resource",
     "maintainer": "Wloner0809",
     "kind": "repository",
     "github": {
       "owner": "Wloner0809",
-      "repo": "ustc-curriculum-resource",
+      "repo": "ustc-course-resource",
       "branch": "main"
     },
     "notes": "USTC 课程资源；评课点评引用的数理逻辑基础目录。无许可声明。"
@@ -1650,12 +1650,12 @@
   {
     "id": "gh-xxuhaiyang-computation2022",
     "name": "xXuHaiyang/USTC_Computation2022_Lab",
-    "url": "https://github.com/xXuHaiyang/USTC_Computation2022_Lab",
+    "url": "https://github.com/xXuHaiyang/USTC_Computational-Method_2022",
     "maintainer": "xXuHaiyang",
     "kind": "repository",
     "github": {
       "owner": "xXuHaiyang",
-      "repo": "USTC_Computation2022_Lab",
+      "repo": "USTC_Computational-Method_2022",
       "branch": "main"
     },
     "notes": "评课社区点评外链的计算方法 2022 实验仓库；匿名可访问。"
@@ -1718,7 +1718,7 @@
     "github": {
       "owner": "TheVaticanCameos",
       "repo": "USTC_MM_26",
-      "branch": "main"
+      "branch": "master"
     },
     "notes": "评课社区点评外链的数学建模 2026 春作业仓库；匿名可访问。"
   },
@@ -1740,7 +1740,7 @@
     "github": {
       "owner": "txtxj",
       "repo": "PL0-Compiler",
-      "branch": "main"
+      "branch": "master"
     },
     "notes": "评课社区点评外链的编译原理 2022 秋大作业仓库；匿名可访问。"
   },
@@ -1810,7 +1810,7 @@
     "github": {
       "owner": "Oyyko",
       "repo": "USTC-Random-Process",
-      "branch": "master"
+      "branch": "main"
     },
     "notes": "评课社区点评外链的随机过程复习资料仓库；匿名可访问。"
   },
@@ -1823,7 +1823,7 @@
     "github": {
       "owner": "Fluuuegel",
       "repo": "USTC-OS-Lab-2022",
-      "branch": "main"
+      "branch": "master"
     },
     "notes": "评课社区公开点评外链定位到的实验仓库；匿名核对仓库页可访问，仅导航原页。"
   },
@@ -1898,20 +1898,20 @@
     "github": {
       "owner": "Catoverflow",
       "repo": "ROBDD",
-      "branch": "master"
+      "branch": "main"
     },
     "notes": "评课社区公开点评外链定位到的课程项目仓库；匿名核对仓库页可访问，仅导航原页。"
   },
   {
     "id": "gh-minervazz-mathlogic-gt",
     "name": "minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
-    "url": "https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
+    "url": "https://github.com/minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
     "maintainer": "GitHub @minervazz",
     "kind": "repository",
     "github": {
-      "owner": "StellaVesperi",
+      "owner": "minervazz",
       "repo": "USTC_23fa_Mathematical-Logic-and-Graph-Theory",
-      "branch": "main"
+      "branch": "master"
     },
     "notes": "评课社区公开点评外链定位到的作业反馈与答案仓库；匿名核对仓库页可访问，仅导航原页。"
   },
@@ -1924,7 +1924,7 @@
     "github": {
       "owner": "zzx6869",
       "repo": "2020_python_program_design",
-      "branch": "master"
+      "branch": "main"
     },
     "notes": "评课社区公开点评外链定位到的课程实验仓库；匿名核对仓库页可访问，仅导航原页。"
   },
