@@ -488,12 +488,20 @@ export async function runMonitor(options = {}) {
         remoteMonitoring = JSON.parse(needsBlob
           ? new TextDecoder('utf-8', { fatal: true }).decode(blob)
           : Buffer.from(remoteFile.content, 'base64').toString('utf8'));
-        if (needsBlob && remoteMonitoring === null) throw new TypeError('Expected a monitoring object');
       } catch (error) {
         throw new MonitorError(
           '远程 monitoring.json 不是有效 JSON，为避免覆盖并发编辑已停止发布',
           { code: 'invalid_remote_monitoring', cause: error },
         );
+      }
+      if (needsBlob) {
+        const { validateMonitoringBaseline, formatIssue } = await import('./lib/data.mjs');
+        const [error] = validateMonitoringBaseline(remoteMonitoring);
+        if (error) {
+          throw new MonitorError(`远程监控基线无效，已停止发布：${formatIssue(error)}`, {
+            code: 'invalid_monitoring',
+          });
+        }
       }
       baseline = normalizeMonitoring(remoteMonitoring, schemaVersion);
     }

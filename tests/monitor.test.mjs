@@ -744,7 +744,12 @@ function largeMonitoringFixture(bytes, { blobStatus, blobPatch, contentsPatch } 
 }
 
 test('monitor: publish reads a large baseline by its blob SHA before checking, then PUTs with that SHA', async () => {
-  const baseline = monitoringWith({ 'old.txt': 'sha-old' });
+  const baseline = monitoringWith({ 'old.txt': HEAD_OLD });
+  baseline.repositories['src-retired'] = {
+    head_sha: HEAD_OLD,
+    files: [],
+    last_checked_at: baseline.checked_at,
+  };
   const fixture = largeMonitoringFixture(Buffer.from(`${JSON.stringify(baseline)}${' '.repeat(1024 * 1024)}`));
   const startingSha = fixture.state.monitoringSha;
   const { options, saved } = baseRunOptions(fixture, { mode: 'publish' });
@@ -764,17 +769,28 @@ test('monitor: publish reads a large baseline by its blob SHA before checking, t
   assert.equal(fixture.state.comments.length, 1);
   assert.deepEqual(fixture.state.puts.map(({ sha }) => sha), [startingSha]);
   assert.equal(saved.value.repositories['src-a'].head_sha, HEAD_NEW);
+  assert.equal(Object.hasOwn(saved.value.repositories, 'src-retired'), false);
+  const published = JSON.parse(Buffer.from(fixture.state.puts[0].content, 'base64'));
+  assert.equal(Object.hasOwn(published.repositories, 'src-retired'), false);
 });
 
 test('monitor: an unreadable or invalid large remote baseline makes no writes', async (t) => {
-  const valid = JSON.stringify(monitoringWith({ 'old.txt': 'sha-old' }));
+  const baseline = monitoringWith({ 'old.txt': HEAD_OLD });
+  const valid = JSON.stringify(baseline);
+  const invalidHead = JSON.stringify({
+    ...baseline,
+    repositories: { 'src-a': { ...baseline.repositories['src-a'], head_sha: 'wrong', files: [] } },
+  });
+  const invalidLink = JSON.stringify({ ...baseline, links: [null] });
   for (const [name, text, response, expectedError] of [
     ['missing blob', valid, { blobStatus: 404 }, { status: 404 }],
     ['wrong blob SHA', valid, { blobPatch: { sha: HEAD_NEW } }, { code: 'invalid_response' }],
     ['wrong blob bytes', valid, { blobPatch: { content: 'e30=' } }, { code: 'invalid_response' }],
     ['invalid JSON', '{', {}, { code: 'invalid_remote_monitoring' }],
-    ['JSON null', 'null', {}, { code: 'invalid_remote_monitoring' }],
+    ['JSON null', 'null', {}, { code: 'invalid_monitoring' }],
     ['invalid schema', '{}', {}, { code: 'invalid_monitoring' }],
+    ['invalid repository head SHA', invalidHead, {}, { code: 'invalid_monitoring', message: /head_sha/ }],
+    ['invalid link entry', invalidLink, {}, { code: 'invalid_monitoring', message: /links\[0\]/ }],
     ['missing starting SHA', valid, { contentsPatch: { sha: null } }, { code: 'invalid_response' }],
     ['non-file', valid, { contentsPatch: { type: 'symlink' } }, { code: 'remote_content_unavailable' }],
   ]) {
