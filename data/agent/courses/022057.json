@@ -771,7 +771,7 @@
         "academic_years": [],
         "exam_kind": "final",
         "exam_form": "original",
-        "has_solutions": null,
+        "has_solutions": true,
         "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
         "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：15春；文件：15SpEDAFinalPHJ.pdf；卷面/首页学期：2014—2015学年第二学期；文本层可读；抽读前3页（共8页），全文未逐页核验"
       },
@@ -790,9 +790,52 @@
             "bytes": 302259,
             "checked_at": "2026-11-19"
           }
+        },
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/aocfsw",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收（2015 期末解答）",
+          "page_kind": "page"
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "ustcguide-022057-2015-final-solutions",
+      "type": "exams",
+      "title": "电动力学 2015 期末解答（潘海俊）",
+      "authors": [
+        "潘海俊"
+      ],
+      "notes": "与已收 2015 期末卷同卷的解答。",
+      "coverage": {
+        "years": [
+          2015
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo",
+        "note": "资料簿「电动力学」页试卷与答案一栏，题名标 2015 期末解答；原卷已在书架，本条只补解答；完整文件 SHA-256 2c5f51c0e60b0480…，857,294 字节；短链落地带时效签名，不写直链。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/aocfsw",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收（2015 期末解答）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-23"
     },
     {
       "id": "mp-uexam-022057-2014-final-138326",
@@ -807,7 +850,7 @@
         "academic_years": [],
         "exam_kind": "final",
         "exam_form": "original",
-        "has_solutions": null,
+        "has_solutions": true,
         "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
         "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：14春；文件：14SpEDAFinalPHJ.pdf；卷面/首页学期：2013—2014学年第二学期；文本层可读；抽读前3页（共8页），全文未逐页核验"
       },
@@ -826,9 +869,52 @@
             "bytes": 354757,
             "checked_at": "2026-11-19"
           }
+        },
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/k0xibo",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收（2014 期末解答）",
+          "page_kind": "page"
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "ustcguide-022057-2014-final-solutions",
+      "type": "exams",
+      "title": "电动力学 2014 期末解答（潘海俊）",
+      "authors": [
+        "潘海俊"
+      ],
+      "notes": "与已收 2014 期末卷同卷的解答。",
+      "coverage": {
+        "years": [
+          2014
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo",
+        "note": "资料簿「电动力学」页试卷与答案一栏，题名标 2014 期末解答；原卷已在书架，本条只补解答；完整文件 SHA-256 4cccf4844d373b13…，762,457 字节；短链落地带时效签名，不写直链。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/k0xibo",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收（2014 期末解答）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-23"
     },
     {
       "id": "mp-uexam-022057-2024-final-4ce76d",
@@ -899,6 +985,39 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "ustcguide-022057-2022-quiz1",
+      "type": "homework",
+      "title": "电动力学 2022 春 第一次小测（潘海俊）",
+      "authors": [
+        "潘海俊"
+      ],
+      "notes": "小测，归作业。",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo",
+        "note": "资料簿「电动力学」页试卷与答案一栏，题名标 2022 春第一次小测；完整文件 SHA-256 460fc88eef5617a4…，148,430 字节；短链落地带时效签名，不写直链。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/kulfwy",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-23"
     },
     {
       "id": "intake-login-022057-528036b8be538871",
@@ -1179,6 +1298,7 @@
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
     "feixu-alist": "feixu 学习资料分享站（AList）",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）",
     "personal-uphi": "Uphi. 个人站",
     "icourse-club": "USTC 评课社区"
   }

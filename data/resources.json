@@ -34569,7 +34569,7 @@
       ],
       "exam_kind": "final",
       "exam_form": "original",
-      "has_solutions": null,
+      "has_solutions": true,
       "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
       "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：14春；文件：14SpEDAFinalPHJ.pdf；卷面/首页学期：2013—2014学年第二学期；文本层可读；抽读前3页（共8页），全文未逐页核验"
     },
@@ -34587,6 +34587,16 @@
           "bytes": 354757,
           "checked_at": "2026-11-19"
         }
+      },
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/k0xibo",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收（2014 期末解答）",
+        "page_kind": "page"
       }
     ],
     "verified_at": "2026-11-18"
@@ -34606,7 +34616,7 @@
       ],
       "exam_kind": "final",
       "exam_form": "original",
-      "has_solutions": null,
+      "has_solutions": true,
       "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
       "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：15春；文件：15SpEDAFinalPHJ.pdf；卷面/首页学期：2014—2015学年第二学期；文本层可读；抽读前3页（共8页），全文未逐页核验"
     },
@@ -34624,6 +34634,16 @@
           "bytes": 302259,
           "checked_at": "2026-11-19"
         }
+      },
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/aocfsw",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收（2015 期末解答）",
+        "page_kind": "page"
       }
     ],
     "verified_at": "2026-11-18"
@@ -48888,7 +48908,7 @@
       ],
       "exam_kind": "final",
       "exam_form": "unknown",
-      "has_solutions": null,
+      "has_solutions": true,
       "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
       "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2020年前；单元格：2016春 (A)；文件：16SpAtomAFinal.pdf；无文本层（扫描件）；抽读前3页（共6页），全文未逐页核验"
     },
@@ -48916,6 +48936,16 @@
         "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
         "attribution": "share.feixu.site 公开分享目录",
         "page_kind": "file"
+      },
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/l43e1",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收（排版含答案版）",
+        "page_kind": "page"
       }
     ],
     "verified_at": "2026-11-18"
@@ -100063,6 +100093,404 @@
         "license_note": "仅链接资料原站；版权归原作者。",
         "attribution": "钟志诚（主讲）；曾有成、史睿铭、胡泷（整理）",
         "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1003a-past-exams",
+    "course_codes": [
+      "PHYS1003A"
+    ],
+    "type": "exams",
+    "title": "光学A：往年考试题合集",
+    "authors": [],
+    "notes": "多套光学考试题合集，未逐卷拆分。",
+    "coverage": {
+      "years": [],
+      "exam_kind": "mixed",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/guang-xue",
+      "note": "资料簿「光学」页试卷与答案一栏；完整文件 SHA-256 50c18bdf2a56151b…，55,731,650 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/sj6yep",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1003a-chb-sample",
+    "course_codes": [
+      "PHYS1003A"
+    ],
+    "type": "exams",
+    "title": "光学A：chb 老师样题（2021）",
+    "authors": [],
+    "notes": "样题，非期末原卷；与 2021 秋原卷字节不同。",
+    "coverage": {
+      "years": [
+        2021
+      ],
+      "exam_kind": "final",
+      "exam_form": "practice",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/guang-xue",
+      "note": "资料簿「光学」页试卷与答案一栏，题名标 2021 样题；完整文件 SHA-256 abc8592bfb0bc56b…，8,636,885 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/czwlfh",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1005a-old-set",
+    "course_codes": [
+      "PHYS1005A"
+    ],
+    "type": "exams",
+    "title": "原子物理：上古密卷合集",
+    "authors": [],
+    "notes": "无年代标注的老卷合集。",
+    "coverage": {
+      "years": [],
+      "exam_kind": "unknown",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/yuan-zi-wu-li",
+      "note": "资料簿「原子物理」页试卷与答案一栏；卷面「原子物理学 共 3 页」，无年份；完整文件 SHA-256 9f4c98b8e86eb6eb…，14,122,987 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/eqe390",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-022057-2014-final-solutions",
+    "course_codes": [
+      "022057"
+    ],
+    "type": "exams",
+    "title": "电动力学 2014 期末解答（潘海俊）",
+    "authors": [
+      "潘海俊"
+    ],
+    "notes": "与已收 2014 期末卷同卷的解答。",
+    "coverage": {
+      "years": [
+        2014
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": true,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo",
+      "note": "资料簿「电动力学」页试卷与答案一栏，题名标 2014 期末解答；原卷已在书架，本条只补解答；完整文件 SHA-256 4cccf4844d373b13…，762,457 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/k0xibo",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收（2014 期末解答）",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-022057-2015-final-solutions",
+    "course_codes": [
+      "022057"
+    ],
+    "type": "exams",
+    "title": "电动力学 2015 期末解答（潘海俊）",
+    "authors": [
+      "潘海俊"
+    ],
+    "notes": "与已收 2015 期末卷同卷的解答。",
+    "coverage": {
+      "years": [
+        2015
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": true,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo",
+      "note": "资料簿「电动力学」页试卷与答案一栏，题名标 2015 期末解答；原卷已在书架，本条只补解答；完整文件 SHA-256 2c5f51c0e60b0480…，857,294 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/aocfsw",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收（2015 期末解答）",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-022057-2022-quiz1",
+    "course_codes": [
+      "022057"
+    ],
+    "type": "homework",
+    "title": "电动力学 2022 春 第一次小测（潘海俊）",
+    "authors": [
+      "潘海俊"
+    ],
+    "notes": "小测，归作业。",
+    "coverage": {
+      "years": [
+        2022
+      ],
+      "exam_kind": "quiz",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo",
+      "note": "资料簿「电动力学」页试卷与答案一栏，题名标 2022 春第一次小测；完整文件 SHA-256 460fc88eef5617a4…，148,430 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/kulfwy",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1002a-old-set",
+    "course_codes": [
+      "PHYS1002A"
+    ],
+    "type": "exams",
+    "title": "热学A：早年真题合集",
+    "authors": [],
+    "notes": "50 页老卷合集，无统一年份。",
+    "coverage": {
+      "years": [],
+      "exam_kind": "mixed",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/re-xue",
+      "note": "资料簿「热学」页试卷与答案一栏，题名标「远古真题」；完整文件 SHA-256 c0d5a4fad87de60a…，14,947,225 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/m0klme",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1001a-old-set",
+    "course_codes": [
+      "PHYS1001A"
+    ],
+    "type": "exams",
+    "title": "力学A：上古密卷合集",
+    "authors": [],
+    "notes": "36 页老卷合集，无统一年份。",
+    "coverage": {
+      "years": [],
+      "exam_kind": "mixed",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/da-yi-bi-kan/li-xue",
+      "note": "资料簿「力学」页试卷与答案一栏，题名标「上古密卷」；完整文件 SHA-256 fec5ffcf4c98a4e2…，19,365,293 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/bp2ybz",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-022392-2018-midterm",
+    "course_codes": [
+      "022392"
+    ],
+    "type": "exams",
+    "title": "理论力学A 2018 秋期中（潘海俊，含答案）",
+    "authors": [
+      "潘海俊"
+    ],
+    "notes": "与 2018 秋期末同班；短链页标注解压密码，属原分享者设置。",
+    "coverage": {
+      "years": [
+        2018
+      ],
+      "exam_kind": "midterm",
+      "exam_form": "original",
+      "has_solutions": true,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue",
+      "note": "资料簿「理论力学」页试卷与答案一栏，题名标 18–19 期中与答案；完整文件 SHA-256 e0de21d4dadc4613…，439,775 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/pwnqyu",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-022392-2021-final-solutions",
+    "course_codes": [
+      "022392"
+    ],
+    "type": "exams",
+    "title": "理论力学A 2021 秋期末参考答案（朱界杰）",
+    "authors": [
+      "朱界杰"
+    ],
+    "notes": "参考答案，同班期末卷另有条目。",
+    "coverage": {
+      "years": [
+        2021
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": true,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue",
+      "note": "资料簿「理论力学」页试卷与答案一栏，题名标 21 期末参考答案；完整文件 SHA-256 3aef92a74fed6b88…，246,765 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/ltmkyn",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-002001-2021-final",
+    "course_codes": [
+      "002001"
+    ],
+    "type": "exams",
+    "title": "固体物理A 2021 春期末",
+    "authors": [],
+    "notes": "卷面只写「固体物理」，按同系列 2019 卷挂 002001 的先例归属；与 ustcphyexam 同名卷字节不同。",
+    "coverage": {
+      "years": [
+        2021
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/gu-ti-wu-li-todo",
+      "note": "资料簿「固体物理」页试卷与答案一栏；卷面为 2020–2021 学年第二学期，无 A/B 标记；完整文件 SHA-256 92de66a88d29bbdd…，3,365,942 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/vhiu4j",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-002001-2022-final",
+    "course_codes": [
+      "002001"
+    ],
+    "type": "exams",
+    "title": "固体物理A 2022 春期末",
+    "authors": [],
+    "notes": "卷面只写「固体物理」，按同系列 2019 卷挂 002001 的先例归属；与 ustcphyexam 同名卷字节不同。",
+    "coverage": {
+      "years": [
+        2022
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/gu-ti-wu-li-todo",
+      "note": "资料簿「固体物理」页试卷与答案一栏；卷面为 2021–2022 学年第二学期，无 A/B 标记；完整文件 SHA-256 0387ee92c8f95b5a…，370,168 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/3eqvny",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
       }
     ],
     "verified_at": "2026-11-23"

@@ -288,6 +288,35 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "ustcguide-phys1002a-old-set",
+      "type": "exams",
+      "title": "热学A：早年真题合集",
+      "authors": [],
+      "notes": "50 页老卷合集，无统一年份。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/re-xue",
+        "note": "资料簿「热学」页试卷与答案一栏，题名标「远古真题」；完整文件 SHA-256 c0d5a4fad87de60a…，14,947,225 字节；短链落地带时效签名，不写直链。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/m0klme",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "mp-feixu-phys1002a-homework-98c5a621",
       "type": "homework",
       "title": "2023 春热学参考题（wxf 班）",
@@ -612,6 +641,7 @@
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
     "icourse-club": "USTC 评课社区",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）"
   }

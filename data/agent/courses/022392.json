@@ -776,6 +776,39 @@
       "verified_at": "2026-11-20"
     },
     {
+      "id": "ustcguide-022392-2021-final-solutions",
+      "type": "exams",
+      "title": "理论力学A 2021 秋期末参考答案（朱界杰）",
+      "authors": [
+        "朱界杰"
+      ],
+      "notes": "参考答案，同班期末卷另有条目。",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue",
+        "note": "资料簿「理论力学」页试卷与答案一栏，题名标 21 期末参考答案；完整文件 SHA-256 3aef92a74fed6b88…，246,765 字节；短链落地带时效签名，不写直链。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/ltmkyn",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "mp-uexam-022392-2020-final-04cf91",
       "type": "exams",
       "title": "理论力学 2020 期末",
@@ -1148,6 +1181,39 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "ustcguide-022392-2018-midterm",
+      "type": "exams",
+      "title": "理论力学A 2018 秋期中（潘海俊，含答案）",
+      "authors": [
+        "潘海俊"
+      ],
+      "notes": "与 2018 秋期末同班；短链页标注解压密码，属原分享者设置。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue",
+        "note": "资料簿「理论力学」页试卷与答案一栏，题名标 18–19 期中与答案；完整文件 SHA-256 e0de21d4dadc4613…，439,775 字节；短链落地带时效签名，不写直链。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/pwnqyu",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-23"
     },
     {
       "id": "mp-feixu-022392-exams-1b87fc49",
@@ -2074,6 +2140,7 @@
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
     "feixu-alist": "feixu 学习资料分享站（AList）",
-    "icourse-club": "USTC 评课社区"
+    "icourse-club": "USTC 评课社区",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）"
   }
 }

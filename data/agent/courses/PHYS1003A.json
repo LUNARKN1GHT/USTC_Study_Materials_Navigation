@@ -170,6 +170,66 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "ustcguide-phys1003a-chb-sample",
+      "type": "exams",
+      "title": "光学A：chb 老师样题（2021）",
+      "authors": [],
+      "notes": "样题，非期末原卷；与 2021 秋原卷字节不同。",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "practice",
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/guang-xue",
+        "note": "资料簿「光学」页试卷与答案一栏，题名标 2021 样题；完整文件 SHA-256 abc8592bfb0bc56b…，8,636,885 字节；短链落地带时效签名，不写直链。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/czwlfh",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
+      "id": "ustcguide-phys1003a-past-exams",
+      "type": "exams",
+      "title": "光学A：往年考试题合集",
+      "authors": [],
+      "notes": "多套光学考试题合集，未逐卷拆分。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/guang-xue",
+        "note": "资料簿「光学」页试卷与答案一栏；完整文件 SHA-256 50c18bdf2a56151b…，55,731,650 字节；短链落地带时效签名，不写直链。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/sj6yep",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "mp-feixu-phys1003a-exams-d8c90c",
       "type": "exams",
       "title": "光学A2021-2022学年第一学期期末考试试卷及答案",
@@ -611,6 +671,7 @@
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
     "icourse-club": "USTC 评课社区",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）",
     "home-ustc-shiyaowei-optics": "光学A 助教习题课讲义（home.ustc.edu.cn）"

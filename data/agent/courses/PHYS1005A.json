@@ -252,7 +252,7 @@
         "academic_years": [],
         "exam_kind": "final",
         "exam_form": "unknown",
-        "has_solutions": null,
+        "has_solutions": true,
         "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
         "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2020年前；单元格：2016春 (A)；文件：16SpAtomAFinal.pdf；无文本层（扫描件）；抽读前3页（共6页），全文未逐页核验"
       },
@@ -281,9 +281,48 @@
           "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
           "attribution": "share.feixu.site 公开分享目录",
           "page_kind": "file"
+        },
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/l43e1",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收（排版含答案版）",
+          "page_kind": "page"
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "ustcguide-phys1005a-old-set",
+      "type": "exams",
+      "title": "原子物理：上古密卷合集",
+      "authors": [],
+      "notes": "无年代标注的老卷合集。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/yuan-zi-wu-li",
+        "note": "资料簿「原子物理」页试卷与答案一栏；卷面「原子物理学 共 3 页」，无年份；完整文件 SHA-256 9f4c98b8e86eb6eb…，14,122,987 字节；短链落地带时效签名，不写直链。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/eqe390",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-23"
     },
     {
       "id": "intake-login-PHYS1005A-e1062d5e0806fb6f",

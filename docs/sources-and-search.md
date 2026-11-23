@@ -5,12 +5,12 @@
 ## 概览
 
 - 课程：1184 门（已收录资料 405 门，暂未收录 779 门）。
-- 资料：2707 条（按资料类型与试题年份的覆盖见下一节）。
+- 资料：2719 条（按资料类型与试题年份的覆盖见下一节）。
 - 来源：177 个登记来源，其中 167 个被正式资料引用。
-- 检索记录：6705 条，覆盖 1184 门课程。
+- 检索记录：6717 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
-- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 3083 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
-- 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1341。
+- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 3096 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1354。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 
 ## 课程 × 资料类型 × 试题年份覆盖
@@ -385,6 +385,8 @@
 
 - **试题与解析**
   - 2026 年（期末、回忆版、解答情况不明）：固体物理 2026 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/26SpSSPAFinalZJ.pdf
+  - 2022 年（期末、原题、解答情况不明）：固体物理A 2022 春期末 —— USTC 课程资料簿（GitBook） https://easylink.cc/3eqvny
+  - 2021 年（期末、原题、解答情况不明）：固体物理A 2021 春期末 —— USTC 课程资料簿（GitBook） https://easylink.cc/vhiu4j
   - 2019 年（期末、原题、解答情况不明）：固体物理A 2019期末考试 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86A%202019%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
 - **学习资料**
   - 固体物理 课程讲义（教师主页） —— 固体物理课程讲义（教师主页）；核验于 2026-11-19 http://staff.ustc.edu.cn/~gzwang/
@@ -1891,11 +1893,14 @@
   - 2019 年（期末、形式不明、解答情况不明）：电动力学 2019 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/19SpEDAFinalWSJ.pdf
   - 2017 年（期末、原题、含解答）：2017期末考试 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/2017%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
   - 2016 年（期末、原题、含解答）：2016期末考试 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/2016%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
-  - 2015 年（期末、原题、解答情况不明）：电动力学 2015 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/15SpEDAFinalPHJ.pdf
-  - 2014 年（期末、原题、解答情况不明）：电动力学 2014 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/14SpEDAFinalPHJ.pdf
+  - 2015 年（期末、原题、含解答）：电动力学 2015 期末 —— USTC 物理课程往年试卷、USTC 课程资料簿（GitBook） https://ustcphyexam.github.io/USTC/15SpEDAFinalPHJ.pdf
+  - 2015 年（期末、原题、含解答）：电动力学 2015 期末解答（潘海俊） —— USTC 课程资料簿（GitBook） https://easylink.cc/aocfsw
+  - 2014 年（期末、原题、含解答）：电动力学 2014 期末 —— USTC 物理课程往年试卷、USTC 课程资料簿（GitBook） https://ustcphyexam.github.io/USTC/14SpEDAFinalPHJ.pdf
+  - 2014 年（期末、原题、含解答）：电动力学 2014 期末解答（潘海俊） —— USTC 课程资料簿（GitBook） https://easylink.cc/k0xibo
   - 年份待确认（期末、原题、解答情况不明）：电动力学 2024 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/24FaEDAFinal.pdf
 - **作业、习题与小测**
   - 《电动力学》（第四版，郭硕鸿）习题参考解答（Uphi. 修订版） —— Uphi. 个人站；核验于 2026-11-19 https://hongfeiy.com/assets/pdf/gsh_answer.pdf（文件页）
+  - 2022 年（小测、原题、解答情况不明）：电动力学 2022 春 第一次小测（潘海俊） —— USTC 课程资料簿（GitBook） https://easylink.cc/kulfwy
   - 电动力学：作业与习题（18 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23458/#review-72448
 - **学习资料**
   - 电动力学 A4 公式速查整理(大抄) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/4762/#review-48684
@@ -2130,6 +2135,7 @@
   - 2021 年（期中期末混合、形式不明、解答情况不明）：理论力学 2021 秋期中、期末考试（潘海俊） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62021%E7%A7%8B%E6%BD%98%E6%B5%B7%E4%BF%8A%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%26%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
   - 2021 年（期中、形式不明、解答情况不明）：理论力学A 2021 期中考试参考答案 —— USTC 评课社区 https://icourse.club/course/19015/#review-42365
   - 2021 年（期中、形式不明、解答情况不明）：理论力学A 2021 期中试题(11月卷) —— USTC 评课社区 https://icourse.club/course/20689/#review-44348
+  - 2021 年（期末、原题、含解答）：理论力学A 2021 秋期末参考答案（朱界杰） —— USTC 课程资料簿（GitBook） https://easylink.cc/ltmkyn
   - 2020 年（期末、模拟练习、解答情况不明）：理论力学 2020 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/SampleTMAFinalZJJ.pdf
   - 2020 年（期末、原题、解答情况不明）：理论力学 2020 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/20FaTMAFinalYYF.pdf
   - 2020 年（期中、模拟练习、解答情况不明）：理论力学 2020 期中 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/SampleTMAMidZJJ.pdf
@@ -2139,6 +2145,7 @@
   - 2019 年（期中、形式不明、解答情况不明）：理论力学 2019 期中 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/19FaTMAMidZJJ.pdf
   - 2019 年（期末、形式不明、含解答）：理论力学 2019 秋期末考试（袁业飞） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62019%E7%A7%8B%E8%A2%81%E4%B8%9A%E9%A3%9E%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2018 年（期末、原题、解答情况不明）：理论力学 2018 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/18FaTMAFinalPHJ.pdf
+  - 2018 年（期中、原题、含解答）：理论力学A 2018 秋期中（潘海俊，含答案） —— USTC 课程资料簿（GitBook） https://easylink.cc/pwnqyu
   - 2016 年（期末、形式不明、含解答）：理论力学 2016 秋期末考试及参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62016%E7%A7%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 年份待确认（类型不明、原题、无解答）：理论力学A 2019—2020学年第一学期考试试卷(A卷,原卷) —— USTC 评课社区 https://icourse.club/course/4526/#review-40430
   - 年份待确认（类型不明、形式不明、解答情况不明）：理论力学A 考卷照片（2022 秋） —— USTC 评课社区 https://icourse.club/uploads/images/82706a20a51ba3a16006b4affefcd8b0e0066c53.jpg
@@ -4983,6 +4990,7 @@
   - 2016 年、2017 年、2018 年、2020 年（期中期末混合、形式不明、解答情况不明）：力学A：试题与解析（7 个附件） —— USTC 评课社区 https://icourse.club/course/19589/#review-43609
   - 2024—2025 学年（期末、形式不明、解答情况不明）：2024-2025秋季学期 力学A(AH AL)期末参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2024-2025%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%20%E5%8A%9B%E5%AD%A6A%28AH%20AL%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 年份待确认（类型不明、形式不明、解答情况不明）：力学历年考题 —— USTC 评课社区 https://icourse.club/course/19967/#review-27995
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：力学A：上古密卷合集 —— USTC 课程资料簿（GitBook） https://easylink.cc/bp2ybz
 - **学习资料**
   - 力学A 复习大抄(手写公式与例题整理,2 页) —— USTC 评课社区；核验于 2026-11-20 https://icourse.club/course/19588/#review-90767
   - 力学A 结构化题库、配图与知识点树（253 题 + 91 图，机读 JSONL/SQLite，需工具或脚本阅读） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-21 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1001A（资料目录）
@@ -5048,6 +5056,7 @@
   - 2021 年（期中、原题、解答情况不明）：热学(A) 2021 期中试题 —— USTC 评课社区 https://icourse.club/course/20187/#review-36580
   - 2017 年（类型不明、形式不明、解答情况不明）：2017年热学公共题部分 —— USTC 评课社区 https://icourse.club/course/20182/#review-86729
   - 年份待确认（期末、形式不明、解答情况不明）：热学A：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/20182/#review-33854
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：热学A：早年真题合集 —— USTC 课程资料簿（GitBook） https://easylink.cc/m0klme
 - **作业、习题与小测**
   - 2023 春热学参考题（wxf 班） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/2023%E6%98%A5wxf%E7%8F%AD%E7%83%AD%E5%AD%A6%E5%8F%82%E8%80%83%E9%A2%98.docx（文件页）
   - 大学物理热学习题库试题与答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20187/#review-36580
@@ -5088,6 +5097,8 @@
   - 2024 年（期末、原题、解答情况不明）：光学 2024 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/24FaOpticsAfinal.pdf
   - 2023 年（期末、原题、解答情况不明）：光学 2023 期末 —— USTC 物理课程往年试卷、USTC 评课社区 https://ustcphyexam.github.io/USTC/23FaOpticsAfinal.pdf
   - 2022 年（期末、形式不明、解答情况不明）：光学 2022 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/22FaOpticsAfinal.pdf
+  - 2021 年（期末、模拟练习、解答情况不明）：光学A：chb 老师样题（2021） —— USTC 课程资料簿（GitBook） https://easylink.cc/czwlfh
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：光学A：往年考试题合集 —— USTC 课程资料簿（GitBook） https://easylink.cc/sj6yep
   - 2021—2022 学年（期末、原题、含解答）：光学A2021-2022学年第一学期期末考试试卷及答案 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2021-2022%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2022—2023 学年（期末、形式不明、解答情况不明）：光学A2022-2023学年第一学期期末考试试卷及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2022-2023%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2023—2024 学年（期末、原题、解答情况不明）：光学A2023-2024学年第一学期期末考试试卷及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
@@ -5213,7 +5224,8 @@
   - 2025 年（类型不明、形式不明、解答情况不明）：原子物理 2025 秋小测答案 —— USTC 评课社区 https://icourse.club/course/24423/#review-99248
   - 2022 年（期末、形式不明、解答情况不明）：原子物理 2022 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/22SpAtomAFinal.pdf
   - 2018 年（期末、形式不明、解答情况不明）：原子物理 2018 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/18SpAtomAFinal.pdf
-  - 2016 年（期末、形式不明、解答情况不明）：原子物理 2016 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/16SpAtomAFinal.pdf
+  - 2016 年（期末、形式不明、含解答）：原子物理 2016 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList）、USTC 课程资料簿（GitBook） https://ustcphyexam.github.io/USTC/16SpAtomAFinal.pdf
+  - 年份待确认（类型不明、形式不明、解答情况不明）：原子物理：上古密卷合集 —— USTC 课程资料簿（GitBook） https://easylink.cc/eqe390
   - 年份待确认（类型不明、形式不明、解答情况不明）：原子物理A：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/21408/#review-48342
   - 年份待确认（类型不明、形式不明、解答情况不明）：原子物理A：试题与解析（7 个附件） —— USTC 评课社区 https://icourse.club/course/21408/#review-84825
 - **学习资料**
@@ -5931,7 +5943,7 @@
 - 地址：<https://ustcguide.gitbook.io/coursedata/>
 - 维护者：USTCGUIDE（施耀炜等贡献者）
 - 说明：课程经验索引（GitBook）；正文页面未取得，仅作原页导航，不含电子书/教材下载。关联仓库 USTCGUIDE/USTCGUIDE 的 Coursedata 分支（见 ustcguide-repository），本站页面本身无 GitHub 身份。 按课程组织的资料索引，条目多为 easylink.cc 短链跳转云盘；序言署名施耀炜（21级少年班），贡献者与致谢见 https://ustcguide.gitbook.io/coursedata/start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md ；序言声明含电子书扫描版（教材下载不收录）。 公开课程经验/资料索引，序署施耀炜（21级少年班）；无再分发许可，只做原页导航；本轮检查llms.txt目录与相关课程页。 课程资料索引；序署名施耀炜（21级少年班），贡献者名单见 https://ustcguide.gitbook.io/coursedata/start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md 。序说明含电子版教材扫描，按本站方案不收录教材下载。 序署名施耀炜（21级少年班）及公开贡献者；资料簿 llms.txt 无本切片课程专页；无再分发许可，仅原页导航。
-- 被正式资料引用：10 处
+- 被正式资料引用：25 处
 
 ### USTCGUIDE/UstcCourseData.github.io
 
@@ -11103,6 +11115,18 @@
 
 ### 002001 固体物理A
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/gu-ti-wu-li-todo>
+  - 查询：固体物理A 2021 春期末
+  - 检查范围：资料簿「固体物理」页试卷与答案一栏；卷面为 2020–2021 学年第二学期，无 A/B 标记；完整文件 SHA-256 92de66a88d29bbdd…，3,365,942 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：002001
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/gu-ti-wu-li-todo>
+  - 查询：固体物理A 2022 春期末
+  - 检查范围：资料簿「固体物理」页试卷与答案一栏；卷面为 2021–2022 学年第二学期，无 A/B 标记；完整文件 SHA-256 0387ee92c8f95b5a…，370,168 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：002001
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1392/#review-103144>
   - 查询：固体物理期末总复习指南
   - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
@@ -20713,6 +20737,24 @@
 
 ### 022057 电动力学
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo>
+  - 查询：电动力学 2014 期末解答（潘海俊）
+  - 检查范围：资料簿「电动力学」页试卷与答案一栏，题名标 2014 期末解答；原卷已在书架，本条只补解答；完整文件 SHA-256 4cccf4844d373b13…，762,457 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：022057
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo>
+  - 查询：电动力学 2015 期末解答（潘海俊）
+  - 检查范围：资料簿「电动力学」页试卷与答案一栏，题名标 2015 期末解答；原卷已在书架，本条只补解答；完整文件 SHA-256 2c5f51c0e60b0480…，857,294 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：022057
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo>
+  - 查询：电动力学 2022 春 第一次小测（潘海俊）
+  - 检查范围：资料簿「电动力学」页试卷与答案一栏，题名标 2022 春第一次小测；完整文件 SHA-256 460fc88eef5617a4…，148,430 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：022057
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/4762/#review-48684>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -21602,6 +21644,18 @@
 
 ### 022392 理论力学A
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue>
+  - 查询：理论力学A 2018 秋期中（潘海俊，含答案）
+  - 检查范围：资料簿「理论力学」页试卷与答案一栏，题名标 18–19 期中与答案；完整文件 SHA-256 e0de21d4dadc4613…，439,775 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：022392
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue>
+  - 查询：理论力学A 2021 秋期末参考答案（朱界杰）
+  - 检查范围：资料簿「理论力学」页试卷与答案一栏，题名标 21 期末参考答案；完整文件 SHA-256 3aef92a74fed6b88…，246,765 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：022392
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/4524/#review-71585>
   - 查询：评课原帖附件正文取样及课程归属复核
   - 检查范围：匿名核对原帖锚点与可见附件名；核对附件完整 SHA-256 与字节数。
@@ -46158,6 +46212,12 @@
   - 说明：仅登记稳定公开入口，不保存临时签名。
   - 来源 ID：ustcguide-gitbook
   - 课程代码：PHYS1001A
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/da-yi-bi-kan/li-xue>
+  - 查询：力学A：上古密卷合集
+  - 检查范围：资料簿「力学」页试卷与答案一栏，题名标「上古密卷」；完整文件 SHA-256 fec5ffcf4c98a4e2…，19,365,293 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1001A
 - 2026-11-22 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.1>
   - 查询：DDNdles/USTC-Question-Bank v0.4.1 35 张配图截断与残字修复复检
   - 检查范围：courses/{PHYS1001A,PHYS1002A,PHYS1004A,210070}/{meta.json,questions.jsonl,assets/*}, manifest.json (v0.4.1)
@@ -46400,6 +46460,12 @@
 
 ### PHYS1002A 热学A
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/re-xue>
+  - 查询：热学A：早年真题合集
+  - 检查范围：资料簿「热学」页试卷与答案一栏，题名标「远古真题」；完整文件 SHA-256 c0d5a4fad87de60a…，14,947,225 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1002A
 - 2026-11-22 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.0>
   - 查询：DDNdles/USTC-Question-Bank v0.4.0 PHYS1002A, PHYS1004A & 210070
   - 检查范围：courses/{PHYS1002A,PHYS1004A,210070}/{meta.json,taxonomy.json,questions.jsonl}, courses/*/assets/*, manifest.json (v0.4.0), NOTICE.md
@@ -46584,6 +46650,18 @@
 
 ### PHYS1003A 光学A
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/guang-xue>
+  - 查询：光学A：chb 老师样题（2021）
+  - 检查范围：资料簿「光学」页试卷与答案一栏，题名标 2021 样题；完整文件 SHA-256 abc8592bfb0bc56b…，8,636,885 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1003A
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/guang-xue>
+  - 查询：光学A：往年考试题合集
+  - 检查范围：资料簿「光学」页试卷与答案一栏；完整文件 SHA-256 50c18bdf2a56151b…，55,731,650 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1003A
 - 2026-11-22 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0>
   - 查询：DDNdles/USTC-Question-Bank v0.6.0 PHYS1003A 光学A & 210050 数字逻辑电路
   - 检查范围：courses/{PHYS1003A,210050}/{meta.json,taxonomy.json,questions.jsonl,assets/*}, manifest.json (v0.6.0), NOTICE.md
@@ -47067,6 +47145,12 @@
   - 查询：原子物理A：知识归纳与课程拾遗（2022 春）
   - 检查范围：两份材料的前言均署 2022 春原子物理 A 课程助教，并注明班号；分别为知识归纳和形式理论、微扰论补充讲义。
   - 说明：仅登记稳定公开入口，不保存临时签名。
+  - 来源 ID：ustcguide-gitbook
+  - 课程代码：PHYS1005A
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/yuan-zi-wu-li>
+  - 查询：原子物理：上古密卷合集
+  - 检查范围：资料簿「原子物理」页试卷与答案一栏；卷面「原子物理学 共 3 页」，无年份；完整文件 SHA-256 9f4c98b8e86eb6eb…，14,122,987 字节；短链落地带时效签名，不写直链。
+  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
   - 来源 ID：ustcguide-gitbook
   - 课程代码：PHYS1005A
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/21411/#review-49429>
@@ -50514,8 +50598,8 @@
 ## 外链健康检查
 
 - 最近一次检查：2026-11-18T12:43:53.013Z
-- 统计范围：统计分母是站点引用的 3083 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
-- 结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1341。
+- 统计范围：统计分母是站点引用的 3096 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1354。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 - 判定口径：只有确认的 404/410 计为“无法找到”。需登录/认证说明服务器有响应但要求身份验证；目录列表页、软错误页、超时与预检拦截都不证明文件可下载或不存在。重定向中前一跳已收到响应、最终目标被预检拦截的条目归入预检中止，但仍计入“实际收到过 HTTP 响应”的条目。
 - 匿名检查只代表当次网络访问结果，不代表资料内容、课程归属、年份或授权已确认；失败不会自动删除资料或改变“是否收录”的分区。
