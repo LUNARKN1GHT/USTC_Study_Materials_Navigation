@@ -472,10 +472,11 @@ export async function runMonitor(options = {}) {
       { ref: branch },
     );
     if (remoteFile) {
+      const needsBlob = remoteFile.type === 'file' && remoteFile.encoding === 'none';
+      const blob = needsBlob ? await client.getBlob(target.owner, target.repo, remoteFile.sha) : null;
       if (
-        Array.isArray(remoteFile) ||
-        typeof remoteFile.content !== 'string' ||
-        remoteFile.encoding !== 'base64'
+        !needsBlob && (Array.isArray(remoteFile) ||
+          typeof remoteFile.content !== 'string' || remoteFile.encoding !== 'base64')
       ) {
         throw new MonitorError(
           '无法读取远程 monitoring.json 内容，为避免覆盖并发编辑已停止发布',
@@ -484,9 +485,10 @@ export async function runMonitor(options = {}) {
       }
       let remoteMonitoring;
       try {
-        remoteMonitoring = JSON.parse(
-          Buffer.from(remoteFile.content, 'base64').toString('utf8'),
-        );
+        remoteMonitoring = JSON.parse(needsBlob
+          ? new TextDecoder('utf-8', { fatal: true }).decode(blob)
+          : Buffer.from(remoteFile.content, 'base64').toString('utf8'));
+        if (needsBlob && remoteMonitoring === null) throw new TypeError('Expected a monitoring object');
       } catch (error) {
         throw new MonitorError(
           '远程 monitoring.json 不是有效 JSON，为避免覆盖并发编辑已停止发布',
