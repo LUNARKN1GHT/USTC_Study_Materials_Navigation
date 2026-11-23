@@ -100503,7 +100503,7 @@
     "type": "exams",
     "title": "图论 2020 期末",
     "authors": [],
-    "notes": "试卷合集站收录的 图论 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 图论 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2020
@@ -100512,7 +100512,7 @@
       "exam_form": "original",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/AMCM/",
-      "note": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期末考试；行年份：2015；文件：2020GTfinal.pdf；完整文件 SHA-256 ae15b480568dd3b1…，59952 字节；卷面年份为 2020，按卷面登记"
+      "note": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期末考试；行年份：2015；文件：2020GTfinal.pdf；完整文件 SHA-256 ae15b480568dd3b1…，59952 字节；最终年份取 2020（目录页链接标签 2020；卷面 2020 秋）"
     },
     "locations": [
       {
@@ -100540,7 +100540,7 @@
     "type": "exams",
     "title": "图论 2023 期中",
     "authors": [],
-    "notes": "试卷合集站收录的 图论 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 图论 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2023
@@ -100577,7 +100577,7 @@
     "type": "exams",
     "title": "图论 2023 期末",
     "authors": [],
-    "notes": "试卷合集站收录的 图论 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 图论 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2023
@@ -100614,7 +100614,7 @@
     "type": "exams",
     "title": "实用随机过程 2011 期中",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2011
@@ -100651,7 +100651,7 @@
     "type": "exams",
     "title": "实用随机过程 2015 期中",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2015
@@ -100660,7 +100660,7 @@
       "exam_form": "original",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2013；文件：2015Fstochmid.pdf；完整文件 SHA-256 1e6bf2dcf6683328…，2250084 字节；卷面年份为 2015，按卷面登记"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2013；文件：2015Fstochmid.pdf；完整文件 SHA-256 1e6bf2dcf6683328…，2250084 字节；最终年份取 2015（按链接标签或卷面）"
     },
     "locations": [
       {
@@ -100681,23 +100681,23 @@
     "verified_at": "2026-11-23"
   },
   {
-    "id": "mp-uexam-017129-2013-midterm-2019fstoch",
+    "id": "mp-uexam-017129-2019-midterm-2019fstoch",
     "course_codes": [
       "017129"
     ],
     "type": "exams",
-    "title": "实用随机过程 2013 期中",
+    "title": "实用随机过程 2019 期中",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
-        2013
+        2019
       ],
       "exam_kind": "midterm",
       "exam_form": "original",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2013；文件：2019Fstoch.pdf；完整文件 SHA-256 9f6ebf8737f2c5d4…，1471042 字节"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2013；文件：2019Fstoch.pdf；完整文件 SHA-256 9f6ebf8737f2c5d4…，1471042 字节；最终年份取 2019（按链接标签或卷面）"
     },
     "locations": [
       {
@@ -100718,23 +100718,23 @@
     "verified_at": "2026-11-23"
   },
   {
-    "id": "mp-uexam-017129-2013-midterm-2020fstochmid",
+    "id": "mp-uexam-017129-2020-midterm-2020fstochmid",
     "course_codes": [
       "017129"
     ],
     "type": "exams",
-    "title": "实用随机过程 2013 期中",
+    "title": "实用随机过程 2020 期中",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
-        2013
+        2020
       ],
       "exam_kind": "midterm",
       "exam_form": "original",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2013；文件：2020Fstochmid.pdf；完整文件 SHA-256 fd6334b033f28919…，148744 字节"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2013；文件：2020Fstochmid.pdf；完整文件 SHA-256 fd6334b033f28919…，148744 字节；最终年份取 2020（按链接标签或卷面）"
     },
     "locations": [
       {
@@ -100755,23 +100755,23 @@
     "verified_at": "2026-11-23"
   },
   {
-    "id": "mp-uexam-017129-2013-final-2020fstochfinal",
+    "id": "mp-uexam-017129-2020-final-2020fstochfinal",
     "course_codes": [
       "017129"
     ],
     "type": "exams",
-    "title": "实用随机过程 2013 期末",
+    "title": "实用随机过程 2020 期末",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
-        2013
+        2020
       ],
       "exam_kind": "final",
       "exam_form": "original",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2013；文件：2020Fstochfinal.pdf；完整文件 SHA-256 85b7307f57a34324…，556338 字节；扫描件无文字层，未核卷面年份"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2013；文件：2020Fstochfinal.pdf；完整文件 SHA-256 85b7307f57a34324…，556338 字节；最终年份取 2020（按链接标签或卷面）"
     },
     "locations": [
       {
@@ -100792,23 +100792,23 @@
     "verified_at": "2026-11-23"
   },
   {
-    "id": "mp-uexam-017129-2019-midterm-2021sstochmid",
+    "id": "mp-uexam-017129-2021-midterm-2021sstochmid",
     "course_codes": [
       "017129"
     ],
     "type": "exams",
-    "title": "实用随机过程 2019 期中",
+    "title": "实用随机过程 2021 期中",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
-        2019
+        2021
       ],
       "exam_kind": "midterm",
       "exam_form": "original",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2021；文件：2021Sstochmid.pdf；完整文件 SHA-256 613ed37fd42dafd5…，340311 字节；卷面年份为 2019，按卷面登记"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2021；文件：2021Sstochmid.pdf；完整文件 SHA-256 613ed37fd42dafd5…，340311 字节"
     },
     "locations": [
       {
@@ -100836,7 +100836,7 @@
     "type": "exams",
     "title": "实用随机过程 2021 期末",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2021
@@ -100845,7 +100845,7 @@
       "exam_form": "original",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2021；文件：2021SPfinal.pdf；完整文件 SHA-256 9a396515c48b4948…，1077033 字节；扫描件无文字层，未核卷面年份"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2021；文件：2021SPfinal.pdf；完整文件 SHA-256 9a396515c48b4948…，1077033 字节"
     },
     "locations": [
       {
@@ -100873,7 +100873,7 @@
     "type": "exams",
     "title": "实用随机过程 2022 期中",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2022
@@ -100910,7 +100910,7 @@
     "type": "exams",
     "title": "实用随机过程 2022 期末",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2022
@@ -100919,7 +100919,7 @@
       "exam_form": "original",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2022；文件：2022SPfinal.pdf；完整文件 SHA-256 8132a009fdc04237…，927250 字节；扫描件无文字层，未核卷面年份"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2022；文件：2022SPfinal.pdf；完整文件 SHA-256 8132a009fdc04237…，927250 字节"
     },
     "locations": [
       {
@@ -100947,7 +100947,7 @@
     "type": "exams",
     "title": "实用随机过程 2023 期中",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2023
@@ -100956,7 +100956,7 @@
       "exam_form": "original",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2023；文件：2023SPmid.pdf；完整文件 SHA-256 f8bac49822f972a8…，3525031 字节；扫描件无文字层，未核卷面年份"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2023；文件：2023SPmid.pdf；完整文件 SHA-256 f8bac49822f972a8…，3525031 字节"
     },
     "locations": [
       {
@@ -100984,7 +100984,7 @@
     "type": "exams",
     "title": "实用随机过程 2023 期末",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2023
@@ -100993,7 +100993,7 @@
       "exam_form": "original",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2023；文件：2023SPfinal.pdf；完整文件 SHA-256 71f2c825c0631eca…，3521462 字节；扫描件无文字层，未核卷面年份"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2023；文件：2023SPfinal.pdf；完整文件 SHA-256 71f2c825c0631eca…，3521462 字节"
     },
     "locations": [
       {
@@ -101021,7 +101021,7 @@
     "type": "exams",
     "title": "实用随机过程 2025 期末",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2025
@@ -101058,7 +101058,7 @@
     "type": "exams",
     "title": "实用随机过程 2026 期中",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2026
@@ -101095,7 +101095,7 @@
     "type": "exams",
     "title": "实用随机过程 2026 期末",
     "authors": [],
-    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2026
@@ -101132,7 +101132,7 @@
     "type": "exams",
     "title": "数理统计 2021 期中",
     "authors": [],
-    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2021
@@ -101141,7 +101141,7 @@
       "exam_form": "original",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2021；文件：2021Sstatmid.pdf；完整文件 SHA-256 9c9fc44c17af6040…，460603 字节；扫描件无文字层，未核卷面年份"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2021；文件：2021Sstatmid.pdf；完整文件 SHA-256 9c9fc44c17af6040…，460603 字节"
     },
     "locations": [
       {
@@ -101162,23 +101162,23 @@
     "verified_at": "2026-11-23"
   },
   {
-    "id": "mp-uexam-017063-2022-midterm-2023sstatmid",
+    "id": "mp-uexam-017063-2023-midterm-2023sstatmid",
     "course_codes": [
       "017063"
     ],
     "type": "exams",
-    "title": "数理统计 2022 期中",
+    "title": "数理统计 2023 期中",
     "authors": [],
-    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
-        2022
+        2023
       ],
       "exam_kind": "midterm",
       "exam_form": "recollection",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2022；文件：2023Sstatmid.pdf；完整文件 SHA-256 61909fe1a7f12e8a…，59740 字节；卷面标为残卷或回忆版"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2022；文件：2023Sstatmid.pdf；完整文件 SHA-256 61909fe1a7f12e8a…，59740 字节；最终年份取 2023（按链接标签或卷面）；卷面标为残卷或回忆版"
     },
     "locations": [
       {
@@ -101199,23 +101199,23 @@
     "verified_at": "2026-11-23"
   },
   {
-    "id": "mp-uexam-017063-2022-final-2023sstatfinal",
+    "id": "mp-uexam-017063-2023-final-2023sstatfinal",
     "course_codes": [
       "017063"
     ],
     "type": "exams",
-    "title": "数理统计 2022 期末",
+    "title": "数理统计 2023 期末",
     "authors": [],
-    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
-        2022
+        2023
       ],
       "exam_kind": "final",
       "exam_form": "recollection",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2022；文件：2023Sstatfinal.pdf；完整文件 SHA-256 8bf827953b1cd0c8…，105034 字节；卷面标为残卷或回忆版"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2022；文件：2023Sstatfinal.pdf；完整文件 SHA-256 8bf827953b1cd0c8…，105034 字节；最终年份取 2023（按链接标签或卷面）；卷面标为残卷或回忆版"
     },
     "locations": [
       {
@@ -101243,7 +101243,7 @@
     "type": "exams",
     "title": "数理统计 2024 期中",
     "authors": [],
-    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2024
@@ -101252,7 +101252,7 @@
       "exam_form": "original",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2024；文件：2024Sstatmid.pdf；完整文件 SHA-256 bef94af140a11220…，883974 字节；扫描件无文字层，未核卷面年份"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2024；文件：2024Sstatmid.pdf；完整文件 SHA-256 bef94af140a11220…，883974 字节"
     },
     "locations": [
       {
@@ -101280,7 +101280,7 @@
     "type": "exams",
     "title": "数理统计 2024 期末",
     "authors": [],
-    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2024
@@ -101317,7 +101317,7 @@
     "type": "exams",
     "title": "数理统计 2025 期中",
     "authors": [],
-    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2025
@@ -101354,7 +101354,7 @@
     "type": "exams",
     "title": "数理统计 2026 期末",
     "authors": [],
-    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2026
@@ -101391,7 +101391,7 @@
     "type": "exams",
     "title": "回归分析 2021 期末",
     "authors": [],
-    "notes": "试卷合集站收录的 回归分析 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 回归分析 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
         2021
@@ -101421,23 +101421,23 @@
     "verified_at": "2026-11-23"
   },
   {
-    "id": "mp-uexam-017146-2021-final-2022fregressionfinal",
+    "id": "mp-uexam-017146-2022-final-2022fregressionfinal",
     "course_codes": [
       "017146"
     ],
     "type": "exams",
-    "title": "回归分析 2021 期末",
+    "title": "回归分析 2022 期末",
     "authors": [],
-    "notes": "试卷合集站收录的 回归分析 试卷；年份按卷面或目录页行确认。",
+    "notes": "试卷合集站收录的 回归分析 试卷；年份按卷面、链接标签或目录页行确认。",
     "coverage": {
       "years": [
-        2021
+        2022
       ],
       "exam_kind": "final",
       "exam_form": "original",
       "has_solutions": null,
       "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2021；文件：2022Fregressionfinal.pdf；完整文件 SHA-256 8edde2f712bf74c9…，176395 字节"
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2021；文件：2022Fregressionfinal.pdf；完整文件 SHA-256 8edde2f712bf74c9…，176395 字节；最终年份取 2022（链接标签 2022秋；卷面 2023.2.24 属该学期）"
     },
     "locations": [
       {

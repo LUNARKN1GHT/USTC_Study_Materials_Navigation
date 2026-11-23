@@ -118,7 +118,7 @@
       "type": "exams",
       "title": "图论 2023 期末",
       "authors": [],
-      "notes": "试卷合集站收录的 图论 试卷；年份按卷面或目录页行确认。",
+      "notes": "试卷合集站收录的 图论 试卷；年份按卷面、链接标签或目录页行确认。",
       "coverage": {
         "years": [
           2023
@@ -154,7 +154,7 @@
       "type": "exams",
       "title": "图论 2023 期中",
       "authors": [],
-      "notes": "试卷合集站收录的 图论 试卷；年份按卷面或目录页行确认。",
+      "notes": "试卷合集站收录的 图论 试卷；年份按卷面、链接标签或目录页行确认。",
       "coverage": {
         "years": [
           2023
@@ -355,7 +355,7 @@
       "type": "exams",
       "title": "图论 2020 期末",
       "authors": [],
-      "notes": "试卷合集站收录的 图论 试卷；年份按卷面或目录页行确认。",
+      "notes": "试卷合集站收录的 图论 试卷；年份按卷面、链接标签或目录页行确认。",
       "coverage": {
         "years": [
           2020
@@ -365,7 +365,7 @@
         "exam_form": "original",
         "has_solutions": null,
         "evidence_url": "https://ustcmathexam.github.io/AMCM/",
-        "note": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期末考试；行年份：2015；文件：2020GTfinal.pdf；完整文件 SHA-256 ae15b480568dd3b1…，59952 字节；卷面年份为 2020，按卷面登记"
+        "note": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期末考试；行年份：2015；文件：2020GTfinal.pdf；完整文件 SHA-256 ae15b480568dd3b1…，59952 字节；最终年份取 2020（目录页链接标签 2020；卷面 2020 秋）"
       },
       "locations": [
         {
