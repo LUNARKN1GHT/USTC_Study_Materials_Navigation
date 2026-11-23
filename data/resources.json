@@ -84072,7 +84072,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/25111/#review-92610",
-      "note": "6 页中取样第 1–4 页：第 1 页含 017063 与「期末」；附件名标注「残卷」，卷面不完整；年份取自附件名。"
+      "note": "6 页中取样第 1–4 页：第 1 页含 017063 与「期末」；附件名标注「残卷」，卷面不完整；年份取自附件名。；同卷公开直链已补入（2023Sstatfinal.pdf，105034 字节，SHA-256 8bf827953b1cd0c8…）"
     },
     "locations": [
       {
@@ -84091,6 +84091,20 @@
             "checked_at": "2026-11-19"
           }
         ]
+      },
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2023Sstatfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "8bf827953b1cd0c80e8f8393e5a9739c9c2879baad4865078a04712cc76fd718",
+          "bytes": 105034,
+          "checked_at": "2026-11-23"
+        }
       }
     ],
     "verified_at": "2026-11-20"
@@ -84112,7 +84126,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/25111/#review-92610",
-      "note": "全 2 页读取：第 1 页含 017063 与「期中」；附件名标注「残卷」，卷面不完整；年份取自附件名。"
+      "note": "全 2 页读取：第 1 页含 017063 与「期中」；附件名标注「残卷」，卷面不完整；年份取自附件名。；同卷公开直链已补入（2023Sstatmid.pdf，59740 字节，SHA-256 61909fe1a7f12e8a…）"
     },
     "locations": [
       {
@@ -84131,6 +84145,20 @@
             "checked_at": "2026-11-19"
           }
         ]
+      },
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2023Sstatmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "61909fe1a7f12e8ab44a4416bdc1a8275b8b2a9c7c9c08ddc6380c0692f8844a",
+          "bytes": 59740,
+          "checked_at": "2026-11-23"
+        }
       }
     ],
     "verified_at": "2026-11-20"
@@ -91603,7 +91631,7 @@
       "exam_form": "original",
       "has_solutions": false,
       "evidence_url": "https://icourse.club/course/24080/#review-83800",
-      "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。"
+      "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。；同卷公开直链已补入（2024Sstatmid.pdf，883974 字节，SHA-256 bef94af140a11220…）"
     },
     "locations": [
       {
@@ -91622,6 +91650,20 @@
             "checked_at": "2026-11-20"
           }
         ]
+      },
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2024Sstatmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "bef94af140a112207f8aa326b4dfbf360dd096e3ba42d5aa19504f19af684735",
+          "bytes": 883974,
+          "checked_at": "2026-11-23"
+        }
       }
     ],
     "verified_at": "2026-11-20"
@@ -101208,117 +101250,6 @@
         "file_snapshot": {
           "sha256": "9c9fc44c17af60401b3bd70627780cd9b08f8675ce1168bbacc346ed61cac1f9",
           "bytes": 460603,
-          "checked_at": "2026-11-23"
-        }
-      }
-    ],
-    "verified_at": "2026-11-23"
-  },
-  {
-    "id": "mp-uexam-017063-2023-midterm-2023sstatmid",
-    "course_codes": [
-      "017063"
-    ],
-    "type": "exams",
-    "title": "数理统计 2023 期中",
-    "authors": [],
-    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
-    "coverage": {
-      "years": [
-        2023
-      ],
-      "exam_kind": "midterm",
-      "exam_form": "recollection",
-      "has_solutions": null,
-      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2022；文件：2023Sstatmid.pdf；完整文件 SHA-256 61909fe1a7f12e8a…，59740 字节；最终年份取 2023（按链接标签或卷面）；卷面标为残卷或回忆版"
-    },
-    "locations": [
-      {
-        "source_id": "ustc-math-exam",
-        "page_url": "https://ustcmathexam.github.io/ProbStat/",
-        "download_page": null,
-        "download_url": "https://ustcmathexam.github.io/USTC/2023Sstatmid.pdf",
-        "access": "public",
-        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-        "file_snapshot": {
-          "sha256": "61909fe1a7f12e8ab44a4416bdc1a8275b8b2a9c7c9c08ddc6380c0692f8844a",
-          "bytes": 59740,
-          "checked_at": "2026-11-23"
-        }
-      }
-    ],
-    "verified_at": "2026-11-23"
-  },
-  {
-    "id": "mp-uexam-017063-2023-final-2023sstatfinal",
-    "course_codes": [
-      "017063"
-    ],
-    "type": "exams",
-    "title": "数理统计 2023 期末",
-    "authors": [],
-    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
-    "coverage": {
-      "years": [
-        2023
-      ],
-      "exam_kind": "final",
-      "exam_form": "recollection",
-      "has_solutions": null,
-      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2022；文件：2023Sstatfinal.pdf；完整文件 SHA-256 8bf827953b1cd0c8…，105034 字节；最终年份取 2023（按链接标签或卷面）；卷面标为残卷或回忆版"
-    },
-    "locations": [
-      {
-        "source_id": "ustc-math-exam",
-        "page_url": "https://ustcmathexam.github.io/ProbStat/",
-        "download_page": null,
-        "download_url": "https://ustcmathexam.github.io/USTC/2023Sstatfinal.pdf",
-        "access": "public",
-        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-        "file_snapshot": {
-          "sha256": "8bf827953b1cd0c80e8f8393e5a9739c9c2879baad4865078a04712cc76fd718",
-          "bytes": 105034,
-          "checked_at": "2026-11-23"
-        }
-      }
-    ],
-    "verified_at": "2026-11-23"
-  },
-  {
-    "id": "mp-uexam-017063-2024-midterm-2024sstatmid",
-    "course_codes": [
-      "017063"
-    ],
-    "type": "exams",
-    "title": "数理统计 2024 期中",
-    "authors": [],
-    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
-    "coverage": {
-      "years": [
-        2024
-      ],
-      "exam_kind": "midterm",
-      "exam_form": "original",
-      "has_solutions": null,
-      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
-      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2024；文件：2024Sstatmid.pdf；完整文件 SHA-256 bef94af140a11220…，883974 字节"
-    },
-    "locations": [
-      {
-        "source_id": "ustc-math-exam",
-        "page_url": "https://ustcmathexam.github.io/ProbStat/",
-        "download_page": null,
-        "download_url": "https://ustcmathexam.github.io/USTC/2024Sstatmid.pdf",
-        "access": "public",
-        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-        "file_snapshot": {
-          "sha256": "bef94af140a112207f8aa326b4dfbf360dd096e3ba42d5aa19504f19af684735",
-          "bytes": 883974,
           "checked_at": "2026-11-23"
         }
       }

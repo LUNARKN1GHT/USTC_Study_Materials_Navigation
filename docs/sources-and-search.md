@@ -5,9 +5,9 @@
 ## 概览
 
 - 课程：1184 门（已收录资料 405 门，暂未收录 779 门）。
-- 资料：2746 条（按资料类型与试题年份的覆盖见下一节）。
+- 资料：2743 条（按资料类型与试题年份的覆盖见下一节）。
 - 来源：177 个登记来源，其中 167 个被正式资料引用。
-- 检索记录：6744 条，覆盖 1184 门课程。
+- 检索记录：6742 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
 - 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 3124 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
 - 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1382。
@@ -1461,16 +1461,13 @@
   - 2025 年（期中、原题、解答情况不明）：数理统计 2025 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2025Sstatmid.pdf
   - 2025 年（期中、形式不明、解答情况不明）：数理统计 2025 期中试卷(11 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
   - 2024 年（期中、形式不明、解答情况不明）：期中考试试卷分析（2024.4.19） (1) (1) —— USTC 评课社区 https://icourse.club/course/24080/#review-85525
-  - 2024 年（期中、原题、无解答）：数理统计 2024 春期中考试试卷(2024-04-19 原卷) —— USTC 评课社区 https://icourse.club/course/24080/#review-83800
+  - 2024 年（期中、原题、无解答）：数理统计 2024 春期中考试试卷(2024-04-19 原卷) —— USTC 评课社区、USTC 数学课程往年试卷 https://icourse.club/course/24080/#review-83800
   - 2024 年（期末、原题、含解答）：数理统计 2024 年春季学期期末考试参考答案(含原题) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
   - 2024 年（期末、原题、解答情况不明）：数理统计 2024 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2024Sstatfinal.pdf
   - 2024 年（期末、形式不明、解答情况不明）：数理统计 2024 期末试卷(8 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
-  - 2024 年（期中、原题、解答情况不明）：数理统计 2024 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2024Sstatmid.pdf
   - 2024 年（期中、形式不明、解答情况不明）：数理统计 2024 期中试卷(9 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
-  - 2023 年（期末、回忆版、解答情况不明）：数理统计 2023 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023Sstatfinal.pdf
-  - 2023 年（期末、形式不明、解答情况不明）：数理统计 2023 期末残卷(6 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
-  - 2023 年（期中、回忆版、解答情况不明）：数理统计 2023 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023Sstatmid.pdf
-  - 2023 年（期中、形式不明、解答情况不明）：数理统计 2023 期中残卷(2 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
+  - 2023 年（期末、形式不明、解答情况不明）：数理统计 2023 期末残卷(6 页) —— USTC 评课社区、USTC 数学课程往年试卷 https://icourse.club/course/25111/#review-92610
+  - 2023 年（期中、形式不明、解答情况不明）：数理统计 2023 期中残卷(2 页) —— USTC 评课社区、USTC 数学课程往年试卷 https://icourse.club/course/25111/#review-92610
   - 2021 年（期中、原题、解答情况不明）：数理统计 2021 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2021Sstatmid.pdf
   - 2021 年（期中、形式不明、解答情况不明）：数理统计 2021 期中试卷(8 页) —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
   - 年份待确认（期末、形式不明、解答情况不明）：25期末参考答案及评分要点 —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
@@ -17808,33 +17805,21 @@
 
 ### 017063 数理统计
 
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/ProbStat/>
+  - 查询：数理统计 2023/2024 期中期末：评课附件与数学站公开直链同文件合并
+  - 检查范围：按完整字节数比对：2023 期中 59,740、2023 期末 105,034、2024 期中 883,974 与评课社区登录附件一致，判为同一文件。
+  - 说明：保留评课原帖位置并补公开直链；不重复建条目。
+  - 来源 ID：icourse-club、ustc-math-exam
+  - 课程代码：017063
 - 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2021Sstatmid.pdf>
   - 查询：数理统计 2021 期中
   - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2021；文件：2021Sstatmid.pdf；完整文件 SHA-256 9c9fc44c17af6040…，460603 字节
   - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
   - 来源 ID：ustc-math-exam
   - 课程代码：017063
-- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2023Sstatfinal.pdf>
-  - 查询：数理统计 2023 期末
-  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2022；文件：2023Sstatfinal.pdf；完整文件 SHA-256 8bf827953b1cd0c8…，105034 字节；最终年份取 2023（按链接标签或卷面）；卷面标为残卷或回忆版
-  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
-  - 来源 ID：ustc-math-exam
-  - 课程代码：017063
-- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2023Sstatmid.pdf>
-  - 查询：数理统计 2023 期中
-  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2022；文件：2023Sstatmid.pdf；完整文件 SHA-256 61909fe1a7f12e8a…，59740 字节；最终年份取 2023（按链接标签或卷面）；卷面标为残卷或回忆版
-  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
-  - 来源 ID：ustc-math-exam
-  - 课程代码：017063
 - 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2024Sstatfinal.pdf>
   - 查询：数理统计 2024 期末
   - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2024；文件：2024Sstatfinal.pdf；完整文件 SHA-256 f396c92294652ba8…，1871984 字节
-  - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
-  - 来源 ID：ustc-math-exam
-  - 课程代码：017063
-- 2026-11-23 · 公开网页 · 已查看 · <https://ustcmathexam.github.io/USTC/2024Sstatmid.pdf>
-  - 查询：数理统计 2024 期中
-  - 检查范围：课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2024；文件：2024Sstatmid.pdf；完整文件 SHA-256 bef94af140a11220…，883974 字节
   - 说明：试卷文件已完整下载并算 SHA-256；年份按卷面、链接标签或目录页行核对。
   - 来源 ID：ustc-math-exam
   - 课程代码：017063
