@@ -1985,5 +1985,41 @@
       "branch": "main"
     },
     "notes": "按中科大官方课号组织的结构化题库仓库（UTF-8 JSONL、知识点树 taxonomy.json、零依赖 Python 加载库与 SQLite FTS5 构建器），覆盖复变函数B（001548，571 题）、数学分析(B1)（MATH1006，445 题）、数学分析(B2)（MATH1007，569 题）、线性代数(B1)（MATH1009，885 题）、计算机程序设计（CS1003，1,533 题）、力学A（PHYS1001A，253 题 + 91 图）、热学A（PHYS1002A，352 题 + 48 图）、电磁学A（PHYS1004A，121 题 + 59 图）、数据结构及其算法（210070，347 题 + 17 图）、概率论与数理统计（STAT2002，431 题 + 1 图）、光学A（PHYS1003A，228 题 + 17 图）与数字逻辑电路（210050，92 题 + 72 图），合计 5,827 题。仓库代码、Schema 与元数据采用 MIT；NOTICE.md 明确第三方真题、教材习题及引用解答版权归原作者与出版社所有、不适用 MIT，仅供学习研究。"
+  },
+  {
+    "id": "ustc-huangwenchao-fm",
+    "name": "黄文超：形式化方法导引",
+    "url": "https://faculty.ustc.edu.cn/huangwenchao/zh_CN/zdylm/995897/list/index.htm",
+    "maintainer": "黄文超",
+    "kind": "website",
+    "github": null,
+    "notes": "课程教师公开的本科形式化方法导引讲义。"
+  },
+  {
+    "id": "ustcgit-ai1001b-2026fa-05",
+    "name": "AI1001B.05 2026 秋综合实验",
+    "url": "https://git.ustc.edu.cn/ai1001b.05.2026fa",
+    "maintainer": "AI1001B.05 教学团队",
+    "kind": "repository",
+    "github": null,
+    "notes": "课程群组发布的综合实验说明与代码框架。"
+  },
+  {
+    "id": "ustcgit-wsh-learning-note",
+    "name": "王小桃的学习笔记",
+    "url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note",
+    "maintainer": "王思晗",
+    "kind": "repository",
+    "github": null,
+    "notes": "公开课程笔记仓库；转收的试题选讲按文件原署名。"
+  },
+  {
+    "id": "ustcgit-ypb-course",
+    "name": "袁平波课程主页",
+    "url": "https://git.ustc.edu.cn/ypb/course",
+    "maintainer": "袁平波",
+    "kind": "repository",
+    "github": null,
+    "notes": "教师维护的课程目录，数据库基础部分提供课件、分章作业及实验说明。"
   }
 ]

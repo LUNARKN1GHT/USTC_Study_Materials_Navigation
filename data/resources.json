@@ -99577,5 +99577,227 @@
       }
     ],
     "verified_at": "2026-11-22"
+  },
+  {
+    "id": "ustc-cs4005-huang-2026-lectures",
+    "course_codes": [
+      "CS4005"
+    ],
+    "type": "study",
+    "title": "形式化方法导引：2026 春课件（黄文超）",
+    "authors": [
+      "黄文超"
+    ],
+    "notes": "教师发布的讲义，含经典数理逻辑、SAT/SMT、模型检测、Coq，以及 Z3、NuSMV 实验教程。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2025-2026"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://faculty.ustc.edu.cn/huangwenchao/zh_CN/skxx/995892/content/2943.htm",
+      "note": "教师授课信息确认本科课号；抽读 2026 春课件第 0 章与 SAT 求解阅读版。"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-huangwenchao-fm",
+        "page_url": "https://faculty.ustc.edu.cn/huangwenchao/zh_CN/zdylm/995897/list/index.htm",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "黄文超",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-ai1001b-2026fa-05-cnn-gnn",
+    "course_codes": [
+      "AI1001B"
+    ],
+    "type": "homework",
+    "title": "人工智能数学原理与算法B：CNN 与 GNN 综合实验（2026 秋 05 班）",
+    "authors": [],
+    "notes": "同班综合实验的两个选题：CNN 在 CIFAR-10 上比较不同分类模型；GNN 在 NCI1 上比较自实现的消息传递与标准 GCN。提供实验说明与代码框架。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2026-2027"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/ai1001b.05.2026fa/CNN/-/raw/main/README.md",
+      "note": "两个 README 均标明 AI1001B.05 与 2026 秋，并核读两份讲义的 LaTeX 源码。不同于已收录的 2025 年实验版本。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-ai1001b-2026fa-05",
+        "page_url": "https://git.ustc.edu.cn/ai1001b.05.2026fa/CNN",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "AI1001B.05 教学团队",
+        "page_kind": "directory"
+      },
+      {
+        "source_id": "ustcgit-ai1001b-2026fa-05",
+        "page_url": "https://git.ustc.edu.cn/ai1001b.05.2026fa/GNN",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "AI1001B.05 教学团队",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-001548-wsh-notes",
+    "course_codes": [
+      "001548"
+    ],
+    "type": "study",
+    "title": "复变函数B：课程笔记（王小桃）",
+    "authors": [
+      "王思晗"
+    ],
+    "notes": "学生整理的 Markdown 笔记，涉及复数、解析函数、积分等。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AC%94%E8%AE%B0.md",
+      "note": "正文开头明确写复变函数 B；核读笔记正文。不含同仓转收的历年卷或教材。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-wsh-learning-note",
+        "page_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/blob/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AC%94%E8%AE%B0.md",
+        "download_page": null,
+        "download_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AC%94%E8%AE%B0.md",
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "王思晗（王小桃）",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-001548-zhang-exam-commentary",
+    "course_codes": [
+      "001548"
+    ],
+    "type": "study",
+    "title": "复变函数B：往年试题选讲（张礼贤）",
+    "authors": [
+      "张礼贤"
+    ],
+    "notes": "复变函数 B 往年题目的逐题讲解，不是原始整卷。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%80%89%E8%AE%B2.pdf",
+      "note": "核读 PDF，首页明确署名张礼贤，正文按复变函数 B 历年期末题编排；仓库为转载入口。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-wsh-learning-note",
+        "page_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/blob/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%80%89%E8%AE%B2.pdf",
+        "download_page": null,
+        "download_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%80%89%E8%AE%B2.pdf",
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "张礼贤（PDF 署名）；王小桃仓库提供入口",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-210514-ypb-slides",
+    "course_codes": [
+      "210514"
+    ],
+    "type": "study",
+    "title": "数据库基础：课程课件（袁平波）",
+    "authors": [
+      "袁平波"
+    ],
+    "notes": "教师课程目录的《数据库基础》一节列出六组分章课件。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/ypb/course/-/raw/main/README.md",
+      "note": "教师目录按课程标题分节；数据库基础与同仓的《数据结构与数据库》分开。核对目录及文件路径，未逐份抽读演示文稿。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-ypb-course",
+        "page_url": "https://git.ustc.edu.cn/ypb/course/-/tree/main/dbs/PPT",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "袁平波",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-210514-ypb-assignments-labs",
+    "course_codes": [
+      "210514"
+    ],
+    "type": "homework",
+    "title": "数据库基础：分章作业与 SQL 实验（袁平波）",
+    "authors": [
+      "袁平波"
+    ],
+    "notes": "第一至六章作业题，以及涵盖 SQL 查询、建表、更新和存储过程的数据库实验。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/ypb/course/-/raw/main/README.md",
+      "note": "两份 PDF 位于教师目录的《数据库基础》一节，已抽读作业与实验正文。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-ypb-course",
+        "page_url": "https://git.ustc.edu.cn/ypb/course/-/blob/main/dbs/dbhomework.pdf",
+        "download_page": null,
+        "download_url": "https://git.ustc.edu.cn/ypb/course/-/raw/main/dbs/dbhomework.pdf",
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "袁平波",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "ustcgit-ypb-course",
+        "page_url": "https://git.ustc.edu.cn/ypb/course/-/blob/main/dbs/dbs2022.pdf",
+        "download_page": null,
+        "download_url": "https://git.ustc.edu.cn/ypb/course/-/raw/main/dbs/dbs2022.pdf",
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "袁平波",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
   }
 ]

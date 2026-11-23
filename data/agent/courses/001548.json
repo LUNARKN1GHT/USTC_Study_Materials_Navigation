@@ -831,6 +831,68 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "ustcgit-001548-wsh-notes",
+      "type": "study",
+      "title": "复变函数B：课程笔记（王小桃）",
+      "authors": [
+        "王思晗"
+      ],
+      "notes": "学生整理的 Markdown 笔记，涉及复数、解析函数、积分等。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AC%94%E8%AE%B0.md",
+        "note": "正文开头明确写复变函数 B；核读笔记正文。不含同仓转收的历年卷或教材。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcgit-wsh-learning-note",
+          "page_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/blob/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AC%94%E8%AE%B0.md",
+          "download_page": null,
+          "download_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AC%94%E8%AE%B0.md",
+          "access": "public",
+          "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+          "attribution": "王思晗（王小桃）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
+      "id": "ustcgit-001548-zhang-exam-commentary",
+      "type": "study",
+      "title": "复变函数B：往年试题选讲（张礼贤）",
+      "authors": [
+        "张礼贤"
+      ],
+      "notes": "复变函数 B 往年题目的逐题讲解，不是原始整卷。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%80%89%E8%AE%B2.pdf",
+        "note": "核读 PDF，首页明确署名张礼贤，正文按复变函数 B 历年期末题编排；仓库为转载入口。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcgit-wsh-learning-note",
+          "page_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/blob/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%80%89%E8%AE%B2.pdf",
+          "download_page": null,
+          "download_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%80%89%E8%AE%B2.pdf",
+          "access": "public",
+          "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+          "attribution": "张礼贤（PDF 署名）；王小桃仓库提供入口",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "mp-feixu-001548-study-f6259f",
       "type": "study",
       "title": "复变期末复习讲义-舒文炫",
@@ -865,6 +927,7 @@
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "ustc-math-exam": "USTC 数学课程往年试卷",
     "web-fubianb-answers": "USTC 复变函数B 习题解答",
-    "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）"
+    "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）",
+    "ustcgit-wsh-learning-note": "王小桃的学习笔记"
   }
 }

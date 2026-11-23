@@ -39,6 +39,47 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "ustcgit-ai1001b-2026fa-05-cnn-gnn",
+      "type": "homework",
+      "title": "人工智能数学原理与算法B：CNN 与 GNN 综合实验（2026 秋 05 班）",
+      "authors": [],
+      "notes": "同班综合实验的两个选题：CNN 在 CIFAR-10 上比较不同分类模型；GNN 在 NCI1 上比较自实现的消息传递与标准 GCN。提供实验说明与代码框架。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2026-2027"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://git.ustc.edu.cn/ai1001b.05.2026fa/CNN/-/raw/main/README.md",
+        "note": "两个 README 均标明 AI1001B.05 与 2026 秋，并核读两份讲义的 LaTeX 源码。不同于已收录的 2025 年实验版本。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcgit-ai1001b-2026fa-05",
+          "page_url": "https://git.ustc.edu.cn/ai1001b.05.2026fa/CNN",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+          "attribution": "AI1001B.05 教学团队",
+          "page_kind": "directory"
+        },
+        {
+          "source_id": "ustcgit-ai1001b-2026fa-05",
+          "page_url": "https://git.ustc.edu.cn/ai1001b.05.2026fa/GNN",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+          "attribution": "AI1001B.05 教学团队",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "computing-lectures-gh-ustc-ai-sgy-source-slides",
       "type": "study",
       "title": "人工智能数学原理与算法 课件（课程站点 source/slides）",
@@ -107,6 +148,7 @@
   ],
   "sources": {
     "icourse-club": "USTC 评课社区",
+    "ustcgit-ai1001b-2026fa-05": "AI1001B.05 2026 秋综合实验",
     "gh-ustc-ai-sgy-ustc-ai-sgy-io": "ustc-ai-sgy/ustc-ai-sgy.github.io"
   }
 }

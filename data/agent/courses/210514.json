@@ -9,6 +9,47 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "ustcgit-210514-ypb-assignments-labs",
+      "type": "homework",
+      "title": "数据库基础：分章作业与 SQL 实验（袁平波）",
+      "authors": [
+        "袁平波"
+      ],
+      "notes": "第一至六章作业题，以及涵盖 SQL 查询、建表、更新和存储过程的数据库实验。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://git.ustc.edu.cn/ypb/course/-/raw/main/README.md",
+        "note": "两份 PDF 位于教师目录的《数据库基础》一节，已抽读作业与实验正文。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcgit-ypb-course",
+          "page_url": "https://git.ustc.edu.cn/ypb/course/-/blob/main/dbs/dbhomework.pdf",
+          "download_page": null,
+          "download_url": "https://git.ustc.edu.cn/ypb/course/-/raw/main/dbs/dbhomework.pdf",
+          "access": "public",
+          "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+          "attribution": "袁平波",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustcgit-ypb-course",
+          "page_url": "https://git.ustc.edu.cn/ypb/course/-/blob/main/dbs/dbs2022.pdf",
+          "download_page": null,
+          "download_url": "https://git.ustc.edu.cn/ypb/course/-/raw/main/dbs/dbs2022.pdf",
+          "access": "public",
+          "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+          "attribution": "袁平波",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "intake-210514-db5ec0ff77c47cbe",
       "type": "study",
       "title": "数据库基础 课程笔记（公开站点）",
@@ -36,6 +77,37 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "ustcgit-210514-ypb-slides",
+      "type": "study",
+      "title": "数据库基础：课程课件（袁平波）",
+      "authors": [
+        "袁平波"
+      ],
+      "notes": "教师课程目录的《数据库基础》一节列出六组分章课件。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://git.ustc.edu.cn/ypb/course/-/raw/main/README.md",
+        "note": "教师目录按课程标题分节；数据库基础与同仓的《数据结构与数据库》分开。核对目录及文件路径，未逐份抽读演示文稿。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcgit-ypb-course",
+          "page_url": "https://git.ustc.edu.cn/ypb/course/-/tree/main/dbs/PPT",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+          "attribution": "袁平波",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-23"
     },
     {
       "id": "computing-lectures-feixu-210514",
@@ -80,6 +152,7 @@
     }
   ],
   "sources": {
+    "ustcgit-ypb-course": "袁平波课程主页",
     "jonbgua-coursenotes-sql": "数据库基础课程笔记（jonbgua.com）",
     "feixu-alist": "feixu 学习资料分享站（AList）"
   }
