@@ -1373,8 +1373,8 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/MATH1009/meta.json",
-        "note": "已核对仓库 courses/MATH1009/meta.json、taxonomy.json 与 questions.jsonl（885 题，41 个知识点节点）；按官方课号 MATH1009 建目录，花开花败参考解答标为 origin=community，单卷原卷答案与学习指导标为 official，仓库不含原扫描 PDF。"
+        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/MATH1009/meta.json",
+        "note": "已核对仓库 courses/MATH1009/meta.json、taxonomy.json 与 questions.jsonl（885 题，41 个知识点节点）；按官方课号 MATH1009 建目录，花开花败参考解答标为 origin=community，单卷原卷答案与学习指导标为 official，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
       },
       "locations": [
         {

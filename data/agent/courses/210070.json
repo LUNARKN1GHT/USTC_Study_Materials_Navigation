@@ -691,8 +691,8 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/210070/meta.json",
-        "note": "已核对仓库 courses/210070/meta.json、taxonomy.json、questions.jsonl 与 assets/*（347 题，46 个知识点节点，17 题含 WebP/SVG 配图）；按官方课号 210070 建目录，仓库不含原扫描 PDF。"
+        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/210070/meta.json",
+        "note": "已核对仓库 courses/210070/meta.json、taxonomy.json、questions.jsonl 与 assets/*（347 题，46 个知识点节点，17 题含 WebP/SVG 配图）；按官方课号 210070 建目录，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
       },
       "locations": [
         {

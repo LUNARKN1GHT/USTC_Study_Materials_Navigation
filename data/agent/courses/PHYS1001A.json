@@ -546,8 +546,8 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1001A/meta.json",
-        "note": "已核对仓库 courses/PHYS1001A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（91 个文件：70 张 WebP + 21 张 SVG，共 448.7 KB；253 题，46 个知识点节点，86 题含配图）；按官方课号 PHYS1001A 建目录，14 道歧义/估算低置信题标为 quarantined=true，仓库不含原扫描 PDF。"
+        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/PHYS1001A/meta.json",
+        "note": "已核对仓库 courses/PHYS1001A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（91 个文件：70 张 WebP + 21 张 SVG，共 448.7 KB；253 题，46 个知识点节点，86 题含配图）；按官方课号 PHYS1001A 建目录，14 道歧义/估算低置信题标为 quarantined=true，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
       },
       "locations": [
         {

@@ -562,8 +562,8 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1002A/meta.json",
-        "note": "已核对仓库 courses/PHYS1002A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（352 题，45 个知识点节点，48 题含 48 张 WebP/SVG 配图）；按官方课号 PHYS1002A 建目录，10 道回忆版/条件歧义题标为 quarantined=true，仓库不含原扫描 PDF。"
+        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/PHYS1002A/meta.json",
+        "note": "已核对仓库 courses/PHYS1002A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（352 题，45 个知识点节点，48 题含 48 张 WebP/SVG 配图）；按官方课号 PHYS1002A 建目录，10 道回忆版/条件歧义题标为 quarantined=true，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
       },
       "locations": [
         {

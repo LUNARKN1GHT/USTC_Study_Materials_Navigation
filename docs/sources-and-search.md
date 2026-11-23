@@ -5,9 +5,9 @@
 ## 概览
 
 - 课程：1184 门（已收录资料 405 门，暂未收录 779 门）。
-- 资料：2744 条（按资料类型与试题年份的覆盖见下一节）。
+- 资料：2742 条（按资料类型与试题年份的覆盖见下一节）。
 - 来源：177 个登记来源，其中 167 个被正式资料引用。
-- 检索记录：6743 条，覆盖 1184 门课程。
+- 检索记录：6742 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
 - 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 3126 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
 - 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1384。
@@ -1917,9 +1917,7 @@
   - 2017 年（期末、原题、含解答）：2017期末考试 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/2017%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
   - 2016 年（期末、原题、含解答）：2016期末考试 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/2016%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
   - 2015 年（期末、原题、含解答）：电动力学 2015 期末 —— USTC 物理课程往年试卷、USTC 课程资料簿（GitBook） https://ustcphyexam.github.io/USTC/15SpEDAFinalPHJ.pdf
-  - 2015 年（期末、原题、含解答）：电动力学 2015 期末解答（潘海俊） —— USTC 课程资料簿（GitBook） https://easylink.cc/aocfsw
   - 2014 年（期末、原题、含解答）：电动力学 2014 期末 —— USTC 物理课程往年试卷、USTC 课程资料簿（GitBook） https://ustcphyexam.github.io/USTC/14SpEDAFinalPHJ.pdf
-  - 2014 年（期末、原题、含解答）：电动力学 2014 期末解答（潘海俊） —— USTC 课程资料簿（GitBook） https://easylink.cc/k0xibo
   - 年份待确认（期末、原题、解答情况不明）：电动力学 2024 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/24FaEDAFinal.pdf
 - **作业、习题与小测**
   - 《电动力学》（第四版，郭硕鸿）习题参考解答（Uphi. 修订版） —— Uphi. 个人站；核验于 2026-11-19 https://hongfeiy.com/assets/pdf/gsh_answer.pdf（文件页）
@@ -5968,7 +5966,7 @@
 - 地址：<https://ustcguide.gitbook.io/coursedata/>
 - 维护者：USTCGUIDE（施耀炜等贡献者）
 - 说明：课程经验索引（GitBook）；正文页面未取得，仅作原页导航，不含电子书/教材下载。关联仓库 USTCGUIDE/USTCGUIDE 的 Coursedata 分支（见 ustcguide-repository），本站页面本身无 GitHub 身份。 按课程组织的资料索引，条目多为 easylink.cc 短链跳转云盘；序言署名施耀炜（21级少年班），贡献者与致谢见 https://ustcguide.gitbook.io/coursedata/start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md ；序言声明含电子书扫描版（教材下载不收录）。 公开课程经验/资料索引，序署施耀炜（21级少年班）；无再分发许可，只做原页导航；本轮检查llms.txt目录与相关课程页。 课程资料索引；序署名施耀炜（21级少年班），贡献者名单见 https://ustcguide.gitbook.io/coursedata/start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md 。序说明含电子版教材扫描，按本站方案不收录教材下载。 序署名施耀炜（21级少年班）及公开贡献者；资料簿 llms.txt 无本切片课程专页；无再分发许可，仅原页导航。
-- 被正式资料引用：25 处
+- 被正式资料引用：23 处
 
 ### USTCGUIDE/UstcCourseData.github.io
 
@@ -20913,22 +20911,16 @@
 ### 022057 电动力学
 
 - 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo>
-  - 查询：电动力学 2014 期末解答（潘海俊）
-  - 检查范围：资料簿「电动力学」页试卷与答案一栏，题名标 2014 期末解答；原卷已在书架，本条只补解答；完整文件 SHA-256 4cccf4844d373b13…，762,457 字节；短链落地带时效签名，不写直链。
-  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
-  - 来源 ID：ustcguide-gitbook
-  - 课程代码：022057
-- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo>
-  - 查询：电动力学 2015 期末解答（潘海俊）
-  - 检查范围：资料簿「电动力学」页试卷与答案一栏，题名标 2015 期末解答；原卷已在书架，本条只补解答；完整文件 SHA-256 2c5f51c0e60b0480…，857,294 字节；短链落地带时效签名，不写直链。
-  - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
-  - 来源 ID：ustcguide-gitbook
-  - 课程代码：022057
-- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo>
   - 查询：电动力学 2022 春 第一次小测（潘海俊）
   - 检查范围：资料簿「电动力学」页试卷与答案一栏，题名标 2022 春第一次小测；完整文件 SHA-256 460fc88eef5617a4…，148,430 字节；短链落地带时效签名，不写直链。
   - 说明：短链落地文件已完整下载并算 SHA-256；索引只留稳定短链页。
   - 来源 ID：ustcguide-gitbook
+  - 课程代码：022057
+- 2026-11-23 · 公开网页 · 已查看 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo>
+  - 查询：电动力学 2014/2015 期末解答并入原卷条目
+  - 检查范围：短链 k0xibo、aocfsw 同时出现在原卷条目第二位置与独立条目中，按「解答不另计一条资料」删除独立条目。
+  - 说明：解答位置保留在原卷条目；原卷位置与快照未变。
+  - 来源 ID：ustcguide-gitbook、ustc-phy-exam
   - 课程代码：022057
 - 2026-11-20 · 评课社区 · 已查看 · <https://icourse.club/course/4762/#review-48684>
   - 查询：评课原帖附件正文取样及课程归属复核

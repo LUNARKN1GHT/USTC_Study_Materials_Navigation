@@ -714,7 +714,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/210050/meta.json",
-        "note": "已核对仓库 courses/210050/meta.json、taxonomy.json、questions.jsonl 与 assets/*（92 题，51 个知识点节点，58 题含 72 张 WebP/SVG 配图）；按官方课号 210050 建目录，2019–2020 与 2020–2021 助教手写答案标注为 origin=community，仓库不含原扫描 PDF。"
+        "note": "已核对仓库 courses/210050/meta.json、taxonomy.json、questions.jsonl 与 assets/*（92 题，51 个知识点节点，58 题含 72 张 WebP/SVG 配图）；按官方课号 210050 建目录，2019–2020 与 2020–2021 助教手写答案标注为 origin=community，仓库不含原扫描 PDF。 数据版本：main。"
       },
       "locations": [
         {
