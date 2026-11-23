@@ -100496,6 +100496,59 @@
     "verified_at": "2026-11-23"
   },
   {
+    "id": "mp-uexam-001101-2019-final-2019odefinal",
+    "course_codes": [
+      "001101"
+    ],
+    "type": "exams",
+    "title": "常微分方程 2019 秋期末（含参考解答）",
+    "authors": [
+      "张永兵"
+    ],
+    "notes": "卷面为 2019 秋季学期微分方程 I 期末考试；解答为同站参考解答。",
+    "coverage": {
+      "years": [
+        2019
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": true,
+      "evidence_url": "https://ustcmathexam.github.io/APDE/",
+      "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：偏微分方程 期末/答案；行年份：2019；文件：2019ODEfinal.pdf、2019ODEfinalsol.pdf；卷面「2019秋季学期 微分方程I期末考试」，授课教师张永兵；解答卷面标「2019年秋季学期…参考解答」；完整文件 SHA-256 4d50a5146befc1b9… / 3ae925fded500fd7…"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/APDE/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2019ODEfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "4d50a5146befc1b90ac9e429ace201a88cdac202e86af3044a871a7226ea280d",
+          "bytes": 200041,
+          "checked_at": "2026-11-23"
+        }
+      },
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/APDE/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2019ODEfinalsol.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "3ae925fded500fd7ad79dd1a01c5163fb05c85ff019bf73144323ddb812df703",
+          "bytes": 1798310,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
     "id": "mp-uexam-011040-2020-final-2020gtfinal",
     "course_codes": [
       "011040"
