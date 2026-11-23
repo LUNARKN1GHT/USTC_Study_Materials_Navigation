@@ -506,7 +506,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1003A/meta.json",
-        "note": "已核对仓库 courses/PHYS1003A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（228 题，51 个知识点节点，17 题含 17 张 WebP 配图）；按官方课号 PHYS1003A 建目录，2023 秋手写批注答案标注为 origin=community，仓库不含原扫描 PDF。"
+        "note": "已核对仓库 courses/PHYS1003A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（228 题，51 个知识点节点，17 题含 17 张 WebP 配图）；按官方课号 PHYS1003A 建目录，2023 秋手写批注答案标注为 origin=community，仓库不含原扫描 PDF。 数据版本：main。"
       },
       "locations": [
         {

@@ -1977,8 +1977,8 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/MATH1006/meta.json",
-        "note": "已核对仓库 courses/MATH1006/meta.json、taxonomy.json 与 questions.jsonl（445 题，31 个知识点节点）；按官方课号 MATH1006 建目录，教材非官方详解标注为 origin=community 并署名上游，仓库不含原扫描 PDF。"
+        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/MATH1006/meta.json",
+        "note": "已核对仓库 courses/MATH1006/meta.json、taxonomy.json 与 questions.jsonl（445 题，31 个知识点节点）；按官方课号 MATH1006 建目录，教材非官方详解标注为 origin=community 并署名上游，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
       },
       "locations": [
         {

@@ -34562,7 +34562,7 @@
     "type": "exams",
     "title": "电动力学 2014 期末",
     "authors": [],
-    "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：14春；文件：14SpEDAFinalPHJ.pdf",
+    "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：14春；文件：14SpEDAFinalPHJ.pdf；资料簿转收的 2014 期末解答作为第二位置并入本条，不另计资料。",
     "coverage": {
       "years": [
         2014
@@ -34609,7 +34609,7 @@
     "type": "exams",
     "title": "电动力学 2015 期末",
     "authors": [],
-    "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：15春；文件：15SpEDAFinalPHJ.pdf",
+    "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：15春；文件：15SpEDAFinalPHJ.pdf；资料簿转收的 2015 期末解答作为第二位置并入本条，不另计资料。",
     "coverage": {
       "years": [
         2015
@@ -99284,8 +99284,8 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/001548/meta.json",
-      "note": "已核对仓库 courses/001548/meta.json、taxonomy.json 与 questions.jsonl（571 题，35 个知识点节点）；按官方课号 001548 建目录，含每题出处与 answer.origin 可信分级，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/001548/meta.json",
+      "note": "已核对仓库 courses/001548/meta.json、taxonomy.json 与 questions.jsonl（571 题，35 个知识点节点）；按官方课号 001548 建目录，含每题出处与 answer.origin 可信分级，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
@@ -99317,8 +99317,8 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/MATH1006/meta.json",
-      "note": "已核对仓库 courses/MATH1006/meta.json、taxonomy.json 与 questions.jsonl（445 题，31 个知识点节点）；按官方课号 MATH1006 建目录，教材非官方详解标注为 origin=community 并署名上游，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/MATH1006/meta.json",
+      "note": "已核对仓库 courses/MATH1006/meta.json、taxonomy.json 与 questions.jsonl（445 题，31 个知识点节点）；按官方课号 MATH1006 建目录，教材非官方详解标注为 origin=community 并署名上游，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
@@ -99350,8 +99350,8 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/MATH1007/meta.json",
-      "note": "已核对仓库 courses/MATH1007/meta.json、taxonomy.json 与 questions.jsonl（569 题，28 个知识点节点）；按官方课号 MATH1007 建目录，教材非官方详解标注为 origin=community 并署名上游，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/MATH1007/meta.json",
+      "note": "已核对仓库 courses/MATH1007/meta.json、taxonomy.json 与 questions.jsonl（569 题，28 个知识点节点）；按官方课号 MATH1007 建目录，教材非官方详解标注为 origin=community 并署名上游，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
@@ -99383,8 +99383,8 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/MATH1009/meta.json",
-      "note": "已核对仓库 courses/MATH1009/meta.json、taxonomy.json 与 questions.jsonl（885 题，41 个知识点节点）；按官方课号 MATH1009 建目录，花开花败参考解答标为 origin=community，单卷原卷答案与学习指导标为 official，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/MATH1009/meta.json",
+      "note": "已核对仓库 courses/MATH1009/meta.json、taxonomy.json 与 questions.jsonl（885 题，41 个知识点节点）；按官方课号 MATH1009 建目录，花开花败参考解答标为 origin=community，单卷原卷答案与学习指导标为 official，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
@@ -99416,8 +99416,8 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/CS1003/meta.json",
-      "note": "已核对仓库 courses/CS1003/meta.json、taxonomy.json 与 questions.jsonl（1,533 题，31 个知识点节点）；按官方课号 CS1003 建目录，sxl/评课社区/duxiaoyang 非官方解答标为 origin=community，无标答卷 AI 补解经 gcc 编译核对，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/CS1003/meta.json",
+      "note": "已核对仓库 courses/CS1003/meta.json、taxonomy.json 与 questions.jsonl（1,533 题，31 个知识点节点）；按官方课号 CS1003 建目录，sxl/评课社区/duxiaoyang 非官方解答标为 origin=community，无标答卷 AI 补解经 gcc 编译核对，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
@@ -99449,8 +99449,8 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1001A/meta.json",
-      "note": "已核对仓库 courses/PHYS1001A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（91 个文件：70 张 WebP + 21 张 SVG，共 448.7 KB；253 题，46 个知识点节点，86 题含配图）；按官方课号 PHYS1001A 建目录，14 道歧义/估算低置信题标为 quarantined=true，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/PHYS1001A/meta.json",
+      "note": "已核对仓库 courses/PHYS1001A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（91 个文件：70 张 WebP + 21 张 SVG，共 448.7 KB；253 题，46 个知识点节点，86 题含配图）；按官方课号 PHYS1001A 建目录，14 道歧义/估算低置信题标为 quarantined=true，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
@@ -99482,8 +99482,8 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1002A/meta.json",
-      "note": "已核对仓库 courses/PHYS1002A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（352 题，45 个知识点节点，48 题含 48 张 WebP/SVG 配图）；按官方课号 PHYS1002A 建目录，10 道回忆版/条件歧义题标为 quarantined=true，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/PHYS1002A/meta.json",
+      "note": "已核对仓库 courses/PHYS1002A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（352 题，45 个知识点节点，48 题含 48 张 WebP/SVG 配图）；按官方课号 PHYS1002A 建目录，10 道回忆版/条件歧义题标为 quarantined=true，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
@@ -99515,8 +99515,8 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1004A/meta.json",
-      "note": "已核对仓库 courses/PHYS1004A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（121 题，47 个知识点节点，58 题含 59 张 WebP/SVG 配图）；按官方课号 PHYS1004A 建目录，7 道回忆版/模型歧义题标为 quarantined=true，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/PHYS1004A/meta.json",
+      "note": "已核对仓库 courses/PHYS1004A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（121 题，47 个知识点节点，58 题含 59 张 WebP/SVG 配图）；按官方课号 PHYS1004A 建目录，7 道回忆版/模型歧义题标为 quarantined=true，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
@@ -99548,8 +99548,8 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/210070/meta.json",
-      "note": "已核对仓库 courses/210070/meta.json、taxonomy.json、questions.jsonl 与 assets/*（347 题，46 个知识点节点，17 题含 WebP/SVG 配图）；按官方课号 210070 建目录，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/210070/meta.json",
+      "note": "已核对仓库 courses/210070/meta.json、taxonomy.json、questions.jsonl 与 assets/*（347 题，46 个知识点节点，17 题含 WebP/SVG 配图）；按官方课号 210070 建目录，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
@@ -99581,8 +99581,8 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/STAT2002/meta.json",
-      "note": "已核对仓库 courses/STAT2002/meta.json、taxonomy.json、questions.jsonl 与 assets/*（431 题，48 个知识点节点，1 题含 1 张 SVG 配图）；按官方课号 STAT2002 建目录，3 道缺表或设问不严题标为 quarantined=true，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/STAT2002/meta.json",
+      "note": "已核对仓库 courses/STAT2002/meta.json、taxonomy.json、questions.jsonl 与 assets/*（431 题，48 个知识点节点，1 题含 1 张 SVG 配图）；按官方课号 STAT2002 建目录，3 道缺表或设问不严题标为 quarantined=true，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
@@ -99615,7 +99615,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1003A/meta.json",
-      "note": "已核对仓库 courses/PHYS1003A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（228 题，51 个知识点节点，17 题含 17 张 WebP 配图）；按官方课号 PHYS1003A 建目录，2023 秋手写批注答案标注为 origin=community，仓库不含原扫描 PDF。"
+      "note": "已核对仓库 courses/PHYS1003A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（228 题，51 个知识点节点，17 题含 17 张 WebP 配图）；按官方课号 PHYS1003A 建目录，2023 秋手写批注答案标注为 origin=community，仓库不含原扫描 PDF。 数据版本：main。"
     },
     "locations": [
       {
@@ -99648,7 +99648,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/210050/meta.json",
-      "note": "已核对仓库 courses/210050/meta.json、taxonomy.json、questions.jsonl 与 assets/*（92 题，51 个知识点节点，58 题含 72 张 WebP/SVG 配图）；按官方课号 210050 建目录，2019–2020 与 2020–2021 助教手写答案标注为 origin=community，仓库不含原扫描 PDF。"
+      "note": "已核对仓库 courses/210050/meta.json、taxonomy.json、questions.jsonl 与 assets/*（92 题，51 个知识点节点，58 题含 72 张 WebP/SVG 配图）；按官方课号 210050 建目录，2019–2020 与 2020–2021 助教手写答案标注为 origin=community，仓库不含原扫描 PDF。 数据版本：main。"
     },
     "locations": [
       {
@@ -99681,7 +99681,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/023181/meta.json",
-      "note": "已核对仓库 courses/023181/meta.json、taxonomy.json、questions.jsonl 与 assets/（407 题，配图 340 张 WebP）；按官方课号 023181 建目录。"
+      "note": "已核对仓库 courses/023181/meta.json、taxonomy.json、questions.jsonl 与 assets/（407 题，配图 340 张 WebP）；按官方课号 023181 建目录。 数据版本：main。"
     },
     "locations": [
       {
@@ -99714,7 +99714,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/EE2003/meta.json",
-      "note": "已核对仓库 courses/EE2003/meta.json、taxonomy.json、questions.jsonl 与 assets/（505 题，配图 20 张 WebP）；按官方课号 EE2003 建目录。"
+      "note": "已核对仓库 courses/EE2003/meta.json、taxonomy.json、questions.jsonl 与 assets/（505 题，配图 20 张 WebP）；按官方课号 EE2003 建目录。 数据版本：main。"
     },
     "locations": [
       {
@@ -100309,76 +100309,6 @@
         "access": "public",
         "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
         "attribution": "USTC 课程资料簿转收",
-        "page_kind": "page"
-      }
-    ],
-    "verified_at": "2026-11-23"
-  },
-  {
-    "id": "ustcguide-022057-2014-final-solutions",
-    "course_codes": [
-      "022057"
-    ],
-    "type": "exams",
-    "title": "电动力学 2014 期末解答（潘海俊）",
-    "authors": [
-      "潘海俊"
-    ],
-    "notes": "与已收 2014 期末卷同卷的解答。",
-    "coverage": {
-      "years": [
-        2014
-      ],
-      "exam_kind": "final",
-      "exam_form": "original",
-      "has_solutions": true,
-      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo",
-      "note": "资料簿「电动力学」页试卷与答案一栏，题名标 2014 期末解答；原卷已在书架，本条只补解答；完整文件 SHA-256 4cccf4844d373b13…，762,457 字节；短链落地带时效签名，不写直链。"
-    },
-    "locations": [
-      {
-        "source_id": "ustcguide-gitbook",
-        "page_url": "https://easylink.cc/k0xibo",
-        "download_page": null,
-        "download_url": null,
-        "access": "public",
-        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
-        "attribution": "USTC 课程资料簿转收（2014 期末解答）",
-        "page_kind": "page"
-      }
-    ],
-    "verified_at": "2026-11-23"
-  },
-  {
-    "id": "ustcguide-022057-2015-final-solutions",
-    "course_codes": [
-      "022057"
-    ],
-    "type": "exams",
-    "title": "电动力学 2015 期末解答（潘海俊）",
-    "authors": [
-      "潘海俊"
-    ],
-    "notes": "与已收 2015 期末卷同卷的解答。",
-    "coverage": {
-      "years": [
-        2015
-      ],
-      "exam_kind": "final",
-      "exam_form": "original",
-      "has_solutions": true,
-      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo",
-      "note": "资料簿「电动力学」页试卷与答案一栏，题名标 2015 期末解答；原卷已在书架，本条只补解答；完整文件 SHA-256 2c5f51c0e60b0480…，857,294 字节；短链落地带时效签名，不写直链。"
-    },
-    "locations": [
-      {
-        "source_id": "ustcguide-gitbook",
-        "page_url": "https://easylink.cc/aocfsw",
-        "download_page": null,
-        "download_url": null,
-        "access": "public",
-        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
-        "attribution": "USTC 课程资料簿转收（2015 期末解答）",
         "page_kind": "page"
       }
     ],

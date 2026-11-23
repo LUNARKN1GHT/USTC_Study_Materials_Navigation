@@ -826,8 +826,8 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/CS1003/meta.json",
-        "note": "已核对仓库 courses/CS1003/meta.json、taxonomy.json 与 questions.jsonl（1,533 题，31 个知识点节点）；按官方课号 CS1003 建目录，sxl/评课社区/duxiaoyang 非官方解答标为 origin=community，无标答卷 AI 补解经 gcc 编译核对，仓库不含原扫描 PDF。"
+        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/CS1003/meta.json",
+        "note": "已核对仓库 courses/CS1003/meta.json、taxonomy.json 与 questions.jsonl（1,533 题，31 个知识点节点）；按官方课号 CS1003 建目录，sxl/评课社区/duxiaoyang 非官方解答标为 origin=community，无标答卷 AI 补解经 gcc 编译核对，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
       },
       "locations": [
         {

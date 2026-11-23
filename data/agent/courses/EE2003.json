@@ -515,7 +515,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/EE2003/meta.json",
-        "note": "已核对仓库 courses/EE2003/meta.json、taxonomy.json、questions.jsonl 与 assets/（505 题，配图 20 张 WebP）；按官方课号 EE2003 建目录。"
+        "note": "已核对仓库 courses/EE2003/meta.json、taxonomy.json、questions.jsonl 与 assets/（505 题，配图 20 张 WebP）；按官方课号 EE2003 建目录。 数据版本：main。"
       },
       "locations": [
         {

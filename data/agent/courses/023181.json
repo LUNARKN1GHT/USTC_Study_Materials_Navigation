@@ -558,7 +558,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/023181/meta.json",
-        "note": "已核对仓库 courses/023181/meta.json、taxonomy.json、questions.jsonl 与 assets/（407 题，配图 340 张 WebP）；按官方课号 023181 建目录。"
+        "note": "已核对仓库 courses/023181/meta.json、taxonomy.json、questions.jsonl 与 assets/（407 题，配图 340 张 WebP）；按官方课号 023181 建目录。 数据版本：main。"
       },
       "locations": [
         {
