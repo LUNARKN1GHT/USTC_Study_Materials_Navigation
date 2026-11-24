@@ -10,6 +10,39 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "ustc-cs4005-huang-2026-lectures",
+      "type": "study",
+      "title": "形式化方法导引：2026 春课件（黄文超）",
+      "authors": [
+        "黄文超"
+      ],
+      "notes": "教师发布的讲义，含经典数理逻辑、SAT/SMT、模型检测、Coq，以及 Z3、NuSMV 实验教程。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2025-2026"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://faculty.ustc.edu.cn/huangwenchao/zh_CN/skxx/995892/content/2943.htm",
+        "note": "教师授课信息确认本科课号；抽读 2026 春课件第 0 章与 SAT 求解阅读版。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-huangwenchao-fm",
+          "page_url": "https://faculty.ustc.edu.cn/huangwenchao/zh_CN/zdylm/995897/list/index.htm",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+          "attribution": "黄文超",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "intake-CS4005-f1f6ee69a3c905b0",
       "type": "projects",
       "title": "形式化方法导引 课程项目：ROBDD 构造器（含 LALR 解析）",
@@ -71,6 +104,7 @@
     }
   ],
   "sources": {
+    "ustc-huangwenchao-fm": "黄文超：形式化方法导引",
     "gh-catoverflow-robdd": "Catoverflow/ROBDD（ROBDD 构造器）",
     "gh-kobe972": "Kobe972/ustc_course_plus"
   }

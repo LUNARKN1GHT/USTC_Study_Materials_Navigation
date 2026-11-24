@@ -2407,13 +2407,13 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/xXuHaiyang/USTC_Computation2022_Lab",
+        "evidence_url": "https://github.com/xXuHaiyang/USTC_Computational-Method_2022",
         "note": "GitHub 公开仓库；仓库说明为计算方法 2022 实验；未逐文件下载核验"
       },
       "locations": [
         {
           "source_id": "gh-xxuhaiyang-computation2022",
-          "page_url": "https://github.com/xXuHaiyang/USTC_Computation2022_Lab",
+          "page_url": "https://github.com/xXuHaiyang/USTC_Computational-Method_2022",
           "download_page": null,
           "download_url": null,
           "access": "public",

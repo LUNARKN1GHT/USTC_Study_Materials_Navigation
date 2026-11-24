@@ -176,18 +176,18 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
         "note": "评课社区公开点评（2023春）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
       },
       "locations": [
         {
           "source_id": "gh-wloner0809-ustc-curriculum-resource",
-          "page_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
           "download_page": null,
           "download_url": null,
           "access": "public",
           "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
-          "attribution": "GitHub 公开仓库 Wloner0809/ustc-curriculum-resource",
+          "attribution": "GitHub 公开仓库 Wloner0809/ustc-course-resource",
           "page_kind": "directory"
         }
       ],

@@ -30,6 +30,11 @@ jobs:
         with:
           node-version: '24'
 
+      - name: Load published link health
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/monitor.mjs --sync-state
+
       - name: Validate data strictly for publishing
         run: npm run validate -- --strict-research
 

@@ -114,6 +114,78 @@
       "verified_at": "2026-11-20"
     },
     {
+      "id": "mp-uexam-011040-2023-final-2023gtfinal",
+      "type": "exams",
+      "title": "图论 2023 期末",
+      "authors": [],
+      "notes": "试卷合集站收录的 图论 试卷；年份按卷面、链接标签或目录页行确认。",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/AMCM/",
+        "note": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期末考试；行年份：2023；文件：2023GTfinal.pdf；完整文件 SHA-256 64e50d19cc614474…，28028 字节"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/AMCM/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023GTfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "64e50d19cc6144744d8bbdfc40a5c88b1ec6cde11e6c62397e97e482d7f93e29",
+            "bytes": 28028,
+            "checked_at": "2026-11-23"
+          }
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
+      "id": "mp-uexam-011040-2023-midterm-2023gtmid",
+      "type": "exams",
+      "title": "图论 2023 期中",
+      "authors": [],
+      "notes": "试卷合集站收录的 图论 试卷；年份按卷面、链接标签或目录页行确认。",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/AMCM/",
+        "note": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期中考试；行年份：2023；文件：2023GTmid.pdf；完整文件 SHA-256 2fa259adc7d63c68…，82022 字节"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/AMCM/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023GTmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "2fa259adc7d63c68ffe5c2e5146a93b184ac560f1bb1d160d20e8de3209a0719",
+            "bytes": 82022,
+            "checked_at": "2026-11-23"
+          }
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "computing-exam-guch-011040-gt2022f-pdf",
       "type": "exams",
       "title": "图论 2022 期末回忆版",
@@ -277,6 +349,42 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-011040-2020-final-2020gtfinal",
+      "type": "exams",
+      "title": "图论 2020 期末",
+      "authors": [],
+      "notes": "试卷合集站收录的 图论 试卷；年份按卷面、链接标签或目录页行确认。",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/AMCM/",
+        "note": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期末考试；行年份：2015；文件：2020GTfinal.pdf；完整文件 SHA-256 ae15b480568dd3b1…，59952 字节；最终年份取 2020（目录页链接标签 2020；卷面 2020 秋）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/AMCM/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2020GTfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "ae15b480568dd3b19d87971bc1ffb674294df7d87d796a3cc0e6882f8005256b",
+            "bytes": 59952,
+            "checked_at": "2026-11-23"
+          }
+        }
+      ],
+      "verified_at": "2026-11-23"
     },
     {
       "id": "computing-exam-guch-011040-gt2020f-pdf",
@@ -876,6 +984,7 @@
   "sources": {
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "icourse-club": "USTC 评课社区",
+    "ustc-math-exam": "USTC 数学课程往年试卷",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-sakura0423-ustc-graph-theory": "USTC 图论课程答案与笔记",
     "gh-hwp-lab-ustc-courses-data": "hwp-lab/USTC-Courses-Data（计算机学院课程资料）",

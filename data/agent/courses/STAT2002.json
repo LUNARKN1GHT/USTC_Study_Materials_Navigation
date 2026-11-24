@@ -1617,25 +1617,25 @@
     {
       "id": "gh-ddndles-qbank-stat2002",
       "type": "study",
-      "title": "概率论与数理统计 结构化题库与知识点树（431 题 + 1 图，JSONL / SQLite）",
+      "title": "概率论与数理统计 结构化题库与知识点树（431 题 + 1 图，机读 JSONL/SQLite，需工具或脚本阅读）",
       "authors": [
         "DDNdles"
       ],
-      "notes": "结构化题库目录 courses/STAT2002/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.svg），收录 431 道 Markdown+LaTeX 题目与分步解析，覆盖 2002–2026 学年共 36 套期中/期末真题（official 327 / community 0 / ai 104，3 题因缺表或设问不严隔离），第一套（2002–2003 期末）第一题附五开关桥式电路矢量 SVG 配图（1.6 KB）。",
+      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/STAT2002/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.svg），收录 431 道 Markdown+LaTeX 题目与分步解析，覆盖 2002–2026 学年共 36 套期中/期末真题（official 327 / community 0 / ai 104，3 题因缺表或设问不严隔离），第一套（2002–2003 期末）第一题附五开关桥式电路矢量 SVG 配图，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 104 题（约 24%），使用前请核对 origin=ai 的题目。",
       "coverage": {
         "years": [],
         "academic_years": [],
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/STAT2002/meta.json",
-        "note": "已核对仓库 courses/STAT2002/meta.json、taxonomy.json、questions.jsonl 与 assets/*（431 题，48 个知识点节点，1 题含 1 张 SVG 配图）；按官方课号 STAT2002 建目录，3 道缺表或设问不严题标为 quarantined=true，仓库不含原扫描 PDF。"
+        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/STAT2002/meta.json",
+        "note": "已核对仓库 courses/STAT2002/meta.json、taxonomy.json、questions.jsonl 与 assets/*（431 题，48 个知识点节点，1 题含 1 张 SVG 配图）；按官方课号 STAT2002 建目录，3 道缺表或设问不严题标为 quarantined=true，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
       },
       "locations": [
         {
           "source_id": "gh-ddndles-ustc-question-bank",
           "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/STAT2002",
-          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
           "download_url": null,
           "access": "public",
           "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -1643,7 +1643,7 @@
           "page_kind": "directory"
         }
       ],
-      "verified_at": "2026-11-22"
+      "verified_at": "2026-11-23"
     },
     {
       "id": "intake-STAT2002-c9056b6d8b7e4db9",
@@ -1686,13 +1686,13 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
         "note": "GitHub 公开仓库的课程资料目录；匿名可访问；未逐文件下载核验"
       },
       "locations": [
         {
           "source_id": "gh-wloner0809",
-          "page_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
           "download_page": null,
           "download_url": null,
           "access": "public",

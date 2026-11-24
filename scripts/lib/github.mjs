@@ -16,6 +16,8 @@
 // - All tree walking is read-only. Notifications are comments on the single
 //   issue carrying the monitor marker.
 
+import { createHash } from 'node:crypto';
+
 import { createHttpTransport } from './link-health.mjs';
 
 export const GITHUB_API_ORIGIN = 'https://api.github.com';
@@ -236,6 +238,13 @@ export function createGitHubClient(options = {}) {
     return sha;
   }
 
+  async function createBranch(owner, repo, branch, sha) {
+    await request(`${repoBase(owner, repo)}/git/refs`, {
+      method: 'POST',
+      body: { ref: `refs/heads/${branch}`, sha },
+    });
+  }
+
   async function getTree(owner, repo, sha, { recursive = false } = {}) {
     const suffix = recursive ? '?recursive=1' : '';
     const { data } = await request(
@@ -383,10 +392,32 @@ export function createGitHubClient(options = {}) {
     const encodedPath = path.split('/').map(encodeURIComponent).join('/');
     const { status, data } = await request(
       `${repoBase(owner, repo)}/contents/${encodedPath}${query}`,
-      { allowStatus: [404] },
+      { accept: 'application/vnd.github.object+json', allowStatus: [404] },
     );
     if (status === 404) return null;
+    if (!data || typeof data !== 'object') {
+      throw new GitHubApiError('Contents response is malformed', { code: 'invalid_response' });
+    }
     return data;
+  }
+
+  async function getBlob(owner, repo, sha) {
+    if (typeof sha !== 'string' || !/^[0-9a-f]{40}$/.test(sha)) {
+      throw new GitHubApiError('Contents response is missing a valid blob SHA', {
+        code: 'invalid_response',
+      });
+    }
+    const { data } = await request(`${repoBase(owner, repo)}/git/blobs/${sha}`);
+    if (data?.sha !== sha || data.encoding !== 'base64' || typeof data.content !== 'string' ||
+        /[^A-Za-z0-9+/=\r\n]/.test(data.content)) {
+      throw new GitHubApiError(`Invalid Git blob response for ${sha}`, { code: 'invalid_response' });
+    }
+    const bytes = Buffer.from(data.content, 'base64');
+    const actualSha = createHash('sha1').update(`blob ${bytes.length}\0`).update(bytes).digest('hex');
+    if (actualSha !== sha) {
+      throw new GitHubApiError(`Git blob content does not match ${sha}`, { code: 'invalid_response' });
+    }
+    return bytes;
   }
 
   async function putContents(owner, repo, path, { content, message, branch, sha = null }) {
@@ -418,6 +449,7 @@ export function createGitHubClient(options = {}) {
     request,
     getRepo,
     getBranchHead,
+    createBranch,
     getTree,
     getCompleteTree,
     getCompleteTreeFiles,
@@ -426,6 +458,7 @@ export function createGitHubClient(options = {}) {
     listComments,
     createComment,
     getContents,
+    getBlob,
     putContents,
   };
 }

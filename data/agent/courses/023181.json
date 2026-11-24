@@ -544,6 +544,37 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "gh-ddndles-qbank-023181",
+      "type": "study",
+      "title": "线性电子线路 结构化题库、配图与知识点树（407 题 + 340 图，机读 JSONL/SQLite，需工具或脚本阅读）",
+      "authors": [
+        "DDNdles"
+      ],
+      "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/023181/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp），收录 407 道 Markdown+LaTeX 题目与分步解析：童诗白、华成英《模拟电子技术基础（第五版）全程辅导与习题全解》第 1–10 章 342 题，以及 2014–2019 年期末真题/回忆版与 B 课样卷、模拟卷共 6 套 65 题（official 361 / community 0 / ai 46）。附 340 张精裁去水印灰度 WebP 配图，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 46 题（约 11%），使用前请核对 origin=ai 的题目。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/023181/meta.json",
+        "note": "已核对仓库 courses/023181/meta.json、taxonomy.json、questions.jsonl 与 assets/（407 题，配图 340 张 WebP）；按官方课号 023181 建目录。 数据版本：main。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ddndles-ustc-question-bank",
+          "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/023181",
+          "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
+          "attribution": "GitHub @DDNdles/USTC-Question-Bank（整理与结构化；上游来源见仓库 NOTICE.md）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "intake-login-023181-a97c43d5fd1f4e3e",
       "type": "study",
       "title": "线性电子线路 课程课件(2025 秋,第 1–7、9 章及复习重点)",
@@ -691,6 +722,7 @@
     "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "icourse-club": "USTC 评课社区",
-    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "gh-ddndles-ustc-question-bank": "DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）"
   }
 }

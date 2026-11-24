@@ -34562,14 +34562,14 @@
     "type": "exams",
     "title": "电动力学 2014 期末",
     "authors": [],
-    "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：14春；文件：14SpEDAFinalPHJ.pdf",
+    "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：14春；文件：14SpEDAFinalPHJ.pdf；资料簿转收的 2014 期末解答作为第二位置并入本条，不另计资料。",
     "coverage": {
       "years": [
         2014
       ],
       "exam_kind": "final",
       "exam_form": "original",
-      "has_solutions": null,
+      "has_solutions": true,
       "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
       "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：14春；文件：14SpEDAFinalPHJ.pdf；卷面/首页学期：2013—2014学年第二学期；文本层可读；抽读前3页（共8页），全文未逐页核验"
     },
@@ -34587,6 +34587,16 @@
           "bytes": 354757,
           "checked_at": "2026-11-19"
         }
+      },
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/k0xibo",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收（2014 期末解答）",
+        "page_kind": "page"
       }
     ],
     "verified_at": "2026-11-18"
@@ -34599,14 +34609,14 @@
     "type": "exams",
     "title": "电动力学 2015 期末",
     "authors": [],
-    "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：15春；文件：15SpEDAFinalPHJ.pdf",
+    "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：15春；文件：15SpEDAFinalPHJ.pdf；资料簿转收的 2015 期末解答作为第二位置并入本条，不另计资料。",
     "coverage": {
       "years": [
         2015
       ],
       "exam_kind": "final",
       "exam_form": "original",
-      "has_solutions": null,
+      "has_solutions": true,
       "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
       "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：15春；文件：15SpEDAFinalPHJ.pdf；卷面/首页学期：2014—2015学年第二学期；文本层可读；抽读前3页（共8页），全文未逐页核验"
     },
@@ -34624,6 +34634,16 @@
           "bytes": 302259,
           "checked_at": "2026-11-19"
         }
+      },
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/aocfsw",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收（2015 期末解答）",
+        "page_kind": "page"
       }
     ],
     "verified_at": "2026-11-18"
@@ -48888,7 +48908,7 @@
       ],
       "exam_kind": "final",
       "exam_form": "unknown",
-      "has_solutions": null,
+      "has_solutions": true,
       "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
       "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2020年前；单元格：2016春 (A)；文件：16SpAtomAFinal.pdf；无文本层（扫描件）；抽读前3页（共6页），全文未逐页核验"
     },
@@ -48916,6 +48936,16 @@
         "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
         "attribution": "share.feixu.site 公开分享目录",
         "page_kind": "file"
+      },
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/l43e1",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收（排版含答案版）",
+        "page_kind": "page"
       }
     ],
     "verified_at": "2026-11-18"
@@ -54460,18 +54490,18 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
+      "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
       "note": "评课社区公开点评（2023春）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
     },
     "locations": [
       {
         "source_id": "gh-wloner0809-ustc-curriculum-resource",
-        "page_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
+        "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
         "download_page": null,
         "download_url": null,
         "access": "public",
         "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
-        "attribution": "GitHub 公开仓库 Wloner0809/ustc-curriculum-resource",
+        "attribution": "GitHub 公开仓库 Wloner0809/ustc-course-resource",
         "page_kind": "directory"
       }
     ],
@@ -54952,7 +54982,7 @@
     "authors": [
       "xXuHaiyang"
     ],
-    "notes": "仓库 USTC_AI2022_Lab（451 个文件），含 lab1 起实验代码、实验介绍 PDF 与报告；仓库自述 Code for Lab of AI2022。报告文件名含学生姓名/学号，不在此复述。",
+    "notes": "仓库 USTC_Artificial-Intelligence_2022（原 USTC_AI2022_Lab）（451 个文件），含 lab1 起实验代码、实验介绍 PDF 与报告；仓库自述 Code for Lab of AI2022。报告文件名含学生姓名/学号，不在此复述。",
     "coverage": {
       "years": [
         2022
@@ -54963,13 +54993,13 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/xXuHaiyang/USTC_AI2022_Lab",
+      "evidence_url": "https://github.com/xXuHaiyang/USTC_Artificial-Intelligence_2022",
       "note": "仓库名与 README 标明 AI2022；实验目录按 lab 编号组织。"
     },
     "locations": [
       {
         "source_id": "gh-xxuhaiyang-ustc-ai2022-lab",
-        "page_url": "https://github.com/xXuHaiyang/USTC_AI2022_Lab",
+        "page_url": "https://github.com/xXuHaiyang/USTC_Artificial-Intelligence_2022",
         "download_page": null,
         "download_url": null,
         "access": "public",
@@ -55322,13 +55352,13 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/yxli2123/pattern-recognition-experiments",
+      "evidence_url": "https://github.com/yxli2123/2020FA_pattern-recognition",
       "note": "仓库描述明确 USTC 2020fall。"
     },
     "locations": [
       {
         "source_id": "gh-yxli2123-pattern-recognition",
-        "page_url": "https://github.com/yxli2123/pattern-recognition-experiments",
+        "page_url": "https://github.com/yxli2123/2020FA_pattern-recognition",
         "download_page": null,
         "download_url": null,
         "access": "public",
@@ -55582,7 +55612,7 @@
     "locations": [
       {
         "source_id": "gh-deagle-blackstar-robogame",
-        "page_url": "https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022",
+        "page_url": "https://github.com/swayee2026/BlackStar_ustc_robogame_2022",
         "download_page": null,
         "download_url": null,
         "access": "public",
@@ -56800,13 +56830,13 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
+      "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
       "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
     },
     "locations": [
       {
         "source_id": "gh-wloner0809-curriculum",
-        "page_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
+        "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
         "download_page": null,
         "download_url": null,
         "page_kind": "directory",
@@ -58294,13 +58324,13 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/xXuHaiyang/USTC_Computation2022_Lab",
+      "evidence_url": "https://github.com/xXuHaiyang/USTC_Computational-Method_2022",
       "note": "GitHub 公开仓库；仓库说明为计算方法 2022 实验；未逐文件下载核验"
     },
     "locations": [
       {
         "source_id": "gh-xxuhaiyang-computation2022",
-        "page_url": "https://github.com/xXuHaiyang/USTC_Computation2022_Lab",
+        "page_url": "https://github.com/xXuHaiyang/USTC_Computational-Method_2022",
         "download_page": null,
         "download_url": null,
         "page_kind": "page",
@@ -58387,13 +58417,13 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+      "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
       "note": "GitHub 公开仓库的课程资料目录；匿名可访问；未逐文件下载核验"
     },
     "locations": [
       {
         "source_id": "gh-wloner0809",
-        "page_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
         "download_page": null,
         "download_url": null,
         "page_kind": "directory",
@@ -59257,13 +59287,13 @@
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
+      "evidence_url": "https://github.com/minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
       "note": "类型按仓库说明与目录（作业反馈/答案）判定；未逐份核对答案正确性。"
     },
     "locations": [
       {
         "source_id": "gh-minervazz-mathlogic-gt",
-        "page_url": "https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
+        "page_url": "https://github.com/minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
         "page_kind": "directory",
         "download_page": null,
         "download_url": null,
@@ -84042,7 +84072,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/25111/#review-92610",
-      "note": "6 页中取样第 1–4 页：第 1 页含 017063 与「期末」；附件名标注「残卷」，卷面不完整；年份取自附件名。"
+      "note": "6 页中取样第 1–4 页：第 1 页含 017063 与「期末」；附件名标注「残卷」，卷面不完整；年份取自附件名。；同卷公开直链已补入（2023Sstatfinal.pdf，105034 字节，SHA-256 8bf827953b1cd0c8…）"
     },
     "locations": [
       {
@@ -84061,6 +84091,20 @@
             "checked_at": "2026-11-19"
           }
         ]
+      },
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2023Sstatfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "8bf827953b1cd0c80e8f8393e5a9739c9c2879baad4865078a04712cc76fd718",
+          "bytes": 105034,
+          "checked_at": "2026-11-23"
+        }
       }
     ],
     "verified_at": "2026-11-20"
@@ -84082,7 +84126,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/25111/#review-92610",
-      "note": "全 2 页读取：第 1 页含 017063 与「期中」；附件名标注「残卷」，卷面不完整；年份取自附件名。"
+      "note": "全 2 页读取：第 1 页含 017063 与「期中」；附件名标注「残卷」，卷面不完整；年份取自附件名。；同卷公开直链已补入（2023Sstatmid.pdf，59740 字节，SHA-256 61909fe1a7f12e8a…）"
     },
     "locations": [
       {
@@ -84101,6 +84145,20 @@
             "checked_at": "2026-11-19"
           }
         ]
+      },
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2023Sstatmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "61909fe1a7f12e8ab44a4416bdc1a8275b8b2a9c7c9c08ddc6380c0692f8844a",
+          "bytes": 59740,
+          "checked_at": "2026-11-23"
+        }
       }
     ],
     "verified_at": "2026-11-20"
@@ -91573,7 +91631,7 @@
       "exam_form": "original",
       "has_solutions": false,
       "evidence_url": "https://icourse.club/course/24080/#review-83800",
-      "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。"
+      "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1/2。；同卷公开直链已补入（2024Sstatmid.pdf，883974 字节，SHA-256 bef94af140a11220…）"
     },
     "locations": [
       {
@@ -91592,6 +91650,20 @@
             "checked_at": "2026-11-20"
           }
         ]
+      },
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2024Sstatmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "bef94af140a112207f8aa326b4dfbf360dd096e3ba42d5aa19504f19af684735",
+          "bytes": 883974,
+          "checked_at": "2026-11-23"
+        }
       }
     ],
     "verified_at": "2026-11-20"
@@ -93590,7 +93662,7 @@
       "exam_form": "original",
       "has_solutions": false,
       "evidence_url": "https://icourse.club/course/2093/#review-93966",
-      "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。共 1 页，标题为《2019 级统计学专业〈实用随机过程〉期中考试试题》（无解答），包含 6 道大题。"
+      "note": "匿名原帖附件；整件 SHA-256 与字节数实测；取样页 1。共 1 页，标题为《2019 级统计学专业〈实用随机过程〉期中考试试题》（无解答），包含 6 道大题。；同卷公开直链已补入（2021Sstochmid.pdf，340311 字节，SHA-256 613ed37fd42dafd5…）。"
     },
     "locations": [
       {
@@ -93609,6 +93681,20 @@
             "checked_at": "2026-11-20"
           }
         ]
+      },
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2021Sstochmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "613ed37fd42dafd593c005b0fb432f8b8438dd3acb4817160f375d6fc2c6bb13",
+          "bytes": 340311,
+          "checked_at": "2026-11-23"
+        }
       }
     ],
     "verified_at": "2026-11-20"
@@ -99188,24 +99274,24 @@
       "001548"
     ],
     "type": "study",
-    "title": "复变函数B 结构化题库与知识点树（571 题，JSONL / SQLite）",
+    "title": "复变函数B 结构化题库与知识点树（571 题，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "结构化题库目录 courses/001548/（含 questions.jsonl、taxonomy.json、meta.json），收录 571 道 Markdown+LaTeX 题目与分步解析，覆盖 2003–2025 历年真题、讲义例题、公开复习题库及严镇军教材书末习题（official 229 / community 26 / ai 316，7 题低置信隔离），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/001548/（含 questions.jsonl、taxonomy.json、meta.json），收录 571 道 Markdown+LaTeX 题目与分步解析，覆盖 2003–2025 历年真题、讲义例题、公开复习题库及严镇军教材书末习题（official 229 / community 26 / ai 316，7 题低置信隔离），提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 316 题（约 55%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/001548/meta.json",
-      "note": "已核对仓库 courses/001548/meta.json、taxonomy.json 与 questions.jsonl（571 题，35 个知识点节点）；按官方课号 001548 建目录，含每题出处与 answer.origin 可信分级，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/001548/meta.json",
+      "note": "已核对仓库 courses/001548/meta.json、taxonomy.json 与 questions.jsonl（571 题，35 个知识点节点）；按官方课号 001548 建目录，含每题出处与 answer.origin 可信分级，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/001548",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -99213,7 +99299,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-20"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-math1006",
@@ -99221,24 +99307,24 @@
       "MATH1006"
     ],
     "type": "study",
-    "title": "数学分析(B1) 结构化题库与知识点树（445 题，JSONL / SQLite）",
+    "title": "数学分析(B1) 结构化题库与知识点树（445 题，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "结构化题库目录 courses/MATH1006/（含 questions.jsonl、taxonomy.json、meta.json），收录 445 道 Markdown+LaTeX 题目与分步解析，覆盖 2016–2025 期中/期末/小测真题及《数学分析讲义》第一册第 1–7 章习题（official 133 / community 300 / ai 12），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/MATH1006/（含 questions.jsonl、taxonomy.json、meta.json），收录 445 道 Markdown+LaTeX 题目与分步解析，覆盖 2016–2025 期中/期末/小测真题及《数学分析讲义》第一册第 1–7 章习题（official 133 / community 300 / ai 12），提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 12 题（约 3%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/MATH1006/meta.json",
-      "note": "已核对仓库 courses/MATH1006/meta.json、taxonomy.json 与 questions.jsonl（445 题，31 个知识点节点）；按官方课号 MATH1006 建目录，教材非官方详解标注为 origin=community 并署名上游，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/MATH1006/meta.json",
+      "note": "已核对仓库 courses/MATH1006/meta.json、taxonomy.json 与 questions.jsonl（445 题，31 个知识点节点）；按官方课号 MATH1006 建目录，教材非官方详解标注为 origin=community 并署名上游，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1006",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -99246,7 +99332,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-20"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-math1007",
@@ -99254,24 +99340,24 @@
       "MATH1007"
     ],
     "type": "study",
-    "title": "数学分析(B2) 结构化题库与知识点树（569 题，JSONL / SQLite）",
+    "title": "数学分析(B2) 结构化题库与知识点树（569 题，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "结构化题库目录 courses/MATH1007/（含 questions.jsonl、taxonomy.json、meta.json），收录 569 道 Markdown+LaTeX 题目与分步解析，覆盖 2018–2026 期中/期末真题及《数学分析讲义》第二册第 8–13 章习题（official 131 / community 438 / ai 0），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/MATH1007/（含 questions.jsonl、taxonomy.json、meta.json），收录 569 道 Markdown+LaTeX 题目与分步解析，覆盖 2018–2026 期中/期末真题及《数学分析讲义》第二册第 8–13 章习题（official 131 / community 438 / ai 0），提供 Python 加载库与 SQLite FTS5 构建脚本。",
     "coverage": {
       "years": [],
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/MATH1007/meta.json",
-      "note": "已核对仓库 courses/MATH1007/meta.json、taxonomy.json 与 questions.jsonl（569 题，28 个知识点节点）；按官方课号 MATH1007 建目录，教材非官方详解标注为 origin=community 并署名上游，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/MATH1007/meta.json",
+      "note": "已核对仓库 courses/MATH1007/meta.json、taxonomy.json 与 questions.jsonl（569 题，28 个知识点节点）；按官方课号 MATH1007 建目录，教材非官方详解标注为 origin=community 并署名上游，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1007",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -99279,7 +99365,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-20"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-math1009",
@@ -99287,24 +99373,24 @@
       "MATH1009"
     ],
     "type": "study",
-    "title": "线性代数(B1) 结构化题库与知识点树（885 题，JSONL / SQLite）",
+    "title": "线性代数(B1) 结构化题库与知识点树（885 题，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "结构化题库目录 courses/MATH1009/（含 questions.jsonl、taxonomy.json、meta.json），收录 885 道 Markdown+LaTeX 题目与分步解析，覆盖 2010–2026 学年 42 套期中/期末真题及李尚志《线性代数学习指导》第 1–4、6、8、9 章例题解答（official 611 / community 273 / ai 1），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/MATH1009/（含 questions.jsonl、taxonomy.json、meta.json），收录 885 道 Markdown+LaTeX 题目与分步解析，覆盖 2010–2026 学年 42 套期中/期末真题及李尚志《线性代数学习指导》第 1–4、6、8、9 章例题解答（official 611 / community 273 / ai 1），提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 1 题（约 0%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/MATH1009/meta.json",
-      "note": "已核对仓库 courses/MATH1009/meta.json、taxonomy.json 与 questions.jsonl（885 题，41 个知识点节点）；按官方课号 MATH1009 建目录，花开花败参考解答标为 origin=community，单卷原卷答案与学习指导标为 official，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/MATH1009/meta.json",
+      "note": "已核对仓库 courses/MATH1009/meta.json、taxonomy.json 与 questions.jsonl（885 题，41 个知识点节点）；按官方课号 MATH1009 建目录，花开花败参考解答标为 origin=community，单卷原卷答案与学习指导标为 official，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1009",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -99312,7 +99398,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-21"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-cs1003",
@@ -99320,24 +99406,24 @@
       "CS1003"
     ],
     "type": "study",
-    "title": "计算机程序设计 结构化题库与知识点树（1,533 题，JSONL / SQLite）",
+    "title": "计算机程序设计 结构化题库与知识点树（1,533 题，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "结构化题库目录 courses/CS1003/（含 questions.jsonl、taxonomy.json、meta.json），收录 1,533 道 C 语言结构化题目与分步解析，覆盖 2018–2025 期中/期末/补考/机考 13 套真题、2012/2024/2025 综合模拟测试、公开 C 语言题库及习题课练习（official 1,231 / community 188 / ai 114），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/CS1003/（含 questions.jsonl、taxonomy.json、meta.json），收录 1,533 道 C 语言结构化题目与分步解析，覆盖 2018–2025 期中/期末/补考/机考 13 套真题、2012/2024/2025 综合模拟测试、公开 C 语言题库及习题课练习（official 1,231 / community 188 / ai 114），提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 114 题（约 7%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/CS1003/meta.json",
-      "note": "已核对仓库 courses/CS1003/meta.json、taxonomy.json 与 questions.jsonl（1,533 题，31 个知识点节点）；按官方课号 CS1003 建目录，sxl/评课社区/duxiaoyang 非官方解答标为 origin=community，无标答卷 AI 补解经 gcc 编译核对，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/CS1003/meta.json",
+      "note": "已核对仓库 courses/CS1003/meta.json、taxonomy.json 与 questions.jsonl（1,533 题，31 个知识点节点）；按官方课号 CS1003 建目录，sxl/评课社区/duxiaoyang 非官方解答标为 origin=community，无标答卷 AI 补解经 gcc 编译核对，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/CS1003",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -99345,7 +99431,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-21"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-phys1001a",
@@ -99353,24 +99439,24 @@
       "PHYS1001A"
     ],
     "type": "study",
-    "title": "力学A 结构化题库、配图与知识点树（253 题 + 91 图，JSONL / SQLite）",
+    "title": "力学A 结构化题库、配图与知识点树（253 题 + 91 图，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "结构化题库目录 courses/PHYS1001A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp），收录 253 道 Markdown+LaTeX 题目与分步解析，覆盖 2005–2026 学年期中/期末真题、力学历年考题合集与刚体笔记例题（official 49 / community 1 / ai 203，14 题低置信隔离），附 91 张灰度优化 WebP 配图（共 668 KB），提供 Python 加载库与 SQLite FTS5 构建脚本。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1001A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.{webp,svg}），收录 253 道 Markdown+LaTeX 题目与分步解析，覆盖 2005–2026 学年期中/期末真题、力学历年考题合集与刚体笔记例题（official 49 / community 1 / ai 203，14 题低置信隔离），附 70 张灰度 WebP + 21 张矢量 SVG 共 91 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 203 题（约 80%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1001A/meta.json",
-      "note": "已核对仓库 courses/PHYS1001A/meta.json、taxonomy.json、questions.jsonl 与 assets/*.webp（253 题，46 个知识点节点，86 题含 91 张 WebP 配图）；按官方课号 PHYS1001A 建目录，14 道歧义/估算低置信题标为 quarantined=true，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/PHYS1001A/meta.json",
+      "note": "已核对仓库 courses/PHYS1001A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（91 个文件：70 张 WebP + 21 张 SVG，共 448.7 KB；253 题，46 个知识点节点，86 题含配图）；按官方课号 PHYS1001A 建目录，14 道歧义/估算低置信题标为 quarantined=true，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1001A",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -99378,7 +99464,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-21"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-phys1002a",
@@ -99386,24 +99472,24 @@
       "PHYS1002A"
     ],
     "type": "study",
-    "title": "热学A 结构化题库、配图与知识点树（352 题 + 48 图，JSONL / SQLite）",
+    "title": "热学A 结构化题库、配图与知识点树（352 题 + 48 图，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "结构化题库目录 courses/PHYS1002A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 352 道 Markdown+LaTeX 题目与分步解析，覆盖 2004–2026 年期中/期末/预考/免修考与三次小测、热学历年真题合订本及清华《大学物理》热学选择题库（official 219 / community 13 / ai 120，10 题低置信隔离），附 48 张灰度 WebP 与矢量化 SVG 配图（共 124.7 KB）。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1002A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 352 道 Markdown+LaTeX 题目与分步解析，覆盖 2004–2026 年期中/期末/预考/免修考与三次小测、热学历年真题合订本及清华《大学物理》热学选择题库（official 219 / community 13 / ai 120，10 题低置信隔离），附 25 张灰度 WebP + 23 张矢量化 SVG 共 48 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 120 题（约 34%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1002A/meta.json",
-      "note": "已核对仓库 courses/PHYS1002A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（352 题，45 个知识点节点，48 题含 48 张 WebP/SVG 配图）；按官方课号 PHYS1002A 建目录，10 道回忆版/条件歧义题标为 quarantined=true，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/PHYS1002A/meta.json",
+      "note": "已核对仓库 courses/PHYS1002A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（352 题，45 个知识点节点，48 题含 48 张 WebP/SVG 配图）；按官方课号 PHYS1002A 建目录，10 道回忆版/条件歧义题标为 quarantined=true，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1002A",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -99411,7 +99497,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-22"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-phys1004a",
@@ -99419,24 +99505,24 @@
       "PHYS1004A"
     ],
     "type": "study",
-    "title": "电磁学A 结构化题库、配图与知识点树（121 题 + 59 图，JSONL / SQLite）",
+    "title": "电磁学A 结构化题库、配图与知识点树（121 题 + 59 图，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "结构化题库目录 courses/PHYS1004A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 121 道 Markdown+LaTeX 题目与分步解析，覆盖 2017–2026 年期中/期末公共题、秦敢期中样题、各班回忆版及磁场习题课例题（official 43 / community 0 / ai 78，7 题低置信隔离），附 59 张灰度 WebP 与矢量化 SVG 配图（共 212.2 KB）。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1004A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 121 道 Markdown+LaTeX 题目与分步解析，覆盖 2017–2026 年期中/期末公共题、秦敢期中样题、各班回忆版及磁场习题课例题（official 43 / community 0 / ai 78，7 题低置信隔离），附 33 张灰度 WebP + 26 张矢量化 SVG 共 59 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 78 题（约 64%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1004A/meta.json",
-      "note": "已核对仓库 courses/PHYS1004A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（121 题，47 个知识点节点，58 题含 59 张 WebP/SVG 配图）；按官方课号 PHYS1004A 建目录，7 道回忆版/模型歧义题标为 quarantined=true，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/PHYS1004A/meta.json",
+      "note": "已核对仓库 courses/PHYS1004A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（121 题，47 个知识点节点，58 题含 59 张 WebP/SVG 配图）；按官方课号 PHYS1004A 建目录，7 道回忆版/模型歧义题标为 quarantined=true，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1004A",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -99444,7 +99530,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-22"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-210070",
@@ -99452,24 +99538,24 @@
       "210070"
     ],
     "type": "study",
-    "title": "数据结构及其算法 结构化题库、配图与知识点树（347 题 + 17 图，JSONL / SQLite）",
+    "title": "数据结构及其算法 结构化题库、配图与知识点树（347 题 + 17 图，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "结构化题库目录 courses/210070/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 347 道 Markdown+LaTeX 题目（含 C 代码围栏），覆盖 2008–2024 年期末真题、《数据结构》试卷A、三次习题课讲义及六次课程作业（official 71 / community 145 / ai 131），附 17 张灰度 WebP 与矢量化 SVG 配图（共 102.1 KB）。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/210070/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 347 道 Markdown+LaTeX 题目（含 C 代码围栏），覆盖 2008–2024 年期末真题、《数据结构》试卷A、三次习题课讲义及六次课程作业（official 71 / community 145 / ai 131），附 14 张灰度 WebP + 3 张矢量化 SVG 共 17 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 131 题（约 38%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/210070/meta.json",
-      "note": "已核对仓库 courses/210070/meta.json、taxonomy.json、questions.jsonl 与 assets/*（347 题，46 个知识点节点，17 题含 WebP/SVG 配图）；按官方课号 210070 建目录，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/210070/meta.json",
+      "note": "已核对仓库 courses/210070/meta.json、taxonomy.json、questions.jsonl 与 assets/*（347 题，46 个知识点节点，17 题含 WebP/SVG 配图）；按官方课号 210070 建目录，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210070",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -99477,7 +99563,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-22"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-stat2002",
@@ -99485,24 +99571,24 @@
       "STAT2002"
     ],
     "type": "study",
-    "title": "概率论与数理统计 结构化题库与知识点树（431 题 + 1 图，JSONL / SQLite）",
+    "title": "概率论与数理统计 结构化题库与知识点树（431 题 + 1 图，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "结构化题库目录 courses/STAT2002/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.svg），收录 431 道 Markdown+LaTeX 题目与分步解析，覆盖 2002–2026 学年共 36 套期中/期末真题（official 327 / community 0 / ai 104，3 题因缺表或设问不严隔离），第一套（2002–2003 期末）第一题附五开关桥式电路矢量 SVG 配图（1.6 KB）。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/STAT2002/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.svg），收录 431 道 Markdown+LaTeX 题目与分步解析，覆盖 2002–2026 学年共 36 套期中/期末真题（official 327 / community 0 / ai 104，3 题因缺表或设问不严隔离），第一套（2002–2003 期末）第一题附五开关桥式电路矢量 SVG 配图，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 104 题（约 24%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
-      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/STAT2002/meta.json",
-      "note": "已核对仓库 courses/STAT2002/meta.json、taxonomy.json、questions.jsonl 与 assets/*（431 题，48 个知识点节点，1 题含 1 张 SVG 配图）；按官方课号 STAT2002 建目录，3 道缺表或设问不严题标为 quarantined=true，仓库不含原扫描 PDF。"
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/v0.6.0/courses/STAT2002/meta.json",
+      "note": "已核对仓库 courses/STAT2002/meta.json、taxonomy.json、questions.jsonl 与 assets/*（431 题，48 个知识点节点，1 题含 1 张 SVG 配图）；按官方课号 STAT2002 建目录，3 道缺表或设问不严题标为 quarantined=true，仓库不含原扫描 PDF。 数据版本：v0.6.0。"
     },
     "locations": [
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/STAT2002",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -99510,7 +99596,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-22"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-phys1003a",
@@ -99518,24 +99604,24 @@
       "PHYS1003A"
     ],
     "type": "study",
-    "title": "光学A 结构化题库与知识点树（228 题 + 17 图，JSONL / SQLite）",
+    "title": "光学A 结构化题库与知识点树（228 题 + 20 图，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "结构化题库目录 courses/PHYS1003A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp），收录 228 道 Markdown+LaTeX 题目与分步解析，覆盖 2020–2026 学年共 6 套期末/模拟卷、配套《光学复习指导》107 题与《光学A习题集》23 题（official 121 / community 16 / ai 91，10 题因缺图/缺参或低置信隔离），17 道真题带图题附去边灰度 WebP 配图（合计 155.6 KB）。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/PHYS1003A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp），收录 228 道 Markdown+LaTeX 题目与分步解析，覆盖 2020–2026 学年共 6 套期末/模拟卷、配套《光学复习指导》107 题与《光学A习题集》23 题（official 121 / community 16 / ai 91，10 题因缺图/缺参或低置信隔离），附 20 张去边灰度 WebP 配图，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 91 题（约 40%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1003A/meta.json",
-      "note": "已核对仓库 courses/PHYS1003A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（228 题，51 个知识点节点，17 题含 17 张 WebP 配图）；按官方课号 PHYS1003A 建目录，2023 秋手写批注答案标注为 origin=community，仓库不含原扫描 PDF。"
+      "note": "已核对仓库 courses/PHYS1003A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（228 题，51 个知识点节点，17 题含 17 张 WebP 配图）；按官方课号 PHYS1003A 建目录，2023 秋手写批注答案标注为 origin=community，仓库不含原扫描 PDF。 数据版本：main。"
     },
     "locations": [
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1003A",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -99543,7 +99629,7 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-22"
+    "verified_at": "2026-11-23"
   },
   {
     "id": "gh-ddndles-qbank-210050",
@@ -99551,24 +99637,24 @@
       "210050"
     ],
     "type": "study",
-    "title": "数字逻辑电路 结构化题库与知识点树（92 题 + 72 图，JSONL / SQLite）",
+    "title": "数字逻辑电路 结构化题库、配图与知识点树（512 题 + 506 图，机读 JSONL/SQLite，需工具或脚本阅读）",
     "authors": [
       "DDNdles"
     ],
-    "notes": "结构化题库目录 courses/210050/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.{webp,svg}），收录 92 道 Markdown+LaTeX 题目与分步解析，覆盖 2015–2023 学年 7 套期末真题与 2020 秋 06 班模拟卷（official 29 / community 23 / ai 40），58 道带图题附按题精裁灰度 WebP 与去手写空白矢量 SVG 共 72 张（合计 526.8 KB）。",
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/210050/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.{webp,svg}），收录 512 道 Markdown+LaTeX 题目与分步解析，覆盖 2015–2023 学年 8 套期末真题与模拟卷（92 题），以及阎石、王红《数字电子技术基础（第六版）学习辅导与习题解答》例题、习题与 7 套自测试卷（420 题）；official 449 / community 23 / ai 40。附 503 张灰度 WebP + 3 张空白矢量 SVG 共 506 个配图文件，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 40 题（约 8%），使用前请核对 origin=ai 的题目。",
     "coverage": {
       "years": [],
       "exam_kind": null,
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/210050/meta.json",
-      "note": "已核对仓库 courses/210050/meta.json、taxonomy.json、questions.jsonl 与 assets/*（92 题，51 个知识点节点，58 题含 72 张 WebP/SVG 配图）；按官方课号 210050 建目录，2019–2020 与 2020–2021 助教手写答案标注为 origin=community，仓库不含原扫描 PDF。"
+      "note": "已核对仓库 courses/210050/meta.json、taxonomy.json、questions.jsonl 与 assets/*（92 题，51 个知识点节点，58 题含 72 张 WebP/SVG 配图）；按官方课号 210050 建目录，2019–2020 与 2020–2021 助教手写答案标注为 origin=community，仓库不含原扫描 PDF。 数据版本：main。"
     },
     "locations": [
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210050",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.6.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -99576,6 +99662,1756 @@
         "page_kind": "directory"
       }
     ],
-    "verified_at": "2026-11-22"
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "gh-ddndles-qbank-023181",
+    "course_codes": [
+      "023181"
+    ],
+    "type": "study",
+    "title": "线性电子线路 结构化题库、配图与知识点树（407 题 + 340 图，机读 JSONL/SQLite，需工具或脚本阅读）",
+    "authors": [
+      "DDNdles"
+    ],
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/023181/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp），收录 407 道 Markdown+LaTeX 题目与分步解析：童诗白、华成英《模拟电子技术基础（第五版）全程辅导与习题全解》第 1–10 章 342 题，以及 2014–2019 年期末真题/回忆版与 B 课样卷、模拟卷共 6 套 65 题（official 361 / community 0 / ai 46）。附 340 张精裁去水印灰度 WebP 配图，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 46 题（约 11%），使用前请核对 origin=ai 的题目。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/023181/meta.json",
+      "note": "已核对仓库 courses/023181/meta.json、taxonomy.json、questions.jsonl 与 assets/（407 题，配图 340 张 WebP）；按官方课号 023181 建目录。 数据版本：main。"
+    },
+    "locations": [
+      {
+        "source_id": "gh-ddndles-ustc-question-bank",
+        "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/023181",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
+        "download_url": null,
+        "access": "public",
+        "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
+        "attribution": "GitHub @DDNdles/USTC-Question-Bank（整理与结构化；上游来源见仓库 NOTICE.md）",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "gh-ddndles-qbank-ee2003",
+    "course_codes": [
+      "EE2003"
+    ],
+    "type": "study",
+    "title": "计算机原理与嵌入式系统 结构化题库、配图与知识点树（505 题 + 20 图，机读 JSONL/SQLite，需工具或脚本阅读）",
+    "authors": [
+      "DDNdles"
+    ],
+    "notes": "机读题库，不含现成 PDF 或网页刷题界面；直接点开是 JSONL 原始文本，适合配合 DDNdles/dsh-study 插件、Python 脚本或 AI Agent 使用（校内免代理镜像：https://git.ustc.edu.cn/zzl_stella05/USTC-Question-Bank）。结构化题库目录 courses/EE2003/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp），收录 505 道 Markdown+LaTeX 题目与分步解析：胡访宇《计算机原理与嵌入式系统》第 1–8 章章末习题 295 题、课程作业参考解答补充题 24 题，以及 2019–2024 年期末真题 3 套与半开卷题型示意卷共 186 题（official 122 / community 0 / ai 383，13 题低置信隔离）。附 20 张配图 WebP，提供 Python 加载库与 SQLite FTS5 构建脚本。 其中 ai 生成解答 383 题（约 76%），使用前请核对 origin=ai 的题目。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/EE2003/meta.json",
+      "note": "已核对仓库 courses/EE2003/meta.json、taxonomy.json、questions.jsonl 与 assets/（505 题，配图 20 张 WebP）；按官方课号 EE2003 建目录。 数据版本：main。"
+    },
+    "locations": [
+      {
+        "source_id": "gh-ddndles-ustc-question-bank",
+        "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/EE2003",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/latest",
+        "download_url": null,
+        "access": "public",
+        "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
+        "attribution": "GitHub @DDNdles/USTC-Question-Bank（整理与结构化；上游来源见仓库 NOTICE.md）",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustc-cs4005-huang-2026-lectures",
+    "course_codes": [
+      "CS4005"
+    ],
+    "type": "study",
+    "title": "形式化方法导引：2026 春课件（黄文超）",
+    "authors": [
+      "黄文超"
+    ],
+    "notes": "教师发布的讲义，含经典数理逻辑、SAT/SMT、模型检测、Coq，以及 Z3、NuSMV 实验教程。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2025-2026"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://faculty.ustc.edu.cn/huangwenchao/zh_CN/skxx/995892/content/2943.htm",
+      "note": "教师授课信息确认本科课号；抽读 2026 春课件第 0 章与 SAT 求解阅读版。"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-huangwenchao-fm",
+        "page_url": "https://faculty.ustc.edu.cn/huangwenchao/zh_CN/zdylm/995897/list/index.htm",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "黄文超",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-ai1001b-2026fa-05-cnn-gnn",
+    "course_codes": [
+      "AI1001B"
+    ],
+    "type": "homework",
+    "title": "人工智能数学原理与算法B：CNN 与 GNN 综合实验（2026 秋 05 班）",
+    "authors": [],
+    "notes": "同班综合实验的两个选题：CNN 在 CIFAR-10 上比较不同分类模型；GNN 在 NCI1 上比较自实现的消息传递与标准 GCN。提供实验说明与代码框架。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2026-2027"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/ai1001b.05.2026fa/CNN/-/raw/main/README.md",
+      "note": "两个 README 均标明 AI1001B.05 与 2026 秋，并核读两份讲义的 LaTeX 源码。不同于已收录的 2025 年实验版本。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-ai1001b-2026fa-05",
+        "page_url": "https://git.ustc.edu.cn/ai1001b.05.2026fa/CNN",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "AI1001B.05 教学团队",
+        "page_kind": "directory"
+      },
+      {
+        "source_id": "ustcgit-ai1001b-2026fa-05",
+        "page_url": "https://git.ustc.edu.cn/ai1001b.05.2026fa/GNN",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "AI1001B.05 教学团队",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-001548-wsh-notes",
+    "course_codes": [
+      "001548"
+    ],
+    "type": "study",
+    "title": "复变函数B：课程笔记（王小桃）",
+    "authors": [
+      "王思晗"
+    ],
+    "notes": "学生整理的 Markdown 笔记，涉及复数、解析函数、积分等。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AC%94%E8%AE%B0.md",
+      "note": "正文开头明确写复变函数 B；核读笔记正文。不含同仓转收的历年卷或教材。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-wsh-learning-note",
+        "page_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/blob/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AC%94%E8%AE%B0.md",
+        "download_page": null,
+        "download_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AC%94%E8%AE%B0.md",
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "王思晗（王小桃）",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-001548-zhang-exam-commentary",
+    "course_codes": [
+      "001548"
+    ],
+    "type": "study",
+    "title": "复变函数B：往年试题选讲（张礼贤）",
+    "authors": [
+      "张礼贤"
+    ],
+    "notes": "复变函数 B 往年题目的逐题讲解，不是原始整卷。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%80%89%E8%AE%B2.pdf",
+      "note": "核读 PDF，首页明确署名张礼贤，正文按复变函数 B 历年期末题编排；仓库为转载入口。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-wsh-learning-note",
+        "page_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/blob/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%80%89%E8%AE%B2.pdf",
+        "download_page": null,
+        "download_url": "https://git.ustc.edu.cn/ustc_wsh/Learning_Note/-/raw/main/%E5%A4%8D%E4%B9%A0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%BE%80%E5%B9%B4%E7%9C%9F%E9%A2%98/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%80%89%E8%AE%B2.pdf",
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "张礼贤（PDF 署名）；王小桃仓库提供入口",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-210514-ypb-slides",
+    "course_codes": [
+      "210514"
+    ],
+    "type": "study",
+    "title": "数据库基础：课程课件（袁平波）",
+    "authors": [
+      "袁平波"
+    ],
+    "notes": "教师课程目录的《数据库基础》一节列出六组分章课件。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/ypb/course/-/raw/main/README.md",
+      "note": "教师目录按课程标题分节；数据库基础与同仓的《数据结构与数据库》分开。核对目录及文件路径，未逐份抽读演示文稿。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-ypb-course",
+        "page_url": "https://git.ustc.edu.cn/ypb/course/-/tree/main/dbs/PPT",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "袁平波",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-210514-ypb-assignments-labs",
+    "course_codes": [
+      "210514"
+    ],
+    "type": "homework",
+    "title": "数据库基础：分章作业与 SQL 实验（袁平波）",
+    "authors": [
+      "袁平波"
+    ],
+    "notes": "第一至六章作业题，以及涵盖 SQL 查询、建表、更新和存储过程的数据库实验。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/ypb/course/-/raw/main/README.md",
+      "note": "两份 PDF 位于教师目录的《数据库基础》一节，已抽读作业与实验正文。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-ypb-course",
+        "page_url": "https://git.ustc.edu.cn/ypb/course/-/blob/main/dbs/dbhomework.pdf",
+        "download_page": null,
+        "download_url": "https://git.ustc.edu.cn/ypb/course/-/raw/main/dbs/dbhomework.pdf",
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "袁平波",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "ustcgit-ypb-course",
+        "page_url": "https://git.ustc.edu.cn/ypb/course/-/blob/main/dbs/dbs2022.pdf",
+        "download_page": null,
+        "download_url": "https://git.ustc.edu.cn/ypb/course/-/raw/main/dbs/dbs2022.pdf",
+        "access": "public",
+        "license_note": "仅链接原站；具体授权以原作者或来源声明为准。",
+        "attribution": "袁平波",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-001505-complex-a",
+    "course_codes": [
+      "001505"
+    ],
+    "type": "study",
+    "title": "复变函数A：课程讲义（田涌波）",
+    "authors": [
+      "田涌波"
+    ],
+    "notes": "讲义正文涵盖复数、复积分与留数；资料簿标明课程版本与作者，田涌波授课记录对应 001505。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/fei-shu-zhuan-ye-de-shu-xue-ke/fu-bian-han-shu",
+      "note": "讲义正文涵盖复数、复积分与留数；资料簿标明课程版本与作者，田涌波授课记录对应 001505。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/vbag4u",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "田涌波",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1001a-mechanics-formulas",
+    "course_codes": [
+      "PHYS1001A"
+    ],
+    "type": "study",
+    "title": "力学A：公式速查（余启帆）",
+    "authors": [
+      "余启帆"
+    ],
+    "notes": "两页公式速查；资料簿题名明确为力学 A，正文可读，含有心力、天体运动、振动与波。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/da-yi-bi-kan/li-xue",
+      "note": "两页公式速查；资料簿题名明确为力学 A，正文可读，含有心力、天体运动、振动与波。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/13ty3c",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "余启帆",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-022059-quantum-b-ta",
+    "course_codes": [
+      "022059"
+    ],
+    "type": "study",
+    "title": "量子力学B：习题解答与助教讲义（2022 秋）",
+    "authors": [
+      "刘丰铨",
+      "宋冰睿"
+    ],
+    "notes": "封面及前言实核：易为老师 2022 秋 022059.03；两位助教汇编作业参考解答、习题课讲义及补充习题。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2022-2023"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/liang-zi-li-xue-todo",
+      "note": "封面及前言实核：易为老师 2022 秋 022059.03；两位助教汇编作业参考解答、习题课讲义及补充习题。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/f9fr0z",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "刘丰铨、宋冰睿",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1005a-atomic-ta-notes",
+    "course_codes": [
+      "PHYS1005A"
+    ],
+    "type": "study",
+    "title": "原子物理A：知识归纳与课程拾遗（2022 春）",
+    "authors": [],
+    "notes": "两份材料的前言均署 2022 春原子物理 A 课程助教，并注明班号；分别为知识归纳和形式理论、微扰论补充讲义。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2021-2022"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/yuan-zi-wu-li",
+      "note": "两份材料的前言均署 2022 春原子物理 A 课程助教，并注明班号；分别为知识归纳和形式理论、微扰论补充讲义。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/xqhysr",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "原子物理 A 课程助教（见前言）",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/mw3jck",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "原子物理 A 课程助教（见前言）",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-210050-digital-logic-tutorials",
+    "course_codes": [
+      "210050"
+    ],
+    "type": "study",
+    "title": "数字逻辑电路：两次习题课讲义（高源，2022 秋）",
+    "authors": [
+      "高源"
+    ],
+    "notes": "两份标题页均注明 2022 秋数字逻辑电路 05 班，分别为 11 月 24 日、30 日；区别于已收录的 2023 年习题课。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2022-2023"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/dian-lu-dian-ji-he-shi-gun-chu-wu-yuan-bi-xiu/shu-zi-dian-lu",
+      "note": "两份标题页均注明 2022 秋数字逻辑电路 05 班，分别为 11 月 24 日、30 日；区别于已收录的 2023 年习题课。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/7l9j9v",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "高源",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/ig8dge",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "高源",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-011704-yorick-2020-slides",
+    "course_codes": [
+      "011704"
+    ],
+    "type": "study",
+    "title": "计算机系统概论(H)：2020 秋课件（安虹）",
+    "authors": [
+      "安虹"
+    ],
+    "notes": "2020 秋荣誉班课程课件的学生归档。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2020-2021"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020/-/blob/master/PPT/README.md",
+      "note": "仓库 README 自述 2020 秋荣誉课；PPT 目录说明为安虹课堂课件；课程组官网将安虹荣誉班列为 011704.01。按历史版本独立登记，不混入普通班 CS1002A。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-yorick-ics-2020",
+        "page_url": "https://git.ustc.edu.cn/Yorick/introduction-to-computing-systems-2020/-/tree/master/PPT",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "安虹（课件）；Yorick（归档）",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcgit-ai1001b-2026fa-zhong-labs",
+    "course_codes": [
+      "AI1001B"
+    ],
+    "type": "homework",
+    "title": "人工智能数学原理与算法B：Python 与决策树实验（2026 秋）",
+    "authors": [
+      "曾有成",
+      "史睿铭",
+      "胡泷"
+    ],
+    "notes": "两次实验：Python 环境与基础、信息熵与决策树。课程仓库含讲义、实验要求和代码骨架。",
+    "coverage": {
+      "years": [],
+      "academic_years": [
+        "2026-2027"
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b/-/blob/main/README.md",
+      "note": "README 明确中国科大、课程全名和 2026 秋；核读实验 01 讲义正文及实验 02 说明。区别于 CNN/GNN 综合实验。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcgit-zengyoucheng-ai1001b-26fall",
+        "page_url": "https://git.ustc.edu.cn/zengyoucheng/ustc-ai-math-experiments-26fall-b",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料原站；版权归原作者。",
+        "attribution": "钟志诚（主讲）；曾有成、史睿铭、胡泷（整理）",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1003a-past-exams",
+    "course_codes": [
+      "PHYS1003A"
+    ],
+    "type": "exams",
+    "title": "光学A：往年考试题合集",
+    "authors": [],
+    "notes": "多套光学考试题合集，未逐卷拆分。",
+    "coverage": {
+      "years": [],
+      "exam_kind": "mixed",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/guang-xue",
+      "note": "资料簿「光学」页试卷与答案一栏；完整文件 SHA-256 50c18bdf2a56151b…，55,731,650 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/sj6yep",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1003a-chb-sample",
+    "course_codes": [
+      "PHYS1003A"
+    ],
+    "type": "exams",
+    "title": "光学A：chb 老师样题（2021）",
+    "authors": [],
+    "notes": "样题，非期末原卷；与 2021 秋原卷字节不同。",
+    "coverage": {
+      "years": [
+        2021
+      ],
+      "exam_kind": "final",
+      "exam_form": "practice",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/guang-xue",
+      "note": "资料簿「光学」页试卷与答案一栏，题名标 2021 样题；完整文件 SHA-256 abc8592bfb0bc56b…，8,636,885 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/czwlfh",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1005a-old-set",
+    "course_codes": [
+      "PHYS1005A"
+    ],
+    "type": "exams",
+    "title": "原子物理：上古密卷合集",
+    "authors": [],
+    "notes": "无年代标注的老卷合集。",
+    "coverage": {
+      "years": [],
+      "exam_kind": "unknown",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/yuan-zi-wu-li",
+      "note": "资料簿「原子物理」页试卷与答案一栏；卷面「原子物理学 共 3 页」，无年份；完整文件 SHA-256 9f4c98b8e86eb6eb…，14,122,987 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/eqe390",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-022057-2022-quiz1",
+    "course_codes": [
+      "022057"
+    ],
+    "type": "homework",
+    "title": "电动力学 2022 春 第一次小测（潘海俊）",
+    "authors": [
+      "潘海俊"
+    ],
+    "notes": "小测，归作业。",
+    "coverage": {
+      "years": [
+        2022
+      ],
+      "exam_kind": "quiz",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo",
+      "note": "资料簿「电动力学」页试卷与答案一栏，题名标 2022 春第一次小测；完整文件 SHA-256 460fc88eef5617a4…，148,430 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/kulfwy",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1002a-old-set",
+    "course_codes": [
+      "PHYS1002A"
+    ],
+    "type": "exams",
+    "title": "热学A：早年真题合集",
+    "authors": [],
+    "notes": "50 页老卷合集，无统一年份。",
+    "coverage": {
+      "years": [],
+      "exam_kind": "mixed",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/re-xue",
+      "note": "资料簿「热学」页试卷与答案一栏，题名标「远古真题」；完整文件 SHA-256 c0d5a4fad87de60a…，14,947,225 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/m0klme",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-phys1001a-old-set",
+    "course_codes": [
+      "PHYS1001A"
+    ],
+    "type": "exams",
+    "title": "力学A：上古密卷合集",
+    "authors": [],
+    "notes": "36 页老卷合集，无统一年份。",
+    "coverage": {
+      "years": [],
+      "exam_kind": "mixed",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/da-yi-bi-kan/li-xue",
+      "note": "资料簿「力学」页试卷与答案一栏，题名标「上古密卷」；完整文件 SHA-256 fec5ffcf4c98a4e2…，19,365,293 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/bp2ybz",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-022392-2018-midterm",
+    "course_codes": [
+      "022392"
+    ],
+    "type": "exams",
+    "title": "理论力学A 2018 秋期中（潘海俊，含答案）",
+    "authors": [
+      "潘海俊"
+    ],
+    "notes": "与 2018 秋期末同班；短链页标注解压密码，属原分享者设置。",
+    "coverage": {
+      "years": [
+        2018
+      ],
+      "exam_kind": "midterm",
+      "exam_form": "original",
+      "has_solutions": true,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue",
+      "note": "资料簿「理论力学」页试卷与答案一栏，题名标 18–19 期中与答案；完整文件 SHA-256 e0de21d4dadc4613…，439,775 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/pwnqyu",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-022392-2021-final-solutions",
+    "course_codes": [
+      "022392"
+    ],
+    "type": "exams",
+    "title": "理论力学A 2021 秋期末参考答案（朱界杰）",
+    "authors": [
+      "朱界杰"
+    ],
+    "notes": "参考答案，同班期末卷另有条目。",
+    "coverage": {
+      "years": [
+        2021
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": true,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue",
+      "note": "资料簿「理论力学」页试卷与答案一栏，题名标 21 期末参考答案；完整文件 SHA-256 3aef92a74fed6b88…，246,765 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/ltmkyn",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-002001-2021-final",
+    "course_codes": [
+      "002001"
+    ],
+    "type": "exams",
+    "title": "固体物理A 2021 春期末",
+    "authors": [],
+    "notes": "卷面只写「固体物理」，按同系列 2019 卷挂 002001 的先例归属；与 ustcphyexam 同名卷字节不同。",
+    "coverage": {
+      "years": [
+        2021
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/gu-ti-wu-li-todo",
+      "note": "资料簿「固体物理」页试卷与答案一栏；卷面为 2020–2021 学年第二学期，无 A/B 标记；完整文件 SHA-256 92de66a88d29bbdd…，3,365,942 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/vhiu4j",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "ustcguide-002001-2022-final",
+    "course_codes": [
+      "002001"
+    ],
+    "type": "exams",
+    "title": "固体物理A 2022 春期末",
+    "authors": [],
+    "notes": "卷面只写「固体物理」，按同系列 2019 卷挂 002001 的先例归属；与 ustcphyexam 同名卷字节不同。",
+    "coverage": {
+      "years": [
+        2022
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/gu-ti-wu-li-todo",
+      "note": "资料簿「固体物理」页试卷与答案一栏；卷面为 2021–2022 学年第二学期，无 A/B 标记；完整文件 SHA-256 0387ee92c8f95b5a…，370,168 字节；短链落地带时效签名，不写直链。"
+    },
+    "locations": [
+      {
+        "source_id": "ustcguide-gitbook",
+        "page_url": "https://easylink.cc/3eqvny",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+        "attribution": "USTC 课程资料簿转收",
+        "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-001101-2019-final-2019odefinal",
+    "course_codes": [
+      "001101"
+    ],
+    "type": "exams",
+    "title": "常微分方程 2019 秋期末（含参考解答）",
+    "authors": [
+      "张永兵"
+    ],
+    "notes": "卷面为 2019 秋季学期微分方程 I 期末考试；解答为同站参考解答。",
+    "coverage": {
+      "years": [
+        2019
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": true,
+      "evidence_url": "https://ustcmathexam.github.io/APDE/",
+      "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：偏微分方程 期末/答案；行年份：2019；文件：2019ODEfinal.pdf、2019ODEfinalsol.pdf；卷面「2019秋季学期 微分方程I期末考试」，授课教师张永兵；解答卷面标「2019年秋季学期…参考解答」；完整文件 SHA-256 4d50a5146befc1b9… / 3ae925fded500fd7…"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/APDE/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2019ODEfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "4d50a5146befc1b90ac9e429ace201a88cdac202e86af3044a871a7226ea280d",
+          "bytes": 200041,
+          "checked_at": "2026-11-23"
+        }
+      },
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/APDE/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2019ODEfinalsol.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "3ae925fded500fd7ad79dd1a01c5163fb05c85ff019bf73144323ddb812df703",
+          "bytes": 1798310,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-011040-2020-final-2020gtfinal",
+    "course_codes": [
+      "011040"
+    ],
+    "type": "exams",
+    "title": "图论 2020 期末",
+    "authors": [],
+    "notes": "试卷合集站收录的 图论 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2020
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/AMCM/",
+      "note": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期末考试；行年份：2015；文件：2020GTfinal.pdf；完整文件 SHA-256 ae15b480568dd3b1…，59952 字节；最终年份取 2020（目录页链接标签 2020；卷面 2020 秋）"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/AMCM/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2020GTfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "ae15b480568dd3b19d87971bc1ffb674294df7d87d796a3cc0e6882f8005256b",
+          "bytes": 59952,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-011040-2023-midterm-2023gtmid",
+    "course_codes": [
+      "011040"
+    ],
+    "type": "exams",
+    "title": "图论 2023 期中",
+    "authors": [],
+    "notes": "试卷合集站收录的 图论 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2023
+      ],
+      "exam_kind": "midterm",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/AMCM/",
+      "note": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期中考试；行年份：2023；文件：2023GTmid.pdf；完整文件 SHA-256 2fa259adc7d63c68…，82022 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/AMCM/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2023GTmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "2fa259adc7d63c68ffe5c2e5146a93b184ac560f1bb1d160d20e8de3209a0719",
+          "bytes": 82022,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-011040-2023-final-2023gtfinal",
+    "course_codes": [
+      "011040"
+    ],
+    "type": "exams",
+    "title": "图论 2023 期末",
+    "authors": [],
+    "notes": "试卷合集站收录的 图论 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2023
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/AMCM/",
+      "note": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期末考试；行年份：2023；文件：2023GTfinal.pdf；完整文件 SHA-256 64e50d19cc614474…，28028 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/AMCM/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2023GTfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "64e50d19cc6144744d8bbdfc40a5c88b1ec6cde11e6c62397e97e482d7f93e29",
+          "bytes": 28028,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017129-2011-midterm-2011fstochmid",
+    "course_codes": [
+      "017129"
+    ],
+    "type": "exams",
+    "title": "实用随机过程 2011 期中",
+    "authors": [],
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2011
+      ],
+      "exam_kind": "midterm",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2011；文件：2011Fstochmid.pdf；完整文件 SHA-256 d1b46cc34fb3271b…，1435056 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2011Fstochmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "d1b46cc34fb3271b41f1a01aaa6fc0c2c0ee59bbd190f7986ba0dc795d98a33f",
+          "bytes": 1435056,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017129-2015-midterm-2015fstochmid",
+    "course_codes": [
+      "017129"
+    ],
+    "type": "exams",
+    "title": "实用随机过程 2015 期中",
+    "authors": [],
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2015
+      ],
+      "exam_kind": "midterm",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2013；文件：2015Fstochmid.pdf；完整文件 SHA-256 1e6bf2dcf6683328…，2250084 字节；最终年份取 2015（按链接标签或卷面）"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2015Fstochmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "1e6bf2dcf668332848a5212a265f5c1328c3e3c3f9989c6510a74a700f2eb377",
+          "bytes": 2250084,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017129-2019-midterm-2019fstoch",
+    "course_codes": [
+      "017129"
+    ],
+    "type": "exams",
+    "title": "实用随机过程 2019 期中",
+    "authors": [],
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2019
+      ],
+      "exam_kind": "midterm",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2013；文件：2019Fstoch.pdf；完整文件 SHA-256 9f6ebf8737f2c5d4…，1471042 字节；最终年份取 2019（按链接标签或卷面）"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2019Fstoch.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "9f6ebf8737f2c5d431813d6903ec72a7732da302ab8de76f414452c1c285e158",
+          "bytes": 1471042,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017129-2020-midterm-2020fstochmid",
+    "course_codes": [
+      "017129"
+    ],
+    "type": "exams",
+    "title": "实用随机过程 2020 期中",
+    "authors": [],
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2020
+      ],
+      "exam_kind": "midterm",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2013；文件：2020Fstochmid.pdf；完整文件 SHA-256 fd6334b033f28919…，148744 字节；最终年份取 2020（按链接标签或卷面）"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2020Fstochmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "fd6334b033f289199e766a130def8aff0a3d8c06bcd1b10e0d847494eaf7dd92",
+          "bytes": 148744,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017129-2020-final-2020fstochfinal",
+    "course_codes": [
+      "017129"
+    ],
+    "type": "exams",
+    "title": "实用随机过程 2020 期末",
+    "authors": [],
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2020
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2013；文件：2020Fstochfinal.pdf；完整文件 SHA-256 85b7307f57a34324…，556338 字节；最终年份取 2020（按链接标签或卷面）"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2020Fstochfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "85b7307f57a34324a9d59965a49edd846d2961c8eac30ee75749528216c7de9c",
+          "bytes": 556338,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017129-2021-final-2021spfinal",
+    "course_codes": [
+      "017129"
+    ],
+    "type": "exams",
+    "title": "实用随机过程 2021 期末",
+    "authors": [],
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2021
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2021；文件：2021SPfinal.pdf；完整文件 SHA-256 9a396515c48b4948…，1077033 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2021SPfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "9a396515c48b4948fe0b89b10fa27a2b90f01b62ee32120ff98f30e3d17c00da",
+          "bytes": 1077033,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017129-2022-midterm-2022sstochmid",
+    "course_codes": [
+      "017129"
+    ],
+    "type": "exams",
+    "title": "实用随机过程 2022 期中",
+    "authors": [],
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2022
+      ],
+      "exam_kind": "midterm",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2022；文件：2022Sstochmid.pdf；完整文件 SHA-256 02ae21f5f28fbb11…，81953 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2022Sstochmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "02ae21f5f28fbb11d76ec9be721892d4d09e5354d5316142995e17f6ca9c195d",
+          "bytes": 81953,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017129-2022-final-2022spfinal",
+    "course_codes": [
+      "017129"
+    ],
+    "type": "exams",
+    "title": "实用随机过程 2022 期末",
+    "authors": [],
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2022
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2022；文件：2022SPfinal.pdf；完整文件 SHA-256 8132a009fdc04237…，927250 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2022SPfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "8132a009fdc042376306fc66a2a80089ef42f50a9a1ec635c88f2ef0dbbadc2d",
+          "bytes": 927250,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017129-2023-midterm-2023spmid",
+    "course_codes": [
+      "017129"
+    ],
+    "type": "exams",
+    "title": "实用随机过程 2023 期中",
+    "authors": [],
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2023
+      ],
+      "exam_kind": "midterm",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2023；文件：2023SPmid.pdf；完整文件 SHA-256 f8bac49822f972a8…，3525031 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2023SPmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "f8bac49822f972a8ef7cbaa14c71add0c4a75dced9aa1970b96990ec92965a4d",
+          "bytes": 3525031,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017129-2023-final-2023spfinal",
+    "course_codes": [
+      "017129"
+    ],
+    "type": "exams",
+    "title": "实用随机过程 2023 期末",
+    "authors": [],
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2023
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2023；文件：2023SPfinal.pdf；完整文件 SHA-256 71f2c825c0631eca…，3521462 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2023SPfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "71f2c825c0631eca91c79e34ee4d84a195c6a63c59135a60b011e9eebc5d0a95",
+          "bytes": 3521462,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017129-2025-final-2025spfinal",
+    "course_codes": [
+      "017129"
+    ],
+    "type": "exams",
+    "title": "实用随机过程 2025 期末",
+    "authors": [],
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2025
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2025；文件：2025SPfinal.pdf；完整文件 SHA-256 34cf37c27ef62d92…，373037 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2025SPfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "34cf37c27ef62d924b8df1aba9cf3d3431df7b6953f8a2bbb9c337b62f365f91",
+          "bytes": 373037,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017129-2026-midterm-2026spmid",
+    "course_codes": [
+      "017129"
+    ],
+    "type": "exams",
+    "title": "实用随机过程 2026 期中",
+    "authors": [],
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2026
+      ],
+      "exam_kind": "midterm",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2026；文件：2026SPmid.pdf；完整文件 SHA-256 6be7dd9195e67169…，61281 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2026SPmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "6be7dd9195e6716942d3a05f6375d8f004a5424a8629353bf90a35c0bd4d472d",
+          "bytes": 61281,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017129-2026-final-2026spfinal",
+    "course_codes": [
+      "017129"
+    ],
+    "type": "exams",
+    "title": "实用随机过程 2026 期末",
+    "authors": [],
+    "notes": "试卷合集站收录的 实用随机过程 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2026
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2026；文件：2026SPfinal.pdf；完整文件 SHA-256 53ce73acf2664c9a…，1003308 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2026SPfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "53ce73acf2664c9a7407c75454dd1926fefdc234341b8e3d4f906b440d789ff0",
+          "bytes": 1003308,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017063-2021-midterm-2021sstatmid",
+    "course_codes": [
+      "017063"
+    ],
+    "type": "exams",
+    "title": "数理统计 2021 期中",
+    "authors": [],
+    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2021
+      ],
+      "exam_kind": "midterm",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2021；文件：2021Sstatmid.pdf；完整文件 SHA-256 9c9fc44c17af6040…，460603 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2021Sstatmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "9c9fc44c17af60401b3bd70627780cd9b08f8675ce1168bbacc346ed61cac1f9",
+          "bytes": 460603,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017063-2024-final-2024sstatfinal",
+    "course_codes": [
+      "017063"
+    ],
+    "type": "exams",
+    "title": "数理统计 2024 期末",
+    "authors": [],
+    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2024
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2024；文件：2024Sstatfinal.pdf；完整文件 SHA-256 f396c92294652ba8…，1871984 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2024Sstatfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "f396c92294652ba84cdafbfeba29bd669d92b8f4eb68ef29cb57536b4891d5b0",
+          "bytes": 1871984,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017063-2025-midterm-2025sstatmid",
+    "course_codes": [
+      "017063"
+    ],
+    "type": "exams",
+    "title": "数理统计 2025 期中",
+    "authors": [],
+    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2025
+      ],
+      "exam_kind": "midterm",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2025；文件：2025Sstatmid.pdf；完整文件 SHA-256 dba4a7bfb0727126…，1124029 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2025Sstatmid.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "dba4a7bfb07271268ca54a94042916711a52127d8a0b3a939f7f0c3b49258371",
+          "bytes": 1124029,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017063-2026-final-2026sstatfinal",
+    "course_codes": [
+      "017063"
+    ],
+    "type": "exams",
+    "title": "数理统计 2026 期末",
+    "authors": [],
+    "notes": "试卷合集站收录的 数理统计 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2026
+      ],
+      "exam_kind": "final",
+      "exam_form": "recollection",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2026；文件：2026Sstatfinal.pdf；完整文件 SHA-256 001b468ef633538a…，92218 字节；卷面标为残卷或回忆版"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2026Sstatfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "001b468ef633538a57ce0556978bc3cfc2b2d2a3fa7180637ffa39d1d8528e0b",
+          "bytes": 92218,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017146-2021-final-2021sregressionfinal",
+    "course_codes": [
+      "017146"
+    ],
+    "type": "exams",
+    "title": "回归分析 2021 期末",
+    "authors": [],
+    "notes": "试卷合集站收录的 回归分析 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2021
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2021；文件：2021Sregressionfinal.pdf；完整文件 SHA-256 1e7c8055f8d4f0d2…，597795 字节"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2021Sregressionfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "1e7c8055f8d4f0d206d4c21495ddf8e875a9a08fec9a7b44ca5b5278fff9aec8",
+          "bytes": 597795,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
+  },
+  {
+    "id": "mp-uexam-017146-2022-final-2022fregressionfinal",
+    "course_codes": [
+      "017146"
+    ],
+    "type": "exams",
+    "title": "回归分析 2022 期末",
+    "authors": [],
+    "notes": "试卷合集站收录的 回归分析 试卷；年份按卷面、链接标签或目录页行确认。",
+    "coverage": {
+      "years": [
+        2022
+      ],
+      "exam_kind": "final",
+      "exam_form": "original",
+      "has_solutions": null,
+      "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+      "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2021；文件：2022Fregressionfinal.pdf；完整文件 SHA-256 8edde2f712bf74c9…，176395 字节；最终年份取 2022（链接标签 2022秋；卷面 2023.2.24 属该学期）"
+    },
+    "locations": [
+      {
+        "source_id": "ustc-math-exam",
+        "page_url": "https://ustcmathexam.github.io/ProbStat/",
+        "download_page": null,
+        "download_url": "https://ustcmathexam.github.io/USTC/2022Fregressionfinal.pdf",
+        "access": "public",
+        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "file_snapshot": {
+          "sha256": "8edde2f712bf74c9989833216125acd7d9844668184d517ab98afa7791637d8b",
+          "bytes": 176395,
+          "checked_at": "2026-11-23"
+        }
+      }
+    ],
+    "verified_at": "2026-11-23"
   }
 ]

@@ -46,6 +46,68 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "ustcguide-002001-2022-final",
+      "type": "exams",
+      "title": "固体物理A 2022 春期末",
+      "authors": [],
+      "notes": "卷面只写「固体物理」，按同系列 2019 卷挂 002001 的先例归属；与 ustcphyexam 同名卷字节不同。",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/gu-ti-wu-li-todo",
+        "note": "资料簿「固体物理」页试卷与答案一栏；卷面为 2021–2022 学年第二学期，无 A/B 标记；完整文件 SHA-256 0387ee92c8f95b5a…，370,168 字节；短链落地带时效签名，不写直链。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/3eqvny",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
+      "id": "ustcguide-002001-2021-final",
+      "type": "exams",
+      "title": "固体物理A 2021 春期末",
+      "authors": [],
+      "notes": "卷面只写「固体物理」，按同系列 2019 卷挂 002001 的先例归属；与 ustcphyexam 同名卷字节不同。",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/gu-ti-wu-li-todo",
+        "note": "资料簿「固体物理」页试卷与答案一栏；卷面为 2020–2021 学年第二学期，无 A/B 标记；完整文件 SHA-256 92de66a88d29bbdd…，3,365,942 字节；短链落地带时效签名，不写直链。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://easylink.cc/vhiu4j",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接资料簿短链页；落地文件带时效签名，不写入索引；版权归原作者。",
+          "attribution": "USTC 课程资料簿转收",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-23"
+    },
+    {
       "id": "mp-feixu-002001-exams-12c257",
       "type": "exams",
       "title": "固体物理A 2019期末考试",
@@ -336,6 +398,7 @@
   ],
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "staff-ustc-gzwang": "固体物理课程讲义（教师主页）",
     "staff-ustc-weng-ssp": "固体物理课程主页（翁老师）",

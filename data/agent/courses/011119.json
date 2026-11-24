@@ -263,7 +263,7 @@
       "authors": [
         "xXuHaiyang"
       ],
-      "notes": "仓库 USTC_AI2022_Lab（451 个文件），含 lab1 起实验代码、实验介绍 PDF 与报告；仓库自述 Code for Lab of AI2022。报告文件名含学生姓名/学号，不在此复述。",
+      "notes": "仓库 USTC_Artificial-Intelligence_2022（原 USTC_AI2022_Lab）（451 个文件），含 lab1 起实验代码、实验介绍 PDF 与报告；仓库自述 Code for Lab of AI2022。报告文件名含学生姓名/学号，不在此复述。",
       "coverage": {
         "years": [
           2022
@@ -274,13 +274,13 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/xXuHaiyang/USTC_AI2022_Lab",
+        "evidence_url": "https://github.com/xXuHaiyang/USTC_Artificial-Intelligence_2022",
         "note": "仓库名与 README 标明 AI2022；实验目录按 lab 编号组织。"
       },
       "locations": [
         {
           "source_id": "gh-xxuhaiyang-ustc-ai2022-lab",
-          "page_url": "https://github.com/xXuHaiyang/USTC_AI2022_Lab",
+          "page_url": "https://github.com/xXuHaiyang/USTC_Artificial-Intelligence_2022",
           "download_page": null,
           "download_url": null,
           "access": "public",

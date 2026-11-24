@@ -1,5 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
+import { createHash } from 'node:crypto';
 import http from 'node:http';
 import { once } from 'node:events';
 
@@ -25,14 +26,17 @@ import {
 } from '../scripts/lib/github.mjs';
 import {
   formatReport,
+  MONITORING_BRANCH,
   MONITORING_RELATIVE_PATH,
   parseArgs,
   runMonitor,
+  syncMonitoringState,
 } from '../scripts/monitor.mjs';
 
 const NOW = new Date('2026-11-18T00:00:00.000Z');
 const HEAD_OLD = 'a'.repeat(40);
 const HEAD_NEW = 'b'.repeat(40);
+const STATE_HEAD = 'c'.repeat(40);
 const PUBLIC_LOOKUP = async () => [{ address: '93.184.216.34', family: 4 }];
 
 function linkRecord(url) {
@@ -383,6 +387,7 @@ function createGithubFixture(options = {}) {
     nextCommentId: 1,
     monitoringSha: options.monitoringSha ?? null,
     monitoringContent: options.monitoringContent ?? null,
+    monitoringBranchHead: options.monitoringBranchHead ?? null,
     puts: [],
     requests: [],
     treeCalls: [],
@@ -400,7 +405,8 @@ function createGithubFixture(options = {}) {
   async function transport({ url, method = 'GET', headers = {}, body }) {
     const parsed = new URL(url);
     const path = decodeURIComponent(parsed.pathname);
-    state.requests.push({ method, path, headers, body });
+    const ref = parsed.searchParams.get('ref');
+    state.requests.push({ method, path, headers, body, ref });
     if (headers.authorization) state.tokenSeen.push(headers.authorization);
 
     if (method === 'GET' && path === '/repos/o/r') {
@@ -408,6 +414,16 @@ function createGithubFixture(options = {}) {
     }
     if (method === 'GET' && path === '/repos/o/r/branches/main') {
       return json(200, { name: 'main', commit: { sha: state.head } });
+    }
+    if (method === 'GET' && path === `/repos/o/r/branches/${MONITORING_BRANCH}`) {
+      if (!state.monitoringBranchHead) return json(404, { message: 'Branch not found' });
+      return json(200, { name: MONITORING_BRANCH, commit: { sha: state.monitoringBranchHead } });
+    }
+    if (method === 'POST' && path === '/repos/o/r/git/refs') {
+      const { ref, sha } = JSON.parse(body);
+      if (state.monitoringBranchHead) return json(422, { message: 'Reference already exists' });
+      state.monitoringBranchHead = sha;
+      return json(201, { ref, object: { sha } });
     }
     if (method === 'GET' && path.startsWith('/repos/o/r/git/trees/')) {
       const sha = path.slice('/repos/o/r/git/trees/'.length);
@@ -455,13 +471,18 @@ function createGithubFixture(options = {}) {
       return json(201, comment);
     }
     if (path === `/repos/o/r/contents/${MONITORING_RELATIVE_PATH}` && method === 'GET') {
+      if (options.malformedContents) return json(200, null);
       if (!state.monitoringSha) return json(404, { message: 'Not Found' });
       return json(200, {
         type: 'file',
         sha: state.monitoringSha,
         content: state.monitoringContent,
         encoding: 'base64',
+        ...options.monitoringMetadata,
       });
+    }
+    if (method === 'GET' && path === `/repos/o/r/git/blobs/${state.monitoringSha}` && options.blob) {
+      return json(options.blobStatus ?? 200, options.blob);
     }
     if (path === `/repos/o/r/contents/${MONITORING_RELATIVE_PATH}` && method === 'PUT') {
       const payload = JSON.parse(body);
@@ -724,6 +745,143 @@ test('monitor: the first publish only stores a baseline, without creating a noti
   assert.equal(fixture.state.comments.length, 0);
   assert.equal(saved.value.repositories['src-a'].head_sha, HEAD_OLD);
   assert.equal(fixture.state.puts.length, 1);
+});
+
+test('monitor: bootstraps the state branch from a pinned default commit and publishes to that branch', async () => {
+  const tree = treeFromFiles({ 'old.txt': HEAD_OLD });
+  tree[HEAD_NEW].recursive.tree = [{ path: 'new.txt', type: 'blob', sha: HEAD_NEW }];
+  const fixture = createGithubFixture({
+    head: HEAD_NEW,
+    tree,
+    monitoringSha: 'starting-blob',
+    monitoringContent: encodeMonitoring(monitoringWith({ 'old.txt': HEAD_OLD })),
+  });
+  const { options } = baseRunOptions(fixture, { mode: 'publish' });
+  options.stateBranch = true;
+
+  const report = await runMonitor(options);
+  const initialRead = fixture.state.requests.find(({ path }) => path.endsWith(MONITORING_RELATIVE_PATH));
+  const branchCreate = fixture.state.requests.find(({ path }) => path.endsWith('/git/refs'));
+  assert.equal(initialRead.ref, HEAD_NEW);
+  assert.deepEqual(JSON.parse(branchCreate.body), {
+    ref: `refs/heads/${MONITORING_BRANCH}`,
+    sha: HEAD_NEW,
+  });
+  assert.deepEqual(fixture.state.puts.map(({ branch, sha }) => ({ branch, sha })), [
+    { branch: MONITORING_BRANCH, sha: 'starting-blob' },
+  ]);
+  assert.equal(report.repositories[0].status, 'changed');
+  assert.equal(report.notifications.posted, 1);
+  assert.equal(report.remote.branch, MONITORING_BRANCH);
+});
+
+function largeMonitoringFixture(bytes, { blobStatus, blobPatch, contentsPatch } = {}) {
+  const sha = createHash('sha1').update(`blob ${bytes.length}\0`).update(bytes).digest('hex');
+  return createGithubFixture({
+    head: HEAD_NEW,
+    tree: treeFromFiles({ 'new.txt': 'sha-new' }),
+    monitoringSha: sha,
+    monitoringMetadata: { encoding: 'none', content: '', size: bytes.length, ...contentsPatch },
+    blobStatus,
+    blob: { sha, encoding: 'base64', content: `${bytes.toString('base64')}\n`, ...blobPatch },
+  });
+}
+
+test('monitor: Pages sync reads pinned, large state and writes only link observations for the build', async () => {
+  const baseline = monitoringWith({ 'old.txt': HEAD_OLD });
+  baseline.links = [linkRecord('https://example.com/source-a')];
+  baseline.repositories['src-retired'] = { ...baseline.repositories['src-a'] };
+  const fixture = largeMonitoringFixture(Buffer.from(`${JSON.stringify(baseline)}${' '.repeat(1024 * 1024)}`));
+  fixture.state.monitoringBranchHead = STATE_HEAD;
+  const result = [];
+  assert.equal(await syncMonitoringState({
+    repo: 'o/r', client: fixture.client, saveMonitoring: (value) => result.push(value),
+  }), true);
+  assert.deepEqual(result, [{ ...baseline, repositories: {} }]);
+  assert.deepEqual(fixture.state.requests.map(({ method, path, ref }) => [method, path, ref]), [
+    ['GET', `/repos/o/r/branches/${MONITORING_BRANCH}`, null],
+    ['GET', `/repos/o/r/contents/${MONITORING_RELATIVE_PATH}`, STATE_HEAD],
+    ['GET', `/repos/o/r/git/blobs/${fixture.state.monitoringSha}`, null],
+  ]);
+  assert.equal(fixture.state.requests[1].headers.accept, 'application/vnd.github.object+json');
+});
+
+test('monitor: Pages sync keeps the checkout during bootstrap and rejects malformed state', async () => {
+  const options = {
+    repo: 'o/r',
+    saveMonitoring: () => assert.fail('No usable state to save'),
+  };
+  const missingBranch = createGithubFixture();
+  const missingFile = createGithubFixture({ monitoringBranchHead: STATE_HEAD });
+  const malformed = createGithubFixture({ monitoringBranchHead: STATE_HEAD, malformedContents: true });
+  assert.equal(await syncMonitoringState({ ...options, client: missingBranch.client }), false);
+  assert.equal(await syncMonitoringState({ ...options, client: missingFile.client }), false);
+  await assert.rejects(syncMonitoringState({ ...options, client: malformed.client }), { code: 'invalid_response' });
+});
+
+test('monitor: publish reads a large baseline by its blob SHA before checking, then PUTs with that SHA', async () => {
+  const baseline = monitoringWith({ 'old.txt': HEAD_OLD });
+  baseline.repositories['src-retired'] = {
+    head_sha: HEAD_OLD,
+    files: [],
+    last_checked_at: baseline.checked_at,
+  };
+  const fixture = largeMonitoringFixture(Buffer.from(`${JSON.stringify(baseline)}${' '.repeat(1024 * 1024)}`));
+  const startingSha = fixture.state.monitoringSha;
+  const { options, saved } = baseRunOptions(fixture, { mode: 'publish' });
+  const checkLinks = options.checkLinksImpl;
+  options.checkLinksImpl = (...args) => {
+    assert.deepEqual(fixture.state.requests.map(({ method, path }) => [method, path]), [
+      ['GET', '/repos/o/r'],
+      ['GET', `/repos/o/r/contents/${MONITORING_RELATIVE_PATH}`],
+      ['GET', `/repos/o/r/git/blobs/${startingSha}`],
+    ]);
+    return checkLinks(...args);
+  };
+  const report = await runMonitor(options);
+
+  assert.equal(report.repositories[0].status, 'changed');
+  assert.deepEqual(report.repositories[0].diff.removed.map(({ path }) => path), ['old.txt']);
+  assert.equal(fixture.state.comments.length, 1);
+  assert.deepEqual(fixture.state.puts.map(({ sha }) => sha), [startingSha]);
+  assert.equal(saved.value.repositories['src-a'].head_sha, HEAD_NEW);
+  assert.equal(Object.hasOwn(saved.value.repositories, 'src-retired'), false);
+  const published = JSON.parse(Buffer.from(fixture.state.puts[0].content, 'base64'));
+  assert.equal(Object.hasOwn(published.repositories, 'src-retired'), false);
+});
+
+test('monitor: an unreadable or invalid large remote baseline makes no writes', async (t) => {
+  const baseline = monitoringWith({ 'old.txt': HEAD_OLD });
+  const valid = JSON.stringify(baseline);
+  const invalidHead = JSON.stringify({
+    ...baseline,
+    repositories: { 'src-a': { ...baseline.repositories['src-a'], head_sha: 'wrong', files: [] } },
+  });
+  const invalidLink = JSON.stringify({ ...baseline, links: [null] });
+  for (const [name, text, response, expectedError] of [
+    ['missing blob', valid, { blobStatus: 404 }, { status: 404 }],
+    ['wrong blob SHA', valid, { blobPatch: { sha: HEAD_NEW } }, { code: 'invalid_response' }],
+    ['wrong blob bytes', valid, { blobPatch: { content: 'e30=' } }, { code: 'invalid_response' }],
+    ['invalid JSON', '{', {}, { code: 'invalid_remote_monitoring' }],
+    ['JSON null', 'null', {}, { code: 'invalid_monitoring' }],
+    ['invalid schema', '{}', {}, { code: 'invalid_monitoring' }],
+    ['invalid repository head SHA', invalidHead, {}, { code: 'invalid_monitoring', message: /head_sha/ }],
+    ['invalid link entry', invalidLink, {}, { code: 'invalid_monitoring', message: /links\[0\]/ }],
+    ['missing starting SHA', valid, { contentsPatch: { sha: null } }, { code: 'invalid_response' }],
+    ['non-file', valid, { contentsPatch: { type: 'symlink' } }, { code: 'remote_content_unavailable' }],
+  ]) {
+    await t.test(name, async () => {
+      const fixture = largeMonitoringFixture(Buffer.from(text), response);
+      const { options, saved } = baseRunOptions(fixture, { mode: 'publish' });
+      options.checkLinksImpl = () => assert.fail('baseline must be verified before checking links');
+      await assert.rejects(runMonitor(options), expectedError);
+      assert.equal(saved.value, null);
+      assert.deepEqual(fixture.state.requests.filter(({ method }) => method !== 'GET'), []);
+      if (expectedError.code === 'remote_content_unavailable') {
+        assert.equal(fixture.state.requests.length, 2, 'non-files must not trigger a blob read');
+      }
+    });
+  }
 });
 
 test('monitor: publish creates the marked issue, posts once and advances the baseline', async () => {
@@ -1229,6 +1387,29 @@ test('monitor: publish keeps monitoring and the notification issue untouched whe
   const text = formatReport(report);
   assert.match(text, /未写入 monitoring，也未发送 Issue 通知/);
   assert.match(text, /待发布通知的来源（本次未发送）：src-a/);
+});
+
+test('monitor: state-branch preflight suppression retains the previous health for Pages without remote writes', async () => {
+  const baseline = monitoringWith({ 'old.txt': HEAD_OLD });
+  baseline.links = [linkRecord('https://example.com/source-a')];
+  const fixture = createGithubFixture({
+    monitoringBranchHead: STATE_HEAD,
+    monitoringSha: 'starting-blob',
+    monitoringContent: encodeMonitoring(baseline),
+  });
+  const { options, saved } = baseRunOptions(fixture, { mode: 'publish' });
+  options.stateBranch = true;
+  options.checkLinksImpl = async (urls) => urls.map((url) => ({
+    ...linkRecord(url), status: 'unknown', http_status: null, reason: 'private_host',
+  }));
+
+  const report = await runMonitor(options);
+  const initialRead = fixture.state.requests.find(({ path }) => path.endsWith(MONITORING_RELATIVE_PATH));
+  assert.equal(initialRead.ref, STATE_HEAD);
+  assert.equal(report.write_skipped.reason, 'preflight_only');
+  assert.equal(report.remote, null);
+  assert.ok(fixture.state.requests.every(({ method }) => method === 'GET'));
+  assert.deepEqual(saved.value, { ...baseline, repositories: {} });
 });
 
 test('monitor: a wholly preflighted run still records a baseline with no usable HTTP coverage', async () => {

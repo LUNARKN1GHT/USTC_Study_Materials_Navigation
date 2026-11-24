@@ -2055,11 +2055,13 @@ function validateMonitoring(monitoring, collector, { sourcesById }, options) {
   } else {
     for (const [sourceId, baseline] of Object.entries(monitoring.repositories)) {
       const basePath = `repositories["${sourceId}"]`;
-      const source = sourcesById.get(sourceId);
-      if (!source) {
-        collector.error(file, basePath, `悬空来源：“${sourceId}”`);
-      } else if (source.github === null) {
-        collector.warn(file, basePath, `来源“${sourceId}”未登记 GitHub，却有文件基线`);
+      if (sourcesById) {
+        const source = sourcesById.get(sourceId);
+        if (!source) {
+          collector.error(file, basePath, `悬空来源：“${sourceId}”`);
+        } else if (source.github === null) {
+          collector.warn(file, basePath, `来源“${sourceId}”未登记 GitHub，却有文件基线`);
+        }
       }
       if (!isPlainObject(baseline)) {
         collector.error(file, basePath, '基线必须是对象');
@@ -2108,6 +2110,13 @@ function validateMonitoring(monitoring, collector, { sourcesById }, options) {
   ) {
     collector.error(file, 'issue_number', '必须是正整数或 null');
   }
+}
+
+// A remote baseline can still contain sources removed from the current registry.
+export function validateMonitoringBaseline(monitoring) {
+  const collector = makeCollector();
+  validateMonitoring(monitoring, collector, { sourcesById: null }, { requireMonitoring: true });
+  return collector.errors;
 }
 
 /* ------------------------------------------------------------------ */
