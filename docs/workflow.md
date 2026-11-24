@@ -22,7 +22,7 @@
 
 ## CI 闸门
 
-- `PR checks` 在面向 `main` 的 PR 上依次执行严格数据校验、测试和站点构建。CI 使用 GitHub 托管 runner，使用只读仓库权限，构建产物仅用于验证。定时外链监控和 Pages 部署有各自的工作流。
+- `PR checks` 在面向 `main` 的 PR 上依次执行严格数据校验、测试和站点构建。CI 使用 GitHub 托管 runner，使用只读仓库权限，构建产物仅用于验证。Pages 发布和每周外链维护仅在上游默认分支运行。
 - fork PR 的工作流运行可能需要维护者先批准。批准前请检查工作流和它会执行的脚本。合并审核通过 GitHub Review 提交。
 - 本地用 Chrome 或 Edge 运行浏览器测试，必要时设置 `CHROME_PATH` 或 `EDGE_PATH`。CI 要求浏览器测试实际运行。
 
