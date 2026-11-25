@@ -39,7 +39,7 @@ jobs:
         # 只使用本仓库 GITHUB_TOKEN，不读取第三方凭据、不使用 Edge Cookie。
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/monitor.mjs --publish --state-branch
+        run: node scripts/monitor.mjs --publish
 
       - name: Validate data strictly for publishing
         run: npm run validate -- --strict-research
@@ -51,7 +51,7 @@ jobs:
           GOATCOUNTER_SITE: ${{ vars.GOATCOUNTER_SITE }}
         run: node scripts/collect-traffic.mjs
 
-      - name: Build site with current monitoring data
+      - name: Build site from this run's monitoring result
         env:
           GOATCOUNTER_SITE: ${{ vars.GOATCOUNTER_SITE }}
         run: npm run build

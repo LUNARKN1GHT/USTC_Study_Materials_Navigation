@@ -8,7 +8,7 @@
 2. 从最新 main 开分支干活；可每任务一个 worktree。
 3. push 前若 main 已前进，把新 main 同步进自己分支；冲突在自己分支上解。
 4. push 分支，开 PR。
-5. 确认 `PR checks` 和其他必需检查通过，两位非作者的项目维护者在 GitHub 上提交 `Approve`，审核会话已处理完毕。
+5. 确认 `PR checks` 和其他必需检查通过，至少一位非作者的维护者在 GitHub 上提交 `Approve`，审核会话已处理完毕。改动影响发布、权限或批量资料归属时，再找一位维护者独立复核；作者和审核人都可以提出升级审核，合并人负责确认。
 6. 在 GitHub 上一次合一个。下一个 PR 先通过 `Update branch` 或在本地同步最新 `main`。fork PR 默认由作者同步，作者主动授权时维护者也可代办。作者失联且冲突复杂时，维护者可将改动整理到新分支并提交 PR，保留原作者署名（`Co-authored-by`），合并后关闭原 PR。
 7. 合并后 pull main 冒烟测试。这是双保险——main 自动部署 Pages，主闸门必须在合并前。
 8. 清理：只删「已合并且 git status 干净」的分支/worktree；有未提交工作的绝不碰。
@@ -28,11 +28,11 @@
 
 ## 上游分支保护
 
-1. 在引入 CI 的 PR 上确认 `PR checks` 成功运行。合入后，通过 Actions 手动运行一次 `Weekly source maintenance`，确认 `source-monitoring` 收到监控状态，再验证 `Deploy course navigation site` 能读取该状态。若首次监控因所有链接止于预检而跳过发布，可从 `main` 创建 `source-monitoring`，用已有快照验证部署读取。
-2. 在上游 `Settings → Rules → Rulesets` 创建分支规则集，目标选择默认分支 `main`，设为 `Active`，保持绕过名单为空。
-   - `Require a pull request before merging`，要求 **2** 次批准。启用 `Dismiss stale pull request approvals when new commits are pushed` 和 `Require conversation resolution before merging`。
+1. 确认 `PR checks` 在引入 CI 之后的另一条 PR 上成功运行。升级合并规则前，确认周维护不再写 `main`，并在 Actions 手动运行一次周维护，核对 Pages 部署成功。
+2. 在上游 `Settings → Rules → Rulesets` 编辑 `Protect Main`，只匹配 `main`，保持 `Active` 和空绕过名单。
+   - `Require a pull request before merging`，要求 **1** 次批准。启用 `Dismiss stale pull request approvals when new commits are pushed` 和 `Require conversation resolution before merging`。
    - `Require status checks to pass`，选择 `PR checks`（来源选 GitHub Actions），并要求分支在合并前与 `main` 保持同步。
    - `Restrict deletions` 和 `Block force pushes`。
-3. 在上游 PR 上检查合并状态。没有两次有效批准、检查失败或有未解决的审核会话时，GitHub 应阻止合并。
+3. 在上游 PR 上检查合并状态。没有有效批准、检查失败或有未解决的审核会话时，GitHub 应阻止合并。
 
-个人账号仓库的两次批准按写权限计数。请将写权限授予承担审核职责的维护者，并确保日常至少有三人可以轮流提交和审核。若项目迁入 GitHub 组织，可对 `*` 启用 `Required reviewers`，选择有写权限的维护团队，并设为两次团队批准。配置术语见 [GitHub Rulesets 文档](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/available-rules-for-rulesets#required-reviewers)。
+个人账号仓库的批准按写权限计数。请将写权限授予承担审核职责的维护者。配置术语见 [GitHub Rulesets 文档](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/available-rules-for-rulesets)。

@@ -238,13 +238,6 @@ export function createGitHubClient(options = {}) {
     return sha;
   }
 
-  async function createBranch(owner, repo, branch, sha) {
-    await request(`${repoBase(owner, repo)}/git/refs`, {
-      method: 'POST',
-      body: { ref: `refs/heads/${branch}`, sha },
-    });
-  }
-
   async function getTree(owner, repo, sha, { recursive = false } = {}) {
     const suffix = recursive ? '?recursive=1' : '';
     const { data } = await request(
@@ -392,12 +385,9 @@ export function createGitHubClient(options = {}) {
     const encodedPath = path.split('/').map(encodeURIComponent).join('/');
     const { status, data } = await request(
       `${repoBase(owner, repo)}/contents/${encodedPath}${query}`,
-      { accept: 'application/vnd.github.object+json', allowStatus: [404] },
+      { allowStatus: [404] },
     );
     if (status === 404) return null;
-    if (!data || typeof data !== 'object') {
-      throw new GitHubApiError('Contents response is malformed', { code: 'invalid_response' });
-    }
     return data;
   }
 
@@ -449,7 +439,6 @@ export function createGitHubClient(options = {}) {
     request,
     getRepo,
     getBranchHead,
-    createBranch,
     getTree,
     getCompleteTree,
     getCompleteTreeFiles,

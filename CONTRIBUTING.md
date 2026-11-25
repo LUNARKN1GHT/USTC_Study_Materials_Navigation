@@ -23,6 +23,6 @@
    npm run build
    ```
 
-5. 可以先开 Draft PR 征求意见。准备合并前，`PR checks` 必须通过，且需要两位非作者的项目维护者在 GitHub 上提交 `Approve`。维护者会在 PR 中记录需要修改的事项，变更后请重新请求审核。上游启用分支保护的步骤见[协作流程](docs/workflow.md#上游分支保护)。
+5. 可以先开 Draft PR 征求意见。准备合并前，`PR checks` 必须通过，且需要至少一位非作者的项目维护者在 GitHub 上提交 `Approve`。影响发布、权限或批量资料归属的改动需要第二位维护者复核。维护者会在 PR 中记录需要修改的事项，变更后请重新请求审核。详见[协作流程](docs/workflow.md)。
 
 本地预览可运行 `npm run serve`。数据字段、生成文件和发布说明见[开发与数据契约](docs/development.md)。

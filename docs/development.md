@@ -124,7 +124,7 @@ npm run serve
 npm test
 npm run monitor -- --dry-run
 npm run monitor -- --write-local
-npm run monitor -- --publish --state-branch
+npm run monitor -- --publish
 ```
 
 - `validate`：离线检查重复代码/ID、悬空引用、未知枚举、必需值空白、类别互斥与标签；默认把“每课三路径未齐”作为警告，`--strict-research` 升级为错误。
@@ -174,15 +174,13 @@ npm run monitor -- --publish --state-branch
 
 - `--dry-run`：真实检查并输出报告，不写任何文件或 GitHub 对象。
 - `--write-local`：真实检查，仅写本地 `data/monitoring.json`（首次建立基线），不调用 GitHub 写 API。
-- 每周维护运行 `--publish --state-branch`。用 `GITHUB_TOKEN` 发送 Issue 通知，并只将 `data/monitoring.json` 更新到 `source-monitoring`。首次发布会从当时的默认分支提交创建该分支。单独使用 `--publish` 时目标仍为默认分支，受其分支保护约束。
-- Pages 构建前运行 `--sync-state`，从 `source-monitoring` 读取链接健康结果，只写当前 runner 的本地文件。远端尚无监控快照时，使用代码分支检出的监控快照。
-- 本地诊断、构建与 PR CI 使用检出的快照。移除来源时，请在同一个 PR 中清理该快照 `repositories` 下对应的来源 ID。
+- `--publish`：在 Actions 中写 Issue 通知并用 Contents API 更新 `data/monitoring.json`；需要 `GITHUB_TOKEN` 与目标仓库。
 
 链接检查：15 秒超时、并发 4、按实际请求主机每域 1；先 HEAD，405 等不支持时 GET 读取必要小段；最多 5 跳，每跳重新校验公开 http/https，并将连接绑定到已验证的 DNS 地址。401/403/429、登录跳转、超时、网络错误、5xx → `unknown`；404/410 → `missing`；正常 2xx 且未识别登录/错误页 → `reachable`。需认证/校园网/付费不尝试绕门。
 
 证据类别由 `site/assets/health-evidence.mjs` 的 `classifyHealth` 统一判定，构建、来源页、浏览器与 `npm run validate` 共用：`private_host`、`dns_error` 等 DNS/地址安全预检表示请求没有发出，不属于请求失败，也不算坏链；只有确认 404/410 才判 `missing`。`scripts/lib/link-coverage.mjs` 再把记录投影到站点实际引用的网址上：没有监控记录的网址算“从未检查”，监控文件中当前未被引用的条目单列为历史条目，不进入来源页与校验的分类计数。
 
-如果所有链接都止于安全预检，且已有可用 HTTP 证据，写入模式保留原基线，不发送通知、不发布新快照。每周维护使用上次的链接健康结果构建。匿名浏览器抽核单独记录，不能填充自动监控状态。公开目录分页可证明当时列出的目录和文件范围；不能代替卷头、正文、课程或授权核验。
+如果所有链接都止于安全预检，且已有可用 HTTP 证据，写入模式保留原基线，不发通知、不写文件。匿名浏览器抽核单独记录，不能填充自动监控状态。公开目录分页可证明当时列出的目录和文件范围；不能代替卷头、正文、课程或授权核验。
 
 GitHub 检查只读登记资料库的确定 `branch`；头未变跳过树，变化时读取完整树按 path+SHA 比较，`truncated` 逐子树读取；通知失败不推进对应基线。文件变化写入固定 Issue“资料来源变化待核验”，不自动增删正式资料。
 
