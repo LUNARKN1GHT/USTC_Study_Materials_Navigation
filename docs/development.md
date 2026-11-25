@@ -3,7 +3,7 @@
 运行环境：Node.js >= 24、ESM，无第三方运行依赖。站点为原生 HTML/CSS/JS，构建产物是纯静态文件。
 
 协作流程（分支、PR、审核、合并与清理）见 [协作流程](workflow.md)。
-跨轮次、未排期的事项见 [长期待办](backlog.md)。
+跨轮次的待办记在 [GitHub Project「也西书架」](https://github.com/users/TwinJades/projects/1)。
 
 ## 目录结构
 
